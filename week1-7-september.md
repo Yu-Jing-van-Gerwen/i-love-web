@@ -1,10 +1,41 @@
-# i-love-web
+# hier vertel ik over wat ik geleerd heb in deze sprint
 
-Learning Journal en Digital Gardening
+## mijn leervragen
+Ik wil beter worden in figma en designen
+3.4.2 Schetst om gedachten en processen te verkennen, abstracte begrippen over te brengen en de oplossingsrichting inzichtelijk te maken.
 
-De instructie voor de I Love Web vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/i-love-web/blob/main/docs/INSTRUCTIONS.md)
+Ik wil beter worden in plannen waardoor mijn wiki en project gestructureerd is
 
 
-## Licentie
 
-This project is licensed under the terms of the [MIT license](./LICENSE).
+Ik wil svelte leren kennen en weten hoe ik dit kan gebruiken
+2.1.2 Combineert aangeboden principes en standaarden op het gebied van frontend design en development om een oplossing voor een opdrachtgever te realiseren.
+
+<h2>datums</h2>
+2-9-2024
+Ik heb mijn 1ste les dag gehad en daarin heb ik svelte geinstalleerd en een ontwerp gemaakt en een tutorial gevolgd van svelte
+
+3-9
+Ik heb verder de tutorial gevolgd en ben van bij part 1 begonnen tot en met part 1 props declaring props en ik heb gekeken naar hoe ik mijn project kan deployen op vercel
+
+4-9 ik heb verder de tutorial gevolgd en een schets gemaakt voor mijn profilecard
+5-9 ik heb mijn profilecard in code uitgewerkt en het button component gemaakt voor de squad page
+
+dit is een kleine samenvatting over svelte
+
+Svelte: Een Compilerende Componentenframework
+Scoped Styling: Elke component heeft zijn eigen CSS-scope, waardoor stijlen niet conflicteren tussen componenten.
+Reactive State: Veranderingen in data worden automatisch weerspiegeld in de DOM, zonder dat je handmatig DOM-manipulatie hoeft te doen.
+CSR (Client-Side Rendering): De applicatie wordt volledig in de browser gerenderd, waardoor interactieve gebruikerservaringen mogelijk zijn.
+Compiler: Svelte compileert je componenten naar efficiënte JavaScript-code, waardoor de runtime overhead minimaal is.
+
+
+dit gaat over sveltekit
+SvelteKit: Een Metaframework Gebouwd op Svelte
+SSG, MPA, AMD, SPA, SSR: SvelteKit ondersteunt verschillende renderingsstrategieën, waaronder Static Site Generation (SSG), Multi-Page Applications (MPA), en Server-Side Rendering (SSR).
+Folder-Based Routing: Je definieert routes door het aanmaken van mappen en bestanden in je projectstructuur.
+Data Fetching: SvelteKit maakt het eenvoudig om data op te halen van servers via GET en POST requests.
+Code Splitting: Code wordt slim verdeeld over client en server, waardoor de initiële laadtijd van je applicatie wordt verminderd.
+Hydration: SvelteKit kan server-rendered HTML "hydrateren" om een volledig interactieve client-side applicatie te creëren.
+SSR Only Mode: Je kunt je applicatie volledig server-side renderen, wat ideaal is voor SEO en voor gebruikers met JavaScript uitgeschakeld.
+
