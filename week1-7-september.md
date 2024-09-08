@@ -1,17 +1,19 @@
 # hier vertel ik over wat ik geleerd heb in deze sprint
 
 ## mijn leervragen
-Ik wil beter worden in figma en designen hoe je zo'n ontwerp mooi kan maken 
+
+
+**Ik wil beter worden in figma en designen hoe je zo'n ontwerp mooi kan maken** 
 3.4.2 Schetst om gedachten en processen te verkennen, abstracte begrippen over te brengen en de oplossingsrichting inzichtelijk te maken.
 
-Ik wil beter worden in plannen waardoor mijn wiki en project gestructureerd is
+**Ik wil beter worden in plannen waardoor mijn wiki en project gestructureerd is**
+4.1.1 Richt projecten efficiënt en effectief in volgens de development-lifecycle en houdt rekening met de beschikbare tijd.
 
 
 
-Ik wil svelte leren kennen en weten hoe ik dit kan gebruiken
-2.1.2 Combineert aangeboden principes en standaarden op het gebied van frontend design en development om een oplossing voor een opdrachtgever te realiseren.
-
-<h2>datums</h2>
+**Ik wil svelte leren kennen en weten hoe ik dit kan gebruiken**
+3.1.2 Combineert onderbouwd principes, standaarden en best-practices op het gebied van frontend design en development om een oplossing voor een opdrachtgever te realiseren.
+<h2>leerlogboek</h2>
 2-9-2024
 Ik heb mijn 1ste les dag gehad en daarin heb ik svelte geinstalleerd en een ontwerp gemaakt van de squadpage en een tutorial gevolgd van svelte
 
