@@ -1,7 +1,7 @@
 # hier vertel ik over wat ik geleerd heb in deze sprint
 
 ## mijn leervragen
-Ik wil beter worden in figma en designen
+Ik wil beter worden in figma en designen hoe je zo'n ontwerp mooi kan maken 
 3.4.2 Schetst om gedachten en processen te verkennen, abstracte begrippen over te brengen en de oplossingsrichting inzichtelijk te maken.
 
 Ik wil beter worden in plannen waardoor mijn wiki en project gestructureerd is
@@ -13,13 +13,8 @@ Ik wil svelte leren kennen en weten hoe ik dit kan gebruiken
 
 <h2>datums</h2>
 2-9-2024
-Ik heb mijn 1ste les dag gehad en daarin heb ik svelte geinstalleerd en een ontwerp gemaakt en een tutorial gevolgd van svelte
+Ik heb mijn 1ste les dag gehad en daarin heb ik svelte geinstalleerd en een ontwerp gemaakt van de squadpage en een tutorial gevolgd van svelte
 
-3-9
-Ik heb verder de tutorial gevolgd en ben van bij part 1 begonnen tot en met part 1 props declaring props en ik heb gekeken naar hoe ik mijn project kan deployen op vercel
-
-4-9 ik heb verder de tutorial gevolgd en een schets gemaakt voor mijn profilecard
-5-9 ik heb mijn profilecard in code uitgewerkt en het button component gemaakt voor de squad page
 
 dit is een kleine samenvatting over svelte
 
@@ -39,3 +34,19 @@ Code Splitting: Code wordt slim verdeeld over client en server, waardoor de init
 Hydration: SvelteKit kan server-rendered HTML "hydrateren" om een volledig interactieve client-side applicatie te creëren.
 SSR Only Mode: Je kunt je applicatie volledig server-side renderen, wat ideaal is voor SEO en voor gebruikers met JavaScript uitgeschakeld.
 
+
+
+
+3-9
+Ik heb verder de tutorial gevolgd en 
+ik heb gekeken naar hoe ik mijn project kan deployen op vercel en dat is gleukt dankzij deze link https://vercel.com/docs/frameworks/sveltekit
+
+
+
+
+4-9 ik heb verder de tutorial gevolgd en een schets gemaakt voor mijn profilecard en ik heb op vercel deze tutorial gevonden en dit heeft mij enorm geholpen in het begrijpen van sveltekit
+https://vercel.com/docs/beginner-sveltekit
+
+
+5-9 ik heb mijn profilecard in code uitgewerkt en het button component gemaakt voor de squad page en dit is gelukt met behulp van de tutorial
+6-9 ik heb geleerd hoe ik netjes issues kan inschieten en feedback kan geven waardoor eerstejaars beter begrijpen hoe ze naar de oplossing kunnnen werken
