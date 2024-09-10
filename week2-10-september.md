@@ -62,4 +62,20 @@ de papieren schets
 mijn uitwerking van de papieren schets
 ![image](https://github.com/user-attachments/assets/b78c1e75-3574-418d-ae4d-a90a832cc2d7)
 
+op 10 september heb ik de squadpage 
+gemaakt een basisopzet zie de link https://github.com/KaanKalmi/your-tribe-for-life-squad-page/tree/squadpage2.2-yujing
+
+en ik heb aan mijn visitekaartje gewerkt
+daarin heb ik een voorbeeld gevonden hoe ik mooi effect kan geven aan een hover
+https://codepen.io/twhite96/embed/brryVq?height=600&default-tab=result&embed-version=2#result-box
+
+ook heb ik gekeken naar hoe ik tekst kan laten verschijn na 2 seconden zie hier de code pen
+https://codepen.io/hubspot/embed/ExWxByR?height=384.6151123046875&theme-id=39533&default-tab=css%2Cresult&slug-hash=ExWxByR&editable=true&user=hubspot&name=cp_embed_2#result-box
+en ik heb 3 componenten gemaakt en toegepast in mijn visitekaartje waardoor ik meer overicht heb 
+welke code ik gebruik en waar welke styling van is
+
+zie de components
+https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/MoreInfo.svelte
+https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/Socialmedia.svelte
+https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/button.svelte
 
