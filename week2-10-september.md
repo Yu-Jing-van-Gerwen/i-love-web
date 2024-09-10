@@ -51,3 +51,15 @@ dit is de code in svelte
     {/each}
 </ul>
 ```
+
+verder hebben we die dag ook inspiratie opgedaan en de papieren schetsen gebropeerd uit te werken in figma 
+
+inpsiratie
+![image](https://github.com/user-attachments/assets/42ccf209-49d6-460f-9e14-03106c7f3297)
+
+de papieren schets
+![image](https://github.com/user-attachments/assets/e43b37e6-101f-4f54-83eb-307e2102ef74)
+mijn uitwerking van de papieren schets
+![image](https://github.com/user-attachments/assets/b78c1e75-3574-418d-ae4d-a90a832cc2d7)
+
+
