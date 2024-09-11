@@ -1,4 +1,4 @@
-op 9 september heb ik een workshop over figma gekregen en hebben we simpele oefeningen gedaan die we moeten na maken 
+<h2>10 september</h2> heb ik een workshop over figma gekregen en hebben we simpele oefeningen gedaan die we moeten na maken 
 ![image](https://github.com/user-attachments/assets/d74326d3-7e1e-43ba-a7c0-506963346f25)
 
 verder hebben we het ook gehad over componeneten en de basisstof van figma zoals auto layout en compononetnen hoe je kleuren en buttons kan herbruiken 
@@ -62,6 +62,7 @@ de papieren schets
 mijn uitwerking van de papieren schets
 ![image](https://github.com/user-attachments/assets/b78c1e75-3574-418d-ae4d-a90a832cc2d7)
 
+<h2>10 september</h2>
 op 10 september heb ik de squadpage 
 gemaakt een basisopzet zie de link https://github.com/KaanKalmi/your-tribe-for-life-squad-page/tree/squadpage2.2-yujing
 
@@ -79,3 +80,11 @@ https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animatio
 https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/Socialmedia.svelte
 https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/button.svelte
 
+<h2>11 september</h2>
+We hebben les gehad in creative coding hoe je met svelte javascript kan gebruiken en hoe je 
+animaties kan gebruiken in svelte en ik lees de documentatie van svelte
+https://svelte.dev/docs/svelte-transition
+
+Ook weet ik nu waarom mijn javascript niet werkt en ik 1st een error had omdat 
+ik csr = false had in mijn code en dit moet csr = true zijn waardoor je de static map kan gebruiken
+ook moet je onmount installeren voor svelte en daarvoor heb ik dit gelezen zodat ik beter begrijp wat het doet en waarom je het nodig hebt :https://learn.svelte.dev/tutorial/onmount
