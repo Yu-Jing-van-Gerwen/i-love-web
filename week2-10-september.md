@@ -91,15 +91,20 @@ Ook weet ik nu waarom mijn javascript niet werkt en ik 1st een error had omdat
 ik csr = false had in mijn code en dit moet csr = true zijn waardoor je de static map kan gebruiken
 ook moet je onmount installeren voor svelte en daarvoor heb ik dit gelezen zodat ik beter begrijp wat het doet en waarom je het nodig hebt :https://learn.svelte.dev/tutorial/onmount
 
-<h3>we love web vasilis van gemert</h3>
+<h3>we love web vasilis van gemert op 13 september</h3>
 principal frontender dit is zijn linkedin profiel:https://www.linkedin.com/in/vasilis-van-gemert-360627158/?originalSubdomain=nl
 vakdocent cmd
 
 hij was vroeger een kunstunaar 
 het nut van onzin maken is dat je er inspiratie op kan doen en op zijn website staan er voorbeelden https://vasilis.nl
-hij heeft voor een master een opdracht gehad en daar heeft die een pagina gemaakt en ingeleverd
+hij heeft voor een master een opdracht gehad en daar heeft die een pagina gemaakt en ingeleverd en dat was dit werk:https://vasilis.nl/flipping-things/
 
 gebruik je creativiteit en maak gekke dingen daar kan je veel van leren 
+
+maak een website niet alleen toegankelijk in theorie maar ook in de pratijk zodat het ook echt bruikbaar is en niet dat je er achteraf achter komt
+er word gebruik gemaakt van screenreaders en een screenreader is ook ingewikkeld als je het nog niet kent 
+een gebruiker krijgt te horen heading 2 en dat kan verwarrend zijn
+een website die je zelf maakt moet je altijd zelf testen met een screenreader zodat je weet hoe het voor een ander is 
 
 
 
