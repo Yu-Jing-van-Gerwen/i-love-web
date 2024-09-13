@@ -96,6 +96,14 @@ principal frontender dit is zijn linkedin profiel:https://www.linkedin.com/in/va
 vakdocent cmd
 
 hij was vroeger een kunstunaar 
+het nut van onzin maken is dat je er inspiratie op kan doen en op zijn website staan er voorbeelden https://vasilis.nl
+hij heeft voor een master een opdracht gehad en daar heeft die een pagina gemaakt en ingeleverd
+
+gebruik je creativiteit en maak gekke dingen daar kan je veel van leren 
+
+
+
+
 
 
 
