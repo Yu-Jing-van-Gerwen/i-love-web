@@ -75,6 +75,8 @@ https://codepen.io/hubspot/embed/ExWxByR?height=384.6151123046875&theme-id=39533
 en ik heb 3 componenten gemaakt en toegepast in mijn visitekaartje waardoor ik meer overicht heb 
 welke code ik gebruik en waar welke styling van is
 
+
+
 zie de components
 https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/MoreInfo.svelte
 https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/Socialmedia.svelte
@@ -88,3 +90,12 @@ https://svelte.dev/docs/svelte-transition
 Ook weet ik nu waarom mijn javascript niet werkt en ik 1st een error had omdat 
 ik csr = false had in mijn code en dit moet csr = true zijn waardoor je de static map kan gebruiken
 ook moet je onmount installeren voor svelte en daarvoor heb ik dit gelezen zodat ik beter begrijp wat het doet en waarom je het nodig hebt :https://learn.svelte.dev/tutorial/onmount
+
+<h3>we love web vasilis van gemert</h3>
+principal frontender dit is zijn linkedin profiel:https://www.linkedin.com/in/vasilis-van-gemert-360627158/?originalSubdomain=nl
+vakdocent cmd
+
+hij was vroeger een kunstunaar 
+
+
+
