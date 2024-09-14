@@ -91,6 +91,8 @@ Ook weet ik nu waarom mijn javascript niet werkt en ik 1st een error had omdat
 ik csr = false had in mijn code en dit moet csr = true zijn waardoor je de static map kan gebruiken
 ook moet je onmount installeren voor svelte en daarvoor heb ik dit gelezen zodat ik beter begrijp wat het doet en waarom je het nodig hebt :https://learn.svelte.dev/tutorial/onmount
 
+
+
 <h3>we love web vasilis van gemert op 13 september</h3>
 principal frontender dit is zijn linkedin profiel:https://www.linkedin.com/in/vasilis-van-gemert-360627158/?originalSubdomain=nl
 vakdocent cmd
@@ -107,8 +109,9 @@ een gebruiker krijgt te horen heading 2 en dat kan verwarrend zijn
 een website die je zelf maakt moet je altijd zelf testen met een screenreader zodat je weet hoe het voor een ander is 
 
 
+gevonden op daily dev
+[//]: # (https://skillivo.in/css-rotate-property-explained-5/ )
 
-
-
+[//]: # (https://skillivo.in/css-translate-property-guide/?ref=dailydev)
 
 

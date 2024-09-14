@@ -12,7 +12,18 @@
 
 
 **Ik wil svelte leren kennen en weten hoe ik dit kan gebruiken**
-3.1.2 Combineert onderbouwd principes, standaarden en best-practices op het gebied van frontend design en development om een oplossing voor een opdrachtgever te realiseren.
+3.1.2 Combineert onderbouwd principes, standaarden en best-practices op het gebied van 
+frontend design en development om een oplossing voor een opdrachtgever te realiseren.
+
+**Hoe haal je data uit een Headless CMS door middel van een framework te renderen in een website?**
+
+**hoe lever je bewijslast goed in**
+
+**hoe zorg ik dat mijn repository overzicheljk en goed navolgbaar is zonder wiki**
+
+
+
+
 <h2>leerlogboek</h2>
 2-9-2024
 Ik heb mijn 1ste les dag gehad en daarin heb ik svelte geinstalleerd en een ontwerp gemaakt van de squadpage en een tutorial gevolgd van svelte

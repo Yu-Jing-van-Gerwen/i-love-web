@@ -1,10 +1,38 @@
-# i-love-web
+# create-svelte
 
-Learning Journal en Digital Gardening
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
-De instructie voor de I Love Web vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/i-love-web/blob/main/docs/INSTRUCTIONS.md)
+## Creating a project
 
+If you're seeing this, you've probably already done this step. Congrats!
 
-## Licentie
+```bash
+# create a new project in the current directory
+npm create svelte@latest
 
-This project is licensed under the terms of the [MIT license](./LICENSE).
+# create a new project in my-app
+npm create svelte@latest my-app
+```
+
+## Developing
+
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+
+```bash
+npm run dev
+
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
+```
+
+## Building
+
+To create a production version of your app:
+
+```bash
+npm run build
+```
+
+You can preview the production build with `npm run preview`.
+
+> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
