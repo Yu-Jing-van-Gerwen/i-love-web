@@ -1,5 +1,6 @@
 <h1>learning journal sprint 13</h1>
 <h3> leervragen voor sprint 13</h3>
+<a href="sprint13/sprint13.svelte">ga naar sprint 13</a>
 <h1 id="hier-vertel-ik-over-wat-ik-geleerd-heb-in-deze-sprint">hier vertel ik over wat ik geleerd heb in deze
     sprint</h1>
 <h2 id="mijn-leervragen">mijn leervragen</h2>
@@ -16,7 +17,7 @@
 <p><strong>hoe lever je bewijslast goed in</strong></p>
 <p><strong>hoe zorg ik dat mijn repository overzicheljk en goed navolgbaar is zonder wiki</strong></p>
 <h2>leerlogboek</h2>
-2-9-2024
+<h3>week1</h3>
 Ik heb mijn 1ste les dag gehad en daarin heb ik svelte geinstalleerd en een ontwerp gemaakt van de squadpage en een tutorial gevolgd van svelte
 
 <p>dit is een kleine samenvatting over svelte</p>
@@ -52,6 +53,8 @@ Ik heb mijn 1ste les dag gehad en daarin heb ik svelte geinstalleerd en een ontw
     6-9 ik heb geleerd hoe ik netjes issues kan inschieten en feedback kan geven waardoor eerstejaars beter begrijpen
     hoe ze naar de oplossing kunnnen werken</p>
 
+
+<h3>week3</h3>
 <h2>10 september</h2> heb ik een workshop over figma gekregen en hebben we simpele oefeningen gedaan die we moeten na maken
 <img src="https://github.com/user-attachments/assets/d74326d3-7e1e-43ba-a7c0-506963346f25">
 
@@ -72,13 +75,17 @@ de papieren schets
 mijn uitwerking van de papieren schets
 <img src="https://github.com/user-attachments/assets/b78c1e75-3574-418d-ae4d-a90a832cc2d7">
 
+
+
 <h2>10 september</h2>
 op 10 september heb ik de squadpage
-gemaakt een basisopzet zie de link https://github.com/KaanKalmi/your-tribe-for-life-squad-page/tree/squadpage2.2-yujing
+gemaakt een basisopzet
+<a href="https://github.com/KaanKalmi/your-tribe-for-life-squad-page/tree/squadpage2.2-yujing">zie de link</a> zie de link
 
 en ik heb aan mijn visitekaartje gewerkt
 daarin heb ik een voorbeeld gevonden hoe ik mooi effect kan geven aan een hover
-https://codepen.io/twhite96/embed/brryVq?height=600&default-tab=result&embed-version=2#result-box
+<a href="
+https://codepen.io/twhite96/embed/brryVq?height=600&default-tab=result&embed-version=2#result-box">link hover effecr</a>
 
 ook heb ik gekeken naar hoe ik tekst kan laten verschijn na 2 seconden zie hier de code pen
 <a href="https://codepen.io/hubspot/embed/ExWxByR?height=384.6151123046875&theme-id=39533&default-tab=css%2Cresult&slug-hash=ExWxByR
@@ -89,23 +96,36 @@ welke code ik gebruik en waar welke styling van is
 
 
 zie de components
-https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/MoreInfo.svelte
-https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/Socialmedia.svelte
-https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/button.svelte
+<a href="
+https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/MoreInfo.svelte">
+    link more info
+</a>
+<a href="
+https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/Socialmedia.svelte">
+    scoial media
+</a>
+
+<a href="
+https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/button.svelte">button component
+</a>
 
 <h2>11 september</h2>
 We hebben les gehad in creative coding hoe je met svelte javascript kan gebruiken en hoe je
 animaties kan gebruiken in svelte en ik lees de documentatie van svelte
-https://svelte.dev/docs/svelte-transition
+<a href="
+https://svelte.dev/docs/svelte-transition">link svelte transitions</a>
 
 Ook weet ik nu waarom mijn javascript niet werkt en ik 1st een error had omdat
 ik csr = false had in mijn code en dit moet csr = true zijn waardoor je de static map kan gebruiken
-ook moet je onmount installeren voor svelte en daarvoor heb ik dit gelezen zodat ik beter begrijp wat het doet en waarom je het nodig hebt :https://learn.svelte.dev/tutorial/onmount
+ook moet je onmount installeren voor svelte en daarvoor heb ik dit
+gelezen zodat ik beter begrijp wat het doet en waarom je het nodig hebt
+<a href=" https://learn.svelte.dev/tutorial/onmount">uitleg over onmount</a>
 
 
 
-<h3>we love web vasilis van gemert op 13 september</h3>
-principal frontender dit is zijn linkedin profiel:https://www.linkedin.com/in/vasilis-van-gemert-360627158/?originalSubdomain=nl
+<h2>we love web vasilis van gemert op 13 september</h2>
+principal frontender dit is zijn linkedin profiel:
+<a href=" https://www.linkedin.com/in/vasilis-van-gemert-360627158/?originalSubdomain=nl">linkedin profiel</a>
 vakdocent cmd
 
 hij was vroeger een kunstunaar

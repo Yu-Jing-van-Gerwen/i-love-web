@@ -62,9 +62,8 @@ de papieren schets
 mijn uitwerking van de papieren schets
 ![image](https://github.com/user-attachments/assets/b78c1e75-3574-418d-ae4d-a90a832cc2d7)
 
-<h2>10 september</h2>
-op 10 september heb ik de squadpage 
-gemaakt een basisopzet zie de link https://github.com/KaanKalmi/your-tribe-for-life-squad-page/tree/squadpage2.2-yujing
+ik heb een basisopzet gemaakt voor de squadpage
+ zie de link https://github.com/KaanKalmi/your-tribe-for-life-squad-page/tree/squadpage2.2-yujing
 
 en ik heb aan mijn visitekaartje gewerkt
 daarin heb ik een voorbeeld gevonden hoe ik mooi effect kan geven aan een hover
