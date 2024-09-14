@@ -1,6 +1,6 @@
 <h1>learning journal sprint 13</h1>
 <h3> leervragen voor sprint 13</h3>
-<a href="sprint13/sprint13.svelte">ga naar sprint 13</a>
+<a href="sprint13/">ga naar sprint 13</a>
 <h1 id="hier-vertel-ik-over-wat-ik-geleerd-heb-in-deze-sprint">hier vertel ik over wat ik geleerd heb in deze
     sprint</h1>
 <h2 id="mijn-leervragen">mijn leervragen</h2>
@@ -54,7 +54,7 @@ Ik heb mijn 1ste les dag gehad en daarin heb ik svelte geinstalleerd en een ontw
     hoe ze naar de oplossing kunnnen werken</p>
 
 
-<h3>week3</h3>
+<h3>week2</h3>
 <h2>10 september</h2> heb ik een workshop over figma gekregen en hebben we simpele oefeningen gedaan die we moeten na maken
 <img src="https://github.com/user-attachments/assets/d74326d3-7e1e-43ba-a7c0-506963346f25">
 
