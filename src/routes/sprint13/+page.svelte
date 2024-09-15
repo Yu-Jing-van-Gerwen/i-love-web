@@ -222,7 +222,12 @@
         Daarnaast heb ik die dag geleerd hoe ik een verbinding met de database kan maken en hoe ik iedereen kan laten zien. Als je op een naam klikt, ga je naar de profielkaart. Hier is de code die ik heb gebruikt in de +page.js:
     </p>
     <p>
-        ik heb
+        ik heb een workshop gehad over creative coding en hoe je met css leuke animaties kan maken en hoe ik met ingebouwde
+        svelte transitions een animatie kan toevoegen aan mijn visitekaartje <a href="https://svelte.dev/docs/svelte-transition">link naar svelte documentatie
+    </a>
+        verder heb ik ook les gehad in wat csr is en wat het doet en csr staat voor clientside rendering
+        en daarmee staat client side javascript aan en je moet onmount isntalleren zodat je javascript code kan gebruiken want onmount
+        Every component has a lifecycle that starts when it is created, and ends when it is destroyed. There are a handful of functions that allow you to run code at key moments during that lifecycle. The one you'll use most frequently is onMount, which runs after the component is first rendered to the DOM.
     </p>
 </section>
 
