@@ -1,5 +1,5 @@
-<h1>learning journal sprint 13</h1>
-<h3> leervragen voor sprint 13</h3>
+<h1>learning journal </h1>
+<h3> kies welke sprint je wilt zien</h3>
 <a href="sprint13/">ga naar sprint 13</a>
 
 <!--gevonden op daily dev-->
