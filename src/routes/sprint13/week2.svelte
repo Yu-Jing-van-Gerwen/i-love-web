@@ -15,8 +15,6 @@
     <img src="https://github.com/user-attachments/assets/d74326d3-7e1e-43ba-a7c0-506963346f25" width="250px">
 
     <p>
-
-
         verder hebben we het ook gehad over componeneten en de basisstof van figma zoals auto layout en
         compononetnen hoe je
         kleuren en buttons kan herbruiken
