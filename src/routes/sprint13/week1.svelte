@@ -31,36 +31,37 @@
         begrijpen
         hoe ze naar de oplossing kunnnen werken</p>
 
-    <h4 id="geleerd1">dit heb ik geleerd</h4>
+    <h3 id="geleerd1">dit heb ik geleerd</h3>
 
 
-    <p>dit is een kleine samenvatting over svelte</p>
+    <h4>svelte</h4>
+    <p>dit zijn aantekingen over svelte en sveltekit</p>
+
+
     <p>Svelte: Een Compilerende Componentenframework
         Scoped Styling: Elke component heeft zijn eigen CSS-scope, waardoor stijlen niet conflicteren tussen
         componenten.
+        <br>
         Reactive State: Veranderingen in data worden automatisch weerspiegeld in de DOM, zonder dat je handmatig
         DOM-manipulatie hoeft te doen.
+        <br>
         CSR (Client-Side Rendering): De applicatie wordt volledig in de browser gerenderd, waardoor interactieve
         gebruikerservaringen mogelijk zijn.
+        <br>
         Compiler: Svelte compileert je componenten naar efficiënte JavaScript-code, waardoor de runtime overhead
         minimaal
         is.</p>
-    <p>dit gaat over sveltekit
+    <h4>sveltekit</h4>
+    <p>
         SvelteKit: Een Metaframework Gebouwd op Svelte
         SSG, MPA, AMD, SPA, SSR: SvelteKit ondersteunt verschillende renderingsstrategieën, waaronder Static Site
         Generation
+        <br>
         (SSG), Multi-Page Applications (MPA), en Server-Side Rendering (SSR).
         Folder-Based Routing: Je definieert routes door het aanmaken van mappen en bestanden in je projectstructuur.
         Data Fetching: SvelteKit maakt het eenvoudig om data op te halen van servers via GET en POST requests.
-        Code Splitting: Code wordt slim verdeeld over client en server, waardoor de initiële laadtijd van je
-        applicatie
-        wordt verminderd.
-        Hydration: SvelteKit kan server-rendered HTML &quot;hydrateren&quot; om een volledig interactieve
-        client-side
-        applicatie te creëren.
-        SSR Only Mode: Je kunt je applicatie volledig server-side renderen, wat ideaal is voor SEO en voor
-        gebruikers
-        met
-        JavaScript uitgeschakeld.</p>
+        <br>
+        Code Splitting: Code wordt slim verdeeld over client en server
+    </p>
 
 </section>

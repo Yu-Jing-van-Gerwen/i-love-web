@@ -120,8 +120,8 @@
     </details>
 
 
-    <h4 id="geleerd2">dit heb ik geleerd</h4>
-    <h5>figma workshop</h5>
+    <h3 id="geleerd2">dit heb ik geleerd</h3>
+    <h4>figma workshop</h4>
     <p>
         ik heb een workshop over Figma gevolgd. Tijdens deze workshop hebben we eenvoudige oefeningen gedaan die we
         moesten namaken. We hebben ook geleerd over componenten en de basisprincipes van Figma, zoals auto layout en
@@ -132,7 +132,7 @@
         laten zien. Als je op een naam klikt, ga je naar de profielkaart. Hier is de code die ik heb gebruikt in de
         +page.js:
     </p>
-    <h5>creative coding csr</h5>
+    <h4>creative coding csr</h4>
     <p>
         ik heb een workshop gehad over creative coding en hoe je met css leuke animaties kan maken en hoe ik met
         ingebouwde
