@@ -12,6 +12,20 @@
     verder hebben we ook bespreken waar we staan in de taken en wat af is en wat niet
     </p>
 
+    <p>op 17 september: ben ik een artikel tegengekomen
+    <a href="https://blog.jetbrains.com/webstorm/2024/07/how-to-learn-javascript/?ref=dailydev">artikel
+    </a>
+        hoe je
+        javascript leert en onderin stond ook hoe je veu js llert en branches met uitleg over git en daar ben ik deze website gekenekn
+        <a href="https://learngitbranching.js.org/">leren git branches website</a>en
+        hier gebruik je de command line en zie je visueel wat er gebeurt op de branch en dat is ook interessant om te zien en beter te berigjpen wat er gebeurd
+
+
+    </p>
+    <p>ik heb klasgenoten gevraagd of ze issues bij mij willen reviewen voordat ik ze sluiten
+    verder heb ik ook het projectboard bijgwerkt met sizes van hoe zwaar een taak waarschijnlijk zal zijn en ik ben gaan kijken naar animaties om mijjn profielkaartje
+        creatiever is
+    </p>
 <section>
 
 
