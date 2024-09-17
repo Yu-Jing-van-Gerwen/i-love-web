@@ -1,6 +1,7 @@
 <script>
     import Week1 from './week1.svelte';
     import Week2 from './week2.svelte';
+    import Week3 from './week3.svelte';
 </script>
 <main>
     <section class="generalStyling learningquestions ">
@@ -54,6 +55,8 @@
 
     </section>
     <Week2/>
+    <Week3/>
+
 
 </main>
 <style>
