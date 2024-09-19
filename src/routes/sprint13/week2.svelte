@@ -10,6 +10,7 @@
     <p>
 
 
+        <strong>9-9</strong>
         ik heb een workshop over figma gekregen en hebben we simpele oefeningen gedaan die we moeten na maken
     </p>
     <img src="https://github.com/user-attachments/assets/d74326d3-7e1e-43ba-a7c0-506963346f25" alt="fimga oefening">
@@ -22,8 +23,7 @@
     </p>
     <img src="https://github.com/user-attachments/assets/8aa45266-22f4-46a5-971b-fe77beb61594" alt="fimga oefening">
 
-    <details>
-        <summary>open voor meer informatie</summary>
+
         <p>
 
 
@@ -39,18 +39,18 @@
 
             inpsiratie
         </p>
-        <img src="https://github.com/user-attachments/assets/42ccf209-49d6-460f-9e14-03106c7f3297" alt="foto inspiratie"><br>
+<!--        <img src="https://github.com/user-attachments/assets/42ccf209-49d6-460f-9e14-03106c7f3297" alt="foto inspiratie"><br>-->
 
-        <p>dit is de de papieren schets die een klasgenoot gemaakt heeft</p>
-        <img src="https://github.com/user-attachments/assets/e43b37e6-101f-4f54-83eb-307e2102ef74" alt="schets met ons ontwerp"><br>
-        mijn uitwerking van de papieren schets in figma<br>
-        <img src="https://github.com/user-attachments/assets/b78c1e75-3574-418d-ae4d-a90a832cc2d7" alt="mijn schets van het ontwerp"><br>
+<!--        <p>dit is de de papieren schets die een klasgenoot gemaakt heeft</p>-->
+<!--        <img src="https://github.com/user-attachments/assets/e43b37e6-101f-4f54-83eb-307e2102ef74" alt="schets met ons ontwerp"><br>-->
+<!--        mijn uitwerking van de papieren schets in figma<br>-->
+<!--        <img src="https://github.com/user-attachments/assets/b78c1e75-3574-418d-ae4d-a90a832cc2d7" alt="mijn schets van het ontwerp"><br>-->
 
 
         <p>
 
 
-            10-9 heb ik de squadpage
+            <strong>10-9</strong> heb ik de squadpage
             gemaakt een basisopzet
             <a href="https://github.com/KaanKalmi/your-tribe-for-life-squad-page/tree/squadpage2.2-yujing">zie de
                 link</a> zie
@@ -89,7 +89,7 @@
         </p>
         <p>
 
-            11-9
+            <strong>11-9</strong>
             We hebben les gehad in creative coding hoe je met svelte javascript kan gebruiken en hoe je
             animaties kan gebruiken in svelte en ik lees de documentatie van svelte
             <a href="https://svelte.dev/docs/svelte-transition">link svelte transitions</a>
@@ -102,13 +102,22 @@
 
         </p>
         <p>
-            13-9 hebben we een we love web gehad een gastspreker die ging vertellen over zijn werk en hoe belangrijk
+            <strong>13-9 we love web</strong> hebben we een we love web gehad een gastspreker die ging
+            vertellen over zijn werk en hoe belangrijk
             toegankelijkheid is
 
-            Vasilis van Gemert is een principal frontender en vakdocent CMD. Zijn LinkedIn-profiel vind je hier.
+            <a href="https://vasilis.nl/">
+
+             Vasilis van Gemert</a> is een principal frontender en vakdocent CMD. Zijn LinkedIn-profiel vind je hier.
             Vroeger was hij een kunstenaar. Het nut van onzin maken is dat je er inspiratie uit kunt halen. Voorbeelden
             hiervan staan op zijn website vasilis.nl.
-            Voor zijn masteropdracht heeft hij een pagina gemaakt en ingeleverd, die je kunt bekijken op deze link.
+        </p>
+        <p>
+            Voor zijn masteropdracht heeft hij een pagina gemaakt en ingeleverd,
+            die je kunt bekijken op <a href="https://vasilis.nl/flipping-things/
+">
+            deze link.
+        </a>
             Gebruik je creativiteit en maak gekke dingen; daar kun je veel van leren.
             Maak een website niet alleen toegankelijk in theorie, maar ook in de praktijk, zodat deze echt bruikbaar is
             en je niet achteraf problemen ontdekt.
@@ -117,7 +126,6 @@
             Test altijd zelf de website die je maakt met een screenreader, zodat je weet hoe het voor anderen is.
 
         </p>
-    </details>
 
 
     <h3 id="geleerd2">dit heb ik geleerd</h3>

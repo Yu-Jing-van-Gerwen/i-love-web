@@ -8,26 +8,27 @@
 <section>
 
     <h4 id="gedaan1">dit heb ik gedaan</h4>
-    <p>Ik heb mijn 1ste les dag gehad en daarin heb ik svelte geinstalleerd en een ontwerp gemaakt van de squadpage
+    <p><strong>2-9</strong>
+        ik svelte geinstalleerd en een ontwerp gemaakt van de squadpage
         en
-        een tutorial gevolgd van svelte
+        een tutorial gevolgd van svelte zodat ik beter begrijp wat het is
 
     </p>
 
 
-    <p>3-9
+    <p><strong>3-9</strong>
         Ik heb verder de tutorial gevolgd en
         ik heb gekeken naar hoe ik mijn project kan deployen op vercel en dat is gleukt dankzij deze link <a
                 href="https://vercel.com/docs/frameworks/sveltekit">https://vercel.com/docs/frameworks/sveltekit</a>
     </p>
-    <p>4-9 ik heb verder de tutorial gevolgd en een schets gemaakt voor mijn profilecard en ik heb op vercel deze
+    <p><strong>4-9</strong> ik heb verder de tutorial gevolgd en een schets gemaakt voor mijn profilecard en ik heb op vercel deze
         tutorial
         gevonden en dit heeft mij enorm geholpen in het begrijpen van sveltekit
         <a href="https://vercel.com/docs/beginner-sveltekit">https://vercel.com/docs/beginner-sveltekit</a></p>
-    <p>5-9 ik heb mijn profilecard in code uitgewerkt en het button component gemaakt voor de squad page en dit is
+    <p><strong>5-9</strong> ik heb mijn profilecard in code uitgewerkt en het button component gemaakt voor de squad page en dit is
         gelukt
         met behulp van de tutorial
-        6-9 ik heb geleerd hoe ik netjes issues kan inschieten en feedback kan geven waardoor eerstejaars beter
+        <strong>6-9</strong> ik heb geleerd hoe ik netjes issues kan inschieten en feedback kan geven waardoor eerstejaars beter
         begrijpen
         hoe ze naar de oplossing kunnnen werken</p>
 
