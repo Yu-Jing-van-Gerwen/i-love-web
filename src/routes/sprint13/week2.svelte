@@ -125,7 +125,11 @@
     <p>
         ik heb een workshop over Figma gevolgd. Tijdens deze workshop hebben we eenvoudige oefeningen gedaan die we
         moesten namaken. We hebben ook geleerd over componenten en de basisprincipes van Figma, zoals auto layout en
-        hoe je kleuren en buttons kunt hergebruiken. In de les heb ik geprobeerd om een kaartje na te maken met
+        hoe je kleuren en buttons kunt hergebruiken.
+
+
+    </p>
+    <p>In de les heb ik geprobeerd om een kaartje na te maken met
         behulp van een grid en geleerd hoe je dit kunt positioneren.
 
         Daarnaast heb ik die dag geleerd hoe ik een verbinding met de database kan maken en hoe ik iedereen kan
@@ -139,6 +143,9 @@
         svelte transitions een animatie kan toevoegen aan mijn visitekaartje <a
             href="https://svelte.dev/docs/svelte-transition">link naar svelte documentatie
     </a>
+
+    </p>
+    <p>
         verder heb ik ook les gehad in wat csr is en wat het doet en csr staat voor clientside rendering
         en daarmee staat client side javascript aan en je moet onmount isntalleren zodat je javascript code kan
         gebruiken want

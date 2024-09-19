@@ -7,12 +7,15 @@
         <li>ga naar <a href="#gedaan3">wat heb ik gedaan</a></li>
     </ul>
     <h3 id="gedaan3">dit heb ik gedaan</h3>
-    <p> op 16-9 ik heb planning poker gedaan met mijn team en hebebn we taken een size gegeven van hoe zwaar iedere taak is en we hebben het
+    <p> <strong>
+        16-9
+    </strong> ik heb planning poker gedaan met mijn team en hebben
+        we taken een size gegeven van hoe zwaar iedere taak is en we hebben het
        projectboard ingevuld volgens het principe van het moscow table
     verder hebben we ook bespreken waar we staan in de taken en wat af is en wat niet
     </p>
 
-    <p>op 17 september: ben ik een artikel tegengekomen
+    <p><strong>17 september</strong>: ben ik een artikel tegengekomen
     <a href="https://blog.jetbrains.com/webstorm/2024/07/how-to-learn-javascript/?ref=dailydev">artikel
     </a>
         hoe je
@@ -22,9 +25,12 @@
 
 
     </p>
-    <p>ik heb klasgenoten gevraagd of ze issues bij mij willen reviewen voordat ik ze sluiten
+    <p>
     verder heb ik ook het projectboard bijgwerkt met sizes van hoe zwaar een taak waarschijnlijk zal zijn en ik ben gaan kijken naar animaties om mijjn profielkaartje
         creatiever is
+    </p>
+
+    <p><strong>18-9</strong> Ik heb geleerd hoe ik een readme schrijf en wat we moeten gaan opleveren in de retrospect
     </p>
 <section>
 
@@ -104,6 +110,39 @@
     <p>could have: als er tijd is voor een extra funcitonaliteit dan is de klant er blij mee</p>
     <p>Won't have: als er geen prioriteit is voor leuke anmaties omdat testen en toegankelijkheid belangrijker is dan komt die specifieke functioanliteit er niet in want het is niet noodzakleijk</p>
 
+
+    <h4>Readme schirjven en professionele repository</h4>
+    <p>We hebben les gehad in hoe je een professionele Readme schrijft en daarin zet
+        je
+    </p>
+    <ul>
+        <li>
+        Kenmerken:welke programmertalen
+    </li>
+        <li>installatie: hoe installeeer je dit project</li>
+        <li>kenmerken: welke cms gebruik je en zet er een bron neer voor de documentatie van de cms</li>
+        <li>kenmerken: huisstijl hoe pas je die toe in je project</li>
+        <li>kenmkeren:programmeertalen en code conventies
+
+        </li>
+        <li>
+            bronnen: directus en sveltekit documentatie
+        </li>
+        <li>live zetten: gebruik je vercel of netifly</li>
+
+    </ul>
+
+    <p>
+        een proffesionele repository is als jouw code en project duidelijk is zonder dat een gebruiker vragen aan jou moet stellen
+        daarin zijn deze punten belangrijk
+    </p>
+    <ul>
+        <li>code: refactor je code</li>
+        <li>code: semantische code</li>
+        <li>code: structuur in je code dus juist uitlijning </li>
+        <li>code: code conventies zoals bem </li>
+        <li>technology:badges met gebruikte technologie </li>
+    </ul>
 </section>
 </div>
 
