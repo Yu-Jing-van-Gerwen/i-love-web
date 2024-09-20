@@ -22,10 +22,10 @@ frontend design en development om een oplossing voor een opdrachtgever te realis
 **hoe zorg ik dat mijn repository overzicheljk en goed navolgbaar is zonder wiki**
 
 
-
+ga naar <a href="#geleerd1>dit heb ik geleerd</a>
 
 <h2>leerlogboek</h2>
-2-9-2024
+<h3>2-9-2024</h3>
 Ik heb mijn 1ste les dag gehad en daarin heb ik svelte geinstalleerd en een ontwerp gemaakt van de squadpage en een tutorial gevolgd van svelte
 
 
@@ -56,19 +56,20 @@ SSR Only Mode: Je kunt je applicatie volledig server-side renderen, wat ideaal i
 ````
 
 
-3-9
+<h3>3-9</h3>
 Ik heb verder de tutorial gevolgd en 
 ik heb gekeken naar hoe ik mijn project kan deployen op vercel en dat is gleukt dankzij deze link https://vercel.com/docs/frameworks/sveltekit
 
 
 
 
-4-9 ik heb verder de tutorial gevolgd en een schets gemaakt voor mijn profilecard en ik heb op vercel deze tutorial gevonden en dit heeft mij enorm geholpen in het begrijpen van sveltekit
+<h3>4-9</h3> ik heb verder de tutorial gevolgd en een schets gemaakt voor mijn profilecard en ik heb op vercel deze tutorial gevonden en dit heeft mij enorm geholpen in het begrijpen van sveltekit
 https://vercel.com/docs/beginner-sveltekit
 
 ophalen data met directus
 
-````sveltehtml
+````javascript
+
 
 export default async function fetchJson(url, payload = {}) {
   return await fetch(url, payload)
@@ -79,13 +80,16 @@ export default async function fetchJson(url, payload = {}) {
 ````
 
 
-5-9 ik heb mijn profilecard in code uitgewerkt en het button component gemaakt voor de squad page en dit is gelukt met behulp van de tutorial
+<h3>5-9</h3> ik heb mijn profilecard in code uitgewerkt en het button component gemaakt voor de squad page en dit is gelukt met behulp van de tutorial
 
 ![img.png](img.png)
 
 
-6-9 ik heb geleerd hoe ik netjes issues kan inschieten en feedback kan
+<h3>6-9</h3> ik heb geleerd hoe ik netjes issues kan inschieten en feedback kan
 geven waardoor eerstejaars beter begrijpen hoe ze naar de oplossing kunnnen werken
+
+
+<h2 id="geleerd1">dit heb ik geleerd</h3>
 
 <h4>svelte</h4>
 <p>dit zijn aantekingen over svelte en sveltekit</p>
@@ -114,6 +118,34 @@ Svelte: Een Compilerende Componentenframework
         </code></pre>
 
 <p>ophalen data uit de databse
+
+fetch json
+
+````javascript
+export default async function fetchJson(url, payload = {}) {
+  return await fetch(url, payload)
+    .then((response) => response.json())
+    .catch((error) => error)
+}
+
+
+````
+
+
+in de page.server.js
+````javascript
+import fetchJson from "$lib/fetch-json.js"
+
+export async function load() {
+	// const url = 'https://fdnd.directus.app/items/person/?filter={"squad_id":3}'
+	const url = 'https://fdnd.directus.app/items/person/9'
+	const persons = await fetchJson(url)
+	return {
+		persons: persons.data
+	}
+}
+
+````
 
 </p>
     <h4>sveltekit</h4>

@@ -68,6 +68,8 @@ inpsiratie
 de papieren schets
 ![image](https://github.com/user-attachments/assets/e43b37e6-101f-4f54-83eb-307e2102ef74)
 mijn uitwerking van de papieren schets
+<br>
+
 ![image](https://github.com/user-attachments/assets/b78c1e75-3574-418d-ae4d-a90a832cc2d7)
 
 ik heb een basisopzet gemaakt voor de squadpage
@@ -127,7 +129,7 @@ een website die je zelf maakt moet je altijd zelf testen met een screenreader zo
 
 
 
-<h3 id="geleerd2">dit heb ik geleerd</h3>
+<h2 id="geleerd2">dit heb ik geleerd</h3>
 <h4>figma workshop</h4>
 <p>
 ik heb een workshop over Figma gevolgd. Tijdens deze workshop hebben we eenvoudige oefeningen gedaan die we
