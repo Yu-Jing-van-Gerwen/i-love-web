@@ -171,7 +171,28 @@ zie de components
 </li>
 </ul>
 
+importern van de buttons is simpel dit staat in je script
+````
+    export let data;
+    import Moreinfo from '$lib/MoreInfo.svelte';
+    import ActionButton from '$lib/button.svelte';
+    import SocialMedia from '$lib/Socialmedia.svelte';
+````
 
+
+hier roep je de componenten aan 
+````
+   <section class="animationfade">
+                <h2>Over mij</h2>
+                <p> Leeftijd: 20</p>
+                <p>{data.persons.bio}  </p>
+                <p>Op dit moment doe ik de opleiding frontend design en development en zit ik in mijn
+                    afstudeerjaar</p>
+            </section>
+            <SocialMedia/>
+            <ActionButton/>
+            <Moreinfo/>
+````
 
 <h2>11 september</h2>
 We hebben les gehad in creative coding hoe je met svelte javascript kan gebruiken en hoe je 
@@ -313,6 +334,33 @@ export async function load() {
     {/each}
 </ul>
 ````
+
+<h4>componententen</h4>
+
+
+importern van de buttons is simpel dit staat in je script
+````
+    export let data;
+    import Moreinfo from '$lib/MoreInfo.svelte';
+    import ActionButton from '$lib/button.svelte';
+    import SocialMedia from '$lib/Socialmedia.svelte';
+````
+
+
+hier roep je de componenten aan 
+````
+   <section class="animationfade">
+                <h2>Over mij</h2>
+                <p> Leeftijd: 20</p>
+                <p>{data.persons.bio}  </p>
+                <p>Op dit moment doe ik de opleiding frontend design en development en zit ik in mijn
+                    afstudeerjaar</p>
+            </section>
+            <SocialMedia/>
+            <ActionButton/>
+            <Moreinfo/>
+````
+
 
 [//]: # (gevonden op daily dev)
 [//]: # (https://skillivo.in/css-rotate-property-explained-5/ )
