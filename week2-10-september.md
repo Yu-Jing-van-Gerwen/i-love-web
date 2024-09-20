@@ -1,12 +1,13 @@
  <h2 id="week2">week2</h2>
  <ul>
      <li>ga naar <a href="#geleerd2">wat heb ik geleerd</a></li>
-     <li>ga naar <a href="#gedaan2">wat heb ik gedaan</a></li>
  </ul>
 
+<h2>10 september</h2>
+heb ik een workshop over figma gekregen en hebben we simpele oefeningen gedaan die we moeten na maken 
 
-<h2>10 september</h2> heb ik een workshop over figma gekregen en hebben we simpele oefeningen gedaan die we moeten na maken 
-![image](https://github.com/user-attachments/assets/d74326d3-7e1e-43ba-a7c0-506963346f25)
+
+<img src="https://github.com/user-attachments/assets/d74326d3-7e1e-43ba-a7c0-506963346f25">
 
 verder hebben we het ook gehad over componeneten en de basisstof van figma zoals auto layout en compononetnen hoe je kleuren en buttons kan herbruiken 
 In de les heb ik ook geprobeerd om zo'n kaartje na te maken met grid en hoe je dit kan positioneren 
