@@ -27,8 +27,55 @@ verder hebben we ook bespreken waar we staan in de taken en wat af is en wat nie
 </p>
 <p>
 verder heb ik ook het projectboard bijgwerkt met sizes van hoe zwaar een taak waarschijnlijk zal zijn en ik ben gaan kijken naar animaties om mijjn profielkaartje
-    creatiever is
+    creatiever te maken
 </p>
+
+
+
+<p>mijn javascript interactie zit heb ik erin gekregen</p>
+
+````javascript
+
+    let buttonMore;
+    let div;
+    function showmore() {
+        buttonMore = document.querySelector('.moreinfo');
+        div = document.querySelector('.nonvisible');
+        div.classList.toggle("hidden");
+        div.classList.add("nonvisible-open");
+
+        buttonMore.scrollIntoView('.nonvisible-open')
+        buttonMore.disabled = true;
+        buttonMore.classList.remove("pulse");
+
+    }
+````
+
+````sveltehtml
+<a href="#info" on:click={showmore} class="moreinfo pulse">
+    <span>druk voor meer info</span>
+</a>
+````
+
+
+ook heb ik een animatie erin gevoegd waardoor de profilecard al minder saai is
+````
+ div:nth-child(1) {
+            animation: slideInLeftMobile 5s forwards;
+            /*min-width: 200px;*/
+            width: 300px;
+        }
+        @keyframes slideInLeftMobile {
+            0% {
+                top: -100%;
+            }
+            100% {
+                top: 0;
+                left: 5%;
+            }
+        }
+````
+
 
 <p><strong>18-9</strong> Ik heb geleerd hoe ik een readme schrijf en wat we moeten gaan opleveren in de retrospect
 </p>
@@ -110,6 +157,33 @@ Onthullen: Tegelijkertijd draaien alle teamleden hun kaart om.
 <p>could have: als er tijd is voor een extra funcitonaliteit dan is de klant er blij mee</p>
 <p>Won't have: als er geen prioriteit is voor leuke anmaties omdat testen en toegankelijkheid belangrijker is dan komt die specifieke functioanliteit er niet in want het is niet noodzakleijk</p>
 
+
+<h4>button javascript 3 stappenplan</h4>
+
+<p>mijn javascript interactie zit er ook in</p>
+
+````javascript
+
+    let buttonMore;
+    let div;
+    function showmore() {
+        buttonMore = document.querySelector('.moreinfo');
+        div = document.querySelector('.nonvisible');
+        div.classList.toggle("hidden");
+        div.classList.add("nonvisible-open");
+
+        buttonMore.scrollIntoView('.nonvisible-open')
+        buttonMore.disabled = true;
+        buttonMore.classList.remove("pulse");
+
+    }
+````
+
+````sveltehtml
+<a href="#info" on:click={showmore} class="moreinfo pulse">
+    <span>druk voor meer info</span>
+</a>
+````
 
 <h4>Readme schirjven en professionele repository</h4>
 <p>We hebben les gehad in hoe je een professionele Readme schrijft en daarin zet
