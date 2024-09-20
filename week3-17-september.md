@@ -54,8 +54,8 @@ verder heb ik ook het projectboard bijgwerkt met sizes van hoe zwaar een taak wa
     </li>
     <li>
 
-        een user stories is 1 klein onderdeel van de stories zoals de interface van de betalingsmethoden aanpassen
-    </li>
+een user stories is 1 klein onderdeel van de stories zoals de interface van de betalingsmethoden aanpassen
+</li>
 </ul>
 <p>
 
@@ -85,13 +85,13 @@ verder heb ik ook het projectboard bijgwerkt met sizes van hoe zwaar een taak wa
     </li>
     <li>
 
-        Schatten: Ieder teamlid kiest in stilte een kaart die volgens hen het beste bij de complexiteit van de taak past.
-    </li>
-    <li>
-        Onthullen: Tegelijkertijd draaien alle teamleden hun kaart om.
+Schatten: Ieder teamlid kiest in stilte een kaart die volgens hen het beste bij de complexiteit van de taak past.
+</li>
+<li>
+Onthullen: Tegelijkertijd draaien alle teamleden hun kaart om.
 
-    </li>
-    <li> bespreken: Als de schattingen ver uit elkaar liggen, wordt er gediscussieerd over de redenen voor de verschillende keuzes.</li>
+</li>
+<li> bespreken: Als de schattingen ver uit elkaar liggen, wordt er gediscussieerd over de redenen voor de verschillende keuzes.</li>
 </ul>
 
 
@@ -124,11 +124,11 @@ verder heb ik ook het projectboard bijgwerkt met sizes van hoe zwaar een taak wa
     <li>kenmerken: huisstijl hoe pas je die toe in je project</li>
     <li>kenmkeren:programmeertalen en code conventies
 
-    </li>
-    <li>
-        bronnen: directus en sveltekit documentatie
-    </li>
-    <li>live zetten: gebruik je vercel of netifly</li>
+</li>
+<li>
+bronnen: directus en sveltekit documentatie
+</li>
+<li>live zetten: gebruik je vercel of netifly</li>
 
 </ul>
 
