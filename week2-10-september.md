@@ -228,6 +228,8 @@ hoe je kleuren en buttons kunt hergebruiken.
      gebruiken want
      onMount  is een lifecycle method dat uitgevoerd word nadat een component is rendered naar de dom
      als dat renderen niet gebruikt dan krijg je een error queryselctor is not defined
+
+  zie deze issue waar ik het probleem beschhrijf en de oplossing https://github.com/yujing-student/your-tribe-for-life-profile-card/issues/15
  </p>
 
  <h4>ophalen data uit de datbase code snippet</h4>
