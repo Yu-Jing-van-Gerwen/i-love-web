@@ -1,3 +1,5 @@
+<h1>dit heb ik gedaan</h1>
+
 <h2>10 september</h2> heb ik een workshop over figma gekregen en hebben we simpele oefeningen gedaan die we moeten na maken 
 ![image](https://github.com/user-attachments/assets/d74326d3-7e1e-43ba-a7c0-506963346f25)
 
@@ -108,7 +110,42 @@ een gebruiker krijgt te horen heading 2 en dat kan verwarrend zijn
 een website die je zelf maakt moet je altijd zelf testen met een screenreader zodat je weet hoe het voor een ander is 
 
 
-gevonden op daily dev
+
+<h1>dit heb ik geleerd</h1>
+<h3 id="geleerd2">dit heb ik geleerd</h3>
+<h4>figma workshop</h4>
+<p>
+ik heb een workshop over Figma gevolgd. Tijdens deze workshop hebben we eenvoudige oefeningen gedaan die we
+moesten namaken. We hebben ook geleerd over componenten en de basisprincipes van Figma, zoals auto layout en
+hoe je kleuren en buttons kunt hergebruiken.
+
+
+ </p>
+ <p>In de les heb ik geprobeerd om een kaartje na te maken met
+     behulp van een grid en geleerd hoe je dit kunt positioneren.
+
+   Daarnaast heb ik die dag geleerd hoe ik een verbinding met de database kan maken en hoe ik iedereen kan
+   laten zien. Als je op een naam klikt, ga je naar de profielkaart. Hier is de code die ik heb gebruikt in de
+   +page.js:
+ </p>
+ <h4>creative coding csr</h4>
+ <p>
+     ik heb een workshop gehad over creative coding en hoe je met css leuke animaties kan maken en hoe ik met
+     ingebouwde
+     svelte transitions een animatie kan toevoegen aan mijn visitekaartje <a
+         href="https://svelte.dev/docs/svelte-transition">link naar svelte documentatie
+ </a>
+
+ </p>
+ <p>
+     verder heb ik ook les gehad in wat csr is en wat het doet en csr staat voor clientside rendering
+     en daarmee staat client side javascript aan en je moet onmount isntalleren zodat je javascript code kan
+     gebruiken want
+     onMount  is een lifecycle method dat uitgevoerd word nadat een component is rendered naar de dom
+     als dat renderen niet gebruikt dan krijg je een error queryselctor is not defined
+ </p>
+
+[//]: # (gevonden op daily dev)
 [//]: # (https://skillivo.in/css-rotate-property-explained-5/ )
 
 [//]: # (https://skillivo.in/css-translate-property-guide/?ref=dailydev)

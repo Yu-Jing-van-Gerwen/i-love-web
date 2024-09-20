@@ -48,6 +48,12 @@ Hydration: SvelteKit kan server-rendered HTML "hydrateren" om een volledig inter
 SSR Only Mode: Je kunt je applicatie volledig server-side renderen, wat ideaal is voor SEO en voor gebruikers met JavaScript uitgeschakeld.
 
 
+````sveltehtml
+ npm create svelte@latest
+                     npm install
+                     npm run dev
+                    npm install @directus/sdk
+````
 
 
 3-9
@@ -60,6 +66,66 @@ ik heb gekeken naar hoe ik mijn project kan deployen op vercel en dat is gleukt 
 4-9 ik heb verder de tutorial gevolgd en een schets gemaakt voor mijn profilecard en ik heb op vercel deze tutorial gevonden en dit heeft mij enorm geholpen in het begrijpen van sveltekit
 https://vercel.com/docs/beginner-sveltekit
 
+ophalen data met directus
+
+````sveltehtml
+
+export default async function fetchJson(url, payload = {}) {
+  return await fetch(url, payload)
+    .then((response) => response.json())
+    .catch((error) => error)
+}
+
+````
+
 
 5-9 ik heb mijn profilecard in code uitgewerkt en het button component gemaakt voor de squad page en dit is gelukt met behulp van de tutorial
-6-9 ik heb geleerd hoe ik netjes issues kan inschieten en feedback kan geven waardoor eerstejaars beter begrijpen hoe ze naar de oplossing kunnnen werken
+
+![img.png](img.png)
+
+
+6-9 ik heb geleerd hoe ik netjes issues kan inschieten en feedback kan
+geven waardoor eerstejaars beter begrijpen hoe ze naar de oplossing kunnnen werken
+
+<h4>svelte</h4>
+<p>dit zijn aantekingen over svelte en sveltekit</p>
+
+
+Svelte: Een Compilerende Componentenframework
+    Scoped Styling: Elke component heeft zijn eigen CSS-scope, waardoor stijlen niet conflicteren tussen
+    componenten.
+    <br>
+    Reactive State: Veranderingen in data worden automatisch weerspiegeld in de DOM, zonder dat je handmatig
+    DOM-manipulatie hoeft te doen.
+    <br>
+    CSR (Client-Side Rendering): De applicatie wordt volledig in de browser gerenderd, waardoor interactieve
+    gebruikerservaringen mogelijk zijn.
+    <br>
+    Compiler: Svelte compileert je componenten naar efficiënte JavaScript-code, waardoor de runtime overhead
+    minimaal
+    is.
+
+   installeren svelte
+<pre><code class="">
+            npm create svelte@latest
+             npm install
+             npm run dev
+            npm install @directus/sdk
+        </code></pre>
+
+<p>ophalen data uit de databse
+
+</p>
+    <h4>sveltekit</h4>
+    <p>
+        SvelteKit: Een Metaframework Gebouwd op Svelte
+        SSG, MPA, AMD, SPA, SSR: SvelteKit ondersteunt verschillende renderingsstrategieën, waaronder Static Site
+        Generation
+        <br>
+        (SSG), Multi-Page Applications (MPA), en Server-Side Rendering (SSR).
+        Folder-Based Routing: Je definieert routes door het aanmaken van mappen en bestanden in je projectstructuur.
+        Data Fetching: SvelteKit maakt het eenvoudig om data op te halen van servers via GET en POST requests.
+        <br>
+        Code Splitting: Code wordt slim verdeeld over client en server
+    </p>
+
