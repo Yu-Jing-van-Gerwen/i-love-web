@@ -23,10 +23,10 @@ frontend design en development om een oplossing voor een opdrachtgever te realis
 
 
 <h2>ga naar</h2> 
-<a href="https://github.com/yujing-student/i-love-web/edit/main/week1-7-september.md#dit-heb-ik-geleerd">dit heb ik geleerd</a>
+<a href="#geleerd1">dit heb ik geleerd</a>
 <br>
-<a href="https://github.com/yujing-student/i-love-web/edit/main/week1-7-september.md#leerlogboek">dit heb ik gedaan</a>
-<h2>leerlogboek</h2>
+<a href="#leerlogboek">dit heb ik gedaan</a>
+<h2 id="leerlogboek">leerlogboek</h2>
 <h3>2-9-2024</h3>
 Ik heb mijn 1ste les dag gehad en daarin heb ik svelte geinstalleerd en een ontwerp gemaakt van de squadpage en een tutorial gevolgd van svelte
 
