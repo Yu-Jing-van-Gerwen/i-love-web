@@ -1,4 +1,9 @@
-<h1>dit heb ik gedaan</h1>
+ <h2 id="week2">week2</h2>
+ <ul>
+     <li>ga naar <a href="#geleerd2">wat heb ik geleerd</a></li>
+     <li>ga naar <a href="#gedaan2">wat heb ik gedaan</a></li>
+ </ul>
+
 
 <h2>10 september</h2> heb ik een workshop over figma gekregen en hebben we simpele oefeningen gedaan die we moeten na maken 
 ![image](https://github.com/user-attachments/assets/d74326d3-7e1e-43ba-a7c0-506963346f25)
@@ -73,15 +78,25 @@ https://codepen.io/twhite96/embed/brryVq?height=600&default-tab=result&embed-ver
 
 ook heb ik gekeken naar hoe ik tekst kan laten verschijn na 2 seconden zie hier de code pen
 https://codepen.io/hubspot/embed/ExWxByR?height=384.6151123046875&theme-id=39533&default-tab=css%2Cresult&slug-hash=ExWxByR&editable=true&user=hubspot&name=cp_embed_2#result-box
+
+<br>
 en ik heb 3 componenten gemaakt en toegepast in mijn visitekaartje waardoor ik meer overicht heb 
 welke code ik gebruik en waar welke styling van is
 
-
+![img_1.png](img_1.png)
 
 zie de components
-https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/MoreInfo.svelte
-https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/Socialmedia.svelte
-https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/button.svelte
+<ul><li><a href="https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/MoreInfo.svelte">moreinfo</a>more info</li>
+<li>
+<a href="https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/Socialmedia.svelte">socialmedia</a>
+</li>
+<li>
+<a href="
+https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/button.svelte">button</a>
+</li>
+</ul>
+
+
 
 <h2>11 september</h2>
 We hebben les gehad in creative coding hoe je met svelte javascript kan gebruiken en hoe je 
@@ -111,7 +126,6 @@ een website die je zelf maakt moet je altijd zelf testen met een screenreader zo
 
 
 
-<h1>dit heb ik geleerd</h1>
 <h3 id="geleerd2">dit heb ik geleerd</h3>
 <h4>figma workshop</h4>
 <p>

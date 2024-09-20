@@ -72,6 +72,8 @@
             ook heb ik gekeken naar hoe ik tekst kan laten verschijn na 2 seconden zie hier de code pen
             <a href="https://codepen.io/hubspot/embed/ExWxByR?height=384.6151123046875&theme-id=39533&default-tab=css%2Cresult&slug-hash=ExWxByR&editable=true&user=hubspot&name=cp_embed_2#result-box">link
                 code pen</a>
+
+            <br>
             en ik heb 3 componenten gemaakt en toegepast in mijn visitekaartje waardoor ik meer overicht heb
             welke code ik gebruik en waar welke styling van is
 
