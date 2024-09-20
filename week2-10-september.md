@@ -3,6 +3,8 @@
      <li>ga naar <a href="#geleerd2">wat heb ik geleerd</a></li>
  </ul>
 
+
+<h2>leerlogboek</h2>
 <h2>10 september</h2>
 heb ik een workshop over figma gekregen en hebben we simpele oefeningen gedaan die we moeten na maken 
 
@@ -74,7 +76,74 @@ mijn uitwerking van de papieren schets
 
 ik heb een basisopzet gemaakt voor de squadpage
  zie de link https://github.com/KaanKalmi/your-tribe-for-life-squad-page/tree/squadpage2.2-yujing
+ophalen data uit de database
 
+ ````javascript
+import fetchJson from "$lib/fetch-json"
+
+export async function load() {
+	// klassen vorig jaar
+	const url = 'https://fdnd.directus.app/items/person/?filter={"squad_id":3}'
+	const squadD = await fetchJson(url)
+
+	const url1 = 'https://fdnd.directus.app/items/person/?filter={"squad_id":4}'
+	const squadE = await fetchJson(url1)
+
+	const url2 = 'https://fdnd.directus.app/items/person/?filter={"squad_id":5}'
+	const squadF = await fetchJson(url2)
+
+	// klassen dit jaar
+	const squad= 'https://fdnd.directus.app/items/squad/?filter={%22tribe_id%22:2}'
+	const newsquad = await fetchJson(squad)
+
+	// iedereen
+	const everyone = 'https://fdnd.directus.app/items/person/'
+	const persons = await fetchJson(everyone)
+
+
+	return {
+		persons: persons.data,
+		squadD: squadD.data,
+		squadE: squadE.data,
+		squadF: squadF.data,
+
+
+		// dit is als de nieuwe klas toegevoegd word
+		// https://fdnd.directus.app/items/person/?filter={%22squad_id%22:6}
+		newsquad: newsquad.data
+
+	}
+}
+````
+
+````sveltehtml
+
+<ul>
+    {#each data.squadD as person}
+        <li>
+            {#if person.avatar}
+                <img alt="Foto van {person.name}" src="{person.avatar}">
+            {:else}
+                <img alt="standard icon"
+                     src="../../static/images/profile-icon.png"/>
+            {/if}
+            <div>
+                <a href="/{person.id}">
+
+
+                    {person.name}
+                </a>
+                <span>klas : {person.squad_id}</span>
+                <ButtonComponent>
+
+                </ButtonComponent>
+
+            </div>
+
+        </li>
+    {/each}
+</ul>
+````
 en ik heb aan mijn visitekaartje gewerkt
 daarin heb ik een voorbeeld gevonden hoe ik mooi effect kan geven aan een hover
 https://codepen.io/twhite96/embed/brryVq?height=600&default-tab=result&embed-version=2#result-box
@@ -89,13 +158,12 @@ welke code ik gebruik en waar welke styling van is
 ![img_1.png](img_1.png)
 
 zie de components
-<ul><li><a href="https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/MoreInfo.svelte">moreinfo</a>more info</li>
+<ul><li><a href="https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/MoreInfo.svelte">moreinfo</a></li>
 <li>
 <a href="https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/Socialmedia.svelte">socialmedia</a>
 </li>
 <li>
-<a href="
-https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/button.svelte">button</a>
+<a href="https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/button.svelte">button</a>
 </li>
 </ul>
 
@@ -161,6 +229,77 @@ hoe je kleuren en buttons kunt hergebruiken.
      onMount  is een lifecycle method dat uitgevoerd word nadat een component is rendered naar de dom
      als dat renderen niet gebruikt dan krijg je een error queryselctor is not defined
  </p>
+
+ <h4>ophalen data uit de datbase code snippet</h4>
+
+ 
+  ````javascript
+
+import fetchJson from "$lib/fetch-json"
+
+export async function load() {
+	// klassen vorig jaar
+	const url = 'https://fdnd.directus.app/items/person/?filter={"squad_id":3}'
+	const squadD = await fetchJson(url)
+
+	const url1 = 'https://fdnd.directus.app/items/person/?filter={"squad_id":4}'
+	const squadE = await fetchJson(url1)
+
+	const url2 = 'https://fdnd.directus.app/items/person/?filter={"squad_id":5}'
+	const squadF = await fetchJson(url2)
+
+	// klassen dit jaar
+	const squad= 'https://fdnd.directus.app/items/squad/?filter={%22tribe_id%22:2}'
+	const newsquad = await fetchJson(squad)
+
+	// iedereen
+	const everyone = 'https://fdnd.directus.app/items/person/'
+	const persons = await fetchJson(everyone)
+
+
+	return {
+		persons: persons.data,
+		squadD: squadD.data,
+		squadE: squadE.data,
+		squadF: squadF.data,
+
+
+		// dit is als de nieuwe klas toegevoegd word
+		// https://fdnd.directus.app/items/person/?filter={%22squad_id%22:6}
+		newsquad: newsquad.data
+
+	}
+}
+````
+
+````sveltehtml
+
+<ul>
+    {#each data.squadD as person}
+        <li>
+            {#if person.avatar}
+                <img alt="Foto van {person.name}" src="{person.avatar}">
+            {:else}
+                <img alt="standard icon"
+                     src="../../static/images/profile-icon.png"/>
+            {/if}
+            <div>
+                <a href="/{person.id}">
+
+
+                    {person.name}
+                </a>
+                <span>klas : {person.squad_id}</span>
+                <ButtonComponent>
+
+                </ButtonComponent>
+
+            </div>
+
+        </li>
+    {/each}
+</ul>
+````
 
 [//]: # (gevonden op daily dev)
 [//]: # (https://skillivo.in/css-rotate-property-explained-5/ )
