@@ -3,6 +3,8 @@
      <li>ga naar <a href="#geleerd2">wat heb ik geleerd</a></li>
  </ul>
 
+
+<h2>leerlogboek</h2>
 <h2>10 september</h2>
 heb ik een workshop over figma gekregen en hebben we simpele oefeningen gedaan die we moeten na maken 
 
@@ -65,8 +67,12 @@ verder hebben we die dag ook inspiratie opgedaan en de papieren schetsen gebrope
 inpsiratie
 ![image](https://github.com/user-attachments/assets/42ccf209-49d6-460f-9e14-03106c7f3297)
 
-de papieren schets
+de papieren schets  <br>
+
+
 ![image](https://github.com/user-attachments/assets/e43b37e6-101f-4f54-83eb-307e2102ef74)
+
+
 mijn uitwerking van de papieren schets
 <br>
 
@@ -74,7 +80,74 @@ mijn uitwerking van de papieren schets
 
 ik heb een basisopzet gemaakt voor de squadpage
  zie de link https://github.com/KaanKalmi/your-tribe-for-life-squad-page/tree/squadpage2.2-yujing
+ophalen data uit de database
 
+ ````javascript
+import fetchJson from "$lib/fetch-json"
+
+export async function load() {
+	// klassen vorig jaar
+	const url = 'https://fdnd.directus.app/items/person/?filter={"squad_id":3}'
+	const squadD = await fetchJson(url)
+
+	const url1 = 'https://fdnd.directus.app/items/person/?filter={"squad_id":4}'
+	const squadE = await fetchJson(url1)
+
+	const url2 = 'https://fdnd.directus.app/items/person/?filter={"squad_id":5}'
+	const squadF = await fetchJson(url2)
+
+	// klassen dit jaar
+	const squad= 'https://fdnd.directus.app/items/squad/?filter={%22tribe_id%22:2}'
+	const newsquad = await fetchJson(squad)
+
+	// iedereen
+	const everyone = 'https://fdnd.directus.app/items/person/'
+	const persons = await fetchJson(everyone)
+
+
+	return {
+		persons: persons.data,
+		squadD: squadD.data,
+		squadE: squadE.data,
+		squadF: squadF.data,
+
+
+		// dit is als de nieuwe klas toegevoegd word
+		// https://fdnd.directus.app/items/person/?filter={%22squad_id%22:6}
+		newsquad: newsquad.data
+
+	}
+}
+````
+
+````sveltehtml
+
+<ul>
+    {#each data.squadD as person}
+        <li>
+            {#if person.avatar}
+                <img alt="Foto van {person.name}" src="{person.avatar}">
+            {:else}
+                <img alt="standard icon"
+                     src="../../static/images/profile-icon.png"/>
+            {/if}
+            <div>
+                <a href="/{person.id}">
+
+
+                    {person.name}
+                </a>
+                <span>klas : {person.squad_id}</span>
+                <ButtonComponent>
+
+                </ButtonComponent>
+
+            </div>
+
+        </li>
+    {/each}
+</ul>
+````
 en ik heb aan mijn visitekaartje gewerkt
 daarin heb ik een voorbeeld gevonden hoe ik mooi effect kan geven aan een hover
 https://codepen.io/twhite96/embed/brryVq?height=600&default-tab=result&embed-version=2#result-box
@@ -89,17 +162,37 @@ welke code ik gebruik en waar welke styling van is
 ![img_1.png](img_1.png)
 
 zie de components
-<ul><li><a href="https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/MoreInfo.svelte">moreinfo</a>more info</li>
+<ul><li><a href="https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/MoreInfo.svelte">moreinfo</a></li>
 <li>
 <a href="https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/Socialmedia.svelte">socialmedia</a>
 </li>
 <li>
-<a href="
-https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/button.svelte">button</a>
+<a href="https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/button.svelte">button</a>
 </li>
 </ul>
 
+importern van de buttons is simpel dit staat in je script
+````
+    export let data;
+    import Moreinfo from '$lib/MoreInfo.svelte';
+    import ActionButton from '$lib/button.svelte';
+    import SocialMedia from '$lib/Socialmedia.svelte';
+````
 
+
+hier roep je de componenten aan 
+````
+   <section class="animationfade">
+                <h2>Over mij</h2>
+                <p> Leeftijd: 20</p>
+                <p>{data.persons.bio}  </p>
+                <p>Op dit moment doe ik de opleiding frontend design en development en zit ik in mijn
+                    afstudeerjaar</p>
+            </section>
+            <SocialMedia/>
+            <ActionButton/>
+            <Moreinfo/>
+````
 
 <h2>11 september</h2>
 We hebben les gehad in creative coding hoe je met svelte javascript kan gebruiken en hoe je 
@@ -141,10 +234,14 @@ hoe je kleuren en buttons kunt hergebruiken.
  <p>In de les heb ik geprobeerd om een kaartje na te maken met
      behulp van een grid en geleerd hoe je dit kunt positioneren.
 
-   Daarnaast heb ik die dag geleerd hoe ik een verbinding met de database kan maken en hoe ik iedereen kan
-   laten zien. Als je op een naam klikt, ga je naar de profielkaart. Hier is de code die ik heb gebruikt in de
-   +page.js:
+ 
  </p>
+
+<p>
+	ook heb ik all mijn schetsen in figma gemaakt zie hier de issue die ik heb aangemaakt:  https://github.com/yujing-student/your-tribe-for-life-profile-card/issues/24
+</p>
+
+ 
  <h4>creative coding csr</h4>
  <p>
      ik heb een workshop gehad over creative coding en hoe je met css leuke animaties kan maken en hoe ik met
@@ -152,6 +249,7 @@ hoe je kleuren en buttons kunt hergebruiken.
      svelte transitions een animatie kan toevoegen aan mijn visitekaartje <a
          href="https://svelte.dev/docs/svelte-transition">link naar svelte documentatie
  </a>
+ 
 
  </p>
  <p>
@@ -160,7 +258,109 @@ hoe je kleuren en buttons kunt hergebruiken.
      gebruiken want
      onMount  is een lifecycle method dat uitgevoerd word nadat een component is rendered naar de dom
      als dat renderen niet gebruikt dan krijg je een error queryselctor is not defined
+
+  zie deze issue waar ik het probleem beschhrijf en de oplossing https://github.com/yujing-student/your-tribe-for-life-profile-card/issues/15
  </p>
+
+ <h4>ophalen data uit de datbase code snippet</h4>
+  ik heb  geleerd hoe ik een verbinding met de database kan maken en hoe ik iedereen kan
+   laten zien. Als je op een naam klikt, ga je naar de profielkaart. Hier is de code die ik heb gebruikt in de
+   +page.js:
+ 
+  ````javascript
+
+import fetchJson from "$lib/fetch-json"
+
+export async function load() {
+	// klassen vorig jaar
+	const url = 'https://fdnd.directus.app/items/person/?filter={"squad_id":3}'
+	const squadD = await fetchJson(url)
+
+	const url1 = 'https://fdnd.directus.app/items/person/?filter={"squad_id":4}'
+	const squadE = await fetchJson(url1)
+
+	const url2 = 'https://fdnd.directus.app/items/person/?filter={"squad_id":5}'
+	const squadF = await fetchJson(url2)
+
+	// klassen dit jaar
+	const squad= 'https://fdnd.directus.app/items/squad/?filter={%22tribe_id%22:2}'
+	const newsquad = await fetchJson(squad)
+
+	// iedereen
+	const everyone = 'https://fdnd.directus.app/items/person/'
+	const persons = await fetchJson(everyone)
+
+
+	return {
+		persons: persons.data,
+		squadD: squadD.data,
+		squadE: squadE.data,
+		squadF: squadF.data,
+
+
+		// dit is als de nieuwe klas toegevoegd word
+		// https://fdnd.directus.app/items/person/?filter={%22squad_id%22:6}
+		newsquad: newsquad.data
+
+	}
+}
+````
+
+````sveltehtml
+
+<ul>
+    {#each data.squadD as person}
+        <li>
+            {#if person.avatar}
+                <img alt="Foto van {person.name}" src="{person.avatar}">
+            {:else}
+                <img alt="standard icon"
+                     src="../../static/images/profile-icon.png"/>
+            {/if}
+            <div>
+                <a href="/{person.id}">
+
+
+                    {person.name}
+                </a>
+                <span>klas : {person.squad_id}</span>
+                <ButtonComponent>
+
+                </ButtonComponent>
+
+            </div>
+
+        </li>
+    {/each}
+</ul>
+````
+
+<h4>componententen</h4>
+
+
+importern van de buttons is simpel dit staat in je script
+````
+    export let data;
+    import Moreinfo from '$lib/MoreInfo.svelte';
+    import ActionButton from '$lib/button.svelte';
+    import SocialMedia from '$lib/Socialmedia.svelte';
+````
+
+
+hier roep je de componenten aan 
+````
+   <section class="animationfade">
+                <h2>Over mij</h2>
+                <p> Leeftijd: 20</p>
+                <p>{data.persons.bio}  </p>
+                <p>Op dit moment doe ik de opleiding frontend design en development en zit ik in mijn
+                    afstudeerjaar</p>
+            </section>
+            <SocialMedia/>
+            <ActionButton/>
+            <Moreinfo/>
+````
+
 
 [//]: # (gevonden op daily dev)
 [//]: # (https://skillivo.in/css-rotate-property-explained-5/ )

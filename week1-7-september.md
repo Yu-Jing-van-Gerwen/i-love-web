@@ -22,9 +22,11 @@ frontend design en development om een oplossing voor een opdrachtgever te realis
 **hoe zorg ik dat mijn repository overzicheljk en goed navolgbaar is zonder wiki**
 
 
-ga naar <a href="#geleerd1>dit heb ik geleerd</a>
-
-<h2>leerlogboek</h2>
+<h2>ga naar</h2> 
+<a href="#geleerd1">dit heb ik geleerd</a>
+<br>
+<a href="#leerlogboek">dit heb ik gedaan</a>
+<h2 id="leerlogboek">leerlogboek</h2>
 <h3>2-9-2024</h3>
 Ik heb mijn 1ste les dag gehad en daarin heb ik svelte geinstalleerd en een ontwerp gemaakt van de squadpage en een tutorial gevolgd van svelte
 
@@ -119,7 +121,7 @@ Svelte: Een Compilerende Componentenframework
 
 <p>ophalen data uit de databse
 
-fetch json
+fetch json file
 
 ````javascript
 export default async function fetchJson(url, payload = {}) {
@@ -145,6 +147,31 @@ export async function load() {
 	}
 }
 
+````
+
+op de +page.svelte
+````sveltehtml
+
+ <h1>{data.persons.name}  {data.persons.prefix}  {data.persons.surname}</h1>
+            <picture>
+                <source
+                        srcset="{data.persons.avatar}?format=webp"
+                        type="image/webp"
+
+                />
+                <source
+                        srcset="{data.persons.avatar}?format=avif"
+                        type="image/avif"
+                />
+
+                <img  src={data.persons.avatar} alt="foto van mij"/>
+            </picture>
+            <section class="animationfade">
+                <h2>Over mij</h2>
+                <p> Leeftijd: 20</p>
+                <p>{data.persons.bio}  </p>
+                <p>Op dit moment doe ik de opleiding frontend design en development en zit ik in mijn
+                    afstudeerjaar</p>
 ````
 
 </p>
