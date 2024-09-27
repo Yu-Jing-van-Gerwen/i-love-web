@@ -32,6 +32,30 @@ welke user story oppakt en waar we aan gaan beginnen
 </p>
 
 
+<p> <strong>
+    25-9
+</strong>
+ik heb een sitemap gemaakt een wireframe en een data model
+</p>
+
+<p> <strong>
+    26-9
+</strong>
+ik heb mijn schets in html verwerkt op de pagina 
+en ik heb een connectie met de database gemaakt en de data weergegeven op de pagina
+
+en 
+</p>
+
+
+<p> <strong>
+    27-9
+</strong>
+ik heb het principe van grid uitgelegd aan een eerstejaars en daarin heb
+ik gezegd wat het is en hoe je het kan gebruiken
+en
+</p>
+
 <h3 id="geleerd3">dit heb ik geleerd    </h3>
 
 
