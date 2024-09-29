@@ -18,6 +18,7 @@ debriefing geschreven en opgestuurd ook hebben we een
 projectboard ingericht met code conventies en we hebben het teamcanvas ingevuld
 
 
+
 </p>
 
 <p> <strong>

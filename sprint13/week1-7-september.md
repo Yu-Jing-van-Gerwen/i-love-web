@@ -84,7 +84,7 @@ export default async function fetchJson(url, payload = {}) {
 
 <h3>5-9</h3> ik heb mijn profilecard in code uitgewerkt en het button component gemaakt voor de squad page en dit is gelukt met behulp van de tutorial
 
-![img.png](img.png)
+![img.png](../img.png)
 
 
 <h3>6-9</h3> ik heb geleerd hoe ik netjes issues kan inschieten en feedback kan

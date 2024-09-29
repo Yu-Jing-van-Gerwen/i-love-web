@@ -1,3 +1,10 @@
+<script>
+
+    import squad from '$lib/img/squad.png';
+    import squadall from '$lib/img/squadall.png';
+    import button from '$lib/img/codebutton.png';
+</script>
+
 
 <section class="week2 generalStyling">
 
@@ -56,6 +63,11 @@
             <a href="https://github.com/KaanKalmi/your-tribe-for-life-squad-page/tree/squadpage2.2-yujing">zie de
                 link</a> zie
             de link
+
+
+            <img src="{squad}">
+
+            <img src="{squadall}">
         </p>
         <p>
 
@@ -89,6 +101,8 @@
             <a href="https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/button.svelte">button
                 component
             </a>
+
+            <img src="{button}">
         </p>
         <p>
 
@@ -173,6 +187,6 @@
         border-radius: 15px;
     }
     img{
-        width: 250px;
+        width: 650px;
     }
 </style>
