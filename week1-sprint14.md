@@ -69,11 +69,12 @@ ik heb het principe van grid uitgelegd aan een eerstejaars en daarin heb
 ik gezegd wat het is en hoe je het kan gebruiken
 en ik heb issues ingeschoten bij eerstejaars 
 
-    https://github.com/OFRqq/the-client-website/issues/created_by/yujing-student
-    https://github.com/irisvw/the-client-website/issues/created_by/yujing-student
-    https://github.com/kimnikitaschijf/the-client-website/issues/4
-    https://github.com/nadiachaja/the-client-website/issues/created_by/yujing-student
-    https://github.com/Clarice-COD/the-client-website/issues/4
+https://github.com/OFRqq/the-client-website/issues/created_by/yujing-student
+https://github.com/irisvw/the-client-website/issues/created_by/yujing-student
+https://github.com/kimnikitaschijf/the-client-website/issues/4
+https://github.com/nadiachaja/the-client-website/issues/created_by/yujing-student
+https://github.com/Clarice-COD/the-client-website/issues/4
+
 </p>
 
 <h3 id="geleerd3">dit heb ik geleerd    </h3>
