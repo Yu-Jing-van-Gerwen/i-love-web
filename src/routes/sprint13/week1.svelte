@@ -51,8 +51,10 @@
         page en dit is
         gelukt
         met behulp van de tutorial
-
+        <br>
         <img src="https://raw.githubusercontent.com/yujing-student/i-love-web/main/img.png">
+
+        <br>
         <strong>6-9</strong> ik heb geleerd hoe ik netjes issues kan inschieten en feedback kan geven waardoor
         eerstejaars beter
         begrijpen

@@ -1,3 +1,9 @@
+<script>
+
+    import week3 from '$lib/img/week3.png';
+</script>
+
+
 <div class="week3 generalStyling">
 
 
@@ -19,11 +25,15 @@
     <a href="https://blog.jetbrains.com/webstorm/2024/07/how-to-learn-javascript/?ref=dailydev">artikel
     </a>
         hoe je
-        javascript leert en onderin stond ook hoe je veu js llert en branches met uitleg over git en daar ben ik deze website gekenekn
+        javascript leert en onderin stond ook hoe je leert met en branches met uitleg over git en daar ben ik deze website gekenekn
         <a href="https://learngitbranching.js.org/">leren git branches website</a>en
-        hier gebruik je de command line en zie je visueel wat er gebeurt op de branch en dat is ook interessant om te zien en beter te berigjpen wat er gebeurd
+        hier gebruik je de command line en zie je visueel wat er gebeurt op de branch en dat is ook interessant om te zien en beter te
+        begrijpen wat er gebeurd
 
+        verder heb ik ook mijn javacipt interactie werkend gekregen zie hier de code
+        <br>
 
+        <img src="{week3}">
     </p>
     <p>
     verder heb ik ook het projectboard bijgwerkt met sizes van hoe zwaar een taak waarschijnlijk zal zijn en ik ben gaan kijken naar animaties om mijjn profielkaartje
