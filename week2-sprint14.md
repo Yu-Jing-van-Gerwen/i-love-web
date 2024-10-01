@@ -17,9 +17,50 @@ ik heb met mijn groepje poker planning gespeeld en daarin hebben we issues een s
 
 verder hebben we ook les gehad over de principes van svelte 
 
-<h2>kernprincipes sveltekit</h2>
+kernprincipes sveltekit
+<h2>project structuur</h2>
+<ul>
+<li>
+Server-side code: Alles wat op de server wordt uitgevoerd, zoals het ophalen van data, staat in de server map.
+</li>
 
-</p>
+<li>
+Statische assets: Afbeeldingen, CSS-bestanden en andere statische bestanden staan in de static map.
+</li>
+<li>
+Routing: Routes worden gedefinieerd aan de hand van de bestandsstructuur, waardoor het makkelijk is om de structuur van je applicatie te begrijpen.
+</li>
+
+
+</ul>
+
+<h2>data ophalen</h2>
+
+<ul>
+<li>
+load functie: Hiermee haal je data op voordat een component wordt gerenderd, zowel op de server als in de browser.
+</li>
+<li>async word gebruikt zodat de data eerst opgehaald word en dan pas getoond word als alle data ingeladen is</li>
+
+
+<li>
+componenten maken je code herbruikbaar
+</li>
+<li>
+binding bind data zodat een gebruiker zijn naam
+kan aanpassen en dit in de gehele database word toegepast</li>
+
+<li>
+.env bestanden zitten onderwater en zolang je 
+key private is zal de api url niet zichtbaar zijn op github
+
+</li>
+
+<li>vite De build tool die SvelteKit gebruikt voor snelle ontwikkel- en productie-builds.</li>
+
+
+</ul>
+
 
 <p> <strong>
    1-10
