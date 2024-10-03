@@ -77,15 +77,42 @@ https://github.com/fdnd-agency/voorhoede/issues/31#issuecomment-2385430119
 
 
 <p> <strong>
- 
+2-10 
 </strong>
+ik heb les gehad in het kritisch bekijken van een design en daarin hebben we gekeken naar deze regels om toe te passen van dieter rams
 
+<ul>
+    <li>good design makes a product understandable</li>
+    <li>good design is through down to the last detail</li>
+    <li>good design is as little design as possible</li>
+</ul>
+
+deze issue heb ik ingeschoten bij aikiko
+https://github.com/Akikosophia/tumi-mundo/issues/1
+
+dit zijn de issues die ik ontving
+https://github.com/yujing-student/lose-your-head-the-client-case/issues
+
+
+
+verder hebben we het datamodel opnieuw ingericht omdat de opdrachtgever daar verbetering in zag
+https://github.com/orgs/fdnd-agency/projects/40/views/1?filterQuery=-label%3A%22User+story%22++-label%3Aideas+-has%3Aindicator+herontwerp&pane=issue&itemId=81804690
+ 
 </p>
 
 <p> <strong>
-   
+   3-10
 </strong>
+Ik heb opgelost hoe ik de errorpage werkend krijg en ik ben erachter gekomen waarom ik op de members page
+niet direct de errorpage te zien kreeg en dat kwam omdat de widht en height een int parse moesten zijn en ik moest een ternary operator toevoegen
+waarin ik aangaf als de height niet ingevuld vul dan auto in waardoor je de errror Nan op de width niet kreeg
 
+
+
+verder heb ik het 2de ontwerp gemaakt in figma met de feedback uit de workshop design critique
+https://github.com/fdnd-agency/voorhoede/issues/34#issuecomment-2391322830
+
+    
 </p>
 
 
