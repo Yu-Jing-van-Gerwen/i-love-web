@@ -121,6 +121,8 @@ https://github.com/fdnd-agency/voorhoede/issues/34#issuecomment-2391322830
 </strong>
 We love web nicolas garnier Indepent creative developer 
 
+https://nico.computer/ website 
+
 started in 2012 end of flash start of js for everything
 started freelancing in 2018
 agancies product & startups
@@ -135,6 +137,56 @@ at the core code,design,,motion,interacty
 how can animations & 
 support the narrative &set the mood
 solve a design or technical challenge 
+vita agency https://vitaarchitecture.com/ in londen 
+daar heeft hij aan gewerkt en de pagina moet smooth zijn en niet te druk
+so as a user you can play with the menu for playfullness
+
+hij heeft gewerkt aan lief amsterdam
+waar een mooie animatie in zit 
+
+https://liefamsterdam.nl/?source=g&device=c&campaignid=19018830878&adgroupid=146600582609&gad_source=1&gclid=Cj0KCQjwpP63BhDYARIsAOQkATYHVHjmpGeKus1q2v-QlQYpIftkppEbL8rp8rYWeYNedtGwc4aqO30aAvkrEALw_wcB
+
+De anticipations is comming from a video and when you have a animation it turns tehe video in text 
+it is just creating the animation 
+the architecture movement 
+
+notion interaction css section 
+text animation en bounchines the stickness of the text 
+it is nice to have some elements to focus of the user 
+you can offer more content 
+when designer face some challenge that comes from what the browser allows you to make 
+hij heeft een duidelijke call to action gemaakt waarin de drempel om je aan te melden kleiner word en hij maakt gebruik van ui states 
+
+https://lifeworld.wetransfer.com/ 
+
+
+by showing something from noting the user can do 1 thing and that is clicking on the button 
+
+you have people who dont like animations and this website was for a artist 
+css blur om elementen zichtbaar te hebben na 2 of 
+3 seconden 
+when they play around the user is likely going to stay longer on the webpage
+the animtion must be working when it is broken you have a problem as developer
+make sure that the easings 
+
+
+
+een designer met een choice en thatn show the text 
+it is simole to implement 
+https://loerarchitecten.com/en
+
+
+https://filaexplore.com/mountains
+
+there is always a nice touch with opacity to make the page not to full
+we use the image back 
+
+conclusion
+think of animation and interacs as an extion to an orginal intent
+be open minded
+ask yourself what it brings ans ask for feedback
+be ready to spend a lot of time on it 
+
 
 
 </p>
