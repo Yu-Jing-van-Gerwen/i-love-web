@@ -117,8 +117,24 @@ https://github.com/fdnd-agency/voorhoede/issues/34#issuecomment-2391322830
 
 
 <p> <strong>
-  
+  4-10
 </strong>
+We love web nicolas garnier Indepent creative developer 
+
+started in 2012 end of flash start of js for everything
+started freelancing in 2018
+agancies product & startups
+
+creative developer fancy term for dev with an eye for evreaitivy 
+wesite apps installations
+js css webg unity 
+use all available tools to solve a creative &technical challenge 
+
+at the core code,design,,motion,interacty 
+
+how can animations & 
+support the narrative &set the mood
+solve a design or technical challenge 
 
 
 </p>
