@@ -1,6 +1,4 @@
-
 <script>
-    import { CodeBlock } from '@skeletonlabs/skeleton';
     import logo from '$lib/img/try.png';
     import dataimage from '$lib/img/test2.png';
     import andere from '$lib/img/andere.png';
@@ -69,8 +67,20 @@
     <a href="https://github.com/lisagjh/voorhoede/pull/2">de pull request</a>
 
 
+    <p><strong>27-9</strong> ik heb het principe van grid uitgelegd aan een eerstejaars en daarin heb ik gezegd wat het is en hoe je het kan gebruiken en ik heb issues ingeschoten bij eerstejaars
+
+    <a href="https://github.com/OFRqq/the-client-website/issues/created_by/yujing-student">daan</a>
+    <a href="https://github.com/irisvw/the-client-website/issues/created_by/yujing-student">iris</a>
+    <a href="https://github.com/kimnikitaschijf/the-client-website/issues/4">kim</a>
+    <a href="https://github.com/nadiachaja/the-client-website/issues/created_by/yujing-student">kim</a>
+    <a href="https://github.com/Clarice-COD/the-client-website/issues/4">claire</a>
+
+
+
+
 
     <h3 id="geleerd1">dit heb ik geleerd</h3>
+    Ik heb geleerd hoe ik een datamodel maak als erd diagram
 
 
 
