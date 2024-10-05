@@ -10,21 +10,9 @@
     <li>ga naar <a href="#geleerd1">wat heb ik geleerd</a></li>
     <li>ga naar <a href="#gedaan1">wat heb ik gedaan</a></li>
 </ul>
-
-
 <section>
 
     <h4 id="gedaan1">dit heb ik gedaan</h4>
-
-
-    <p>
-        https://github.com/OFRqq/the-client-website/issues/created_by/yujing-student
-        https://github.com/irisvw/the-client-website/issues/created_by/yujing-student
-        https://github.com/kimnikitaschijf/the-client-website/issues/4
-        https://github.com/nadiachaja/the-client-website/issues/created_by/yujing-student
-        https://github.com/Clarice-COD/the-client-website/issues/4
-    </p>
-
 
     <p><strong>23-9</strong>
     <p>

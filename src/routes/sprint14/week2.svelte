@@ -12,8 +12,10 @@
     </strong>
 
         ik heb met mijn groepje poker planning gespeeld en daarin hebben we issues een size gegeven en een start en einddatum zodat duidelijk is hoe zwaar zo'n taak is
+        <br>
 
-        ![image](https://github.com/user-attachments/assets/26c8bbfc-1c95-44a8-bb0b-ee02c1350c1a)
+        <img src="https://github.com/user-attachments/assets/26c8bbfc-1c95-44a8-bb0b-ee02c1350c1a">
+        <br>
 
         verder hebben we ook les gehad over de principes van svelte
 
@@ -88,9 +90,17 @@
     </ul>
     <p/>
 
-    deze issue heb ik ingeschoten bij aikiko
+    deze issue heb ik ingeschoten of gekregen
+    <ul>
+        <li>
+            <a href="https://github.com/Akikosophia/tumi-mundo/issues/1">ingeschoten bij akiko</a>
+        </li>
+        <li>
+            ontvangen issues
+        </li>
+    </ul>
 
-    <a href="https://github.com/Akikosophia/tumi-mundo/issues/1">ingeschoten akiko</a>
+
     <a href="https://github.com/yujing-student/lose-your-head-the-client-case/issues">de ontvangen issues</a>
 
 
@@ -168,6 +178,14 @@
         <li><a href="https://filaexplore.com/mountains">filla exploere</a> </li>
     </ul>
     <h3 id="geleerd2">dit heb ik geleerd    </h3>
+    <p>Ik weet nu hoe ik kritisch naar mijn design moet kijken  </p>
+    <ul>
+        <li>good design makes a product understandable:  Dit betekent dat het product eenvoudig te begrijpen en te gebruiken moet zijn. De functie van het product moet duidelijk zijn zonder dat er ingewikkelde instructies nodig zijn</li>
+        <li>good design is through down to the last detail: het ontwerp moet aansluiten en logisch zijn en de uitlijning moet goed zijn</li>
+        <li>good design is as little design as possible Het desing moet niet te druk en te vol zijn </li>
+    </ul>
+
+
 
 
 </div>
