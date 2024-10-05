@@ -2,6 +2,7 @@
 <script>
     import { CodeBlock } from '@skeletonlabs/skeleton';
     import logo from '$lib/img/try.png';
+    import dataimage from '$lib/img/test2.png';
     import andere from '$lib/img/andere.png';
 
 </script>
@@ -16,28 +17,57 @@
 <section>
 
     <h4 id="gedaan1">dit heb ik gedaan</h4>
-    <p><strong>23-9</strong>
-        ik heb een briefing gehad met de opdrachtgever en daar hebben we de opdracht te horen gekregen aan de hand daarvan hebben we een debriefing geschreven en opgestuurd ook hebben we een projectboard ingericht met code conventies en we hebben het teamcanvas ingevuld
-    </p>
-    <pre><code class="">
-                    npm create svelte@latest
-                     npm install
-                     npm run dev
-                    npm install @directus/sdk
-                </code></pre>
 
+
+    <p>
+        https://github.com/OFRqq/the-client-website/issues/created_by/yujing-student
+        https://github.com/irisvw/the-client-website/issues/created_by/yujing-student
+        https://github.com/kimnikitaschijf/the-client-website/issues/4
+        https://github.com/nadiachaja/the-client-website/issues/created_by/yujing-student
+        https://github.com/Clarice-COD/the-client-website/issues/4
+    </p>
+
+
+    <p><strong>23-9</strong>
+    <p>
+        ik heb een briefing gehad met de opdrachtgever en daar hebben we de opdracht te
+        horen gekregen
+        aan de hand daarvan hebben we een
+        debriefing geschreven en opgestuurd ook hebben we een
+        projectboard ingericht met code conventies en we hebben het teamcanvas ingevuld
+    </p>
+    <a href="https://github.com/orgs/fdnd-agency/projects/40">projectboard</a>
+    <a href="https://github.com/orgs/fdnd-agency/projects/40/views/1?filterQuery=-label%3A%22User+story%22++-label%3Aideas+brie&#x26;pane=issue&#x26;itemId=80748619">
+        debriefing</a>
+    <p>teamcanvas</p>
+    <p>
+        <img src="https://github.com/user-attachments/assets/dea1ab2b-9f59-453d-95ad-ee76ff15397c" alt="image">
+    </p>
 
     <p><strong>24-9</strong>
         we hebben user stories bedacht en afgesproken wie welke user story oppakt en waar we aan gaan beginnen
-    </p>
+
+
+    <a href="https://github.com/orgs/fdnd-agency/projects/40/views/6">de user stories</a>
+        ik heb gekeken naar hoe ik data uit de database kan ophalen
+    <a href="https://github.com/orgs/fdnd-agency/projects/40/views/1?pane=issue&#x26;itemId=81189071">ophalen data uit database</a>
+
+    <img src="{dataimage}">
+
+
 
 
     <p><strong>25-9</strong> ik heb een sitemap gemaakt een wireframe en een data model
+    <a href="https://github.com/fdnd-agency/voorhoede/issues/14#issue-2544911254">sitemap</a>
     </p>
 
 
 
-    <p><strong>26-9</strong> ik heb mijn schets in html verwerkt op de pagina en ik heb een connectie met de database gemaakt en de data weergegeven op de pagina
+    <p><strong>26-9</strong> ik heb mijn schets in html verwerkt op de pagina en ik heb een connectie met de database gemaakt en de data
+        weergegeven op de pagina
+    en hier heb ik een pull request van gemaakt zodat anderen ook de data kunnen ophalen
+    <a href="https://github.com/lisagjh/voorhoede/pull/2">de pull request</a>
+
 
 
     <h3 id="geleerd1">dit heb ik geleerd</h3>
