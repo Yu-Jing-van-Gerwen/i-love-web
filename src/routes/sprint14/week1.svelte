@@ -6,10 +6,7 @@
 </script>
 
 <h2 id="week1">week1</h2>
-<ul>
-    <li>ga naar <a href="#geleerd1">wat heb ik geleerd</a></li>
-    <li>ga naar <a href="#gedaan1">wat heb ik gedaan</a></li>
-</ul>
+
 <section>
 
     <h4 id="gedaan1">dit heb ik gedaan</h4>
@@ -62,14 +59,4 @@
     <a href="https://github.com/kimnikitaschijf/the-client-website/issues/4">kim</a>
     <a href="https://github.com/nadiachaja/the-client-website/issues/created_by/yujing-student">kim</a>
     <a href="https://github.com/Clarice-COD/the-client-website/issues/4">claire</a>
-
-
-
-
-
-    <h3 id="geleerd1">dit heb ik geleerd</h3>
-    Ik heb geleerd hoe ik een datamodel maak als erd diagram
-
-
-
 </section>

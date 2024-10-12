@@ -2,11 +2,6 @@
 
 
     <h2 id="week2">week2</h2>
-    <ul>
-        <li>ga naar <a href="#geleerd2">wat heb ik geleerd</a></li>
-        <li>ga naar <a href="#gedaan2">wat heb ik gedaan</a></li>
-    </ul>
-    <h3 id="gedaan2">dit heb ik gedaan</h3>
     <p> <strong>
         30-9
     </strong>
@@ -84,10 +79,11 @@
         ik heb les gehad in het kritisch bekijken van een design en daarin hebben we gekeken naar deze regels om toe te passen van dieter rams
 
     <ul>
-        <li>good design makes a product understandable</li>
-        <li>good design is through down to the last detail</li>
-        <li>good design is as little design as possible</li>
+        <li>good design makes a product understandable:  Dit betekent dat het product eenvoudig te begrijpen en te gebruiken moet zijn. De functie van het product moet duidelijk zijn zonder dat er ingewikkelde instructies nodig zijn</li>
+        <li>good design is through down to the last detail: het ontwerp moet aansluiten en logisch zijn en de uitlijning moet goed zijn</li>
+        <li>good design is as little design as possible Het desing moet niet te druk en te vol zijn </li>
     </ul>
+
     <p/>
 
     deze issue heb ik ingeschoten of gekregen
@@ -177,16 +173,6 @@
         <li><a href="https://loerarchitecten.com/en">loerarchitecten</a> </li>
         <li><a href="https://filaexplore.com/mountains">filla exploere</a> </li>
     </ul>
-    <h3 id="geleerd2">dit heb ik geleerd    </h3>
-    <p>Ik weet nu hoe ik kritisch naar mijn design moet kijken  </p>
-    <ul>
-        <li>good design makes a product understandable:  Dit betekent dat het product eenvoudig te begrijpen en te gebruiken moet zijn. De functie van het product moet duidelijk zijn zonder dat er ingewikkelde instructies nodig zijn</li>
-        <li>good design is through down to the last detail: het ontwerp moet aansluiten en logisch zijn en de uitlijning moet goed zijn</li>
-        <li>good design is as little design as possible Het desing moet niet te druk en te vol zijn </li>
-    </ul>
-
-
-
 
 </div>
 
