@@ -2,9 +2,9 @@
 
 
     <h2 id="week2">week2</h2>
-    <p> <strong>
+    <section> <h3>
         30-9
-    </strong>
+    </h3>
 
         ik heb met mijn groepje poker planning gespeeld en daarin hebben we issues een size gegeven en een start en einddatum zodat duidelijk is hoe zwaar zo'n taak is
         <br>
@@ -15,7 +15,7 @@
         verder hebben we ook les gehad over de principes van svelte
 
         kernprincipes sveltekit
-    <h2>project structuur</h2>
+    <h4>project structuur</h4>
     <ul>
         <li>
             Server-side code: Alles wat op de server wordt uitgevoerd, zoals het ophalen van data, staat in de server map.
