@@ -9,9 +9,7 @@
 
 <section>
 
-    <h4 id="gedaan1">dit heb ik gedaan</h4>
-
-    <p><strong>23-9</strong>
+    <section><h3>23-9</h3>
     <p>
         ik heb een briefing gehad met de opdrachtgever en daar hebben we de opdracht te
         horen gekregen
@@ -26,8 +24,9 @@
     <p>
         <img src="https://github.com/user-attachments/assets/dea1ab2b-9f59-453d-95ad-ee76ff15397c" alt="image">
     </p>
+    </section>
 
-    <p><strong>24-9</strong>
+    <section><h3>24-9</h3>
         we hebben user stories bedacht en afgesproken wie welke user story oppakt en waar we aan gaan beginnen
 
 
@@ -37,26 +36,28 @@
 
     <img src="{dataimage}">
 
+    </section>
 
 
-
-    <p><strong>25-9</strong> ik heb een sitemap gemaakt een wireframe en een data model
+    <section><h3>25-9</h3> ik heb een sitemap gemaakt een wireframe en een data model
     <a href="https://github.com/fdnd-agency/voorhoede/issues/14#issue-2544911254">sitemap</a>
-    </p>
+
+    </section>
 
 
-
-    <p><strong>26-9</strong> ik heb mijn schets in html verwerkt op de pagina en ik heb een connectie met de database gemaakt en de data
+    <section><h3>26-9</h3> ik heb mijn schets in html verwerkt op de pagina en ik heb een connectie met de database gemaakt en de data
         weergegeven op de pagina
     en hier heb ik een pull request van gemaakt zodat anderen ook de data kunnen ophalen
     <a href="https://github.com/lisagjh/voorhoede/pull/2">de pull request</a>
+    </section>
 
-
-    <p><strong>27-9</strong> ik heb het principe van grid uitgelegd aan een eerstejaars en daarin heb ik gezegd wat het is en hoe je het kan gebruiken en ik heb issues ingeschoten bij eerstejaars
+    <section><h3>27-9</h3> ik heb het principe van grid uitgelegd aan een eerstejaars en daarin heb ik gezegd wat het is en hoe je het kan gebruiken en ik heb issues ingeschoten bij eerstejaars
 
     <a href="https://github.com/OFRqq/the-client-website/issues/created_by/yujing-student">daan</a>
     <a href="https://github.com/irisvw/the-client-website/issues/created_by/yujing-student">iris</a>
     <a href="https://github.com/kimnikitaschijf/the-client-website/issues/4">kim</a>
     <a href="https://github.com/nadiachaja/the-client-website/issues/created_by/yujing-student">kim</a>
     <a href="https://github.com/Clarice-COD/the-client-website/issues/4">claire</a>
+
+    </section>
 </section>
