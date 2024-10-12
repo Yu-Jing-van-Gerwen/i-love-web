@@ -13,13 +13,11 @@
 
 
 <section>
-
-    <h4 id="gedaan1">dit heb ik gedaan</h4>
-    <p><strong>2-9</strong>
+    <section><h3>2-9</h3>
         ik svelte geinstalleerd en een ontwerp gemaakt van de squadpage
         en
         een tutorial gevolgd van svelte zodat ik beter begrijp wat het is ook weet ik hoe je code meot installerren
-    </p>
+
     <pre><code class="">
                     npm create svelte@latest
                      npm install
@@ -28,7 +26,7 @@
                 </code></pre>
     <img src="{andere}">
 
-    <h4>svelte</h4>
+    <h3>svelte</h3>
     <p>dit zijn aantekingen over svelte en sveltekit</p>
 
 
@@ -45,17 +43,18 @@
         Compiler: Svelte compileert je componenten naar efficiënte JavaScript-code, waardoor de runtime overhead
         minimaal
         is.</p>
+    </section>
 
 
 
-    <p><strong>3-9</strong>
+    <section><h3>3-9</h3>
         Ik heb verder de tutorial gevolgd en
         ik heb gekeken naar hoe ik mijn project kan deployen op vercel en dat is gleukt dankzij deze link <a
                 href="https://vercel.com/docs/frameworks/sveltekit">https://vercel.com/docs/frameworks/sveltekit</a>
-    </p>
+    </section>
 
 
-    <p><strong>4-9</strong> ik heb verder de tutorial gevolgd en een schets gemaakt voor mijn profilecard en ik heb op
+    <section><h3>4-9</h3> ik heb verder de tutorial gevolgd en een schets gemaakt voor mijn profilecard en ik heb op
         vercel deze
         tutorial
         gevonden en dit heeft mij enorm geholpen in het begrijpen van sveltekit
@@ -64,9 +63,9 @@
         <img src="{logo}">
 
 
-    </p>
 
-    <h4>sveltekit</h4>
+
+    <h3>sveltekit</h3>
     <p>
         SvelteKit: Een Metaframework Gebouwd op Svelte
         SSG, MPA, AMD, SPA, SSR: SvelteKit ondersteunt verschillende renderingsstrategieën, waaronder Static Site
@@ -79,9 +78,9 @@
         Code Splitting: Code wordt slim verdeeld over client en server
     </p>
 
+    </section>
 
-
-    <p><strong>5-9</strong> ik heb mijn profilecard in code uitgewerkt en het button component gemaakt voor de squad
+    <section><h3>5-9</h3> ik heb mijn profilecard in code uitgewerkt en het button component gemaakt voor de squad
         page en dit is
         gelukt
         met behulp van de tutorial
@@ -89,10 +88,14 @@
         <img src="https://raw.githubusercontent.com/yujing-student/i-love-web/main/img.png">
 
         <br>
-        <strong>6-9</strong> ik heb geleerd hoe ik netjes issues kan inschieten en feedback kan geven waardoor
-        eerstejaars beter
-        begrijpen
-        hoe ze naar de oplossing kunnnen werken</p>
+
+    </section>
+
+   <section>
+       <h3>6-9</h3> ik heb geleerd hoe ik netjes issues kan inschieten en feedback kan geven waardoor
+    eerstejaars beter
+    begrijpen
+    hoe ze naar de oplossing kunnnen werken</section>
 
 
 </section>

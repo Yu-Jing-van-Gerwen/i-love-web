@@ -8,18 +8,11 @@
 
 <section class="week2 generalStyling">
 
-
     <h2 id="week2">week2</h2>
-    <ul>
-        <li>ga naar <a href="#gedaan2">wat heb ik gedaan</a></li>
-    </ul>
-    <h3 id="gedaan2">dit heb ik gedaan</h3>
-    <p>
-
-
-        <strong>9-9</strong>
+    <section>
+        <h3>9-9</h3>
         ik heb een workshop over figma gekregen en hebben we simpele oefeningen gedaan die we moeten na maken
-    </p>
+
 
     <img src="https://github.com/user-attachments/assets/d74326d3-7e1e-43ba-a7c0-506963346f25" alt="fimga oefening">
 
@@ -72,11 +65,13 @@
 <!--        mijn uitwerking van de papieren schets in figma<br>-->
 <!--        <img src="https://github.com/user-attachments/assets/b78c1e75-3574-418d-ae4d-a90a832cc2d7" alt="mijn schets van het ontwerp"><br>-->
 
+    </section>
 
-        <p>
+
+    <section>
 
 
-            <strong>10-9</strong> heb ik de squadpage
+            <h3>10-9</h3> heb ik de squadpage
             gemaakt een basisopzet
             <a href="https://github.com/KaanKalmi/your-tribe-for-life-squad-page/tree/squadpage2.2-yujing">zie de
                 link</a> zie
@@ -88,7 +83,7 @@
             <br>
 
             <img src="{squadall}">
-        </p>
+
         <p>
 
 
@@ -126,9 +121,10 @@
             <img src="{button}">
             <br>
         </p>
-        <p>
+    </section>
+        <section>
 
-            <strong>11-9</strong>
+            <h3>11-9</h3>
             We hebben les gehad in creative coding hoe je met svelte javascript kan gebruiken en hoe je
             animaties kan gebruiken in svelte en ik lees de documentatie van svelte
             <a href="https://svelte.dev/docs/svelte-transition">link svelte transitions</a>
@@ -139,7 +135,7 @@
             gelezen zodat ik beter begrijp wat het doet en waarom je het nodig hebt
             <a href=" https://learn.svelte.dev/tutorial/onmount">uitleg over onmount</a>
 
-        </p>
+
     <h4>creative coding csr</h4>
     <p>
         ik heb een workshop gehad over creative coding en hoe je met css leuke animaties kan maken en hoe ik met
@@ -181,7 +177,7 @@
             Test altijd zelf de website die je maakt met een screenreader, zodat je weet hoe het voor anderen is.
 
         </p>
-
+        </section>
 
 
 </section>
