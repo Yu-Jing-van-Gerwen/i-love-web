@@ -2,12 +2,11 @@
 <div class="week3 generalStyling">
 
 <h2 id="week3">week3</h2>
-<h3 id="gedaan3">dit heb ik gedaan</h3>
 
 
-<p> <strong>
+<section> <h3>
    7-10
-</strong> 
+</h3> 
 Ik heb 1 eerstejaars student geholpen met css custom proporties wat het is en hoe je het kan gebruiken zie hier de linnk <a href="https://github.com/Nyathene/the-client-website/issues/1#issuecomment-2396249872">link issue</a>
 
 <img src="https://github.com/user-attachments/assets/35b0da95-fabf-4bd4-b950-a71f179a3f79">
@@ -28,16 +27,18 @@ ook heb ik een usertest gedaan met aikiko om te vragen wat er echt beter moet op
 <a href="https://github.com/lisagjh/voorhoede/issues/32">usertest</a>
 
 
-</p>
+</section>
 
-<p>
-<strong>8-10</strong> ik heb issues opgelost zie de commits <a href="https://github.com/lisagjh/voorhoede/commits/feature-member-overviewpage/?since=2024-10-08&until=2024-10-08">commits die dag</a>
+<section>
+<h3>8-10</h3> ik heb issues opgelost zie de commits <a href="https://github.com/lisagjh/voorhoede/commits/feature-member-overviewpage/?since=2024-10-08&until=2024-10-08">commits die dag</a>
     
-</p>
+</section>
 
 
-<p>
-<strong>9-10</strong> ik heb een eerstejaars geholpen want die liep vast en had wat meer uitleg nodig <a href="https://github.com/Clarice-COD/the-client-website/issues/12 ">commits die dag</a>
+<section>
+<h3>9-10</h3>
+
+<p>ik heb een eerstejaars geholpen want die liep vast en had wat meer uitleg nodig <a href="https://github.com/Clarice-COD/the-client-website/issues/12 ">commits die dag</a>
 
 verder heb ik ook tips gehad voor een goede sprint review en een goede readme
 
@@ -69,15 +70,12 @@ een goede readme
 <li>code conventies</li>
 
 </ul>
-
-    
-</p>
+</section>
 
 <section>
-   <h2>11-10</h2>
 
-   
-    <h3>sprint review</h2>
+<h3>11-10</h3>
+<h4>sprint review</h4>
    <a href="https://github.com/fdnd-agency/voorhoede/issues?q=is%3Aissue+is%3Aopen+label%3A%22feedback+sprint+review%22">alle feedback omschreven in issues</a>
 
    <p>de feedback die we kregen:
@@ -127,6 +125,6 @@ bij toegankelijkheid je moet overal doorheen kunnen tabben en testen op screenre
     
 </section>
 
-
+</div>
 
 

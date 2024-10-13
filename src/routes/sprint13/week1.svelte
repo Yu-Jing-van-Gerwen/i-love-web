@@ -1,6 +1,5 @@
 
 <script>
-    import { CodeBlock } from '@skeletonlabs/skeleton';
     import logo from '$lib/img/try.png';
     import andere from '$lib/img/andere.png';
 

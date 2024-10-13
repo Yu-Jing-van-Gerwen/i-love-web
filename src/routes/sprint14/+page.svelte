@@ -20,11 +20,12 @@
             <li>ga naar <a href="#week3">week3</a></li>
         </ul>
         <Week1/>
+        <Week2/>
+        <Week3/>
 
     </section>
 
-    <Week2/>
-    <Week3/>
+
 
 
 </main>
