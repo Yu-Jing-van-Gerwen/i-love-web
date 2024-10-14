@@ -122,14 +122,16 @@ jamstack site generators kies een tech stack
 
 volgende week woensdag presenteer een tech stack
 
+hier kan je alle techstacks kiezen en dan javascript kiezen :https://jamstack.org/generators/ 
+
 dit leren https://www.11ty.dev/docs/ als techstack
 
 https://docs.directus.io/blog/getting-started-directus-and-eleventy-11ty-3.html
 
+ik ga mijn pagina namaken in eleventy js 
 
-
-
-
+en op mijn sveltekit pagina ga ik die lijn weg halen van de cards en ervoor zorgen dat het design overeenkomt 
+dus kijken naar array.slice 
 
 
 
