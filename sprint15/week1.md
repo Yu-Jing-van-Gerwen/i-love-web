@@ -134,6 +134,17 @@ en op mijn sveltekit pagina ga ik die lijn weg halen van de cards en ervoor zorg
 dus kijken naar array.slice 
 
 
+ik heb aan cyd advies gevraagd voor het framework en volgens haar is eleventy of astro te doen om te leren
+ook heb ik gevraagd wat vreselijk is aan react en dat was omdat je veel javascript hebt met ook veel stappen 
+en ik heb gevraagd of vue js te doen is en dat is ook vrij lastig 
+
+Volgt aangeboden internationale ontwikkelingen in het vakgebied en maakt onder begeleiding keuzes over eigen ontwikkeling.
+
+https://tinypng.com/ dit gebruiken voor oplossen van de images om het niet breder dan 16px te hebben 
+
+
+
+
 
 
 
