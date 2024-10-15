@@ -144,7 +144,8 @@
             </section>
 
 
-            <section><h3>4-10</h3>
+            <section>
+                <h3>4-10</h3>
                 <p>
                     Nicolas Garnier is een onafhankelijk creatief developer die zich sinds 2012 focust op
                     webontwikkeling met JavaScript, nadat Flash is verdwenen. Hij begon in 2018 met freelancen en werkte
