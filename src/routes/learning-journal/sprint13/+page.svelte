@@ -2,7 +2,9 @@
     import Week1 from './week1.svelte';
     import Week2 from './week2.svelte';
     import Week3 from './week3.svelte';
+    import Header from '../../../lib/Header.svelte';
 </script>
+<Header/>
 <main>
     <section class="generalStyling learningquestions ">
         <h1 id="mijn-leervragen">mijn leervragen</h1>
