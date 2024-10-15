@@ -1,6 +1,8 @@
 <script>
 
+    import Header from '../../lib/Header.svelte'
 </script>
+<Header/>
 <main>
     <section class="generalStyling learningquestions ">
         <h1 id="mijn-leervragen">we love web</h1>
