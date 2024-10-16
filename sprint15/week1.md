@@ -386,4 +386,146 @@ webhook in directus
 
 </p>
 
+
+<p>
+
+
+</p>
+
 </section>
+
+
+<h2>triple</h2>
+
+<p>
+
+shyanta vluegel hypersolid
+
+techlead
+
+design by wonderland valt hieronder
+
+cmd geholpen met lesgeven
+
+ze heeft 5 of 6 bij development gewerkt
+
+triple is part of hypersolid 
+
+triple is een eigen bedrijf en ze werken met de cote a zure bedrijf
+
+met hypersolid zitten ze met 500 mensen
+
+de core van triple is development
+
+code da zure doet het design
+
+technical opeartions is het hosting en cloud
+
+data&insights 
+
+cultuur triple 
+mooie dingen maken met leuke mensen en wat je maakt daar moet je trots op zijn
+
+we hebben meetips
+
+we willen vooraan blijven en we willen meegaan met de nieuwe technieken
+
+het webteam
+
+begonnen met angular en daarna react 
+
+en smart tv
+
+web team is react of svelte 
+
+alle andere nieuwe projecten willen we sveltekit gebruiken 
+
+smarttv is gewoon een website op een tv
+
+een smart tv is niet slim het draait op oude browser
+
+react heeft veel  bundlefiles en svelte was de enige optie 
+
+react native 
+
+is een manier om in 1 codebase te werken
+
+we werken met scrum 
+refinements
+jira tiecket managment zoals trello
+conventional commits 
+refinements 
+er word op uurbasis gewerkt
+
+product owner is the prio owner 
+
+azure devops gebruiken zij odmat je in control bent
+
+2 mensen moeten het reviewen
+
+1 van het team en 1 onbekend iemand uit een ander project
+
+conventional commits: je kan dingen catogoriseren 
+dus fix of changes
+
+
+door iets op papier te zetten heb je een oplossingsrichting
+in plaats van iets zomaar te doen
+
+tech stack
+
+elke competentie werkt met dezelfde taal
+kenissesies zijn belangrijk
+
+coding guidelijnes zijn deelbaar
+
+verschillen
+elk team werk aan een ander type product
+
+elke prodcut heeft zijn bijzonderheden
+
+wat kan invloed hebben op je tech stack
+
+seo
+performance
+
+het heeft te maken met je eindproduct
+machnes emet weinig perofmrance 
+eenmalig website of moet er onderhoud aan zitten
+
+wens voor animaties 
+we gaan naar conferenties en kleine apps bouwen om te kijken wat
+zijn de voor en nadelen van het framework
+
+kennissesies en daarin presenteert een developer iets wat die onderzocht
+en dat kan positief of negatief
+
+
+tech tips:
+css developers die javascript niet begrijpen
+
+don''t repeat yourself'
+zorg ervoor dat dit ergens komt te staan
+
+je kan components bouwen en die hergebruiken
+
+vanilla hoe werkt het en wat doet het 
+
+de basis is belangrijk om mee te gaan in de snelle wereld 
+
+wat is jouw tactiek om snel een framework aan te leren
+
+als je met veel delopers werkt dwing het af
+
+typescript is een extra leercurve en de core van javascript moet je
+onder de knie krijgen
+
+ik leer van doen en ik kom wel boven water
+
+je leest en past het meteen toe 
+
+ik wil tijdens het boek lezen 
+
+
+
+</p>
