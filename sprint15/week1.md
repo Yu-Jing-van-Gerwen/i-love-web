@@ -372,6 +372,16 @@ https://yougotthis.io/ imposter syndroom
 it is available for free
 
 
+https://directus.io/tv/directus-academy 
+tutorial 
+
+graphql is capable 
+
+
+eventhook in directus
+ 
+webhook in directus 
+
 
 
 </p>
