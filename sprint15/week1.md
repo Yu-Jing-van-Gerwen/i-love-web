@@ -529,3 +529,70 @@ ik wil tijdens het boek lezen
 
 
 </p>
+
+
+<h2>presetneren</h2>
+
+<p>
+je onderzoek de pock 
+
+programming spyc 
+
+
+wat is logica en waarom zou je het gebruiken
+
+het argumentatieproces in vier stappen
+
+opdracht doorloop het orgamentatieproces
+
+
+het is door logica dat we bewijs 
+
+het is door intutie dat we ontdekken
+
+
+logica  is een syteem voor solide arguentatie
+
+if else foreach 
+
+en of dan niet voor elke
+
+loga vorm de basis van progremmeerstructuren en gebruikersinteracties
+
+het argumentatieproces in vier stappen 
+
+als je een onderzoek vericht kan je een standpunt innemen
+
+eleventy is binnen 2 weken te omarmen en is fijn 
+
+en dat is een standpunt
+
+wat is belangrijk als voordeel
+
+je schrijft de argumenten 
+
+een argument voor is dat eleventy is makkelijk te leren 
+
+view is openscource als argument
+en het is heel groot
+
+wat willen je klanten en opdrachtgevers
+hoeveel tijd ben je kwijt aan maintenace
+
+ux accesiilty 
+
+dx werkgelegenheid 
+community
+helderheid
+dry
+
+cmx hoe
+
+</p>
+
+
+deadline inleveren portfolio
+
+zonder 27-10 wil ik je portflow portfolio volledig hebbe
+1 per indicator dus 12 indicatoren
+
