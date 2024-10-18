@@ -79,7 +79,7 @@ https://github.com/fdnd-agency/voorhoede/issues/31#issuecomment-2385430119
 <p> <strong>
 2-10 
 </strong>
-ik heb les gehad in het kritisch bekijken van een design en daarin hebben we gekeken naar deze regels om toe te passen van dieter rams
+ik heb les gehad in het kritisch bekijken van een design en daarin hebben we gekeken naar deze regels om toe te passen van <a href="https://medium.com/@mitchwhitehead/as-little-design-as-possible-dieter-rams-and-learning-experience-design-a0756533f895">dieter rams</a>
 
 <ul>
     <li>good design makes a product understandable</li>
