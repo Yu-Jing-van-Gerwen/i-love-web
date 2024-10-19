@@ -1,89 +1,16 @@
 <div class="week3 generalStyling">
 
 
-<h2 id="week3">week3</h2>
-<ul>
-    <li>ga naar <a href="#geleerd3">wat heb ik geleerd</a></li>
-    <li>ga naar <a href="#gedaan3">wat heb ik gedaan</a></li>
-</ul>
-<h3 id="gedaan3">dit heb ik gedaan</h3>
-<p> <strong>
-    16-9
-</strong> ik heb planning poker gedaan met mijn team en hebben
+<h1 id="week3">week3</h2>
+
+<h2>16-9</h2>
+ik heb planning poker gedaan met mijn team en hebben
     we taken een size gegeven van hoe zwaar iedere taak is en we hebben het
    projectboard ingevuld volgens het principe van het moscow table
 verder hebben we ook bespreken waar we staan in de taken en wat af is en wat niet
 </p>
 
-<p><strong>17 september</strong>: ben ik een artikel tegengekomen
-<a href="https://blog.jetbrains.com/webstorm/2024/07/how-to-learn-javascript/?ref=dailydev">artikel
-</a>
-    hoe je
-    javascript leert en onderin stond ook hoe je veu js llert en branches met uitleg over git en daar ben ik deze website gekenekn
-    <a href="https://learngitbranching.js.org/">leren git branches website</a>en
-    hier gebruik je de command line en zie je visueel wat er gebeurt op de branch en dat is ook interessant om te zien en beter te berigjpen wat er gebeurd
 
-
-</p>
-<p>
-verder heb ik ook het projectboard bijgwerkt met sizes van hoe zwaar een taak waarschijnlijk zal zijn en ik ben gaan kijken naar animaties om mijjn profielkaartje
-    creatiever te maken
-</p>
-
-
-
-<p>mijn javascript interactie zit heb ik erin gekregen</p>
-
-````javascript
-
-    let buttonMore;
-    let div;
-    function showmore() {
-        buttonMore = document.querySelector('.moreinfo');
-        div = document.querySelector('.nonvisible');
-        div.classList.toggle("hidden");
-        div.classList.add("nonvisible-open");
-
-        buttonMore.scrollIntoView('.nonvisible-open')
-        buttonMore.disabled = true;
-        buttonMore.classList.remove("pulse");
-
-    }
-````
-
-````sveltehtml
-<a href="#info" on:click={showmore} class="moreinfo pulse">
-    <span>druk voor meer info</span>
-</a>
-````
-
-
-ook heb ik een animatie erin gevoegd waardoor de profilecard al minder saai is
-````
- div:nth-child(1) {
-            animation: slideInLeftMobile 5s forwards;
-            /*min-width: 200px;*/
-            width: 300px;
-        }
-        @keyframes slideInLeftMobile {
-            0% {
-                top: -100%;
-            }
-            100% {
-                top: 0;
-                left: 5%;
-            }
-        }
-````
-
-
-<p><strong>18-9</strong> Ik heb geleerd hoe ik een readme schrijf en wat we moeten gaan opleveren in de retrospect
-</p>
-<section>
-
-
-
-<h3 id="geleerd3">dit heb ik geleerd    </h3>
 <h4>epics, stories ,user stories</h4>
 <p>
     16 september heb ik les gehad over epics en dat is 1 hele grote taak zoals een mobiele app maken
@@ -158,9 +85,27 @@ Onthullen: Tegelijkertijd draaien alle teamleden hun kaart om.
 <p>Won't have: als er geen prioriteit is voor leuke anmaties omdat testen en toegankelijkheid belangrijker is dan komt die specifieke functioanliteit er niet in want het is niet noodzakleijk</p>
 
 
-<h4>button javascript 3 stappenplan</h4>
 
-<p>mijn javascript interactie zit er ook in</p>
+<h2>17-9</h2>
+
+ik ben ik een artikel tegengekomen
+<a href="https://blog.jetbrains.com/webstorm/2024/07/how-to-learn-javascript/?ref=dailydev">artikel
+</a>
+    hoe je
+    javascript leert en onderin stond ook hoe je veu js llert en branches met uitleg over git en daar ben ik deze website gekenekn
+    <a href="https://learngitbranching.js.org/">leren git branches website</a>en
+    hier gebruik je de command line en zie je visueel wat er gebeurt op de branch en dat is ook interessant om te zien en beter te berigjpen wat er gebeurd
+
+
+</p>
+<p>
+verder heb ik ook het projectboard bijgwerkt met sizes van hoe zwaar een taak waarschijnlijk zal zijn en ik ben gaan kijken naar animaties om mijjn profielkaartje
+    creatiever te maken
+</p>
+
+
+
+<p>mijn javascript interactie zit heb ik erin gekregen</p>
 
 ````javascript
 
@@ -184,6 +129,31 @@ Onthullen: Tegelijkertijd draaien alle teamleden hun kaart om.
     <span>druk voor meer info</span>
 </a>
 ````
+
+
+ook heb ik een animatie erin gevoegd waardoor de profilecard al minder saai is
+````
+ div:nth-child(1) {
+            animation: slideInLeftMobile 5s forwards;
+            /*min-width: 200px;*/
+            width: 300px;
+        }
+        @keyframes slideInLeftMobile {
+            0% {
+                top: -100%;
+            }
+            100% {
+                top: 0;
+                left: 5%;
+            }
+        }
+````
+
+<h2>18-9</h2>
+Ik heb geleerd hoe ik een readme schrijf en wat we moeten gaan opleveren in de retrospect
+</p>
+
+
 
 <h4>Readme schirjven en professionele repository</h4>
 <p>We hebben les gehad in hoe je een professionele Readme schrijft en daarin zet
@@ -218,5 +188,9 @@ bronnen: directus en sveltekit documentatie
     <li>technology:badges met gebruikte technologie </li>
 </ul>
 </section>
-</div>
+<section>
+
+
+
+
 
