@@ -81,19 +81,6 @@ export default async function fetchJson(url, payload = {}) {
 
 ````
 
-
-<h3>5-9</h3> ik heb mijn profilecard in code uitgewerkt en het button component gemaakt voor de squad page en dit is gelukt met behulp van de tutorial
-
-![img.png](../img.png)
-
-
-<h3>6-9</h3> ik heb geleerd hoe ik netjes issues kan inschieten en feedback kan
-geven waardoor eerstejaars beter begrijpen hoe ze naar de oplossing kunnnen werken
-
-
-<h2 id="geleerd1">dit heb ik geleerd</h3>
-
-<h4>svelte</h4>
 <p>dit zijn aantekingen over svelte en sveltekit</p>
 
 
@@ -187,4 +174,16 @@ op de +page.svelte
         <br>
         Code Splitting: Code wordt slim verdeeld over client en server
     </p>
+
+
+<h3>5-9</h3> ik heb mijn profilecard in code uitgewerkt en het button component gemaakt voor de squad page en dit is gelukt met behulp van de tutorial
+
+![img.png](../img.png)
+
+
+<h3>6-9</h3> ik heb geleerd hoe ik netjes issues kan inschieten en feedback kan
+geven waardoor eerstejaars beter begrijpen hoe ze naar de oplossing kunnnen werken
+
+
+
 
