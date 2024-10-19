@@ -43,9 +43,11 @@
         padding: 2em;
         row-gap: 22px;
     }
+    li{
+        list-style: none;
+    }
     a {
         display: flex;
-        list-style: none;
         border-bottom: 2px solid #611adc;
 
     }

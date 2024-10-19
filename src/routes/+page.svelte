@@ -7,15 +7,24 @@
 
 
         <h1>Yu Jing van Gerwen</h1>
-        <p class="about-me">about me:</p>
-        <p>
+        <p class="about-me">about me</p>
+        <div class="more-over-me">
+            <p>
+                ik ben op dit moment studen aan de hogeschol van amsterdam</p>
+            <p>ik doe de opleiding frontend design en development en ik zou graag frontend developer willen worden</p>
 
+        </div>
 
-            ik ben op dit moment studen aan de hogeschol van amsterdam</p>
-        <p>ik doe de opleiding frontend design en development en ik zou graag frontend developer willen worden</p>
 
     </article>
+    <div class="general-styling-section">
+        <p>hier kunt u mijn learning journal zien wat ik allemaal leer
 
+        </p>
+        <button>zie learning-jouraal</button>
+        <p>ook kunt u mijn aantkeeningen zien over de gastcolleges</p>
+
+    </div>
 
 
 <!--<ul class="generalStyling">-->
@@ -36,9 +45,12 @@
         font-size: 49px;
     }
     .about-me{
-        background-color: #00afef;
-        padding: 1rem;
         font-size: 40px;
+        border-bottom: solid 2px var(--purple);
+    }
+    .more-over-me{
+        font-size: 30px;
+
     }
 
     /*a{*/
