@@ -1,7 +1,7 @@
 <script>
 
 </script>
-<main>
+<main class="green-gradient">
     <section class="generalStyling ">
         <h1 id="mijn-leervragen">Learning-journal</h1>
         <p>mijn learning journal gaat over wat ik iedere week leer en dit hou ik bij in een markdown

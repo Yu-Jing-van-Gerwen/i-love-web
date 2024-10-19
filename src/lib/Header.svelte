@@ -1,8 +1,13 @@
+<script>
+
+
+</script>
+
 <nav class="generalStyling ">
     <ul class="flex-container">
         <li class="flex-items">
             <a href="/">
-            homepagina </a>
+                Yu Jing van Gerwen </a>
         </li>
         <li class="flex-items">
             <a href="/learning-journal">
@@ -27,6 +32,34 @@
 </nav>
 
 <style>
+
+    .flex-container{
+        display: flex;
+        flex-direction: column;
+        border-radius: 1em;
+        background: #00ff92;
+        background: linear-gradient(0deg, #00EFEF 40%, #4FDD51 100%);
+        box-shadow: 0 0 20px 20px rgba(0, 0, 0, .1);
+        padding: 2em;
+        row-gap: 22px;
+    }
+    a {
+        display: flex;
+        list-style: none;
+        border-bottom: 2px solid #611adc;
+
+    }
+
+
+
+
+
+
+    a{
+        text-decoration: none;
+        color: black;
+        font-size: 28px;
+    }
 
     @media (min-width: 600px) {
         .flex-container {
