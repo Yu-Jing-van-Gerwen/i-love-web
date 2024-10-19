@@ -1,7 +1,4 @@
  <h2 id="week2">week2</h2>
- <ul>
-     <li>ga naar <a href="#geleerd2">wat heb ik geleerd</a></li>
- </ul>
 
 
 <h2>leerlogboek</h2>
@@ -15,6 +12,48 @@ verder hebben we het ook gehad over componeneten en de basisstof van figma zoals
 In de les heb ik ook geprobeerd om zo'n kaartje na te maken met grid en hoe je dit kan positioneren 
 
 ![image](https://github.com/user-attachments/assets/8aa45266-22f4-46a5-971b-fe77beb61594)
+
+
+<h4>figma workshop</h4>
+<p>
+ik heb een workshop over Figma gevolgd. Tijdens deze workshop hebben we eenvoudige oefeningen gedaan die we
+moesten namaken. We hebben ook geleerd over componenten en de basisprincipes van Figma, zoals auto layout en
+hoe je kleuren en buttons kunt hergebruiken.
+
+
+ </p>
+ <p>In de les heb ik geprobeerd om een kaartje na te maken met
+     behulp van een grid en geleerd hoe je dit kunt positioneren.
+
+ 
+ </p>
+
+<p>
+	ook heb ik all mijn schetsen in figma gemaakt zie hier de issue die ik heb aangemaakt:  https://github.com/yujing-student/your-tribe-for-life-profile-card/issues/24
+</p>
+
+ 
+ <h4>creative coding csr</h4>
+ <p>
+     ik heb een workshop gehad over creative coding en hoe je met css leuke animaties kan maken en hoe ik met
+     ingebouwde
+     svelte transitions een animatie kan toevoegen aan mijn visitekaartje <a
+         href="https://svelte.dev/docs/svelte-transition">link naar svelte documentatie
+ </a>
+ 
+
+ </p>
+ <p>
+     verder heb ik ook les gehad in wat csr is en wat het doet en csr staat voor clientside rendering
+     en daarmee staat client side javascript aan en je moet onmount isntalleren zodat je javascript code kan
+     gebruiken want
+     onMount  is een lifecycle method dat uitgevoerd word nadat een component is rendered naar de dom
+     als dat renderen niet gebruikt dan krijg je een error queryselctor is not defined
+
+  zie deze issue waar ik het probleem beschhrijf en de oplossing https://github.com/yujing-student/your-tribe-for-life-profile-card/issues/15
+ </p>
+
+
 
 en ik heb vandaag geleerd hoe ik de connectie met de database maak en iedereen kan laten zien en als je klikt op 1 naam dat je naar de profilecard gaat
 dit is de code in de +page.js
@@ -194,6 +233,14 @@ hier roep je de componenten aan
             <Moreinfo/>
 ````
 
+
+
+[//]: # (gevonden op daily dev)
+[//]: # (https://skillivo.in/css-rotate-property-explained-5/ )
+
+[//]: # (https://skillivo.in/css-translate-property-guide/?ref=dailydev)
+
+
 <h2>11 september</h2>
 We hebben les gehad in creative coding hoe je met svelte javascript kan gebruiken en hoe je 
 animaties kan gebruiken in svelte en ik lees de documentatie van svelte
@@ -220,151 +267,5 @@ er word gebruik gemaakt van screenreaders en een screenreader is ook ingewikkeld
 een gebruiker krijgt te horen heading 2 en dat kan verwarrend zijn
 een website die je zelf maakt moet je altijd zelf testen met een screenreader zodat je weet hoe het voor een ander is 
 
-
-
-<h2 id="geleerd2">dit heb ik geleerd</h3>
-<h4>figma workshop</h4>
-<p>
-ik heb een workshop over Figma gevolgd. Tijdens deze workshop hebben we eenvoudige oefeningen gedaan die we
-moesten namaken. We hebben ook geleerd over componenten en de basisprincipes van Figma, zoals auto layout en
-hoe je kleuren en buttons kunt hergebruiken.
-
-
- </p>
- <p>In de les heb ik geprobeerd om een kaartje na te maken met
-     behulp van een grid en geleerd hoe je dit kunt positioneren.
-
- 
- </p>
-
-<p>
-	ook heb ik all mijn schetsen in figma gemaakt zie hier de issue die ik heb aangemaakt:  https://github.com/yujing-student/your-tribe-for-life-profile-card/issues/24
-</p>
-
- 
- <h4>creative coding csr</h4>
- <p>
-     ik heb een workshop gehad over creative coding en hoe je met css leuke animaties kan maken en hoe ik met
-     ingebouwde
-     svelte transitions een animatie kan toevoegen aan mijn visitekaartje <a
-         href="https://svelte.dev/docs/svelte-transition">link naar svelte documentatie
- </a>
- 
-
- </p>
- <p>
-     verder heb ik ook les gehad in wat csr is en wat het doet en csr staat voor clientside rendering
-     en daarmee staat client side javascript aan en je moet onmount isntalleren zodat je javascript code kan
-     gebruiken want
-     onMount  is een lifecycle method dat uitgevoerd word nadat een component is rendered naar de dom
-     als dat renderen niet gebruikt dan krijg je een error queryselctor is not defined
-
-  zie deze issue waar ik het probleem beschhrijf en de oplossing https://github.com/yujing-student/your-tribe-for-life-profile-card/issues/15
- </p>
-
- <h4>ophalen data uit de datbase code snippet</h4>
-  ik heb  geleerd hoe ik een verbinding met de database kan maken en hoe ik iedereen kan
-   laten zien. Als je op een naam klikt, ga je naar de profielkaart. Hier is de code die ik heb gebruikt in de
-   +page.js:
- 
-  ````javascript
-
-import fetchJson from "$lib/fetch-json"
-
-export async function load() {
-	// klassen vorig jaar
-	const url = 'https://fdnd.directus.app/items/person/?filter={"squad_id":3}'
-	const squadD = await fetchJson(url)
-
-	const url1 = 'https://fdnd.directus.app/items/person/?filter={"squad_id":4}'
-	const squadE = await fetchJson(url1)
-
-	const url2 = 'https://fdnd.directus.app/items/person/?filter={"squad_id":5}'
-	const squadF = await fetchJson(url2)
-
-	// klassen dit jaar
-	const squad= 'https://fdnd.directus.app/items/squad/?filter={%22tribe_id%22:2}'
-	const newsquad = await fetchJson(squad)
-
-	// iedereen
-	const everyone = 'https://fdnd.directus.app/items/person/'
-	const persons = await fetchJson(everyone)
-
-
-	return {
-		persons: persons.data,
-		squadD: squadD.data,
-		squadE: squadE.data,
-		squadF: squadF.data,
-
-
-		// dit is als de nieuwe klas toegevoegd word
-		// https://fdnd.directus.app/items/person/?filter={%22squad_id%22:6}
-		newsquad: newsquad.data
-
-	}
-}
-````
-
-````sveltehtml
-
-<ul>
-    {#each data.squadD as person}
-        <li>
-            {#if person.avatar}
-                <img alt="Foto van {person.name}" src="{person.avatar}">
-            {:else}
-                <img alt="standard icon"
-                     src="../../static/images/profile-icon.png"/>
-            {/if}
-            <div>
-                <a href="/{person.id}">
-
-
-                    {person.name}
-                </a>
-                <span>klas : {person.squad_id}</span>
-                <ButtonComponent>
-
-                </ButtonComponent>
-
-            </div>
-
-        </li>
-    {/each}
-</ul>
-````
-
-<h4>componententen</h4>
-
-
-importern van de buttons is simpel dit staat in je script
-````
-    export let data;
-    import Moreinfo from '$lib/MoreInfo.svelte';
-    import ActionButton from '$lib/button.svelte';
-    import SocialMedia from '$lib/Socialmedia.svelte';
-````
-
-
-hier roep je de componenten aan 
-````
-   <section class="animationfade">
-                <h2>Over mij</h2>
-                <p> Leeftijd: 20</p>
-                <p>{data.persons.bio}  </p>
-                <p>Op dit moment doe ik de opleiding frontend design en development en zit ik in mijn
-                    afstudeerjaar</p>
-            </section>
-            <SocialMedia/>
-            <ActionButton/>
-            <Moreinfo/>
-````
-
-
-[//]: # (gevonden op daily dev)
-[//]: # (https://skillivo.in/css-rotate-property-explained-5/ )
-
-[//]: # (https://skillivo.in/css-translate-property-guide/?ref=dailydev)
 
 
