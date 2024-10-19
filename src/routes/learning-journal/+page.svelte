@@ -1,21 +1,18 @@
 <script>
 
-    import Header from '../../lib/Header.svelte'
 </script>
-<Header/>
-<main class="">
-    <section class="generalStyling">
+<main>
+    <section class="generalStyling ">
+        <h1 id="mijn-leervragen">Learning-journal</h1>
+        <p>mijn learning journal gaat over wat ik iedere week leer en dit hou ik bij in een markdown
+            omdat dit overzichtelijker is
 
 
-    <h2> kies welke sprint je wilt zien</h2>
-    <ul>
-        <li>
-            <a href="learning-journal/sprint13/">ga naar sprint 13</a>
-        </li>
-        <li>
-            <a href="learning-journal/sprint14/">ga naar sprint 14</a>
-        </li>
-    </ul>
+        </p>
+        <p><a href="#">link de map met daarin het learning journal als markdown
+        </a> </p>
+
+
     </section>
 </main>
 <style>
@@ -26,12 +23,8 @@
         font-family: Arial, Helvetica, sans-serif;
         scroll-behavior: smooth;
 
+
     }
-    .generalStyling {
-        padding: 2em;
-        background-color: #bdf487a3;
-        box-shadow: inset 0px 1px 11px 0px;
-        border-radius: 15px;
-    }
+
 
 </style>

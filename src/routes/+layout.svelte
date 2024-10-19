@@ -1,3 +1,7 @@
+<script>
+
+</script>
+
 <nav class="generalStyling ">
     <ul class="flex-container">
         <li class="flex-items">
@@ -30,6 +34,10 @@
 <slot/>
 
 <style>
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
     .generalStyling {
         padding: 2em;
         background-color: #bdf487a3;

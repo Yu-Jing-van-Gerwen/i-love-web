@@ -1,10 +1,8 @@
 <script>
 
-    import Header from '../../lib/Header.svelte'
 </script>
-<Header/>
 <main>
-    <section class="generalStyling learningquestions ">
+    <section class="generalStyling ">
         <h1 id="mijn-leervragen">we love web</h1>
 
         <h2>
@@ -99,33 +97,6 @@
 
 
     }
-    /*@media (width > 725px) {*/
-    /*    section:nth-child(1) {*/
-    /*        grid-column-start: 1;*/
-    /*    }*/
 
-    /*    section:nth-child(2) {*/
-    /*        grid-column-start: 2;*/
-    /*    }*/
-
-    /*    section:nth-child(3) {*/
-    /*        grid-column-start: 1;*/
-    /*        grid-row: 2;*/
-    /*    }*/
-
-    /*    section:nth-child(4) {*/
-    /*        grid-row: 2;*/
-    /*        grid-column-start: 2;*/
-    /*    }*/
-
-    /*}*/
-
-
-    .generalStyling {
-        padding: 2em;
-        background-color: #bdf487a3;
-        box-shadow: inset 0px 1px 11px 0px;
-        border-radius: 15px;
-    }
 
 </style>

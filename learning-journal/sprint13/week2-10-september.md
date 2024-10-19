@@ -198,7 +198,7 @@ https://codepen.io/hubspot/embed/ExWxByR?height=384.6151123046875&theme-id=39533
 en ik heb 3 componenten gemaakt en toegepast in mijn visitekaartje waardoor ik meer overicht heb 
 welke code ik gebruik en waar welke styling van is
 
-![img_1.png](../img_1.png)
+![img_1.png](../../img_1.png)
 
 zie de components
 <ul><li><a href="https://github.com/yujing-student/your-tribe-for-life-profile-card/blob/animation/src/routes/MoreInfo.svelte">moreinfo</a></li>

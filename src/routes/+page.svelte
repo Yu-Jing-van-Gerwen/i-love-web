@@ -1,7 +1,7 @@
 <script>
-    import Header   from "$lib/Header.svelte";
+
+
 </script>
-<Header/>
 <section class="generalStyling">
 
 
@@ -21,12 +21,7 @@
 </ul>
 </section>
 <style>
-    .generalStyling {
-        padding: 2em;
-        background-color: #bdf487a3;
-        box-shadow: inset 0px 1px 11px 0px;
-        border-radius: 15px;
-    }
+
 
 </style>
 
