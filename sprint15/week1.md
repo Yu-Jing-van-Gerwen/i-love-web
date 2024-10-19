@@ -93,7 +93,6 @@ ik heb aan cyd advies gevraagd voor het framework en volgens haar is eleventy of
 ook heb ik gevraagd wat vreselijk is aan react en dat was omdat je veel javascript hebt met ook veel stappen 
 en ik heb gevraagd of vue js te doen is en dat is ook vrij lastig 
 
-Volgt aangeboden internationale ontwikkelingen in het vakgebied en maakt onder begeleiding keuzes over eigen ontwikkeling.
 
 
 <p>ook heb ik gevraagd hoe ik images kleiner maak en de performance kan verbeteren op de pagina en dit gaf ze als advies
@@ -108,289 +107,76 @@ https://tinypng.com/ dit gebruiken voor oplossen van de images om het niet brede
 
 
 <section>
-<h2>14-10</h2>
+<h2>15-10</h2>
 <p>
 choices choices talk
 
-directus
-a headless cms configuration
 
-it is a backend with a custamizable ui
+kevin lewis is directueur bij directus 
+en directus is een headless cms het is backend met customizable ui en qua design zo gebouwd zodat je zelf aan d elsag kan gaan emt je database inrichten 
 
-it is design to help you quicker
+directus heeft verder een cloud website and platform ook is er directus tv  https://directus.io/tv 
+en we hebben directus acedemy https://directus.io/tv/directus-academy
+en directus sdk tutorial https://directus.io/tv/stack-up 
+zodat gebruikers van directus een handvat hebben om dit betere te leren kennen
+ook zit directus op github en zijn ze opensocurce https://github.com/directus/directus 
+ook hebben ze extensies voor de directus marketplace 
 
-you have the clients to have a administration 
-
-it is  a backend with a ui
-
-my role is
-
-directus cloud the website and the platform 
-
-directus tv 
-
-my team looks for educations and understand what directus is 
-
-how do we help them understand what it is 
-
-we alos look after commuting by github
-
-that group of people need support
-
-the ultimate hope of communication is that they like it and tel other people
-
-the 3rd is extension for the marketplace 
-
-our community build those 
-
-1 key extenion of being 
-
-we open sourche but not full opensourche 
-all of your use is free to use 
-defence of gambling 
-you can not discriminate them
-
-we have support or advisery hours 
-
-we have directus + where you have a starterkit
-
-the team has 4 people
-
-45 people mensen werken bij directus totaal
-
-what hours do we keep with remote work
-we seem to attract workaholics in theory 
-i expectem there working hours and a lot of flexibility
-
-the last 2 of 3 hours are full of meetings because then everyone is avaliable and workibg
-because of the timezone
-
-the more senior you get the more important you get
+er werken 45 mensen bij directus en dit bedrijf werkt volledig remote 
+dus meetings plannen dat is soms een uitdaging 
+en hoe hoger je op de ladder klimt of hoe meer ervaring je hebt oe belangrijker je bent in het team en  
 
 
 </p>
 
+
+
+
+
 <p>
-choices tradeoffs
+The iron triangel een core concept in project management 
+Directuss kijkt naar de kosten en de tijd en de kwaliteit 
+Als je snel een feature uitbrengt met lage kosten dan kan de kwaliteit minder 
+Ook moet je als je een feature uitbreng taan de directus omgeving kijken naar wie gaan dit daadwerkelijk gebruiken hoeveel procent en dat word meegenomen in de afweging gaan we er veel tijd in steken ja of nee en heeft het prioriteit
+Wat gebeurt er als je bijvoorbeeld x nodig hebt en anders de deal met een klant verliest dat zijn moeilijke beslissingen
+Ook moet je naar het financiële plaatje kijken er gaat een x bedrag naar r&d en je steekt zoveel geld in je product dus moet er ook geld voor terug komen zodat je geen geld kwijt raakt
 
-the iron triangle 
-
-you can never chose these 3 full 
-
-and you don't realise you missing 1 
-
-the focus is being good and cheap the delivery time for new features are slower
-we are fewer available hours 
-
-recently we had the privelege to look for good and fast and hire more peopel
-there is a expatiotion to deliver quicker
-
-Tradeoff of choices
-
-perfectionism
-chosing when to deliver 
-
-more use cases 
-
-we really need x or we lose the deal
-
-as a experimental product you need to look how much people are going to use this product 
-and is this time nessary or do we need to priorita
-
-
-tech stack selection
-
-knowledge for delivering
-
-between good going quick or take a critiq look
-
-there is difference between ui and ux
-
-performance vs maintanablity
-
-you can make something quicker 
-
-by what degree can you make something 
-
-how many users are going to use this
-
-computation cost cost energy
-
-there is a huge skill 
-
-lovely readable code 
-
-we puttiing the right white space define a variable or function
-
-you have millions of data and very taxing database qeurys 
-
-
-i could bash it out in tailwind 
-
-no we not using tailwind and there is a learning curve
-
-for the time to take and built this is gonne save time maintaine
-
-
-velocity vs flexbility
-
-velocity is how fast can you build something
-
-
-innovation vs reliablity 
-
-any business has r&d and this is a moneypit
-
-you need a few money to r&d 
-
-one of the biggest tradeofs is
-
-how much money are you going to spend and
-how much money do you get bacj
-
-
-artificllenge intelligence
-
-there are tradeoffs there is the cost of using ai
-
-it cost money to perform
-
-accuratacy is it right 
-
-who assume the risk if you get it wrong and what are the consequence if you use it
-
-the developer scence of problem solving 
-
-that snippet is not true or old or fout
-
-good and fast can be expsinive
-
-fast en cheap can be low quality
-
-cost benefit analysisis
-
-other things not being done 
-
-swot analsys 
-
-weighted decission matrix
-
-
-
-have i suffered from inposter syndroom
 </p>
 
-
 <p>
-using cms
+  
 
-we can be used as content management
 
-featues that we build have to benefit 80% of the users in teh core platform
-
-live preview
-
-it doesn't benefit 80% of the users
-
-we were revenue we losing a lot of deals
  
-you need a balance between good and quick
+Ook moet je kijken naar performance en onderhoud je kan misschien wel iets snel maken als het veel onderhoud nodig heeft dan kan het op de lange termijn meer gaan kosten
 
+Hoe is de ux en de ui van de feature het kan wel dat je een leuk design hebt maar als het niet functioneel is dan kan je het beter niet bouwen
+Velocity is hoe snel je team een product kan opleveren binnen een bepaalde tijd en daarin heb je ook een flexibel team nodig die problemen kan oppakken en innovatief is een nieuwe features bedenkt die ook reliable zijn 
+</p>
 
-at worst we stop enqaging with them 
+<p>
 
-tech you use proably doesnt matter
+  
 
-what you can't meet 
-
-maintanablity vs performance
-
-its are your decisions to make
-
-you are going to make shitty decisions before you can make the right
-
-this is the learning curve that you need to do 
-
-kevin louis  is his name 
-
-bad decisions made is oke 
-
-overtime you will make better decisisions
-
-root decisions in user needs 
-
-there are a set of distincte stakeholders 
-
-we need to maintan the code 
-
-thera are other steakholders like finance 
-
-even are things are not optimal you can train this
-
-ultimately there are your endless 
-
-you care about your opt people 
-
-what web framework do you use your end user do not care
-
-for your endusers is useless
-
-talking about velocity or what tools do we use
-
-this is about our size and skills and do we meet them up and is it met
-
-inside of my product team
-
-the split is any trade of
-
-the split is now the web team and the backend team
-
-lines of code is a joke
-
-in germany productivty is coming in ups and lows 
-
-the way i manage my team we have quartely goals 
-
-you deliver it or you don't deliver it
-
-we are looking what is going wrong in that 3 months of planning
-
-most of the work we do is at least 2 sprints
-
-what other teams doing have implemencation 
-
-in that 1 bigger team is there more abstraction
-there is 1 leve more to manage
-
-notion of player coach 
-to be  a good manager take a lot of time
-once you go over 3 or more people
-
-
-https://yougotthis.io/ imposter syndroom
-
-it is available for free
-
-
-https://directus.io/tv/directus-academy 
-tutorial 
-
-graphql is capable 
-
-
-eventhook in directus
+Tools om beslissingen te maken
+Cost-benefit analysis:  evalueer de potentiële kosten en de winst en reken uit of je genoeg winst voor jezelf over houd
+Swot analyze: identifeiceer je kracht,zwakheid,kansen,gevaren in je project of belsuit zodat je weet wat je kan verwachte
+Weighed decision matrix: geef iedere taak een getal hoe zwaar de taak is aan de hand van hun performance in elk gebied
  
-webhook in directus 
 
-
+Gebruikt directus ai 
+Ai daar kijken we wel naar maar het is een lastig vraag stuk als jij jouw code door ai laat schrijven en het is niet goed of er gaat iets mis dan blijf jij eindverantwoordelijk 
 
 </p>
 
 
 <p>
 
+voor het imposter syndroom heeft die deze link https://yougotthis.io/ waarin je video's kan bekijken met tips
+
 
 </p>
+
 
 </section>
 
@@ -399,200 +185,78 @@ webhook in directus
 
 <p>
 
-shyanta vluegel hypersolid
+Shynata Vluegel is tech lead bij tripple en daar heeft ze 6 jaar ervaring als frontend developer
 
-techlead
-
-design by wonderland valt hieronder
-
-cmd geholpen met lesgeven
-
-ze heeft 5 of 6 bij development gewerkt
-
-triple is part of hypersolid 
-
-triple is een eigen bedrijf en ze werken met de cote a zure bedrijf
-
-met hypersolid zitten ze met 500 mensen
-
-de core van triple is development
-
-code da zure doet het design
-
-technical opeartions is het hosting en cloud
-
-data&insights 
-
-cultuur triple 
-mooie dingen maken met leuke mensen en wat je maakt daar moet je trots op zijn
-
-we hebben meetips
-
-we willen vooraan blijven en we willen meegaan met de nieuwe technieken
-
-het webteam
-
-begonnen met angular en daarna react 
-
-en smart tv
-
-web team is react of svelte 
-
-alle andere nieuwe projecten willen we sveltekit gebruiken 
-
-smarttv is gewoon een website op een tv
-
-een smart tv is niet slim het draait op oude browser
-
-react heeft veel  bundlefiles en svelte was de enige optie 
-
-react native 
-
-is een manier om in 1 codebase te werken
-
-we werken met scrum 
-refinements
-jira tiecket managment zoals trello
-conventional commits 
-refinements 
-er word op uurbasis gewerkt
-
-product owner is the prio owner 
-
-azure devops gebruiken zij odmat je in control bent
-
-2 mensen moeten het reviewen
-
-1 van het team en 1 onbekend iemand uit een ander project
-
-conventional commits: je kan dingen catogoriseren 
-dus fix of changes
-
-
-door iets op papier te zetten heb je een oplossingsrichting
-in plaats van iets zomaar te doen
-
-tech stack
-
-elke competentie werkt met dezelfde taal
-kenissesies zijn belangrijk
-
-coding guidelijnes zijn deelbaar
-
-verschillen
-elk team werk aan een ander type product
-
-elke prodcut heeft zijn bijzonderheden
-
-wat kan invloed hebben op je tech stack
-
-seo
-performance
-
-het heeft te maken met je eindproduct
-machnes emet weinig perofmrance 
-eenmalig website of moet er onderhoud aan zitten
-
-wens voor animaties 
-we gaan naar conferenties en kleine apps bouwen om te kijken wat
-zijn de voor en nadelen van het framework
-
-kennissesies en daarin presenteert een developer iets wat die onderzocht
-en dat kan positief of negatief
-
-
-tech tips:
-css developers die javascript niet begrijpen
-
-don''t repeat yourself'
-zorg ervoor dat dit ergens komt te staan
-
-je kan components bouwen en die hergebruiken
-
-vanilla hoe werkt het en wat doet het 
-
-de basis is belangrijk om mee te gaan in de snelle wereld 
-
-wat is jouw tactiek om snel een framework aan te leren
-
-als je met veel delopers werkt dwing het af
-
-typescript is een extra leercurve en de core van javascript moet je
-onder de knie krijgen
-
-ik leer van doen en ik kom wel boven water
-
-je leest en past het meteen toe 
-
-ik wil tijdens het boek lezen 
-
-
-
+Hypersolid en Triple
+Hypersolid: Een groot bedrijf met ongeveer 500 medewerkers dat zich richt op softwareontwikkeling.
+Triple: Een onderdeel van Hypersolid dat zich specialiseert in development 
+Focus: De kern van Triple is softwareontwikkeling
+Tech stack: Hypersolid gebruikt een diverse tech stack, waarbij de keuze voor een bepaalde technologie afhangt van het specifieke project en de eisen. Vroeger gebruikten ze vooral react nu meer sveltekit.
 </p>
+<p>
+  
 
 
-<h2>presetneren</h2>
+De cultuur van triple is dat ze mooie dingen willen maken waar ze ook trots op zijn
+Ook willen ze meegaan met de nieuwste technologien 
+Ook heeft ze verteld dat progressive nehancement belangrijk is want een smart tv is echt niet zo heel modern 
+Ze werken met scrum en daarin gebruiken ze jira als ticket management 
+Ook werken ze met conventional commits en refinements waarin ze op uur basis werken zodat de klant weet hoeveel dit project gaat kosten
+De product owner die prioriteert hoe zwaar een taak is
+</p>
 
 <p>
-je onderzoek de pock 
+  
 
-programming spyc 
+Zelf gebruiken ze azure devops zodat het intern blijft 
+Bij een pull request moeten altijd 2 mensen reviewen 1 iemand van het team en 1 iemand buiten het team zodat een leek die niet gebonden is aan dit project ook snapt wat de code doet van het andere project
+Ga altijd naar de tekentafel als je iet weet waar je moet beginnen en maak een plan 
+Ook hebben ze kennissessies waarin ze elkaar bijpraten over de nieuwste ontwikkelingen in het vakgebied
+En ze maken gebruik van coding guidelines ook wel richtlijnen hoe de code geschreven moet worden
 
-
-wat is logica en waarom zou je het gebruiken
-
-het argumentatieproces in vier stappen
-
-opdracht doorloop het orgamentatieproces
-
-
-het is door logica dat we bewijs 
-
-het is door intutie dat we ontdekken
-
-
-logica  is een syteem voor solide arguentatie
-
-if else foreach 
-
-en of dan niet voor elke
-
-loga vorm de basis van progremmeerstructuren en gebruikersinteracties
-
-het argumentatieproces in vier stappen 
-
-als je een onderzoek vericht kan je een standpunt innemen
-
-eleventy is binnen 2 weken te omarmen en is fijn 
-
-en dat is een standpunt
-
-wat is belangrijk als voordeel
-
-je schrijft de argumenten 
-
-een argument voor is dat eleventy is makkelijk te leren 
-
-view is openscource als argument
-en het is heel groot
-
-wat willen je klanten en opdrachtgevers
-hoeveel tijd ben je kwijt aan maintenace
-
-ux accesiilty 
-
-dx werkgelegenheid 
-community
-helderheid
-dry
-
-cmx hoe
+Wat heeft invloed op een tech stack
+De seo en de performance
+Is het snel en zit er veel onderhoud aan in het eindproduct
+Hoeveel gebruikers zijn er 
+Welke apparaten gaan jouw eindproduct gebruiken
+Moeten er animaties in 
 
 </p>
 
 
-deadline inleveren portfolio
+<h2>presetneren opdracht </h2>
 
-zonder 27-10 wil ik je portflow portfolio volledig hebbe
-1 per indicator dus 12 indicatoren
+
+<p>
+  logica speelt een belangrijke rol in het argumentatie proces een voorbeeld is een if else als dit gebeurd dan is dat het gevolg
+</p>
+
+<p>
+  
+Het Argumentatieproces in Vier Stappen
+<ul>
+  <li>
+    
+Stelling: Formuleer een duidelijke stelling of claim. Bijvoorbeeld: "Eleventy is een beter framework dan [ander framework]."
+  </li>
+  <li>
+    
+Argumenten: Bied bewijs of redenen aan om je stelling te ondersteunen. Bijvoorbeeld: "Eleventy is makkelijk te leren, open-source en heeft een grote community."
+  </li>
+  <li>
+    
+Tegenargumenten: Overweeg mogelijke tegenargumenten en probeer deze te weerleggen of te nuanceren. Bijvoorbeeld: "Hoewel Eleventy misschien minder uitgebreid is dan sommige andere frameworks, is het voor de meeste projecten voldoende."
+  </li>
+  <li>
+Conclusie: Trek een conclusie op basis van de gepresenteerde argumenten en tegenargumenten.
+  </li>
+</p>
+
+
+<p>
+  CMX (Customer Experience Management):
+
+CMX is belangrijk omdat het draait om het creëren van een positieve ervaring voor de gebruiker. Bij de keuze voor een framework moet je dus ook rekening houden met de impact op de gebruikerservaring. Factoren zoals laadtijd, gebruiksgemak en toegankelijkheid spelen hierbij een belangrijke rol.
+</p>
+
 
