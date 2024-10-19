@@ -11,6 +11,15 @@ body{
 
 }
 
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+
+
+
 .green-gradient  {
     border-radius: 1em;
     background: #00ff92;

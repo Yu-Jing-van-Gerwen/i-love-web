@@ -7,7 +7,7 @@
 
 
         <h1>Yu Jing van Gerwen</h1>
-        <p class="about-me">about me</p>
+        <h2 class="about-me">about me</h2>
         <div class="more-over-me">
             <p>
                 ik ben op dit moment studen aan de hogeschol van amsterdam</p>
@@ -46,12 +46,9 @@
 </section>
 <style>
 
-    h1{
-        font-size: 40px;
-    }
-    .about-me{
-        font-size: 30px;
-        border-bottom: solid 2px var(--purple);
+
+    h2{
+        /*border-bottom: solid 2px var(--purple);*/
     }
     .more-over-me{
         font-size: 20px;

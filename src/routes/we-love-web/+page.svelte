@@ -1,19 +1,15 @@
 <script>
 
 </script>
-<main>
-    <section class="generalStyling ">
-        <h1 id="mijn-leervragen">we love web</h1>
+<main class="green-gradient">
+
+    <section class="general-styling-section ">
+        <h1>we love web</h1>
 
         <h2>
             Vasilis van Gemert
         </h2>
-
         <p>
-            <strong>13-9 we love web</strong> hebben we een we love web gehad een gastspreker die ging
-            vertellen over zijn werk en hoe belangrijk
-            toegankelijkheid is
-
             <a href="https://vasilis.nl/">
 
                 Vasilis van Gemert</a> is een principal frontender en vakdocent CMD. Zijn LinkedIn-profiel vind je hier.
@@ -36,8 +32,12 @@
         </p>
 
     </section>
-    <section>
-    <h3>Nicolas Garnier</h3>
+
+
+
+    <section class="general-styling-section">
+
+    <h2>Nicolas Garnier</h2>
     <p>
          is een onafhankelijk creatief developer die zich sinds 2012 focust op
         webontwikkeling met JavaScript, nadat Flash is verdwenen. Hij begon in 2018 met freelancen en werkte
@@ -88,6 +88,12 @@
     </section>
 </main>
 <style>
+    h1{
+
+    }
+    h2{
+        /*border-bottom: solid 2px var(--purple);*/
+    }
     main {
         padding: 2em;
         display: grid;
