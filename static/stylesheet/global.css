@@ -1,12 +1,13 @@
 :root{
     --green:#bdf487a3;
     --purple:#611adc;
+    --white:#fff;
 }
 
 
 body{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 18px;
+    font-size: 16px;
 
 }
 

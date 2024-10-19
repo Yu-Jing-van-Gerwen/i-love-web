@@ -9,6 +9,10 @@
 </main>
 
 <style>
+
+    @media (min-width: 00px) {
+
+    }
     main{
         margin-top: 4rem;
     }

@@ -18,62 +18,106 @@
 
     </article>
     <div class="general-styling-section">
-        <p>hier kunt u mijn learning journal zien wat ik allemaal leer
+<!--        <p>In mijn portfolio kunt u mijn learningjournal zien hier hou ik alles bij wat ik leer-->
+<!--            <br>-->
+<!--            ook kunt u mijn we love web aantekeningne zien van gastsprekers-->
+<!--            <br>-->
+<!--            en mijn schoolwerk all mijn werk wat ik tot nu toe gemaakt heb-->
 
-        </p>
-        <button>zie learning-jouraal</button>
-        <p>ook kunt u mijn aantkeeningen zien over de gastcolleges</p>
+<!--        </p>-->
+        <ul class="buttons">
+            <li>
+                <a href="/learning-journal" class="moreinfo pulse">
+                    Learning journal
+                </a>
+            </li>
+            <li>
+                <a href="/we-love-web" class="moreinfo pulse">
+                    we love web gastsprekers
+                </a>
+            </li>
+            <li>
+                <a href="/digital-garden" class="moreinfo pulse ">
+                    digital garden
+                </a></li>
+        </ul>
 
     </div>
-
-
-<!--<ul class="generalStyling">-->
-<!--    <li >-->
-<!--        <a href="we-love-web/">We love web</a>-->
-<!--    </li>-->
-<!--    <li>-->
-<!--        <a href="learning-journal/">learning journal</a>-->
-<!--    </li>-->
-<!--    <li>-->
-<!--        <a href="digital-garden">Digital Garden</a>-->
-<!--    </li>-->
-<!--</ul>-->
 </section>
 <style>
 
     h1{
-        font-size: 49px;
+        font-size: 40px;
     }
     .about-me{
-        font-size: 40px;
+        font-size: 30px;
         border-bottom: solid 2px var(--purple);
     }
     .more-over-me{
-        font-size: 30px;
+        font-size: 20px;
 
     }
+    li{
+        list-style: none;
+        margin: 0 auto;
+        padding: 0;
+    }
+    ul{
+        padding: 0;
 
-    /*a{*/
-    /*    text-decoration: none;*/
-    /*}*/
-    /*li{*/
-    /*    list-style: none;*/
-    /*}*/
+    }
+    .buttons{
+        display: grid;
+        gap: 2em;
+        margin-right: 2rem;
+    }
 
-    /*ul{*/
-    /*    display: grid;*/
-    /*    grid-template-rows: 15rem 15rem 15rem;*/
-    /*}*/
 
-    /*li:nth-child(1),.generalStyling{*/
-    /*    font-size: 30px;*/
-    /*    text-decoration: black;*/
-    /*    color: black;*/
-    /*    background-color: var(--green);*/
-    /*    border-radius: 15px;*/
-    /*    backdrop-filter: blur(20px);*/
+    @media (min-width: 900px) {
+        .buttons{
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+            row-gap: 2rem;
+        }
+    }
+    .moreinfo {
+        display: grid;
+        border-radius: 4px;
+        padding: 16px;
+        margin: 1em 0 0 1em;
+        font-family: sans-serif;
+        text-decoration: none;
 
-    /*}*/
+        color: var(--white);
+        letter-spacing: 2px;
+        text-align: center;
+        position: relative;
+        transition: all .35s;
+        background:var(--purple);
+        font-weight: normal;
+        width:130px;
+    }
+
+    .pulse{
+        animation: pulse 2s infinite;
+        box-shadow: 14px 13px 0 0;
+    }
+    @keyframes pulse {
+        0% {
+            transform: scale(0.95);
+            box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
+        }
+
+        50% {
+            transform: scale(1.25);
+            box-shadow: 0 0 0 15px rgba(0, 0, 0, 0);
+        }
+
+        100% {
+            transform: scale(1.3);
+            box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+        }
+    }
 
 </style>
 

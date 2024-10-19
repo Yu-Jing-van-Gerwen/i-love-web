@@ -33,7 +33,7 @@
 
 <style>
 
-    .flex-container{
+    nav{
         display: flex;
         flex-direction: column;
         border-radius: 1em;
@@ -41,6 +41,11 @@
         background: linear-gradient(0deg, #00EFEF 40%, #4FDD51 100%);
         box-shadow: 0 0 20px 20px rgba(0, 0, 0, .1);
         padding: 2em;
+        row-gap: 22px;
+    }
+    ul{
+        display: flex;
+        flex-direction: column;
         row-gap: 22px;
     }
     li{
@@ -60,10 +65,10 @@
     a{
         text-decoration: none;
         color: black;
-        font-size: 28px;
+        font-size: 20px;
     }
 
-    @media (min-width: 600px) {
+    @media (min-width: 1000px) {
         .flex-container {
             display: inline-flex;
             flex-direction: row;
