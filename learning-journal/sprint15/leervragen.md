@@ -26,6 +26,16 @@ Hoe maak ik een goed portfolio
       
    </li>
    <li>
+door te kijken naar wat de opdrachtgever wil en of dat te realiseren is met je techstack die je uitkiest
+<br>
+en daarbij kijk je dus naar hoeveel gebruikers de website gaan gebruiken
+<br>
+de kosten die je erbij gaat krijgen
+<br>
+hoe is het te onderhouden moet je veel werk doen of valt het mee
+<br>
+
+
       
    </li>
    <li>
