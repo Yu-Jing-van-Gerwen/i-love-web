@@ -260,7 +260,8 @@
         {/each}
     </div>
 
-    <h2>schoolprojecten dit jaar</h2>
+    <section class="">
+    <h2>schoolprojecten 2024 september of later</h2>
     <p>Dit jaar ben ik bezig met frameworks om hier beter in te worden</p>
     <div class="grid-container">
         {#each projects_year2_semester1 as member}
@@ -287,10 +288,10 @@
             </article>
         {/each}
     </div>
+    </section>
 
-
-
-    <h2>schoolprojecten 2023</h2>
+    <section class="">
+    <h2>schoolprojecten 2023 van februari tot en met juli </h2>
     <p>Ik heb dit semester geleerd over javascript node js en express ook heb ik met ejs gewerkt</p>
     <div class="grid-container">
         {#each projects_year1_semester2 as member}
@@ -309,7 +310,10 @@
             </article>
         {/each}
     </div>
-    <h2>schoolprojecten 2023</h2>
+    </section>
+
+    <section class="">
+    <h2>schoolprojecten 2023 van september tot en met januari</h2>
     <p>Dit jaar heb ik html en css geleerd en ook een beetje javascript</p>
     <div class="grid-container">
         {#each projects_year1_semester1 as member}
@@ -328,13 +332,20 @@
             </article>
         {/each}
     </div>
+    </section>
+
 </section>
 
 <style>
+    div {
+        border-bottom: 2px solid var(--purple);
+        padding-bottom: 2rem;
+    }
     .grid-container {
         display: grid;
         grid-row-gap: 1rem;
         grid-column-gap: 2rem;
+
 
     }
     ul{
@@ -345,11 +356,10 @@
     }
 
     .card {
-
         overflow: hidden;
         padding: 2rem;
         display: grid;
-        grid-template-rows: 16rem auto auto 4rem auto;
+        grid-template-rows: 12rem auto auto 4rem auto;
         gap: 16px;
         background-color: #00ff92;
         border-radius: 0.25rem;
@@ -357,10 +367,11 @@
 
     img {
         object-fit: cover;
+        max-height: 12em;
     }
     @media (max-width: 400px) {
         img {
-            width: 150px;
+            width:100%
         }
 
         .grid-container {
@@ -369,8 +380,8 @@
         }
 
         .card {
-            width: 150px;
-            max-width: 250px;
+            /*width: 150px;*/
+            /*max-width: 250px;*/
 
         }
     }
@@ -382,8 +393,9 @@
 
         }
         img {
-            width: 250px;
-            max-width: 350px;
+            width: 17em;
+           /*width: 100%;*/
+            /*height: 10rem;*/
         }
 
         .grid-container {
