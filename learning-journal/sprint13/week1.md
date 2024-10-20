@@ -1,33 +1,7 @@
 # hier vertel ik over wat ik geleerd heb in deze sprint
 
-## mijn leervragen
 
-
-**Ik wil beter worden in figma en designen hoe je zo'n ontwerp mooi kan maken** 
-3.4.2 Schetst om gedachten en processen te verkennen, abstracte begrippen over te brengen en de oplossingsrichting inzichtelijk te maken.
-
-**Ik wil beter worden in plannen waardoor mijn wiki en project gestructureerd is**
-4.1.1 Richt projecten efficiënt en effectief in volgens de development-lifecycle en houdt rekening met de beschikbare tijd.
-
-
-
-**Ik wil svelte leren kennen en weten hoe ik dit kan gebruiken**
-3.1.2 Combineert onderbouwd principes, standaarden en best-practices op het gebied van 
-frontend design en development om een oplossing voor een opdrachtgever te realiseren.
-
-**Hoe haal je data uit een Headless CMS door middel van een framework te renderen in een website?**
-
-**hoe lever je bewijslast goed in**
-
-**hoe zorg ik dat mijn repository overzicheljk en goed navolgbaar is zonder wiki**
-
-
-<h2>ga naar</h2> 
-<a href="#geleerd1">dit heb ik geleerd</a>
-<br>
-<a href="#leerlogboek">dit heb ik gedaan</a>
-<h2 id="leerlogboek">leerlogboek</h2>
-<h3>2-9-2024</h3>
+<h2>2-9-2024</h2>
 Ik heb mijn 1ste les dag gehad en daarin heb ik svelte geinstalleerd en een ontwerp gemaakt van de squadpage en een tutorial gevolgd van svelte
 
 
@@ -159,6 +133,7 @@ op de +page.svelte
                 <p>{data.persons.bio}  </p>
                 <p>Op dit moment doe ik de opleiding frontend design en development en zit ik in mijn
                     afstudeerjaar</p>
+            </section>
 ````
 
 </p>

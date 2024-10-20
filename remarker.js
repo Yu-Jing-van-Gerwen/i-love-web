@@ -13,7 +13,7 @@ const file = await unified()
     .use(rehypeDocument)
     .use(rehypeFormat)
     .use(rehypeStringify)
-    .process(await read('sprint14/week2-sprint14.md'))
+    .process(await read('sprint14/week2.md'))
 
 console.error(reporter(file))
 console.log(String(file))
