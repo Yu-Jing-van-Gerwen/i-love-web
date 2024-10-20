@@ -1,7 +1,7 @@
 <script>
 
 </script>
-<main class="green-gradient">
+
 
     <section class="general-styling-section ">
         <h1>we love web</h1>
@@ -86,7 +86,6 @@
         <li><a href="https://filaexplore.com/mountains">filla exploere</a></li>
     </ul>
     </section>
-</main>
 <style>
     h1{
 

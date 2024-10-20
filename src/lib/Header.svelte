@@ -37,8 +37,8 @@
         display: flex;
         flex-direction: column;
         border-radius: 1em;
-        background: #00ff92;
-        background: linear-gradient(0deg, #00EFEF 40%, #4FDD51 100%);
+        background: var(--white);
+        /*background: linear-gradient(0deg, #00EFEF 40%, #4FDD51 100%);*/
         box-shadow: 0 0 20px 20px rgba(0, 0, 0, .1);
         padding: 2em;
         row-gap: 22px;

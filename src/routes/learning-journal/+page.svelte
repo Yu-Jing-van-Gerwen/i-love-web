@@ -1,7 +1,6 @@
 <script>
 
 </script>
-<main class="green-gradient">
     <section class="general-styling-section ">
         <h1 id="mijn-leervragen">Learning-journal</h1>
         <p>mijn learning journal gaat over wat ik iedere week leer en dit hou ik bij in een markdown
@@ -21,17 +20,8 @@
 
 
     </section>
-</main>
 <style>
-    main {
-        padding: 2em;
-        display: grid;
-        gap: 2em;
-        font-family: Arial, Helvetica, sans-serif;
-        scroll-behavior: smooth;
 
-
-    }
 
 
 </style>

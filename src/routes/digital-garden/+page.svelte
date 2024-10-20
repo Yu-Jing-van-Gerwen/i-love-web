@@ -1,25 +1,31 @@
 <script>
 
 </script>
-<main class="green-gradient">
-    <section class="generalStyling ">
-        <h1 id="mijn-leervragen">digital garden</h1>
-        <p>hier kunt u all mijn schoolwerk zien
-        </p>
 
 
-    </section>
-</main>
+<section class="general-styling-section ">
+    <h1>digital garden</h1>
+    <p>
+        hier kunt u all mijn schoolwerk zien
+    </p>
+
+
+
+</section>
+
+
+
+<section class="general-styling-section">
+
+</section>
 <style>
-    main {
-        padding: 2em;
-        display: grid;
-        gap: 2em;
-        font-family: Arial, Helvetica, sans-serif;
-        scroll-behavior: smooth;
-
+    h1{
 
     }
+    h2{
+        /*border-bottom: solid 2px var(--purple);*/
+    }
+
 
 
 </style>

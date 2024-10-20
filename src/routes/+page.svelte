@@ -2,7 +2,6 @@
 
 </script>
 
-<section class="green-gradient">
     <article class="general-styling-section">
 
 
@@ -43,7 +42,6 @@
         </ul>
 
     </div>
-</section>
 <style>
 
 
