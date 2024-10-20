@@ -12,7 +12,7 @@
 </body>
 <style>
 
-    @media (min-width: 00px) {
+    @media (min-width: 300px) {
 
     }
 
