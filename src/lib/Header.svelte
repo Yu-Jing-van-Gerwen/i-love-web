@@ -40,7 +40,7 @@
         background: var(--white);
         /*background: linear-gradient(0deg, #00EFEF 40%, #4FDD51 100%);*/
         box-shadow: 0 0 20px 20px rgba(0, 0, 0, .1);
-        padding: 2em;
+        padding: 1em 2em 1em 0;
         row-gap: 22px;
     }
     ul{

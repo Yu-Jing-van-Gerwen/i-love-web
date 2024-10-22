@@ -1,29 +1,26 @@
 <script>
-
+    import SocialMedia from '$lib/Socialmedia.svelte';
 </script>
 
     <article class="general-styling-section">
 
 
         <h1>Yu Jing van Gerwen</h1>
-        <h2 class="about-me">about me</h2>
-        <div class="more-over-me">
+        <section class="more-over-me">
+            <h2 class="about-me">about me</h2>
             <p>
-                ik ben op dit moment studen aan de hogeschol van amsterdam</p>
-            <p>ik doe de opleiding frontend design en development en ik zou graag frontend developer willen worden</p>
+                Ik ben op dit moment student aan de hogeschool van amsterdam.</p>
+            <p>Ik doe de opleiding Frontend Design & Development en ik zou graag frontend developer willen worden.</p>
 
-        </div>
+        </section>
+
+            <SocialMedia/>
 
 
     </article>
-    <div class="general-styling-section">
-<!--        <p>In mijn portfolio kunt u mijn learningjournal zien hier hou ik alles bij wat ik leer-->
-<!--            <br>-->
-<!--            ook kunt u mijn we love web aantekeningne zien van gastsprekers-->
-<!--            <br>-->
-<!--            en mijn schoolwerk all mijn werk wat ik tot nu toe gemaakt heb-->
+    <section class="general-styling-section">
+        <h2 class="hide">over mij</h2>
 
-<!--        </p>-->
         <ul class="buttons">
             <li>
                 <a href="/learning-journal" class="moreinfo pulse">
@@ -41,8 +38,11 @@
                 </a></li>
         </ul>
 
-    </div>
+    </section>
 <style>
+    .hide{
+        display: none;
+    }
 
 
     h2{
