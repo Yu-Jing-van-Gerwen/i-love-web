@@ -107,7 +107,8 @@ https://tinypng.com/ dit gebruiken voor oplossen van de images om het niet brede
 
 
 <section>
-<h2>15-10</h2>
+
+<h2>16-10</h2>
 <p>
 choices choices talk
 
@@ -250,7 +251,7 @@ Tegenargumenten: Overweeg mogelijke tegenargumenten en probeer deze te weerlegge
   <li>
 Conclusie: Trek een conclusie op basis van de gepresenteerde argumenten en tegenargumenten.
   </li>
-</p>
+</ul>
 
 
 <p>
@@ -259,4 +260,10 @@ Conclusie: Trek een conclusie op basis van de gepresenteerde argumenten en tegen
 CMX is belangrijk omdat het draait om het creëren van een positieve ervaring voor de gebruiker. Bij de keuze voor een framework moet je dus ook rekening houden met de impact op de gebruikerservaring. Factoren zoals laadtijd, gebruiksgemak en toegankelijkheid spelen hierbij een belangrijke rol.
 </p>
 
+<h2>18-10</h2>
+<p>
 
+Ik heb mijn onderzoek voor mijn <a href="https://github.com/yujing-student/justify-your-tech-stack/wiki">tech stack</a> 
+verder gedocumenteerd 
+
+</p>
