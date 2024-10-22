@@ -12,9 +12,6 @@
 </body>
 <style>
 
-    @media (min-width: 300px) {
-
-    }
 
     body{
         background: #00ff92;

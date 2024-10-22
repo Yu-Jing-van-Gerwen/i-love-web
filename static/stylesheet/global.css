@@ -34,7 +34,25 @@ h2{
     background: #fff;
     font-weight: normal;
     border-radius: 0.25rem;
-    padding: 0.5rem 1.5rem;
     display: grid;
     margin-top: 1.5em;
+}
+
+
+@media (min-width: 400px) {
+    .general-styling-section{
+
+        padding: 0.5rem 1.5rem;
+    }
+
+}
+
+@media (max-width: 400px) {
+
+    .general-styling-section{
+
+        padding: 0.1rem 1.5rem;
+    }
+
+
 }

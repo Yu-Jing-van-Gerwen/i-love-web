@@ -56,9 +56,9 @@
 
             programming_language: "eleventy",
             semester:'semester 1',
-            link_project:'https://github.com/yujing-student/choices-choices-the-tech-stack',
-            img:'/img/dda.png',
-            live_url: 'https://choices-choices-the-tech-stack-cyan.vercel.app/member'
+            link_project:'',
+            img:'',
+            live_url: ''
         },
 
 
@@ -67,6 +67,7 @@
 
             programming_language: "eleventy",
             semester:'semester 1',
+            img:'/img/dda.png',
             link_project:'https://github.com/yujing-student/choices-choices-the-tech-stack',
             live_url: 'https://choices-choices-the-tech-stack-cyan.vercel.app/member'
         },
@@ -226,10 +227,10 @@
 
 
 <section class="general-styling-section  ">
-    <h1>digital garden</h1>
+    <h1>Digital garden</h1>
     <p>
-        hier kunt u all mijn schoolwerk zien met hier de hoofdprojecten
-        klikt je op de title dan zie je het github project
+        Hier kunt u all mijn schoolwerk zien met hier de hoofdprojecten
+        klikt je op de title dan zie je het github project.
     </p>
 
 
@@ -246,13 +247,13 @@
 
                     </picture>
                 </a>
-                <h3 aria-label="project {member.title}"><a href="{member.link_project}">
+                <h3 aria-label="project {member.title}"><a href="{member.link_project}" class="titel-project">
                     {member.title}
                 </a> </h3>
                 <ul>
-                    <li>{member.programming_language}</li>
+                    <li>Programmeertalen/frameworks : {member.programming_language}</li>
                     <li>
-                        <a href="{member.live_url}">ga naar website</a>
+                        <a href="{member.live_url}" class="button-website">Ga naar website</a>
                     </li>
                 </ul>
 
@@ -261,8 +262,12 @@
     </div>
 
     <section class="">
-    <h2>schoolprojecten 2024 september of later</h2>
-    <p>Dit jaar ben ik bezig met frameworks om hier beter in te worden</p>
+    <h2>Schoolprojecten 2024 september of later.</h2>
+        <h3>Semester 3</h3>
+    <p>Dit jaar zit ik in mijn afstudeer jaar en ben ik bezig met frameworks om dit te leren.
+        <a href="https://programma.fdnd.nl/workflow-tooling-frameworks" class="button-schoolopdrachten">Ga naar schoolopdrachten semester 3</a>
+
+    </p>
     <div class="grid-container">
         {#each projects_year2_semester1 as member}
             <article class="card">
@@ -275,13 +280,13 @@
 
                 </picture>
                 </a>
-            <h3 aria-label="project {member.title}"><a href="{member.link_project}">
+                <h3 aria-label="project {member.title}"><a href="{member.link_project}" class="titel-project">
                 {member.title}
             </a> </h3>
             <ul>
-                <li>{member.programming_language}</li>
+                <li class="text-without-shadow">frameworks : {member.programming_language}</li>
            <li>
-               <a href="{member.live_url}">ga naar website</a>
+               <a href="{member.live_url}" class="button-website">Ga naar website</a>
            </li>
             </ul>
 
@@ -291,8 +296,12 @@
     </section>
 
     <section class="">
-    <h2>schoolprojecten 2023 van februari tot en met juli </h2>
-    <p>Ik heb dit semester geleerd over javascript node js en express ook heb ik met ejs gewerkt</p>
+    <h2>Schoolprojecten 2023 van februari tot en met juli </h2>
+        <h3>Semester 2</h3>
+    <p>Ik heb dit semester geleerd over javascript node js en express ook heb ik met ejs gewerkt.
+        <a href="https://programma.fdnd.nl/data-driven-web" class="button-schoolopdrachten">Ga naar schoolopdrachten semester 2</a>
+
+    </p>
     <div class="grid-container">
         {#each projects_year1_semester2 as member}
             <article class="card">
@@ -301,11 +310,11 @@
                     <img src="{member.img}">
 
                 </picture>
-                <h3 aria-label="project {member.title}"><a href="{member.link_project}">
+                <h3 aria-label="project {member.title}"><a href="{member.link_project}" class="titel-project">
                     {member.title}
                 </a> </h3>
                 <ul>
-                    <li>{member.programming_language}</li>
+                    <li>Programmeertalen: {member.programming_language}</li>
                 </ul>
             </article>
         {/each}
@@ -313,8 +322,12 @@
     </section>
 
     <section class="">
-    <h2>schoolprojecten 2023 van september tot en met januari</h2>
-    <p>Dit jaar heb ik html en css geleerd en ook een beetje javascript</p>
+    <h2>Schoolprojecten 2023 van september tot en met januari</h2>
+        <h3>Semester 1</h3>
+    <p>Dit jaar Ben ik begonnen met mijn studie en heb ik html en css geleerd en ook een beetje javascript.
+        <a href="https://programma.fdnd.nl/static-web" class="button-schoolopdrachten">Ga naar schoolopdrachten semester 1</a>
+    </p>
+
     <div class="grid-container">
         {#each projects_year1_semester1 as member}
             <article class="card">
@@ -323,11 +336,11 @@
                     <img src="{member.img}">
 
                 </picture>
-                <h3 aria-label="project {member.title}"><a href="{member.link_project}">
+                <h3 aria-label="project {member.title}"><a href="{member.link_project}" class="titel-project">
                     {member.title}
                 </a> </h3>
                 <ul>
-                    <li>{member.programming_language}</li>
+                    <li>Programmeertalen:  {member.programming_language}</li>
                 </ul>
             </article>
         {/each}
@@ -354,14 +367,26 @@
     li{
         list-style: none;
     }
+    .titel-project{
+        text-decoration: none;
+        color: #120000;
+    }
+
+    .titel-project:active {
+        /*transform: scale(1.2);*/
+        transform: translateY(5px);
+        /* Scaling button to 0.98 to its original size */
+        box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+        /* Lowering the shadow */
+    }
 
     .card {
         overflow: hidden;
         padding: 2rem;
         display: grid;
-        grid-template-rows: 12rem auto auto 4rem auto;
+        grid-template-rows: 12rem 5rem auto 4rem auto;
         gap: 16px;
-        background-color: #00ff92;
+        background-color: #caffda;
         border-radius: 0.25rem;
     }
 
@@ -375,8 +400,7 @@
         }
 
         .grid-container {
-            padding: 2rem;
-            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            /*grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));*/
         }
 
         .card {
@@ -402,7 +426,96 @@
             grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 
         }
+
+        .titel-project{
+            text-decoration: none;
+            color: #120000;
+
+
+            font-size: 1.5rem;
+            /*display: grid;*/
+            /*border-radius: 4px;*/
+            /*padding: 16px;*/
+            /*margin: 1em 0 0;*/
+            /*font-family: sans-serif;*/
+
+            /*!*76c54b5e*!*/
+            /*cursor: pointer;*/
+            /*!*color: var(--white);*!*/
+            /*letter-spacing: 2px;*/
+            /*text-align: center;*/
+            /*position: relative;*/
+            /*transition: all .35s;*/
+            /*background-color: #25ffff80;*/
+            /*font-weight: normal;*/
+            /*width:233px;*/
+
+            /*box-shadow: 13px 9px 0 0;*/
+        }
+
     }
+    .button-website{
+        display: grid;
+        border-radius: 4px;
+        padding: 16px;
+        margin: 1em 0 0;
+        font-family: sans-serif;
+        text-decoration: none;
+        color: #120000;
+        /*76c54b5e*/
+        cursor: pointer;
+        /*color: var(--white);*/
+        letter-spacing: 2px;
+        text-align: center;
+        position: relative;
+        transition: all .35s;
+        background-color: #25ffff80;
+        font-weight: normal;
+        width:130px;
+        box-shadow: 13px 9px 0 0;
+    }
+    .button-schoolopdrachten{
+        display: grid;
+        border-radius: 4px;
+        padding: 16px;
+        margin: 1em 0 0;
+        font-family: sans-serif;
+        text-decoration: none;
+        color: #120000;
+        /*76c54b5e*/
+        cursor: pointer;
+        /*color: var(--white);*/
+        letter-spacing: 2px;
+        text-align: center;
+        position: relative;
+        transition: all .35s;
+        background-color: #25ffff80;
+        font-weight: normal;
+        width: 180px;
+        box-shadow: 13px 9px 0 0;
+    }
+    /*.text-without-shadow{*/
+    /*    text-decoration: none;*/
+    /*    color: #120000;*/
+    /*    font-size: 1.5rem;*/
+    /*    display: grid;*/
+    /*    border-radius: 4px;*/
+    /*    padding: 16px;*/
+    /*    margin: 1em 0 0;*/
+    /*    font-family: sans-serif;*/
+    /*    text-decoration: none;*/
+    /*    color: #120000;*/
+    /*    !*76c54b5e*!*/
+    /*    cursor: pointer;*/
+    /*    !*color: var(--white);*!*/
+    /*    letter-spacing: 2px;*/
+    /*    text-align: center;*/
+    /*    position: relative;*/
+    /*    transition: all .35s;*/
+    /*  background-color: #b852ff80;*/
+    /*    font-weight: normal;*/
+    /*    width:233px;*/
+    /*}*/
 
     h1 {
 

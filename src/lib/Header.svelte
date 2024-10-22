@@ -12,19 +12,19 @@
         <li class="flex-items">
             <a href="/learning-journal">
 
-                learning journal </a>
+                Learning journal </a>
 
         </li>
         <li class="flex-items">
             <a href="/digital-garden">
 
-            digital garden
+            Digital garden
             </a>
         </li>
 
         <li class="flex-items">
             <a href="/we-love-web">
-           we-love-web
+           We-love-web
             </a>
         </li>
 

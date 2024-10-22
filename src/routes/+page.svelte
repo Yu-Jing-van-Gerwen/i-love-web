@@ -12,29 +12,38 @@
                 Ik ben op dit moment student aan de hogeschool van amsterdam.</p>
             <p>Ik doe de opleiding Frontend Design & Development en ik zou graag frontend developer willen worden.</p>
 
+
         </section>
 
             <SocialMedia/>
 
 
     </article>
-    <section class="general-styling-section">
+    <section class="general-styling-section ">
         <h2 class="hide">over mij</h2>
-
         <ul class="buttons">
-            <li>
+            <li class="text-buttons">
+                In mijn learning journaal kan je zien wat ik per week leer en dit hou ik bij in een readme.
+            </li>
+            <li class="item-button">
                 <a href="/learning-journal" class="moreinfo pulse">
                     Learning journal
                 </a>
             </li>
-            <li>
+            <li class="text-buttons">
+                De we love web dat zijn mijn aantekeningen van gastcolleges.
+            </li>
+            <li class="item-button">
                 <a href="/we-love-web" class="moreinfo pulse">
-                    we love web gastsprekers
+                    We love web
                 </a>
             </li>
-            <li>
-                <a href="/digital-garden" class="moreinfo pulse ">
-                    digital garden
+            <li class="text-buttons">
+                Mijn Digital garden dat is mijn portfolio.
+            </li>
+            <li class="item-button">
+                <a href="/digital-garden" class="moreinfo pulse">
+                    Digital garden
                 </a></li>
         </ul>
 
@@ -63,18 +72,44 @@
     }
     .buttons{
         display: grid;
+        grid-template-columns: 268px;
         gap: 2em;
-        margin-right: 2rem;
     }
 
 
-    @media (min-width: 900px) {
+    @media (min-width: 1000px) {
         .buttons{
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+            /*grid-template-columns: 1fr 1fr 1fr;*/
+            grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+            grid-template-rows: auto auto;
+            /*grid-template-columns: 20em 20em 20em;*/
             row-gap: 2rem;
+            column-gap: 2rem;
+            /*justify-self: start;*/
+        }
+        .text-buttons{
+            grid-row: 1;
+            /*text-align: left;*/
+
+        }
+        .item-button{
+            grid-row: 2;
+            justify-self: start;
+            align-items: start;
         }
     }
+
+    /*@media (min-width: 1200px) {*/
+    /*    .buttons{*/
+
+    /*        grid-template-columns: 20em 20em 20em;*/
+
+    /*    }*/
+    /*    .text-buttons{*/
+    /*        grid-row: 1;*/
+    /*    }*/
+    /*}*/
     .moreinfo {
         display: grid;
         border-radius: 4px;
@@ -82,13 +117,14 @@
         margin: 1em 0 0 1em;
         font-family: sans-serif;
         text-decoration: none;
-
-        color: var(--white);
+        color: #120000;
+        cursor: pointer;
+        /*color: var(--white);*/
         letter-spacing: 2px;
         text-align: center;
         position: relative;
         transition: all .35s;
-        background:var(--purple);
+        background-color: #76c54b5e;
         font-weight: normal;
         width:130px;
     }
