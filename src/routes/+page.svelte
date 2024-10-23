@@ -128,6 +128,9 @@
         font-weight: normal;
         width:130px;
     }
+    .moreinfo:hover{
+        background-color: #00EFEF;
+    }
 
     .pulse{
         animation: pulse 2s infinite;

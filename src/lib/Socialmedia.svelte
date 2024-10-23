@@ -5,7 +5,7 @@
 <section class="socialmedia whitebackground animationfade">
     <h2>Social media</h2>
     <ul>
-        <li>
+        <li class="icons">
             <a href="https://github.com/yujing-student">
                 <picture>
 
@@ -13,7 +13,7 @@
                 </picture>
             </a>
         </li>
-        <li>
+        <li class="icons">
             <a href="https://www.linkedin.com/in/yu-jing-van-gerwen-a959431b7/">
 
                 <img  src="/img/linkedin.jpg" alt="linkedin"/>
@@ -39,6 +39,11 @@
     }
     img{
         width: 70px;
+    }
+
+
+    .icons:hover{
+        transform: scale(1);
     }
     .whitebackground{
         /*box-shadow: 14px 13px 0px 0px;*/

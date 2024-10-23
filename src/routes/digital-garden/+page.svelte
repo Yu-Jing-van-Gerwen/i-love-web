@@ -474,6 +474,14 @@
         width:130px;
         box-shadow: 13px 9px 0 0;
     }
+    .button-website:hover{
+        background-color: #ff2525;
+        color: white;
+    }
+    .button-schoolopdrachten:hover{
+        background-color: #ff2525;
+        color: white;
+    }
     .button-schoolopdrachten{
         display: grid;
         border-radius: 4px;
