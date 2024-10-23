@@ -1,7 +1,7 @@
 <script>
     let uitgelichte_projecten = [
         {
-            title: "proof of concept",
+            title: "Proof of concept",
             period: "2024",
 
             programming_language: "html,css, javascript,node js,express",
@@ -19,7 +19,7 @@
             live_url: 'https://effortless-choux-a35df0.netlify.app/'
         },
         {
-            title: "your tribe for life profile card",
+            title: "Your tribe for life profile card",
             period: "2023",
             year: "jaar 1",
             programming_language: "sveltekit",
@@ -41,7 +41,7 @@
             live_url: 'https://effortless-choux-a35df0.netlify.app/'
         },
         {
-            title: "your tribe for life profile card",
+            title: "Your tribe for life profile card",
             period: "2023",
             year: "jaar 1",
             programming_language: "sveltekit",
@@ -52,7 +52,7 @@
         },
 
         {
-            title: "lose-your-head",
+            title: "Lose-your-head",
 
             programming_language: "eleventy",
             semester:'semester 1',
@@ -63,7 +63,7 @@
 
 
         {
-            title: "choices-choices-the-tech-stack",
+            title: "Choices-choices-the-tech-stack",
 
             programming_language: "eleventy",
             semester:'semester 1',
@@ -113,7 +113,7 @@
             img:''
         },
         {
-            title: "fix the flow",
+            title: "Fix the flow",
             period: "2023",
             year: "jaar 1",
             programming_language: "html,css, javascript",
@@ -139,7 +139,7 @@
     let projects_year1_semester2 = [
 
         {
-            title: "connect your tribe",
+            title: "Connect your tribe",
             period: "2024",
             programming_language: "html,css, javascript,node js,express",
             semester:'semester 2',
@@ -148,7 +148,7 @@
             live_url:'https://connect-your-tribe-squad-page-axqp.onrender.com/'
         },
         {
-            title: "connect your tribe profile card",
+            title: "Connect your tribe profile card",
             period: "2024",
             programming_language: "html,css, javascript,node js,express",
             semester:'semester 2',
@@ -158,7 +158,7 @@
         },
 
         {
-            title: "serverside side rendering",
+            title: "Serverside side rendering",
             period: "2024",
 
             programming_language: "html,css, javascript,node js,express",
@@ -176,7 +176,7 @@
             link_project:'https://github.com/yujing-student/the-web-is-for-everyone-interactive-functionality',
         },
         {
-            title: "user experience",
+            title: "User experience",
             period: "2024",
 
             programming_language: "html,css, javascript,node js,express",
@@ -186,7 +186,7 @@
 
         },
         {
-            title: "pleasurable ui",
+            title: "Pleasurable ui",
             period: "2024",
 
             programming_language: "html,css, javascript,node js,express",
@@ -196,7 +196,7 @@
         },
 
         {
-            title: "proof of concept",
+            title: "Proof of concept",
             period: "2024",
 
             programming_language: "html,css, javascript,node js,express",
@@ -211,7 +211,7 @@
 
     let smallproject = [
         {
-            title: "css layout",
+            title: "Css layout",
             period: "2023",
             year: "jaar 1",
             programming_language: "html,css, javascript,node js,express",
@@ -230,11 +230,11 @@
     <h1>Digital garden</h1>
     <p>
         Hier kunt u all mijn schoolwerk zien met hier de hoofdprojecten
-        klikt je op de title dan zie je het github project.
+        klik op de title en dan zie je het github project.
     </p>
 
 
-    <h2>uitgelichte en beste projecten</h2>
+    <h2>Uitgelichte en beste projecten</h2>
     <div class="grid-container">
         {#each uitgelichte_projecten as member}
             <article class="card">
@@ -251,7 +251,8 @@
                     {member.title}
                 </a> </h3>
                 <ul>
-                    <li>Programmeertalen/frameworks : {member.programming_language}</li>
+                    <li>Programmeertalen/
+                        Frameworks : {member.programming_language}</li>
                     <li>
                         <a href="{member.live_url}" class="button-website">Ga naar website</a>
                     </li>
@@ -264,8 +265,10 @@
     <section class="">
     <h2>Schoolprojecten 2024 september of later.</h2>
         <h3>Semester 3</h3>
-    <p>Dit jaar zit ik in mijn afstudeer jaar en ben ik bezig met frameworks om dit te leren.
-        <a href="https://programma.fdnd.nl/workflow-tooling-frameworks" class="button-schoolopdrachten">Ga naar schoolopdrachten semester 3</a>
+    <p>Dit jaar zit ik in mijn afstudeer jaar en ben ik bezig met f
+        Frameworks om dit te leren.
+        <a href="https://programma.fdnd.nl/workflow-tooling-f
+        Frameworks" class="button-schoolopdrachten">Ga naar schoolopdrachten semester 3</a>
 
     </p>
     <div class="grid-container">
@@ -284,7 +287,8 @@
                 {member.title}
             </a> </h3>
             <ul>
-                <li class="text-without-shadow">frameworks : {member.programming_language}</li>
+                <li class="text-without-shadow">
+                    Frameworks : {member.programming_language}</li>
            <li>
                <a href="{member.live_url}" class="button-website">Ga naar website</a>
            </li>

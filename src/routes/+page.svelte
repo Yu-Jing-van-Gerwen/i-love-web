@@ -7,7 +7,7 @@
 
         <h1>Yu Jing van Gerwen</h1>
         <section class="more-over-me">
-            <h2 class="about-me">about me</h2>
+            <h2 class="about-me">Over mij</h2>
             <p>
                 Ik ben op dit moment student aan de hogeschool van amsterdam.</p>
             <p>Ik doe de opleiding Frontend Design & Development en ik zou graag frontend developer willen worden.</p>
