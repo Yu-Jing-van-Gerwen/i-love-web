@@ -49,6 +49,9 @@
 
     </section>
 <style>
+    li{
+        font-size: 20px;
+    }
     .hide{
         display: none;
     }

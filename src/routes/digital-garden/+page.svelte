@@ -392,6 +392,7 @@
 
     img {
         object-fit: cover;
+        /*max-width: 18em;*/
         max-height: 12em;
     }
     @media (max-width: 400px) {
@@ -409,22 +410,31 @@
 
         }
     }
+    @media (max-width: 500px) {
+        img {
 
+            max-width: 18em;
+        }
+    }
 
-    @media (min-width: 400px) {
+    @media (min-width: 500px) {
         .card {
             /*width: 250px;*/
 
         }
         img {
             width: 17em;
+            max-width: 18em;
            /*width: 100%;*/
             /*height: 10rem;*/
         }
 
         .grid-container {
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(376px, 1fr));
 
+        }
+        .general-styling-section{
+            font-size: 20px;
         }
 
         .titel-project{

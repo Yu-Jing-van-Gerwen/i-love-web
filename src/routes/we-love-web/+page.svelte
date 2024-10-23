@@ -102,6 +102,9 @@
 
 
     }
+    .general-styling-section{
+        font-size: 20px;
+    }
 
 
 </style>
