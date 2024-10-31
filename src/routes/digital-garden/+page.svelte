@@ -230,7 +230,7 @@
     <h1>Digital garden</h1>
     <p>
         Hier kunt u all mijn schoolwerk zien met hier de hoofdprojecten
-        klik op de title en dan zie je het github project.
+        klik op de titel en dan zie je het github project.
     </p>
 
 
@@ -382,6 +382,10 @@
         /* Scaling button to 0.98 to its original size */
         box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
         /* Lowering the shadow */
+    }
+    .titel-project:hover{
+        text-decoration: underline;
+        color: blue;
     }
 
     .card {
