@@ -493,11 +493,11 @@
         box-shadow: 13px 9px 0 0;
     }
     .button-website:hover{
-        background-color: #ff2525;
+        background-color: #40783a;
         color: white;
     }
     .button-schoolopdrachten:hover{
-        background-color: #ff2525;
+        background-color: #40783a;
         color: white;
     }
     .button-schoolopdrachten{
