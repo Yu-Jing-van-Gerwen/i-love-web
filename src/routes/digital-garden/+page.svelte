@@ -263,9 +263,9 @@
     </div>
 
     <section class="">
-    <h2>Schoolprojecten 2024 september of later.</h2>
+    <h2>Schoolprojecten 2024 september of later</h2>
         <h3>Semester 3</h3>
-    <p>Dit jaar zit ik in mijn afstudeer jaar en ben ik bezig met f
+    <p>Dit jaar zit ik in mijn afstudeer jaar en ben ik bezig met
         Frameworks om dit te leren.
         <a href="https://programma.fdnd.nl/workflow-tooling-f
         Frameworks" class="button-schoolopdrachten">Ga naar schoolopdrachten semester 3</a>
@@ -302,7 +302,7 @@
     <section class="">
     <h2>Schoolprojecten 2023 van februari tot en met juli </h2>
         <h3>Semester 2</h3>
-    <p>Ik heb dit semester geleerd over javascript node js en express ook heb ik met ejs gewerkt.
+    <p>Ik heb dit semester geleerd over javascript node js en express ook heb ik met EJS gewerkt.
         <a href="https://programma.fdnd.nl/data-driven-web" class="button-schoolopdrachten">Ga naar schoolopdrachten semester 2</a>
 
     </p>
@@ -328,7 +328,7 @@
     <section class="">
     <h2>Schoolprojecten 2023 van september tot en met januari</h2>
         <h3>Semester 1</h3>
-    <p>Dit jaar Ben ik begonnen met mijn studie en heb ik html en css geleerd en ook een beetje javascript.
+    <p>Dit jaar ben ik begonnen met mijn studie en heb ik html en css geleerd en ook een beetje javascript.
         <a href="https://programma.fdnd.nl/static-web" class="button-schoolopdrachten">Ga naar schoolopdrachten semester 1</a>
     </p>
 
