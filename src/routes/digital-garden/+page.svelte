@@ -5,8 +5,8 @@
             period: "2024",
 
             programming_language: "HTML,CSS, Javascript,node js,express",
-            semester:'semester 2',
-            img:'/img/bnr.png',
+            semester:'semester2',
+            img:'/img/semester2/bnr.png',
             link_project:'https://github.com/yujing-student/proof-of-concept',
             live_url: 'https://proof-of-concept-bnr.vercel.app/'
         },
@@ -25,7 +25,7 @@
             programming_language: "Sveltekit",
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/your-tribe-for-life-profile-card',
-            img:'/img/profile-card.png',
+            img:'/img/semester2/profile-card.png',
             live_url:'https://your-tribe-for-life-profile-card-gold.vercel.app/'
         },
     ]
@@ -47,7 +47,7 @@
             programming_language: "Sveltekit",
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/your-tribe-for-life-profile-card',
-            img:'/img/profile-card.png',
+            img:'/img/semester2/profile-card.png',
             live_url:'https://your-tribe-for-life-profile-card-gold.vercel.app/'
         },
 
@@ -79,7 +79,7 @@
             title: "Connect your tribe",
             period: "2024",
             programming_language: "HTML,CSS, Javascript,node js,express",
-            semester:'semester 2',
+            semester:'semester2',
             img:'/img/squad-.png',
             link_project:'https://github.com/yujing-student/connect-your-tribe-squad-page',
             live_url:'https://connect-your-tribe-squad-page-axqp.onrender.com/',
@@ -88,8 +88,8 @@
             title: "Connect your tribe profile card",
             period: "2024",
             programming_language: "HTML,CSS, Javascript,node js,express",
-            semester:'semester 2',
-            img:'/img/profile-card.png',
+            semester:'semester2',
+            img:'/img/semester2/profile-card.png',
             link_project:'https://github.com/yujing-student/connect-your-tribe-profile-card',
             live_url:'https://your-tribe-for-life-profile-card-gold.vercel.app/',
         },
@@ -99,8 +99,8 @@
             period: "2024",
 
             programming_language: "HTML,CSS, Javascript,node js,express",
-            semester:'semester 2',
-            img:'',
+            semester:'semester2',
+            img:'/img/semester2/serverside.png',
             link_project:'https://github.com/yujing-student/server-side-rendering-server-side-website',
             live_url: 'https://server-side-rendering-server-side-website-e9cr.onrender.com/'
         },
@@ -109,7 +109,7 @@
             period: "2024",
 
             programming_language: "HTML,CSS, Javascript,node js,express",
-            semester:'semester 2',
+            semester:'semester2',
             img:'',
             link_project:'https://github.com/yujing-student/the-web-is-for-everyone-interactive-functionality',
             live_url: ''
@@ -119,10 +119,10 @@
             period: "2024",
 
             programming_language: "HTML,CSS, Javascript,node js,express",
-            semester:'semester 2',
-            img:'',
+            semester:'semester2',
+            img:'/img/semester2/user-experience.png',
             link_project:'https://github.com/yujing-student/user-experience-enhanced-website',
-            live_url: 'https://pleasurable-ui.onrender.com/'
+            live_url: 'https://user-experience-enhanced-website-b0jz.onrender.com/'
 
         },
         {
@@ -130,8 +130,8 @@
             period: "2024",
 
             programming_language: "HTML,CSS, Javascript,node js,express",
-            semester:'semester 2',
-            img:'',
+            semester:'semester2',
+            img:'/img/semester2/pleasurable-ui.png',
             link_project:'https://github.com/OniWithTheHoodie/pleasurable-ui',
             live_url: 'https://pleasurable-ui.onrender.com/'
         },
@@ -141,8 +141,8 @@
             period: "2024",
 
             programming_language: "HTML,CSS, Javascript,node js,express",
-            semester:'semester 2',
-            img:'/img/bnr.png',
+            semester:'semester2',
+            img:'/img/semester2/bnr.png',
             link_project:'https://github.com/yujing-student/proof-of-concept',
             live_url: 'https://proof-of-concept-bnr.vercel.app/'
         },
@@ -169,7 +169,7 @@
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/your-tribe-squad-page',
             live_url: 'https://yujing-student.github.io/your-tribe-squad-page/',
-            img:'',
+            img:'/img/semester1/squadpage.png',
         },
 
         {
@@ -180,7 +180,7 @@
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/the-client-website',
             live_url: 'https://yujing-student.github.io/the-client-website/',
-            img:'',
+            img:'/img/semester1/the-client.png',
         }, {
             title: "Look and feel",
             period: "2023",
@@ -188,8 +188,8 @@
             programming_language: "HTML,CSS",
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/look-and-feel-corporate-identity',
-            live_url: 'https://yujing-student.github.io/fix-the-flow-interactive-website/',
-            img:''
+            live_url: 'https://yujing-student.github.io/look-and-feel-corporate-identity/',
+            img:'/img/semester1/look-and-feel.png',
         },
         {
             title: "Fix the flow",
@@ -197,7 +197,7 @@
             year: "jaar 1",
             programming_language: "HTML,CSS, Javascript",
             semester:'semester 1',
-            img:'',
+            img:'/img/semester1/fix-the-flow.png',
             link_project: 'https://github.com/yujing-student/fix-the-flow-interactive-website',
             live_url: 'https://yujing-student.github.io/fix-the-flow-interactive-website/'
         },
@@ -206,7 +206,7 @@
             period: "2023",
             year: "jaar 1",
             programming_language: "HTML,CSS, Javascript",
-            img:'',
+            img:'/img/semester1/funda-projects.png',
             semester:'semester 1',
             link_project: 'https://github.com/yujing-student/the-startup-responsive-interactieve-website',
             live_url: 'https://yujing-student.github.io/the-startup-responsive-interactieve-website/'
@@ -364,7 +364,7 @@
                     {member.title}
                 </a> </h3>
                 <ul>
-                    <li>programming languages:  {member.programming_language}</li>
+                    <li>Programming languages:  {member.programming_language}</li>
                     <li>
                         <a href="{member.live_url}" class="button-website">Live Website</a>
                     </li>
@@ -457,8 +457,8 @@
 
         }
         img {
-            width: 17em;
-            max-width: 18em;
+            width: 15em;
+            height: 10em;
            /*width: 100%;*/
             /*height: 10rem;*/
         }
