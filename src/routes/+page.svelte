@@ -7,10 +7,10 @@
 
         <h1>Yu Jing van Gerwen</h1>
         <section class="more-over-me">
-            <h2 class="about-me">Over mij</h2>
+            <h2 class="about-me">About me</h2>
             <p>
-                Ik ben op dit moment student aan de hogeschool van amsterdam.</p>
-            <p>Ik doe de opleiding Frontend Design & Development en ik zou graag frontend developer willen worden.</p>
+                I am currently a student at the Amsterdam University of Applied Sciences.</p>
+            <p>I am studying Frontend Design & Development and I would like to become a frontend developer.</p>
 
 
         </section>
@@ -20,10 +20,11 @@
 
     </article>
     <section class="general-styling-section ">
-        <h2 class="hide">over mij</h2>
+        <h2 class="hide">About me</h2>
         <ul class="buttons">
             <li class="text-buttons">
-                In mijn learning journaal kan je zien wat ik per week leer en dit hou ik bij in een readme.
+                You can see what I learn each week in my learning journal. I keep track of it in a README.
+                (this is in dutch)
             </li>
             <li class="item-button">
                 <a href="/learning-journal" class="moreinfo pulse">
@@ -31,7 +32,8 @@
                 </a>
             </li>
             <li class="text-buttons">
-                De we love web dat zijn mijn aantekeningen van gastcolleges.
+                I keep all my guest lecture notes on the 'We Love Web' page.
+
             </li>
             <li class="item-button">
                 <a href="/we-love-web" class="moreinfo pulse">
@@ -39,7 +41,7 @@
                 </a>
             </li>
             <li class="text-buttons">
-                Mijn Digital garden dat is mijn portfolio.
+                My digital garden is my portfolio with all my work
             </li>
             <li class="item-button">
                 <a href="/digital-garden" class="moreinfo pulse">

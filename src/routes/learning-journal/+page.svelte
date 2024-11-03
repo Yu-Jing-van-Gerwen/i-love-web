@@ -3,13 +3,15 @@
 </script>
     <section class="general-styling-section ">
         <h1 id="mijn-leervragen">Learning-journal</h1>
-        <p>Mijn learning journal gaat over wat ik iedere week leer en dit hou ik bij in een markdown
-            omdat dit overzichtelijker is.
-        </p>
-        <p>
-            Kies de sprint uit en dan zie je 4 markdown files waarvan 1 file leervragen en de andere files zijn het logboek.
-            <br>
 
+        <p>
+            My learning journal tracks what I learn each week, and I keep it in a markdown file because it’s more organized.
+
+
+            <br>
+            Choose a sprint, and you’ll see four markdown files, one of which contains learning questions and the others are logbooks.
+            the learning journal is in dutch and not in english
+            <br>
         <img src="/img/log.png" alt="screenshot logboek">
 
 
