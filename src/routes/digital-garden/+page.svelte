@@ -4,7 +4,7 @@
             title: "Proof of concept",
             period: "2024",
 
-            programming_language: "html,css, javascript,node js,express",
+            programming_language: "HTML,CSS, Javascript,node js,express",
             semester:'semester 2',
             img:'/img/bnr.png',
             link_project:'https://github.com/yujing-student/proof-of-concept',
@@ -12,7 +12,7 @@
         },
         {
             title: "Your tribe squad page",
-            programming_language: "sveltekit",
+            programming_language: "Sveltekit",
             semester:'semester 1',
             link_project:'https://github.com/KaanKalmi/your-tribe-for-life-squad-page',
             img:'/img/squad.png',
@@ -22,7 +22,7 @@
             title: "Your tribe for life profile card",
             period: "2023",
             year: "jaar 1",
-            programming_language: "sveltekit",
+            programming_language: "Sveltekit",
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/your-tribe-for-life-profile-card',
             img:'/img/profile-card.png',
@@ -34,7 +34,7 @@
 
         {
             title: "Your tribe squad page",
-            programming_language: "sveltekit",
+            programming_language: "Sveltekit",
             semester:'semester 1',
             link_project:'https://github.com/KaanKalmi/your-tribe-for-life-squad-page',
             img:'/img/squad.png',
@@ -44,7 +44,7 @@
             title: "Your tribe for life profile card",
             period: "2023",
             year: "jaar 1",
-            programming_language: "sveltekit",
+            programming_language: "Sveltekit",
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/your-tribe-for-life-profile-card',
             img:'/img/profile-card.png',
@@ -54,18 +54,18 @@
         {
             title: "Lose-your-head",
 
-            programming_language: "eleventy",
+            programming_language: "Sveltekit",
             semester:'semester 1',
-            link_project:'',
-            img:'',
-            live_url: ''
+            link_project:'https://github.com/lisagjh/voorhoede',
+            img:'/img/semester3/dda.png',
+            live_url: 'https://dda-liard.vercel.app/members'
         },
 
 
         {
             title: "Choices-choices-the-tech-stack",
 
-            programming_language: "eleventy",
+            programming_language: "Eleventy",
             semester:'semester 1',
             img:'/img/dda.png',
             link_project:'https://github.com/yujing-student/choices-choices-the-tech-stack',
@@ -78,65 +78,69 @@
         {
             title: "Connect your tribe",
             period: "2024",
-            programming_language: "html,css, javascript,node js,express",
+            programming_language: "HTML,CSS, Javascript,node js,express",
             semester:'semester 2',
             img:'/img/squad-.png',
             link_project:'https://github.com/yujing-student/connect-your-tribe-squad-page',
-            live_url:'https://connect-your-tribe-squad-page-axqp.onrender.com/'
+            live_url:'https://connect-your-tribe-squad-page-axqp.onrender.com/',
         },
         {
             title: "Connect your tribe profile card",
             period: "2024",
-            programming_language: "html,css, javascript,node js,express",
+            programming_language: "HTML,CSS, Javascript,node js,express",
             semester:'semester 2',
             img:'/img/profile-card.png',
             link_project:'https://github.com/yujing-student/connect-your-tribe-profile-card',
-            live_url:'https://your-tribe-for-life-profile-card-gold.vercel.app/'
+            live_url:'https://your-tribe-for-life-profile-card-gold.vercel.app/',
         },
 
         {
             title: "Serverside side rendering",
             period: "2024",
 
-            programming_language: "html,css, javascript,node js,express",
+            programming_language: "HTML,CSS, Javascript,node js,express",
             semester:'semester 2',
             img:'',
             link_project:'https://github.com/yujing-student/server-side-rendering-server-side-website',
+            live_url: 'https://server-side-rendering-server-side-website-e9cr.onrender.com/'
         },
         {
             title: "The web is for everyone",
             period: "2024",
 
-            programming_language: "html,css, javascript,node js,express",
+            programming_language: "HTML,CSS, Javascript,node js,express",
             semester:'semester 2',
             img:'',
             link_project:'https://github.com/yujing-student/the-web-is-for-everyone-interactive-functionality',
+            live_url: ''
         },
         {
             title: "User experience",
             period: "2024",
 
-            programming_language: "html,css, javascript,node js,express",
+            programming_language: "HTML,CSS, Javascript,node js,express",
             semester:'semester 2',
             img:'',
             link_project:'https://github.com/yujing-student/user-experience-enhanced-website',
+            live_url: 'https://pleasurable-ui.onrender.com/'
 
         },
         {
             title: "Pleasurable ui",
             period: "2024",
 
-            programming_language: "html,css, javascript,node js,express",
+            programming_language: "HTML,CSS, Javascript,node js,express",
             semester:'semester 2',
             img:'',
             link_project:'https://github.com/OniWithTheHoodie/pleasurable-ui',
+            live_url: 'https://pleasurable-ui.onrender.com/'
         },
 
         {
             title: "Proof of concept",
             period: "2024",
 
-            programming_language: "html,css, javascript,node js,express",
+            programming_language: "HTML,CSS, Javascript,node js,express",
             semester:'semester 2',
             img:'/img/bnr.png',
             link_project:'https://github.com/yujing-student/proof-of-concept',
@@ -151,7 +155,7 @@
             title: "Your profile card",
             period: "2023",
             year: "jaar 1",
-            programming_language: "html,css",
+            programming_language: "HTML,CSS",
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/your-tribe-profile-card',
             live_url: 'https://yujing-student.github.io/your-tribe-profile-card/',
@@ -161,7 +165,7 @@
             title: "Your tribe squad page",
             period: "2023",
             year: "jaar 1",
-            programming_language: "html,css",
+            programming_language: "HTML,CSS",
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/your-tribe-squad-page',
             live_url: 'https://yujing-student.github.io/your-tribe-squad-page/',
@@ -172,36 +176,40 @@
             title: "The client",
             period: "2023",
             year: "jaar 1",
-            programming_language: "html,css",
+            programming_language: "HTML,CSS",
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/the-client-website',
+            live_url: 'https://yujing-student.github.io/the-client-website/',
             img:'',
         }, {
             title: "Look and feel",
             period: "2023",
             year: "jaar 1",
-            programming_language: "html,css",
+            programming_language: "HTML,CSS",
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/look-and-feel-corporate-identity',
+            live_url: 'https://yujing-student.github.io/fix-the-flow-interactive-website/',
             img:''
         },
         {
             title: "Fix the flow",
             period: "2023",
             year: "jaar 1",
-            programming_language: "html,css, javascript",
+            programming_language: "HTML,CSS, Javascript",
             semester:'semester 1',
             img:'',
-            link_project: 'https://github.com/yujing-student/fix-the-flow-interactive-website'
+            link_project: 'https://github.com/yujing-student/fix-the-flow-interactive-website',
+            live_url: 'https://yujing-student.github.io/fix-the-flow-interactive-website/'
         },
         {
             title: "The startup",
             period: "2023",
             year: "jaar 1",
-            programming_language: "html,css, javascript",
+            programming_language: "HTML,CSS, Javascript",
             img:'',
             semester:'semester 1',
-            link_project: 'https://github.com/yujing-student/the-startup-responsive-interactieve-website'
+            link_project: 'https://github.com/yujing-student/the-startup-responsive-interactieve-website',
+            live_url: 'https://yujing-student.github.io/the-startup-responsive-interactieve-website/'
         },
 
 
@@ -213,10 +221,10 @@
 
     let smallproject = [
         {
-            title: "Css layout",
+            title: "CSS layout",
             period: "2023",
             year: "jaar 1",
-            programming_language: "html,css, javascript,node js,express",
+            programming_language: "HTML,CSS, Javascript,node js,express",
             semester:'semester 1',
         }
     ]
@@ -240,11 +248,10 @@
         {#each uitgelichte_projecten as member}
             <article class="card">
                 <a href="https://your-tribe-for-life-profile-card-gold.vercel.app/">
-
-
                     <picture>
-                        <source srcset="{member.img}">
-                        <img src="{member.img}" alt="afbeelding van het project {member.title}">
+                        <source srcset="{member.img}?format=avif" type="image/avif">
+                        <source srcset="{member.img}?format=webp" type="image/webp">
+                        <img src="{member.img}" alt="image of project {member.title}">
 
                     </picture>
                 </a>
@@ -254,7 +261,7 @@
                 <ul>
                     <li>Programming languages/Frameworks: {member.programming_language}</li>
                     <li>
-                        <a href="{member.live_url}" class="button-website">Website</a>
+                        <a href="{member.live_url}" class="button-website">Live website</a>
                     </li>   <li>
                         <a href="{member.link_project}" class="button-website">Code</a>
                     </li>
@@ -277,11 +284,12 @@
                 <a href="https://your-tribe-for-life-profile-card-gold.vercel.app/">
 
 
-                <picture>
-                    <source src="{member.img}">
-                    <img src="{member.img}">
+                    <picture>
+                        <source srcset="{member.img}?format=avif" type="image/avif">
+                        <source srcset="{member.img}?format=webp" type="image/webp">
+                        <img src="{member.img}" alt="image of project {member.title}">
 
-                </picture>
+                    </picture>
                 </a>
                 <h3 aria-label="project {member.title}"><a href="{member.link_project}" class="titel-project">
                 {member.title}
@@ -291,7 +299,7 @@
                     Frameworks : {member.programming_language}</li>
            <li>
                 <li>
-                    <a href="{member.live_url}" class="button-website">Website</a>
+                    <a href="{member.live_url}" class="button-website">Live website</a>
                 </li>
                 <li>
                 <a href="{member.link_project}" class="button-website">Code</a>
@@ -306,7 +314,7 @@
     <section class="">
     <h2>School Projects 2023 februari until juli </h2>
         <h3>Semester 2</h3>
-    <p>This semester i have learnt about javascript node js and express also i have worked with EJS.
+    <p>This semester i have learnt about Javascript node js and express also i have worked with EJS.
         <a href="https://programma.fdnd.nl/data-driven-web" class="button-schoolopdrachten">School assignments semester 2</a>
 
     </p>
@@ -314,8 +322,9 @@
         {#each projects_year1_semester2 as member}
             <article class="card">
                 <picture>
-                    <source src="{member.img}">
-                    <img src="{member.img}">
+                    <source srcset="{member.img}?format=avif" type="image/avif">
+                    <source srcset="{member.img}?format=webp" type="image/webp">
+                    <img src="{member.img}" alt="image of project {member.title}">
 
                 </picture>
                 <h3 aria-label="project {member.title}"><a href="{member.link_project}" class="titel-project">
@@ -324,7 +333,7 @@
                 <ul>
                     <li>Programming languages: {member.programming_language}</li>
                     <li>
-                        <a href="{member.live_url}" class="button-website">Website</a>
+                        <a href="{member.live_url}" class="button-website">Live website</a>
                     </li>
                     <li>
                         <a href="{member.link_project}" class="button-website">Code</a>
@@ -338,7 +347,7 @@
     <section class="">
         <h2>School Projects 2023 september until januari </h2>
         <h3>Semester 1</h3>
-    <p>this year i started with this study and i have learnt the basics of html css and javascript
+    <p>This year i started with this study and i have learnt the basics of HTML CSS and Javascript
         <a href="https://programma.fdnd.nl/static-web" class="button-schoolopdrachten">School assignmetns semester 1</a>
     </p>
 
@@ -346,8 +355,9 @@
         {#each projects_year1_semester1 as member}
             <article class="card">
                 <picture>
-                    <source src="{member.img}">
-                    <img src="{member.img}">
+                    <source srcset="{member.img}?format=avif" type="image/avif">
+                    <source srcset="{member.img}?format=webp" type="image/webp">
+                    <img src="{member.img}" alt="image of project {member.title}">
 
                 </picture>
                 <h3 aria-label="project {member.title}"><a href="{member.link_project}" class="titel-project">
@@ -356,7 +366,7 @@
                 <ul>
                     <li>programming languages:  {member.programming_language}</li>
                     <li>
-                        <a href="{member.live_url}" class="button-website">Website</a>
+                        <a href="{member.live_url}" class="button-website">Live Website</a>
                     </li>
                     <li>
                         <a href="{member.link_project}" class="button-website">Code</a>
