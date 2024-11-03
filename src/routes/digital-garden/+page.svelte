@@ -112,7 +112,7 @@
             semester:'semester2',
             img:'/img/semester2/the-web-is-for-everyone.png',
             link_project:'https://github.com/yujing-student/the-web-is-for-everyone-interactive-functionality',
-            live_url: ''
+            live_url: 'https://the-web-is-for-everyone-interactive-q19o.onrender.com/'
         },
         {
             title: "User experience",
