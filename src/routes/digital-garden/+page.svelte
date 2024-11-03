@@ -73,69 +73,6 @@
         },
 
     ];
-
-
-    let projects_year1_semester1 = [
-        {
-            title: "Your profile card",
-            period: "2023",
-            year: "jaar 1",
-            programming_language: "html,css",
-            semester:'semester 1',
-            link_project:'https://github.com/yujing-student/your-tribe-profile-card',
-            img:'',
-        },
-        {
-            title: "Your tribe squad page",
-            period: "2023",
-            year: "jaar 1",
-            programming_language: "html,css",
-            semester:'semester 1',
-            link_project:'https://github.com/yujing-student/your-tribe-squad-page',
-            img:'',
-        },
-
-        {
-            title: "The client",
-            period: "2023",
-            year: "jaar 1",
-            programming_language: "html,css",
-            semester:'semester 1',
-            link_project:'https://github.com/yujing-student/the-client-website',
-            img:'',
-        }, {
-            title: "Look and feel",
-            period: "2023",
-            year: "jaar 1",
-            programming_language: "html,css",
-            semester:'semester 1',
-            link_project:'https://github.com/yujing-student/look-and-feel-corporate-identity',
-            img:''
-        },
-        {
-            title: "Fix the flow",
-            period: "2023",
-            year: "jaar 1",
-            programming_language: "html,css, javascript",
-            semester:'semester 1',
-            img:'',
-            link_project: 'https://github.com/yujing-student/fix-the-flow-interactive-website'
-        },
-        {
-            title: "The startup",
-            period: "2023",
-            year: "jaar 1",
-            programming_language: "html,css, javascript",
-            img:'',
-            semester:'semester 1',
-            link_project: 'https://github.com/yujing-student/the-startup-responsive-interactieve-website'
-        },
-
-
-
-    ];
-
-
     let projects_year1_semester2 = [
 
         {
@@ -209,6 +146,71 @@
 
     ];
 
+    let projects_year1_semester1 = [
+        {
+            title: "Your profile card",
+            period: "2023",
+            year: "jaar 1",
+            programming_language: "html,css",
+            semester:'semester 1',
+            link_project:'https://github.com/yujing-student/your-tribe-profile-card',
+            live_url: 'https://yujing-student.github.io/your-tribe-profile-card/',
+            img:'',
+        },
+        {
+            title: "Your tribe squad page",
+            period: "2023",
+            year: "jaar 1",
+            programming_language: "html,css",
+            semester:'semester 1',
+            link_project:'https://github.com/yujing-student/your-tribe-squad-page',
+            live_url: 'https://yujing-student.github.io/your-tribe-squad-page/',
+            img:'',
+        },
+
+        {
+            title: "The client",
+            period: "2023",
+            year: "jaar 1",
+            programming_language: "html,css",
+            semester:'semester 1',
+            link_project:'https://github.com/yujing-student/the-client-website',
+            img:'',
+        }, {
+            title: "Look and feel",
+            period: "2023",
+            year: "jaar 1",
+            programming_language: "html,css",
+            semester:'semester 1',
+            link_project:'https://github.com/yujing-student/look-and-feel-corporate-identity',
+            img:''
+        },
+        {
+            title: "Fix the flow",
+            period: "2023",
+            year: "jaar 1",
+            programming_language: "html,css, javascript",
+            semester:'semester 1',
+            img:'',
+            link_project: 'https://github.com/yujing-student/fix-the-flow-interactive-website'
+        },
+        {
+            title: "The startup",
+            period: "2023",
+            year: "jaar 1",
+            programming_language: "html,css, javascript",
+            img:'',
+            semester:'semester 1',
+            link_project: 'https://github.com/yujing-student/the-startup-responsive-interactieve-website'
+        },
+
+
+
+    ];
+
+
+
+
     let smallproject = [
         {
             title: "Css layout",
@@ -227,14 +229,13 @@
 
 
 <section class="general-styling-section  ">
-    <h1>Digital garden</h1>
+    <h1>Digital garden / portfolio</h1>
     <p>
-        Hier kunt u all mijn schoolwerk zien met hier de hoofdprojecten
-        klik op de titel en dan zie je het github project.
+        Here you can see all my schoolwork, including my main projects. Click on the title to view the GitHub project.
     </p>
 
 
-    <h2>Uitgelichte en beste projecten</h2>
+    <h2>Best projects</h2>
     <div class="grid-container">
         {#each uitgelichte_projecten as member}
             <article class="card">
@@ -251,10 +252,11 @@
                     {member.title}
                 </a> </h3>
                 <ul>
-                    <li>Programmeertalen/
-                        Frameworks : {member.programming_language}</li>
+                    <li>Programming languages/Frameworks: {member.programming_language}</li>
                     <li>
-                        <a href="{member.live_url}" class="button-website">Ga naar website</a>
+                        <a href="{member.live_url}" class="button-website">Website</a>
+                    </li>   <li>
+                        <a href="{member.link_project}" class="button-website">Code</a>
                     </li>
                 </ul>
 
@@ -263,12 +265,10 @@
     </div>
 
     <section class="">
-    <h2>Schoolprojecten 2024 september of later</h2>
+    <h2>School Projects 2024 September or Later</h2>
         <h3>Semester 3</h3>
-    <p>Dit jaar zit ik in mijn afstudeer jaar en ben ik bezig met
-        Frameworks om dit te leren.
-        <a href="https://programma.fdnd.nl/workflow-tooling-f
-        Frameworks" class="button-schoolopdrachten">Ga naar schoolopdrachten semester 3</a>
+    <p>This year I'm in my graduation year and I'm working on learning Frameworks
+        <a href="https://programma.fdnd.nl/workflow-tooling-Frameworks" class="button-schoolopdrachten"> School Assignments for Semester 3</a>
 
     </p>
     <div class="grid-container">
@@ -290,8 +290,12 @@
                 <li class="text-without-shadow">
                     Frameworks : {member.programming_language}</li>
            <li>
-               <a href="{member.live_url}" class="button-website">Ga naar website</a>
-           </li>
+                <li>
+                    <a href="{member.live_url}" class="button-website">Website</a>
+                </li>
+                <li>
+                <a href="{member.link_project}" class="button-website">Code</a>
+            </li>
             </ul>
 
             </article>
@@ -300,10 +304,10 @@
     </section>
 
     <section class="">
-    <h2>Schoolprojecten 2023 van februari tot en met juli </h2>
+    <h2>School Projects 2023 februari until juli </h2>
         <h3>Semester 2</h3>
-    <p>Ik heb dit semester geleerd over javascript node js en express ook heb ik met EJS gewerkt.
-        <a href="https://programma.fdnd.nl/data-driven-web" class="button-schoolopdrachten">Ga naar schoolopdrachten semester 2</a>
+    <p>This semester i have learnt about javascript node js and express also i have worked with EJS.
+        <a href="https://programma.fdnd.nl/data-driven-web" class="button-schoolopdrachten">School assignments semester 2</a>
 
     </p>
     <div class="grid-container">
@@ -318,7 +322,13 @@
                     {member.title}
                 </a> </h3>
                 <ul>
-                    <li>Programmeertalen: {member.programming_language}</li>
+                    <li>Programming languages: {member.programming_language}</li>
+                    <li>
+                        <a href="{member.live_url}" class="button-website">Website</a>
+                    </li>
+                    <li>
+                        <a href="{member.link_project}" class="button-website">Code</a>
+                    </li>
                 </ul>
             </article>
         {/each}
@@ -326,10 +336,10 @@
     </section>
 
     <section class="">
-    <h2>Schoolprojecten 2023 van september tot en met januari</h2>
+        <h2>School Projects 2023 september until januari </h2>
         <h3>Semester 1</h3>
-    <p>Dit jaar ben ik begonnen met mijn studie en heb ik html en css geleerd en ook een beetje javascript.
-        <a href="https://programma.fdnd.nl/static-web" class="button-schoolopdrachten">Ga naar schoolopdrachten semester 1</a>
+    <p>this year i started with this study and i have learnt the basics of html css and javascript
+        <a href="https://programma.fdnd.nl/static-web" class="button-schoolopdrachten">School assignmetns semester 1</a>
     </p>
 
     <div class="grid-container">
@@ -344,7 +354,13 @@
                     {member.title}
                 </a> </h3>
                 <ul>
-                    <li>Programmeertalen:  {member.programming_language}</li>
+                    <li>programming languages:  {member.programming_language}</li>
+                    <li>
+                        <a href="{member.live_url}" class="button-website">Website</a>
+                    </li>
+                    <li>
+                        <a href="{member.link_project}" class="button-website">Code</a>
+                    </li>
                 </ul>
             </article>
         {/each}

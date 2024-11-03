@@ -18,7 +18,7 @@
         <li class="flex-items">
             <a href="/digital-garden">
 
-            Digital garden
+            Digital garden / portfolio
             </a>
         </li>
 

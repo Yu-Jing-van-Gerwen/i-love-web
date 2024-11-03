@@ -24,7 +24,6 @@
         <ul class="buttons">
             <li class="text-buttons">
                 You can see what I learn each week in my learning journal. I keep track of it in a README.
-                (this is in dutch)
             </li>
             <li class="item-button">
                 <a href="/learning-journal" class="moreinfo pulse">
@@ -45,7 +44,7 @@
             </li>
             <li class="item-button">
                 <a href="/digital-garden" class="moreinfo pulse">
-                    Digital garden
+                    Digital garden / portfolio
                 </a></li>
         </ul>
 
