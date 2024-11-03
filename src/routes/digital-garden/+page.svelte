@@ -110,7 +110,7 @@
 
             programming_language: "HTML,CSS, Javascript,node js,express",
             semester:'semester2',
-            img:'',
+            img:'/img/semester2/the-web-is-for-everyone.png',
             link_project:'https://github.com/yujing-student/the-web-is-for-everyone-interactive-functionality',
             live_url: ''
         },
@@ -159,7 +159,7 @@
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/your-tribe-profile-card',
             live_url: 'https://yujing-student.github.io/your-tribe-profile-card/',
-            img:'',
+            img:'/img/semester1/profile-card.png',
         },
         {
             title: "Your tribe squad page",
