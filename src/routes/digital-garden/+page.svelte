@@ -89,7 +89,7 @@
             period: "2024",
             programming_language: "HTML,CSS, Javascript,node js,express",
             semester:'semester2',
-            img:'/img/semester2/profile-card.png',
+            img:'/img/semester2/profile-card-sprint-7.png',
             link_project:'https://github.com/yujing-student/connect-your-tribe-profile-card',
             live_url:'https://connect-your-tribe-profile-card-6snt.onrender.com/',
         },
@@ -274,7 +274,7 @@
     <section class="">
     <h2>School Projects 2024 September or Later</h2>
         <h3>Semester 3</h3>
-    <p>This year I'm in my graduation year and I'm working on learning Frameworks
+    <p>This year I'm in my graduation year and I'm working on learning Frameworks.
         <a href="https://programma.fdnd.nl/workflow-tooling-Frameworks" class="button-schoolopdrachten"> School Assignments for Semester 3</a>
 
     </p>
@@ -314,7 +314,7 @@
     <section class="">
     <h2>School Projects 2023 februari until juli </h2>
         <h3>Semester 2</h3>
-    <p>This semester i have learnt about Javascript node js and express also i have worked with EJS.
+    <p>This semester, I have learned about JavaScript, Node.js, and Express, and I've also worked with EJS..
         <a href="https://programma.fdnd.nl/data-driven-web" class="button-schoolopdrachten">School assignments semester 2</a>
 
     </p>
@@ -347,8 +347,8 @@
     <section class="">
         <h2>School Projects 2023 september until januari </h2>
         <h3>Semester 1</h3>
-    <p>This year i started with this study and i have learnt the basics of HTML CSS and Javascript
-        <a href="https://programma.fdnd.nl/static-web" class="button-schoolopdrachten">School assignmetns semester 1</a>
+    <p>This year I started studying and I have learned the basics of HTML, CSS, and JavaScript.
+        <a href="https://programma.fdnd.nl/static-web" class="button-schoolopdrachten">School assignments semester 1</a>
     </p>
 
     <div class="grid-container">

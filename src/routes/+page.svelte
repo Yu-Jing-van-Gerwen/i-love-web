@@ -23,7 +23,7 @@
         <h2 class="hide">About me</h2>
         <ul class="buttons">
             <li class="text-buttons">
-                You can see what I learn each week in my learning journal. I keep track of it in a README.
+                You can see what I learn each week in my learning journal.
             </li>
             <li class="item-button">
                 <a href="/learning-journal" class="moreinfo pulse">
