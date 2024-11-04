@@ -314,7 +314,7 @@
     <section class="">
     <h2>School Projects 2023 februari until juli </h2>
         <h3>Semester 2</h3>
-    <p>This semester, I have learned about JavaScript, Node.js, and Express, and I've also worked with EJS..
+    <p>This semester, I have learned about JavaScript, Node.js, and Express, and I've also worked with EJS.
         <a href="https://programma.fdnd.nl/data-driven-web" class="button-schoolopdrachten">School assignments semester 2</a>
 
     </p>
