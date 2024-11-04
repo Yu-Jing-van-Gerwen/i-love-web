@@ -91,7 +91,7 @@
             semester:'semester2',
             img:'/img/semester2/profile-card.png',
             link_project:'https://github.com/yujing-student/connect-your-tribe-profile-card',
-            live_url:'https://your-tribe-for-life-profile-card-gold.vercel.app/',
+            live_url:'https://connect-your-tribe-profile-card-6snt.onrender.com/',
         },
 
         {
