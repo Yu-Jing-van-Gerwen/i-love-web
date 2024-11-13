@@ -36,3 +36,25 @@ Ik heb een breakdownschets gemaakt en de chart gemaakt
 
 </p>
 </section>
+
+
+<section>
+<h2>12-11</h2>
+<p>
+variable fonts die je van varieren waarin het allemaal
+in hetzelfde lettertype zit variablefonts.io 
+
+
+wakamafondue laat zien wat de axen zijn en die kan je animeren 
+
+
+hierarchie is belangrijk en tyopgrafie is van belang
+
+the inverted pyramid of writing 
+
+het belangrijkste moet bovenaan staan en groot zijn 
+
+modular scale is de schaal voor het groeien van font sizes 
+
+</p>
+</section>
