@@ -42,7 +42,7 @@ the inverted pyramid of writing is dat het belangrijkste moet bovenaan staan en 
 
 modular scale is de schaal voor het groeien van font sizes.
 
-Ook heb ik de mijn component gebouwd zie hier de <a href="https://github.com/yujing-student/voorhoede-component/commits/feature-Desktop-form?since=2024-11-13&until=2024-11-13">commits</a>.
+ook heb ik 9 variaties gemaakt  <a href="https://www.figma.com/design/42reO3hhIYuIIRIxwdmX5Q/schets-sprint-16-component?node-id=8-438">zie hier de figma file</a>.
 </p>
 </section>
 
@@ -50,7 +50,11 @@ Ook heb ik de mijn component gebouwd zie hier de <a href="https://github.com/yuj
 <section>
 <h2>14-11</h2>
 <p>
+ik heb mijn component getest met een keyboard test en toegankelijkheid en performance ook heb ik de code door de w3c validator gehaald
+<a href="https://github.com/yujing-student/component-building-block/commits/main/?since=2024-11-13&until=2024-11-14">zie hier de commits</a>
 
+link naar alle issues die ik gedocumenteerd heb en in de wiki vertel ik er meer over
+<a href="https://github.com/yujing-student/component-building-block/issues?q=sort%3Acreated-asc">de  issues</a>
 
 </p>
 </section>
