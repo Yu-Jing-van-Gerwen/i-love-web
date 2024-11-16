@@ -16,7 +16,7 @@
             semester:'semester 1',
             link_project:'https://github.com/KaanKalmi/your-tribe-for-life-squad-page',
             img:'/img/squad.png',
-            live_url: 'https://effortless-choux-a35df0.netlify.app/'
+            live_url: 'https://your-tribe-for-life-squad-page-five.vercel.app/'
         },
         {
             title: "Your tribe for life profile card",
