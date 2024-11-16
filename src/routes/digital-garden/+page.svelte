@@ -239,7 +239,11 @@
 <section class="general-styling-section  ">
     <h1>Digital garden / portfolio</h1>
     <p>
-        Here you can see all my schoolwork, including my main projects. Click on the title to view the GitHub project.
+        Here you can see all my schoolwork, including my best projects. Click on the title to view the GitHub project.
+    </p>
+
+    <p>The <a href="https://niveaumatrix.fdnd.nl/">competency matrix</a> outlines the behavioral indicators that will be used to evaluate my performance.
+        The fdnd website is written in Dutch
     </p>
 
 
