@@ -420,7 +420,7 @@
         display: grid;
         grid-template-rows: 12rem 5rem auto 4rem auto;
         gap: 16px;
-        background-color: #caffda;
+        background-color: #dff5db;
         border-radius: 0.25rem;
     }
 
@@ -513,7 +513,7 @@
         text-align: center;
         position: relative;
         transition: all .35s;
-        background-color: #25ffff80;
+        background-color: #cdffff;
         font-weight: normal;
         width:130px;
         box-shadow: 13px 9px 0 0;
@@ -541,7 +541,7 @@
         text-align: center;
         position: relative;
         transition: all .35s;
-        background-color: #25ffff80;
+        background-color: #cdffff;
         font-weight: normal;
         width: 180px;
         box-shadow: 13px 9px 0 0;
