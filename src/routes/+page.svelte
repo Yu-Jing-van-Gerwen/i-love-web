@@ -40,7 +40,7 @@
                 </a>
             </li>
             <li class="text-buttons">
-                My digital garden is my portfolio with all my work
+                My digital garden is my portfolio with all my work.
             </li>
             <li class="item-button">
                 <a href="/digital-garden" class="moreinfo pulse">

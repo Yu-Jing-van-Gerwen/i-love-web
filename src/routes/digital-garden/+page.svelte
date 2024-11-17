@@ -4,7 +4,7 @@
             title: "Proof of concept",
             period: "2024",
 
-            programming_language: "HTML,CSS, Javascript,node js,express",
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express"],
             semester:'semester2',
             img:'/img/semester2/bnr.png',
             link_project:'https://github.com/yujing-student/proof-of-concept',
@@ -12,7 +12,7 @@
         },
         {
             title: "Your tribe squad page",
-            programming_language: "Sveltekit",
+            programming_languages: ["Sveltekit"],
             semester:'semester 1',
             link_project:'https://github.com/KaanKalmi/your-tribe-for-life-squad-page',
             img:'/img/squad.png',
@@ -22,7 +22,7 @@
             title: "Your tribe for life profile card",
             period: "2023",
             year: "jaar 1",
-            programming_language: "Sveltekit",
+            programming_languages: ["Sveltekit"],
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/your-tribe-for-life-profile-card',
             img:'/img/semester2/profile-card.png',
@@ -34,7 +34,7 @@
 
         {
             title: "Your tribe squad page",
-            programming_language: "Sveltekit",
+            programming_languages: ["Sveltekit"],
             semester:'semester 1',
             link_project:'https://github.com/KaanKalmi/your-tribe-for-life-squad-page',
             img:'/img/squad.png',
@@ -44,7 +44,7 @@
             title: "Your tribe for life profile card",
             period: "2023",
             year: "jaar 1",
-            programming_language: "Sveltekit",
+            programming_languages: ["Sveltekit"],
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/your-tribe-for-life-profile-card',
             img:'/img/semester2/profile-card.png',
@@ -54,7 +54,7 @@
         {
             title: "Lose-your-head",
 
-            programming_language: "Sveltekit",
+            programming_languages: ["Sveltekit"],
             semester:'semester 1',
             link_project:'https://github.com/lisagjh/voorhoede',
             img:'/img/semester3/dda.png',
@@ -65,7 +65,7 @@
         {
             title: "Choices-choices-the-tech-stack",
 
-            programming_language: "Eleventy",
+            programming_languages: ["Eleventy"],
             semester:'semester 1',
             img:'/img/dda.png',
             link_project:'https://github.com/yujing-student/choices-choices-the-tech-stack',
@@ -78,7 +78,7 @@
         {
             title: "Connect your tribe",
             period: "2024",
-            programming_language: "HTML,CSS, Javascript,node js,express",
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express"],
             semester:'semester2',
             img:'/img/squad-.png',
             link_project:'https://github.com/yujing-student/connect-your-tribe-squad-page',
@@ -87,7 +87,7 @@
         {
             title: "Connect your tribe profile card",
             period: "2024",
-            programming_language: "HTML,CSS, Javascript,node js,express",
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express"],
             semester:'semester2',
             img:'/img/semester2/profile-card-sprint-7.png',
             link_project:'https://github.com/yujing-student/connect-your-tribe-profile-card',
@@ -98,7 +98,7 @@
             title: "Serverside side rendering",
             period: "2024",
 
-            programming_language: "HTML,CSS, Javascript,node js,express",
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express"],
             semester:'semester2',
             img:'/img/semester2/serverside.png',
             link_project:'https://github.com/yujing-student/server-side-rendering-server-side-website',
@@ -108,7 +108,7 @@
             title: "The web is for everyone",
             period: "2024",
 
-            programming_language: "HTML,CSS, Javascript,node js,express",
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express"],
             semester:'semester2',
             img:'/img/semester2/the-web-is-for-everyone.png',
             link_project:'https://github.com/yujing-student/the-web-is-for-everyone-interactive-functionality',
@@ -118,7 +118,7 @@
             title: "User experience",
             period: "2024",
 
-            programming_language: "HTML,CSS, Javascript,node js,express",
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express"],
             semester:'semester2',
             img:'/img/semester2/user-experience.png',
             link_project:'https://github.com/yujing-student/user-experience-enhanced-website',
@@ -129,7 +129,7 @@
             title: "Pleasurable ui",
             period: "2024",
 
-            programming_language: "HTML,CSS, Javascript,node js,express",
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express"],
             semester:'semester2',
             img:'/img/semester2/pleasurable-ui.png',
             link_project:'https://github.com/OniWithTheHoodie/pleasurable-ui',
@@ -140,7 +140,7 @@
             title: "Proof of concept",
             period: "2024",
 
-            programming_language: "HTML,CSS, Javascript,node js,express",
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express"],
             semester:'semester2',
             img:'/img/semester2/bnr.png',
             link_project:'https://github.com/yujing-student/proof-of-concept',
@@ -155,7 +155,7 @@
             title: "Your profile card",
             period: "2023",
             year: "jaar 1",
-            programming_language: "HTML,CSS",
+            programming_languages: ["HTML", "CSS"],
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/your-tribe-profile-card',
             live_url: 'https://yujing-student.github.io/your-tribe-profile-card/',
@@ -165,7 +165,7 @@
             title: "Your tribe squad page",
             period: "2023",
             year: "jaar 1",
-            programming_language: "HTML,CSS",
+            programming_languages: ["HTML", "CSS"],
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/your-tribe-squad-page',
             live_url: 'https://yujing-student.github.io/your-tribe-squad-page/',
@@ -176,7 +176,7 @@
             title: "The client",
             period: "2023",
             year: "jaar 1",
-            programming_language: "HTML,CSS",
+            programming_languages: ["HTML", "CSS"],
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/the-client-website',
             live_url: 'https://yujing-student.github.io/the-client-website/',
@@ -185,7 +185,7 @@
             title: "Look and feel",
             period: "2023",
             year: "jaar 1",
-            programming_language: "HTML,CSS",
+            programming_languages: ["HTML", "CSS","JavaScript"],
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/look-and-feel-corporate-identity',
             live_url: 'https://yujing-student.github.io/look-and-feel-corporate-identity/',
@@ -195,7 +195,7 @@
             title: "Fix the flow",
             period: "2023",
             year: "jaar 1",
-            programming_language: "HTML,CSS, Javascript",
+            programming_languages: ["HTML", "CSS","JavaScript"],
             semester:'semester 1',
             img:'/img/semester1/fix-the-flow.png',
             link_project: 'https://github.com/yujing-student/fix-the-flow-interactive-website',
@@ -205,7 +205,7 @@
             title: "The startup",
             period: "2023",
             year: "jaar 1",
-            programming_language: "HTML,CSS, Javascript",
+            programming_languages: ["HTML", "CSS","JavaScript"],
             img:'/img/semester1/funda-projects.png',
             semester:'semester 1',
             link_project: 'https://github.com/yujing-student/the-startup-responsive-interactieve-website',
@@ -263,7 +263,11 @@
                     {member.title}
                 </a> </h3>
                 <ul>
-                    <li>Programming languages/Frameworks: {member.programming_language}</li>
+                    <li>
+                        {#each member.programming_languages as language}
+                            <p>{language}</p>
+                        {/each}
+                    </li>
                     <li>
                         <a href="{member.live_url}" class="button-website">Live website</a>
                     </li>   <li>
@@ -297,11 +301,14 @@
                 </a>
                 <h3 aria-label="project {member.title}"><a href="{member.link_project}" class="titel-project">
                 {member.title}
-            </a> </h3>
-            <ul>
-                <li class="text-without-shadow">
-                    Frameworks : {member.programming_language}</li>
-           <li>
+            </a>
+                </h3>
+                <ul>
+                    <li>
+                        {#each member.programming_languages as language}
+                            <p>{language}</p>
+                        {/each}
+                    </li>
                 <li>
                     <a href="{member.live_url}" class="button-website">Live website</a>
                 </li>
@@ -335,7 +342,13 @@
                     {member.title}
                 </a> </h3>
                 <ul>
-                    <li>Programming languages: {member.programming_language}</li>
+
+                        <li>
+                            {#each member.programming_languages as language}
+                                <p>{language}</p>
+                            {/each}
+                        </li>
+
                     <li>
                         <a href="{member.live_url}" class="button-website">Live website</a>
                     </li>
@@ -368,7 +381,12 @@
                     {member.title}
                 </a> </h3>
                 <ul>
-                    <li>Programming languages:  {member.programming_language}</li>
+
+                    <li>
+                        {#each member.programming_languages as language}
+                            <p>{language}</p>
+                        {/each}
+                    </li>
                     <li>
                         <a href="{member.live_url}" class="button-website">Live Website</a>
                     </li>
