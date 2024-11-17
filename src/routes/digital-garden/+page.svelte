@@ -4,14 +4,14 @@
             title: "Proof of concept",
             period: "2024",
 
-            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express"],
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS"],
             semester:'semester2',
             img:'/img/semester2/bnr.png',
             link_project:'https://github.com/yujing-student/proof-of-concept',
             live_url: 'https://proof-of-concept-bnr.vercel.app/'
         },
         {
-            title: "Your tribe squad page",
+            title: "Your tribe for life squad page",
             programming_languages: ["Sveltekit"],
             semester:'semester 1',
             link_project:'https://github.com/KaanKalmi/your-tribe-for-life-squad-page',
@@ -25,9 +25,19 @@
             programming_languages: ["Sveltekit"],
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/your-tribe-for-life-profile-card',
-            img:'/img/semester2/profile-card.png',
+            img:'/img/semester3/profile-card.png',
             live_url:'https://your-tribe-for-life-profile-card-gold.vercel.app/'
         },
+        {
+            title: "Lose-your-head",
+
+            programming_languages: ["Sveltekit"],
+            semester:'semester 3',
+            link_project:'https://github.com/lisagjh/voorhoede',
+            img:'/img/semester3/dda.png',
+            live_url: 'https://dda-liard.vercel.app/members'
+        },
+
     ]
 
     let projects_year2_semester1 = [
@@ -47,7 +57,7 @@
             programming_languages: ["Sveltekit"],
             semester:'semester 1',
             link_project:'https://github.com/yujing-student/your-tribe-for-life-profile-card',
-            img:'/img/semester2/profile-card.png',
+            img:'/img/semester3/profile-card.png',
             live_url:'https://your-tribe-for-life-profile-card-gold.vercel.app/'
         },
 
@@ -78,7 +88,7 @@
         {
             title: "Connect your tribe",
             period: "2024",
-            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express"],
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS"],
             semester:'semester2',
             img:'/img/squad-.png',
             link_project:'https://github.com/yujing-student/connect-your-tribe-squad-page',
@@ -87,7 +97,7 @@
         {
             title: "Connect your tribe profile card",
             period: "2024",
-            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express"],
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS"],
             semester:'semester2',
             img:'/img/semester2/profile-card-sprint-7.png',
             link_project:'https://github.com/yujing-student/connect-your-tribe-profile-card',
@@ -98,7 +108,7 @@
             title: "Serverside side rendering",
             period: "2024",
 
-            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express"],
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS"],
             semester:'semester2',
             img:'/img/semester2/serverside.png',
             link_project:'https://github.com/yujing-student/server-side-rendering-server-side-website',
@@ -108,7 +118,7 @@
             title: "The web is for everyone",
             period: "2024",
 
-            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express"],
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS"],
             semester:'semester2',
             img:'/img/semester2/the-web-is-for-everyone.png',
             link_project:'https://github.com/yujing-student/the-web-is-for-everyone-interactive-functionality',
@@ -118,7 +128,7 @@
             title: "User experience",
             period: "2024",
 
-            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express"],
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS"],
             semester:'semester2',
             img:'/img/semester2/user-experience.png',
             link_project:'https://github.com/yujing-student/user-experience-enhanced-website',
@@ -129,7 +139,7 @@
             title: "Pleasurable ui",
             period: "2024",
 
-            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express"],
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS"],
             semester:'semester2',
             img:'/img/semester2/pleasurable-ui.png',
             link_project:'https://github.com/OniWithTheHoodie/pleasurable-ui',
@@ -140,7 +150,7 @@
             title: "Proof of concept",
             period: "2024",
 
-            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express"],
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS"],
             semester:'semester2',
             img:'/img/semester2/bnr.png',
             link_project:'https://github.com/yujing-student/proof-of-concept',
@@ -240,14 +250,38 @@
     <h1>Digital garden / portfolio</h1>
     <p>
         Here you can see all my schoolwork, including my best projects. Click on the title to view the GitHub project.
+        There is also a short description about the project that I made
     </p>
 
-    <p>The <a href="https://niveaumatrix.fdnd.nl/">competency matrix</a> outlines the behavioral indicators that will be used to evaluate my performance.
-        The fdnd website is written in Dutch
+    <p>The <a href="https://niveaumatrix.fdnd.nl/">competency matrix</a> defines
+        the skills and abilities that are expected of me. To assess my performance,
+        I need to provide evidence of my capabilities.
+        The projects I've worked on during the course will
+        be used to demonstrate my proficiency in these areas.
+
     </p>
 
 
     <h2>Best projects</h2>
+    <p class="summary-projects">
+
+        <span>proof of concept</span>: This was my final project of year 1 I made for BNR a playlist page where the user
+        can listen to music and read some articles. In this projects I have fetch data from the database
+        and show the data with Node.js and EJS.
+    </p>
+    <p class="summary-projects">
+        <span> Your tribe for life squad page</span>: This was a team project where I worked in branches and implemented components to create a squad page displaying our class members names.
+        I retrieve data from the database and the framework that I used is SvelteKit
+
+    </p>
+    <p class="summary-projects">
+        <span> Your tribe for life profile card</span>: I made my profile card in SvelteKit and I made use of components to use dry code
+
+    </p>    <p class="summary-projects">
+        <span> Lose your head</span>:
+    For this project, I chose De Voorhoede as the company. As part of a team, I developed the members page, while my teammates worked on the homepage and vacancy page
+
+    </p>
     <div class="grid-container">
         {#each uitgelichte_projecten as member}
             <article class="card">
@@ -255,7 +289,7 @@
                     <picture>
                         <source srcset="{member.img}?format=avif" type="image/avif">
                         <source srcset="{member.img}?format=webp" type="image/webp">
-                        <img src="{member.img}" alt="image of project {member.title}">
+                        <img class="" src="{member.img}" alt="image of project {member.title}">
 
                     </picture>
                 </a>
@@ -265,13 +299,13 @@
                 <ul>
                     <li>
                         {#each member.programming_languages as language}
-                            <p>{language}</p>
+                            <p class="list-programming-languages">{language}</p>
                         {/each}
                     </li>
                     <li>
                         <a href="{member.live_url}" class="button-website">Live website</a>
                     </li>   <li>
-                        <a href="{member.link_project}" class="button-website">Code</a>
+                        <a href="{member.link_project}" class="button-website">GitHub Code</a>
                     </li>
                 </ul>
 
@@ -303,17 +337,17 @@
                 {member.title}
             </a>
                 </h3>
-                <ul>
+                <ul class=" ">
                     <li>
                         {#each member.programming_languages as language}
-                            <p>{language}</p>
+                            <p class="list-programming-languages">{language}</p>
                         {/each}
                     </li>
                 <li>
                     <a href="{member.live_url}" class="button-website">Live website</a>
                 </li>
                 <li>
-                <a href="{member.link_project}" class="button-website">Code</a>
+                <a href="{member.link_project}" class="button-website">GitHub Code</a>
             </li>
             </ul>
 
@@ -345,7 +379,7 @@
 
                         <li>
                             {#each member.programming_languages as language}
-                                <p>{language}</p>
+                                <p class="list-programming-languages">{language}</p>
                             {/each}
                         </li>
 
@@ -353,7 +387,7 @@
                         <a href="{member.live_url}" class="button-website">Live website</a>
                     </li>
                     <li>
-                        <a href="{member.link_project}" class="button-website">Code</a>
+                        <a href="{member.link_project}" class="button-website">GitHub Code</a>
                     </li>
                 </ul>
             </article>
@@ -384,14 +418,14 @@
 
                     <li>
                         {#each member.programming_languages as language}
-                            <p>{language}</p>
+                            <p class="list-programming-languages">{language}</p>
                         {/each}
                     </li>
                     <li>
                         <a href="{member.live_url}" class="button-website">Live Website</a>
                     </li>
                     <li>
-                        <a href="{member.link_project}" class="button-website">Code</a>
+                        <a href="{member.link_project}" class="button-website">GitHub Code</a>
                     </li>
                 </ul>
             </article>
@@ -413,12 +447,32 @@
 
 
     }
+    .card {
+        overflow: hidden;
+        padding: 2rem;
+        display: grid;
+        gap: 16px;
+        background-color: #dff5db;
+        border-radius: 0.25rem;
+    }
     ul{
         padding: 0;
     }
     li{
         list-style: none;
     }
+
+    /*dit is de intro van de projecten*/
+    .summary-projects{
+        border: solid 1px #120000;
+        padding: 0.5rem;
+    }
+    span{
+        font-weight: bold;
+    }
+
+    /*dit zit in het groene kaartje*/
+
     .titel-project{
         text-decoration: none;
         color: #120000;
@@ -435,91 +489,20 @@
         text-decoration: underline;
         color: blue;
     }
-
-    .card {
-        overflow: hidden;
-        padding: 2rem;
-        display: grid;
-        grid-template-rows: 12rem 5rem auto 4rem auto;
-        gap: 16px;
-        background-color: #dff5db;
-        border-radius: 0.25rem;
-    }
-
     img {
         object-fit: cover;
-        /*max-width: 18em;*/
-        max-height: 12em;
     }
-    @media (max-width: 400px) {
-        img {
-            width:100%
-        }
-
-        .grid-container {
-            /*grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));*/
-        }
-
-        .card {
-            /*width: 150px;*/
-            /*max-width: 250px;*/
-
-        }
-    }
-    @media (max-width: 500px) {
-        img {
-
-            max-width: 18em;
-        }
+    .list-programming-languages{
+        border: solid 1px #120000;
+        width: max-content;
+        padding: 0.5rem;
     }
 
-    @media (min-width: 500px) {
-        .card {
-            /*width: 250px;*/
-
-        }
-        img {
-            width: 15em;
-            height: 10em;
-           /*width: 100%;*/
-            /*height: 10rem;*/
-        }
-
-        .grid-container {
-            grid-template-columns: repeat(auto-fill, minmax(376px, 1fr));
-
-        }
-        .general-styling-section{
-            font-size: 20px;
-        }
-
-        .titel-project{
-            text-decoration: none;
-            color: #120000;
 
 
-            font-size: 1.5rem;
-            /*display: grid;*/
-            /*border-radius: 4px;*/
-            /*padding: 16px;*/
-            /*margin: 1em 0 0;*/
-            /*font-family: sans-serif;*/
 
-            /*!*76c54b5e*!*/
-            /*cursor: pointer;*/
-            /*!*color: var(--white);*!*/
-            /*letter-spacing: 2px;*/
-            /*text-align: center;*/
-            /*position: relative;*/
-            /*transition: all .35s;*/
-            /*background-color: #25ffff80;*/
-            /*font-weight: normal;*/
-            /*width:233px;*/
+    /*dit zijn de blauwe buttons*/
 
-            /*box-shadow: 13px 9px 0 0;*/
-        }
-
-    }
     .button-website{
         display: grid;
         border-radius: 4px;
@@ -598,6 +581,74 @@
     h2 {
         /*border-bottom: solid 2px var(--purple);*/
     }
+    @media (max-width: 500px) {
+
+        .card {
+
+            grid-template-rows: 200px  2rem auto;
+
+        }
+        img {
+
+            height: 12em;
+            max-width: 100%;
+        }
+    }
 
 
+
+
+
+    @media (min-width: 500px) {
+
+        .grid-container {
+            grid-template-columns: repeat(auto-fill, minmax(376px, 1fr));
+
+        }
+        .general-styling-section{
+            font-size: 20px;
+        }
+
+        .card {
+
+            grid-template-rows: 308px  3rem auto;
+
+        }
+        img {
+
+            max-width: 100%;
+            /*width: 15em;*/
+            height: 15em;
+            /*width: 100%;*/
+            /*height: 10rem;*/
+        }
+
+
+        .titel-project{
+            text-decoration: none;
+            color: #120000;
+
+
+            font-size: 1.5rem;
+            /*display: grid;*/
+            /*border-radius: 4px;*/
+            /*padding: 16px;*/
+            /*margin: 1em 0 0;*/
+            /*font-family: sans-serif;*/
+
+            /*!*76c54b5e*!*/
+            /*cursor: pointer;*/
+            /*!*color: var(--white);*!*/
+            /*letter-spacing: 2px;*/
+            /*text-align: center;*/
+            /*position: relative;*/
+            /*transition: all .35s;*/
+            /*background-color: #25ffff80;*/
+            /*font-weight: normal;*/
+            /*width:233px;*/
+
+            /*box-shadow: 13px 9px 0 0;*/
+        }
+
+    }
 </style>
