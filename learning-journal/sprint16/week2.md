@@ -18,6 +18,12 @@ vergroot chaos
 
 alles ziet er hetzzelfde uit
 grote kans op fouten
+</p>
+
+<p>
+
+
+
 
 waar moet je op letten
 
@@ -28,7 +34,10 @@ indeling van de$lib
 
 
 metanaamgingin is een hierarchise benadering om het over bepaalde soorten componenten te hebben
+</p>
 
+
+<p>
 in principe is alles componenet maar hoe noemen we het
 
 geneste componenten
@@ -41,6 +50,11 @@ pages een volledige pagina
 section een sectie van een pagina bestaand uit componenten
 
 componenets herbruikbare components 
+
+
+</p>
+
+<p>
 
 
 manieren van mappen structuur
@@ -61,6 +75,10 @@ assemblages gecombineerde componenten met een specifieke functie formulier of ka
 
 constructsions complexe paginas of secties,dashbaord 
 
+
+</p>
+
+<p>
 
 atomic design
 je hebt atoms basisbouwblokken van de pagina 
@@ -96,6 +114,20 @@ er zijn signatificanten veranderen van svelte 4 en svelte 5
 
 frustaties van werken met components: een deel van je code die je geschreven hebt zal je moeten herscrhijven omdat het anders is 
 
+
+
+</p>
+
+<p>
+$props
+
+en fallbackvalues als de er geen proportie op het component word meegegeven
+
+je kan proporties hernoemen 
+
+en rest proporties 
+
+een #snippet is een soort component binnen een component 
 
 
 </p>
