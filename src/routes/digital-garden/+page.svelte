@@ -38,6 +38,17 @@
             live_url: 'https://dda-liard.vercel.app/members'
         },
 
+
+    ]
+    let freeprojects = [
+        {
+            title: "Angular profile card",
+
+            programming_languages: ["Angular"],
+            link_project: 'https://github.com/yujing-student/angular-profile-card',
+            img: '/img/free-time/profile.png',
+            live_url: 'https://angular-profile-card.vercel.app/'
+        },
     ]
 
     let projects_year2_semester1 = [
@@ -300,8 +311,48 @@
 
             </article>
         {/each}
-    </div>
 
+
+    </div>
+    <section class="">
+        <h2>Free projects</h2>
+        <p>This are projects that i make in my free time.</p>
+        <div class="grid-container">
+            {#each freeprojects as member}
+                <article class="card">
+                    <a href="https://your-tribe-for-life-profile-card-gold.vercel.app/">
+
+
+                        <picture>
+                            <source srcset="{member.img}?format=avif" type="image/avif">
+                            <source srcset="{member.img}?format=webp" type="image/webp">
+                            <img src="{member.img}" alt="image of project {member.title}">
+
+                        </picture>
+                    </a>
+                    <h3 aria-label="project {member.title}"><a href="{member.link_project}" class="titel-project">
+                        {member.title}
+                    </a>
+                    </h3>
+                    <ul class=" ">
+                        <li>
+                            {#each member.programming_languages as language}
+                                <p class="list-programming-languages">{language}</p>
+                            {/each}
+                        </li>
+                        <li>
+                            <a href="{member.live_url}" class="button-website">Live website</a>
+                        </li>
+                        <li>
+                            <a href="{member.link_project}" class="button-website">GitHub Code</a>
+                        </li>
+                    </ul>
+
+                </article>
+            {/each}
+        </div>
+
+    </section>
     <section class="">
         <h2>School Projects 2024 September or Later</h2>
         <h3>Semester 3</h3>
