@@ -378,7 +378,8 @@
 
 
         </p>
-        <p class="note-render">Please note that the hosting provider <a href="https://render.com/">Render</a> is slow so when you click on the live website it need some time. I attempted to use Vercel, but encountered continuous errors.</p>
+        <p class="note-render">Please be aware that the live website hosted on <a href="https://render.com/">Render</a>
+            is slow. I've tried deploying it on Vercel but encountered ongoing issues.</p>
         <p class="summary-projects">
             <span>Connect your tribe</span>:
            I worked in a team to make a squadpage which shows all the names of our squad we needed to make this with node.js and EJS.
