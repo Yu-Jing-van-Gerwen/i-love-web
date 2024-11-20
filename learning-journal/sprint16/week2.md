@@ -135,10 +135,58 @@ een #snippet is een soort component binnen een component
 
 
 <section>
-<h2>-11</h2>
+<h2>20-11</h2>
 <p>
 
+Alispart responsive web design
+Web dev the new responsive web design is a data driven
+User preference queries
+https://web.dev/articles/new-responsive
+
+er zijn macro layouts en grid layouts met daarin je componenents
+user container en form factor 3 verschillende dingen
+respinsive to the user dus een darkmode of animties voor mensen met epelpsie
+
+de media querie
+media feature
+media types
+
+
+
 </p>
+
+<p>
+prefers color schema
+
+prefers reduced data
+
+forced colors
+
+inverted color 
+
+prefers reduce metion bij animaites 
+
+container queries daarin ies ieder element een container 
+
+
+
+met een container querie kan je meer op de context van 1 speciefiek element het aanpassen
+
+het word ook goed ondersteund 
+
+media quer met een spanning 
+
+webscreens form factor 
+
+een component schetsen met container queries en user preference media queries 
+
+noteer per onderdeel van het artikel minimaal 1 ding dat je nog niet kent zoek een bron 
+en zet dit later in je learning journal
+
+https://web.dev/articles/new-responsive 
+
+</p>
+
 </section>
 
 
