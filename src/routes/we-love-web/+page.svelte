@@ -1,16 +1,29 @@
 <script>
 
+
+
 </script>
+
+<!-- TODO scroll driven animaties toevoegen en als je klikt dat het scrollt -->
+
+<!-- de layout van de we love web pagina gaan stylen -->
+
 <section class="general-styling-section ">
-<h1>nieuwsbrieven gelezen</h1>
+
+    <a href="#news">ga naar nieuwsbrieven</a>
+
+    <a href="#i-love-web">ga naar i love web gastcolleges</a>
+</section>
+<section class="general-styling-section ">
+<h1 id="news">nieuwsbrieven gelezen</h1>
 
 
 
 
 <p>
 
-    nieuws 21 november <a href="https://javascriptweekly.com/issues/714">javascirpt weekly </a> ik las een artikel over 
-    <a href="https://www.telerik.com/blogs/mapping-promises-javascript"> hier word uitgelegt hoe je een promisce kan gebruiken enw elke 3 manieren er zijn je kan een forach loop gebruiken of een rpomise.all of de  cleaner solution met p-map
+    nieuws 21 november <a href="https://javascriptweekly.com/issues/714">JavaScript weekly </a> ik las een  
+    <a href="https://www.telerik.com/blogs/mapping-promises-javascript">artikel </a>waarin word uitgelegt hoe je een promise kan gebruiken en welke 3 manieren er zijn je kan een forach loop gebruiken of een promise.all of de  cleaner solution met p-map
         waarin de foreach loop voor sequential operations is en promise.all voor parallel dus als je meerdere http requests hebt en p-map voor als je een module hebt en hiervoor meot je npm isntall doen p-map doen 
        
 </p>
@@ -23,15 +36,15 @@
 <p>
 
     nieuws 20 november <a href="https://css-weekly.com/issue-599/">Css weekly</a> ik las een artikel over <a href="https://css-tricks.com/come-to-the-light-dark-side/?utm_source=CSS-Weekly&utm_campaign=Issue-599&utm_medium=web">
-       dark en light mode </a> hoe je die kan toepassen en kan aanpassen gebaseerd op de os isntellingen van de gebruikers
+       dark en light mode </a> hoe je die kan toepassen en kan aanpassen gebaseerd op de os instellingen van de gebruikers
 
   
 
-    <a href="https://css-tricks.com/popping-comments-with-css-anchor-positioning-and-view-driven-animations/?utm_source=CSS-Weekly&utm_campaign=Issue-599&utm_medium=web#aa-the-foundation">
-        een aritkel</a> over css anchor positioning en view driven animations hoe je die kan toepassen 
+       een aritkel over<a href="https://css-tricks.com/popping-comments-with-css-anchor-positioning-and-view-driven-animations/?utm_source=CSS-Weekly&utm_campaign=Issue-599&utm_medium=web#aa-the-foundation">
+       css anchor positioning</a> en view driven animations hoe je die kan toepassen 
 
         <a href="https://ishadeed.com/article/overflow-clip/?utm_source=CSS-Weekly&utm_campaign=Issue-599&utm_medium=web">overflow uitleg</a>
-        hiern word uitgelegt hoe je overflow kan gebruiken en zit er een conventer in waarin je de code kan aanpassen en het resultaat kan zien
+        hierin word uitgelegt hoe je overflow kan gebruiken en zit er een conventer in waarin je de code kan aanpassen en het resultaat kan zien
 
         
 
@@ -39,7 +52,7 @@
 
 <p>
 
-    nieuws 14 november <a href="https://javascriptweekly.com/issues/713">javascirpt weekly </a> ik las een artikel over 
+    nieuws 14 november <a href="https://javascriptweekly.com/issues/713">JavaScript weekly </a> ik las een artikel over 
     <a href="https://www.trevorlasn.com/blog/import-attributes-in-javascript">  import-attributes-in-javascript </a>
     daarin stond dat de server een mogelijke error kan geven als het niet goed gedefineerd is 
        
@@ -54,7 +67,7 @@
 </p>
 
 <p>
-    niuews 7 november  <a href="https://javascriptweekly.com/issues/712">javascriptweekly</a> hierin las ik dit artikel <a href="https://web.dev/articles/top-cwv">over performance hoe je dit kan verbeteren</a>
+    nieuws 7 november  <a href="https://javascriptweekly.com/issues/712">JavaScript weekly </a> hierin las ik dit artikel over<a href="https://web.dev/articles/top-cwv"> performance </a> hoe je dit kan verbeteren
 
 
 </p>
@@ -83,11 +96,16 @@
 </p>
 
 <p>
-    nieuws 23 oktober <a href="https://css-weekly.com/issue-598/">css-weekly</a> ik <a href="https://www.a11y-collective.com/blog/accessible-fonts/?utm_source=CSS-Weekly&utm_campaign=Issue-598&utm_medium=web"> dat je in je font ook goed moet
-         opletten met accesibility en dat er fotns zijn voor mensen met dislexie en mensen die niet goed kunenn zien zodat het makkeljker te lezen is 
+    nieuws 23 oktober <a href="https://css-weekly.com/issue-598/">css-weekly</a> ik las een artikel over <a href="https://www.a11y-collective.com/blog/accessible-fonts/?utm_source=CSS-Weekly&utm_campaign=Issue-598&utm_medium=web"> 
+        fonts </a>
+        
+        dat je in je font ook goed moet
+         opletten met accesibility en dat er fonts zijn voor mensen met dislexie en mensen die niet goed kunenn zien zodat het makkeljker te lezen is 
+
+         <br>
 
          ook heb ik gelezen dat 
-         verder heb ik gelezen over dat je de cursor zelf kan aanpassen <a href="https://www.letsbuildui.dev/articles/fun-with-custom-cursors/?utm_source=CSS-Weekly&utm_campaign=Issue-598&utm_medium=web">link naar artikel</a>
+         verder heb ik gelezen over dat je de <a href="https://www.letsbuildui.dev/articles/fun-with-custom-cursors/?utm_source=CSS-Weekly&utm_campaign=Issue-598&utm_medium=web">cursor </a> zelf kan aanpassen
 </p>
 
 
@@ -98,7 +116,7 @@
     </section>
 
     <section class="general-styling-section ">
-        <h1>we love web</h1>
+        <h1 id="i-love-web">we love web</h1>
 
         <h2>
             Vasilis van Gemert
@@ -187,12 +205,16 @@
     h2{
         /*border-bottom: solid 2px var(--purple);*/
     }
+
+    html{
+        scroll-behavior: smooth;
+    }
     main {
         padding: 2em;
         display: grid;
         gap: 2em;
         font-family: Arial, Helvetica, sans-serif;
-        scroll-behavior: smooth;
+
 
 
     }
