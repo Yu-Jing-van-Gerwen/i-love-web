@@ -1,8 +1,4 @@
-<script>
 
-
-
-</script>
 
 <!-- TODO scroll driven animaties toevoegen en als je klikt dat het scrollt -->
 
@@ -198,6 +194,8 @@
         <li><a href="https://filaexplore.com/mountains">filla exploere</a></li>
     </ul>
     </section>
+
+<!--https://annesportfolio.netlify.app/posts/22-11/  we love web-->
 <style>
     h1{
 
