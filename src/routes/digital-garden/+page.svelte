@@ -15,7 +15,7 @@
         },
         {
             title: "Your tribe for life squad page",
-            programming_languages: ["SvelteKit","Directus CMS"],
+            programming_languages: ["SvelteKit","Directus CMS","Web components "],
             semester: 'semester 1',
             link_project: 'https://github.com/KaanKalmi/your-tribe-for-life-squad-page',
             img: '/img/squad.png',
@@ -28,7 +28,7 @@
             title: "Your tribe for life profile card",
             period: "2023",
             year: "jaar 1",
-            programming_languages: ["SvelteKit","Directus CMS"],
+            programming_languages: ["SvelteKit","Directus CMS","Web components "],
             semester: 'semester 1',
             link_project: 'https://github.com/yujing-student/your-tribe-for-life-profile-card',
             img: '/img/semester3/profile-card.png',
@@ -40,7 +40,7 @@
         {
             title: "Lose-your-head",
 
-            programming_languages: ["SvelteKit","Directus CMS"],
+            programming_languages: ["SvelteKit","Directus CMS","Web components "],
             semester: 'semester 3',
             link_project: 'https://github.com/lisagjh/voorhoede',
             img: '/img/semester3/dda.png',
@@ -70,7 +70,7 @@
 
         {
             title: "Your tribe squad page",
-            programming_languages: ["SvelteKit","Directus CMS"],
+            programming_languages: ["SvelteKit","Directus CMS","Web components "],
             semester: 'semester 1',
             link_project: 'https://github.com/KaanKalmi/your-tribe-for-life-squad-page',
             img: '/img/squad.png',
@@ -84,7 +84,7 @@
             title: "Your tribe for life profile card",
             period: "2023",
             year: "jaar 1",
-            programming_languages: ["SvelteKit","Directus CMS"],
+            programming_languages: ["SvelteKit","Directus CMS","Web components "],
             semester: 'semester 1',
             link_project: 'https://github.com/yujing-student/your-tribe-for-life-profile-card',
             img: '/img/semester3/profile-card.png',
@@ -96,8 +96,7 @@
 
         {
             title: "Lose-your-head",
-
-            programming_languages: ["SvelteKit","Directus CMS"],
+            programming_languages: ["SvelteKit","Directus CMS","Web components "],
             semester: 'semester 1',
             link_project: 'https://github.com/lisagjh/voorhoede',
             img: '/img/semester3/dda.png',
@@ -112,7 +111,7 @@
         {
             title: "Choices-choices-the-tech-stack",
 
-            programming_languages: ["Eleventy","Directus CMS"],
+            programming_languages: ["SvelteKit","Directus CMS","Web components "],
             semester: 'semester 1',
             img: '/img/dda.png',
             link_project: 'https://github.com/yujing-student/choices-choices-the-tech-stack',
