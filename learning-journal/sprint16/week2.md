@@ -1,8 +1,9 @@
 <h2 id="week1">week2</h2>
 <section>
 <h2>18-11</h2>
+<h3>
+de structuur van jouw component library</h3>
 <p>
-de structuur van jouw component livrary
 
 eem verzameling van herbruikbare en generieke componenten je kunt downloaden en gebruiken
 
@@ -20,6 +21,9 @@ alles ziet er hetzzelfde uit
 grote kans op fouten
 </p>
 
+
+<h3>conventies naamgeving componenten</h2>
+
 <p>
 
 
@@ -30,14 +34,16 @@ waar moet je op letten
 je moet je strict aan naamgeving houden en variets voor componenetne
 naamgeving van proporties binnen de component
 metaangeving componetenen partronen 
-indeling van de$lib
+indeling van de $lib folder
 
 
-metanaamgingin is een hierarchise benadering om het over bepaalde soorten componenten te hebben
+
 </p>
 
 
 <p>
+<h3>metaangeving</h3>
+Metanaamgeving is een hierarchise benadering om het over bepaalde soorten componenten te hebben
 in principe is alles componenet maar hoe noemen we het
 
 geneste componenten
@@ -54,6 +60,7 @@ componenets herbruikbare components
 
 </p>
 
+<h3>mappenstructuure</h3>
 <p>
 
 
@@ -78,6 +85,7 @@ constructsions complexe paginas of secties,dashbaord
 
 </p>
 
+<h3>atomic design</h3>
 <p>
 
 atomic design
@@ -118,6 +126,7 @@ frustaties van werken met components: een deel van je code die je geschreven heb
 
 </p>
 
+<h3>$props fallback</h3>
 <p>
 $props
 
@@ -133,9 +142,15 @@ een #snippet is een soort component binnen een component
 </p>
 </section>
 
+<section>
+Ik heb het form aangemaakt met de html  en css ook heb ik gekeken naar de verschillen van de structueren 
+
+
+
 
 <section>
 <h2>20-11</h2>
+<h3>container query en media query</h3>
 <p>
 
 Alispart responsive web design
@@ -189,20 +204,15 @@ https://web.dev/articles/new-responsive
 
 </section>
 
-
-
 <section>
-<h2>-11</h2>
 <p>
 
-
-</p>
+ik heb naar container querys gekekn en nagedacht hoe ik die kan gebruiken en dit geschets ook heb ik mij voorbereid op mijn interview en ik zat nog uit te zoeken heo ik de ui states goed werkend kon krijgen 
 </section>
 
 
 <section>
-<h2>-11</h2>
-<p>
+<h2>22-11</h2>
+<h3>code en design review</h3>
+<p> ik heb mij form van de buitenkant kunnen mooi maken alleen wa shet form niet semantisch omdat ik een <a> gebruikt heb in plaats van een button en voor de * had ik nog geen oplossing ook ehb ik tips gekregen hoe ik dit kan oplossen
 
-</p>
-</section>
