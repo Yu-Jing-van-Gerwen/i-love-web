@@ -25,6 +25,7 @@ in de interactie heb je een gedeelde state waarin andere gerbuikers true of fals
 
 </p>
 
+<h3>not shared persistent state</h3> 
 <p>
 
 non shared persistent state
@@ -37,7 +38,7 @@ de componenten veranderen op basis van het gedrag van de gebruikers
 
 
 </p>
-
+<h3>not shared semipersistent state</h3> 
 <p>
 non shared semipersistent states
 
@@ -64,7 +65,7 @@ en dit maakt ze client side javascript code waardoor het ook wel onhandig is
 
 
 </p>
-
+<h3>svelte persistend stores </h3> 
 <p>
 je kan een database gebruiken voor het blijven opslaan van data 
 
@@ -87,3 +88,24 @@ serverside persistent storage
 </p>
 </section>
 
+<section>
+<h2>27-11</h2>
+<p>
+Ik heb gemergd waarin het form in de main moest komenen en ik heb nog kleine problemen verholpen
+ook heb ik een pull request aangemaakt die bekeken is door teamgenoten en ik heb de pull requests van andere bekeken en goedgekeurt
+</p>
+</section>
+
+<section>
+<h2>28-11</h2>
+<p>
+Ik heb de sprint review gehad en feedback ontvangen over het form was die tevreden als feedback kreeg ik dat ik beter de inputfields als losse componenten kan gebruiken en ik heb portflow voorbereid
+</p>
+</section>
+
+<section>
+<h2>29-11</h2>
+<p>
+Ik heb de sprint review gehad en feedback ontvangen over het form was die tevreden als feedback kreeg ik dat ik beter de inputfields als losse componenten kan gebruiken en ik heb portflow voorbereid
+</p>
+</section>

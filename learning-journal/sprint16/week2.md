@@ -144,6 +144,7 @@ een #snippet is een soort component binnen een component
 
 <section>
 Ik heb het form aangemaakt met de html  en css ook heb ik gekeken naar de verschillen van de structueren 
+en de button opgelost 
 
 
 
@@ -208,6 +209,7 @@ https://web.dev/articles/new-responsive
 <p>
 
 ik heb naar container querys gekekn en nagedacht hoe ik die kan gebruiken en dit geschets ook heb ik mij voorbereid op mijn interview en ik zat nog uit te zoeken heo ik de ui states goed werkend kon krijgen 
+ik heb nu dat er bij email al een successtate is
 </section>
 
 
@@ -216,3 +218,4 @@ ik heb naar container querys gekekn en nagedacht hoe ik die kan gebruiken en dit
 <h3>code en design review</h3>
 <p> ik heb mij form van de buitenkant kunnen mooi maken alleen wa shet form niet semantisch omdat ik een <a> gebruikt heb in plaats van een button en voor de * had ik nog geen oplossing ook ehb ik tips gekregen hoe ik dit kan oplossen
 
+ook heb ik de verplichte velden kunnen oplossen 
