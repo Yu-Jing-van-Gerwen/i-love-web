@@ -106,6 +106,24 @@ Ik heb de sprint review gehad en feedback ontvangen over het form was die tevred
 <section>
 <h2>29-11</h2>
 <p>
-Ik heb de sprint review gehad en feedback ontvangen over het form was die tevreden als feedback kreeg ik dat ik beter de inputfields als losse componenten kan gebruiken en ik heb portflow voorbereid
+we hebben een tabel gemaakt om een overzicht te creaeren 
+
+je hebt een issue en in een halve dag moet sluiten omdat het anders te veel code is
+
+
 </p>
+
+<p>
+
+bewijslast
+
+de morpholocial chart is bewijs 
+
+deel de bewijslast op apart 
+
+
+je hebt in het bedrijfsleven een mentor en daar heb je ook leervragen
+
+een leervraag daar moet je ook wat doen dus maak er een issue van 
+
 </section>
