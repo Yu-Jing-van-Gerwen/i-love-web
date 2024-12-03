@@ -63,7 +63,18 @@
             live_url: 'https://angular-profile-card.vercel.app/',
             agency_github:"Not applicable",
             agency:"Not applicable",
+
         },
+        {
+            title: "Unc Inc assestment",
+
+            programming_languages: ["React"],
+            link_project: 'https://github.com/yujing-student/React-unc-inc',
+            img: '/img/free-time/unc-inc.png',
+            live_url: 'https://react-unc-inc.vercel.app/',
+            agency_github:"https://github.com/yujing-student/React-unc-inc/wiki#unc-inc-assessment---react-routing",
+            agency:"Unc Inc",
+        }
     ]
 
     let projects_year2_semester1 = [
