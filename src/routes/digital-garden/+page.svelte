@@ -48,7 +48,7 @@
             ,
             agency:"De voorhoede",
             agency_github:"https://github.com/fdnd-agency/voorhoede",
-            sprint: "Sprint 14"
+              sprint: "Sprint 14, 15, 16, 17, 18"
         },
 
 
@@ -115,7 +115,7 @@
             cms:"Directus CMS" ,
             agency:"De voorhoede",
             agency_github:"https://github.com/fdnd-agency/voorhoede",
-            sprint: "Sprint 14"
+            sprint: "Sprint 14, 15, 16, 17, 18"
         },
 
 
@@ -374,9 +374,7 @@
     </p>
     <p class="summary-projects">
         <span> Lose your head</span>:
-        For this project, I chose De Voorhoede as the company. As part of a team, I developed the members page, while my
-        teammates worked on the homepage and vacancy page
-
+        For this project, I chose De Voorhoede as the company. As part of a team, I developed the members page, while my teammates worked on the homepage and vacancy page. This project started in Sprint 14 and will end in Sprint 18
     </p>
     <div class="grid-container">
         {#each uitgelichte_projecten as member}
@@ -477,9 +475,7 @@
         </p>
         <p class="summary-projects">
             <span> Lose your head</span>:
-            For this project, I chose De Voorhoede as the company. As part of a team, I developed the members page,
-            while my teammates worked on the homepage and vacancy page
-
+            For this project, I chose De Voorhoede as the company. As part of a team, I developed the members page, while my teammates worked on the homepage and vacancy page. This project started in Sprint 14 and will end in Sprint 18
         </p>
         <p class="summary-projects">
             <span>Choices-choices-the-tech-stack</span>:
