@@ -122,3 +122,32 @@ dus een product met daarnast een knop voeg toe aan winkelmand
 
 
 <p>
+
+<p>reading patterns dus hoe mensen de webpagina lezen en een consistente flow gebruiken</p>
+
+<p>control the flow of your compositont
+
+het belangrijkste artikel bovenin en daarnast de minder belangrijkere 
+
+een asymetrische layout is geschikt voor een duidelijke flow
+
+
+
+</p>
+
+<p>melkweg is een mozaik als layout</p>
+
+<p>
+
+
+
+<p>
+scrollytelling
+
+storiytelling is dat je scrolt en animaties heb terwijl je scrolt 
+
+dus een fade in bij de inleiding en daarna de cards 
+
+
+
+<p>
