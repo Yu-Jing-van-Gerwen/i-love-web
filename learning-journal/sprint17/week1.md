@@ -82,3 +82,34 @@ je hoeft niet de huisstijl van de opdrachtgever aanhouden
 </p>
 </section>
 
+
+
+<h2>3-12</h2>
+<p>
+ik heb animaties gemaakt en toegepast in mijn project
+<p>
+
+
+<h2>4-12</h2>
+<p>
+we hebben les gehad in
+
+flow,
+hierarchie
+aniamtie
+visuele hierarchie
+visuel height
+visual directions
+dominance
+focal point
+compositions
+reading
+patterns
+symmetrisch
+asinmetrich
+radiaal
+moziak
+storytelling
+scrolly telling
+
+<p>
