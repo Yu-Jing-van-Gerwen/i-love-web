@@ -112,4 +112,13 @@ moziak
 storytelling
 scrolly telling
 
+</p>
+
+<p>
+door visuele hierarchie kunnen gebruikers jouw website scannen ook wel het focal point
+
+het dominant element is waar de meeste aandacht naar uit gaat
+dus een product met daarnast een knop voeg toe aan winkelmand 
+
+
 <p>
