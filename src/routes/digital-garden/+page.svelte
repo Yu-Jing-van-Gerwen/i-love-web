@@ -66,7 +66,7 @@
 
         },
         {
-            title: "Unc Inc assestment",
+            title: "Unc Inc assesment",
 
             programming_languages: ["React"],
             link_project: 'https://github.com/yujing-student/React-unc-inc',
