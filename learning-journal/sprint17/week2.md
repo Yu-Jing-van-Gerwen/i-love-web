@@ -46,3 +46,30 @@ naast issues en de console kan je de animations inspecteren en dit pauzeren
 
 https://github.com/OniWithTheHoodie/pleasurable-ui/blob/main/public/scripts/scripts.js hier heb ik view transitions gebruikt 
 </p>
+</section>
+
+<section>
+<h2>11-12</h2>
+<p>
+we hebben les gehad in hsl en rgb 
+
+ook is wit een belangrijke kleur 
+
+accentkleuren 
+
+neutral colors 
+
+variaties hue
+
+een witte achtergrond met zwarte tekst 
+
+contrast is van belang 
+
+hsl gebruiken voor contrast 
+
+apca and wc3cag 
+
+basic css blend modus 
+
+</p>
+</section>
