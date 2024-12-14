@@ -1,7 +1,21 @@
-<h1 id="news">nieuwsbrieven gelezen</h1>
+- [CSS Weekly newsletter](https://css-weekly.com/)
+- [Frontend Focus newsletter](https://frontendfoc.us/issues)
+- [Daily.dev - chrome extensie](https://daily.dev/)
+- [javascriptweekly]()
+- [smashing magazine]()
 
 
 
+<h1 id="news">nieuwsbrieven gelezen en toegepast</h1>
+
+<a href="#gelezen"> gelezen niewusbrieven</a> 
+
+
+<a href="#toepassen">gelezen niewusbrieven toegepast in mijn werk </a>
+
+<h2 id="gelezen">gelezen brieven</h2>
+
+<h2>21 novmeber</h2>
 
 <p>
 
@@ -15,7 +29,7 @@ waarin de foreach loop voor sequential operations is en promise.all voor paralle
 
 
 
-
+<h2>20 novmeber</h2>
 <p>
 
 nieuws 20 november <a href="https://css-weekly.com/issue-599/">Css weekly</a> ik las een artikel over <a href="https://css-tricks.com/come-to-the-light-dark-side/?utm_source=CSS-Weekly&utm_campaign=Issue-599&utm_medium=web">
@@ -24,7 +38,7 @@ dark en light mode </a> hoe je die kan toepassen en kan aanpassen gebaseerd op d
 
 
 een aritkel over<a href="https://css-tricks.com/popping-comments-with-css-anchor-positioning-and-view-driven-animations/?utm_source=CSS-Weekly&utm_campaign=Issue-599&utm_medium=web#aa-the-foundation">
-css anchor positioning</a> en view driven animations hoe je die kan toepassen 
+css anchor positioning</a> en <a href="https://www.debugbear.com/blog/view-transitions-spa-without-framework?utm_source=CSS-Weekly&utm_campaign=Issue-599&utm_medium=web">view transitions</a> hoe je die kan toepassen en wat het precies is
 
 <a href="https://ishadeed.com/article/overflow-clip/?utm_source=CSS-Weekly&utm_campaign=Issue-599&utm_medium=web">overflow uitleg</a>
 hierin word uitgelegt hoe je overflow kan gebruiken en zit er een conventer in waarin je de code kan aanpassen en het resultaat kan zien
@@ -32,7 +46,7 @@ hierin word uitgelegt hoe je overflow kan gebruiken en zit er een conventer in w
 
 
 </p>
-
+<h2>14 novmeber</h2>
 <p>
 
 nieuws 14 november <a href="https://javascriptweekly.com/issues/713">JavaScript weekly </a> ik las een artikel over 
@@ -40,6 +54,8 @@ nieuws 14 november <a href="https://javascriptweekly.com/issues/713">JavaScript 
 daarin stond dat de server een mogelijke error kan geven als het niet goed gedefineerd is 
 
 </p>
+
+<h2>13 novmeber</h2>
 <p>
 
 nieuws 13 november <a href="https://frontendfoc.us/issues/668">frontend focus</a> ik las een artikel over <a href="https://medienbaecker.com/articles/focus-outlines">focus outlines </a> hoe je die accesible kan maken en ook mooi op
@@ -48,14 +64,15 @@ je website door de focus outline minimaal 2px wijd te maken en de kleur moet een
 <a href="https://frontendmasters.com/blog/scoped-scroll-timelines/">een aritkel over scoped scroll timelines</a> in dit artikel word uitgelegt hoe je naar beneden scrolt met je muis en intussen een animatie van 0 naar 100 gaat 
 
 </p>
-
+<h2>7 novmeber</h2>
 <p>
-    nieuws 7 november  <a href="https://javascriptweekly.com/issues/712">JavaScript weekly </a> hierin las ik dit artikel over<a href="https://web.dev/articles/top-cwv"> performance </a> hoe je dit kan verbeteren
+    nieuws 7  november  <a href="https://javascriptweekly.com/issues/712">JavaScript weekly </a> hierin las ik dit artikel over<a href="https://web.dev/articles/top-cwv"> performance </a> hoe je dit kan verbeteren
 
 
 </p>
 
 
+<h2>6 novmeber</h2>
 <p>
 
 nieuws 6 november <a href="https://frontendfoc.us/issues/667">frontend focus</a> ik las een artikel over <a href="https://www.joshwcomeau.com/css/container-queries-introduction/">container-queries-introduction </a>
@@ -77,7 +94,7 @@ Rem is relatief  als het gaat om de font size waardoor het dus niet uitmaakt als
 
 
 </p>
-
+<h2>23 november</h2>
 <p>
     nieuws 23 oktober <a href="https://css-weekly.com/issue-598/">css-weekly</a> ik las een artikel over <a href="https://www.a11y-collective.com/blog/accessible-fonts/?utm_source=CSS-Weekly&utm_campaign=Issue-598&utm_medium=web"> 
         fonts </a>
@@ -92,33 +109,26 @@ dat je in je font ook goed moet
 </p>
 
 
+<h2 id="toegepast">gelezen brieven toegepast</h2>
+<h3>view transitions</h3>
+<a href="https://www.debugbear.com/blog/view-transitions-spa-without-framework?utm_source=CSS-Weekly&utm_campaign=Issue-599&utm_medium=web">view transitions gelezen </a>
+heb ik toegepast in sprint 17 <a href="https://github.com/yujing-student/user-needs/blob/bed4dce80f7c870e276fd9bafff5ac6df8e8d408/src/lib/Member.svelte#L7-L32">link naar code</a> toen we met view transitiies aan de slag gingen
+
+<h3>scroll driven animations</h3>
+<a href="https://www.smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/">artikel over
+scroll driven animations</a> dit heb ik gebruikt in sprint 17 <a href="https://github.com/yujing-student/user-needs/blob/64fd20d68e81136a9b25e6a89fcde98ec2b87d30/src/lib/Member.svelte#L115-L170">link naar code</a>
+
+<h3>container query</h3>
+<a href="https://www.joshwcomeau.com/css/container-queries-introduction/">artikel over container querys</a> dit ehb ik gebruikt in sprint 16 om mijn form component met container querys te maken <a href="https://github.com/yujing-student/component-building-block/blob/6e0898b41f2d771886636bbd3f53017a2b1f751e/src/lib/Form.svelte#L241-L265">link naar code
 
 
-<section class="general-styling-section">
-<h1 id="i-love-web">we love web</h1>
+<h3>forms</h3>
+<a href="https://evilmartians.com/chronicles/html-best-practices-for-login-and-signup-forms">artikel over best practies forms</a> dit artikel heb ik gebruikt voor het maken van het form element
+waarin ik een button in het form hou en gebruit maak van autocomplete
+en geen placeholder gebruik maar gewoon label en een focus state heb ik gebruikt
 
-<h2>
-    Vasilis van Gemert
-</h2>
-<p>
-    <a href="https://vasilis.nl/">
-Vasilis van Gemert</a> is een principal frontender en vakdocent CMD. Zijn LinkedIn-profiel vind je hier.
-Vroeger was hij een kunstenaar. Het nut van onzin maken is dat je er inspiratie uit kunt halen. Voorbeelden
-hiervan staan op zijn website vasilis.nl.
-</p>
-<p>
-    Voor zijn masteropdracht heeft hij een pagina gemaakt en ingeleverd,
-    die je kunt bekijken op <a href="https://vasilis.nl/flipping-things/
-">
-deze link.
-</a>
-Gebruik je creativiteit en maak gekke dingen; daar kun je veel van leren.
-Maak een website niet alleen toegankelijk in theorie, maar ook in de praktijk, zodat deze echt bruikbaar is
-en je niet achteraf problemen ontdekt.
-Screenreaders kunnen ingewikkeld zijn als je ze nog niet kent. Een gebruiker hoort bijvoorbeeld “heading 2”,
-wat verwarrend kan zijn.
-Test altijd zelf de website die je maakt met een screenreader, zodat je weet hoe het voor anderen is.
+<a href="https://github.com/yujing-student/component-building-block/blob/main/src/lib/Form.svelte">link naar het form met de code</a>
 
-</p>
 
-</section>
+
+

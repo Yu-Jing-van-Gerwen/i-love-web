@@ -6,7 +6,7 @@
 
 <section class="general-styling-section ">
 
-    <a href="Internationale-ontwikkelingen.md">ga naar Readme met nieuwste ontiwkkelingen</a>
+    <a href="../../../learning-journal/Internationale-ontwikkelingen.md">ga naar Readme met nieuwste ontiwkkelingen</a>
 </section>
 <!--<section class="general-styling-section ">-->
 <!--<h1 id="news">nieuwsbrieven gelezen</h1>-->
