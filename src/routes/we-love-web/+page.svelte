@@ -220,6 +220,80 @@
     </ul>
 
 </section>
+
+
+
+<section class="general-styling-section">
+
+    <h2>Emiel van Betsbrugge</h2>
+    <p>
+        WebGL Developer bij Active Theory
+    </p>
+    <ul>
+        <li>
+            Hij komt uit kortrijk ook heeft die 8 jaar ervaring als developer en dit is zijn <a href="https://emielvanbetsbrugge.be/">website</a>
+
+        </li>
+        <li>
+
+
+
+        </li>
+
+    </ul>
+
+    <p>
+        hij heeft vertelt over pitchen hoe je een presenatie geeft en hoe je jouw product naar productie kan omzetten
+        en daarin komen deze stappen
+    </p>
+        <ul>
+
+    <li>
+        Pitch   </li>
+            <li>  Discovery   </li>
+            <li>  Design & Early dev   </li>
+            <li>  Development   </li>
+            <li>  QA   </li>
+            <li>  Go Live
+            <li> Retrospect   </li>ive
+</ul>
+
+    <p>pitch dat is wie wat wanneer en hoe</p>
+    <p>welke mensen zijn er en de details wat krijg je en wat is optioneel</p>
+
+    <p>
+
+        discovery de ontdekkingsfase wat willen we precies gaan maken en heo gaan we dit aanpakken
+    </p>
+
+    <p>
+        Design & Early dev het project opstarten een sprint planning maken en iteren en prioriteiten steleln
+    </p>
+
+    <p>
+        development het bouwen en het fixen van bugs en ook testen werkt alles naar behoren en op de details letten
+    </p>
+
+    <p>
+        QA Quality Assuring de laatste fase van het testen waarin gechekt word of alles echt werkt en of er niet nog onverwachte bugs zijn
+
+    </p>
+
+    <p>
+
+        go live: het livezetten van je product
+    </p>
+
+    <p>
+
+        retrospective het terugkijken is het goedgegaan en hoe gaan we verder
+    </p>
+
+    <p>de belangrijkste aantekningen:kwaliteit bovne kwaniteit en maak plezier doe iets wat je echt leuk vind en de performance is ook van belang
+    </p>
+
+
+</section>
 <!--https://annesportfolio.netlify.app/posts/22-11/  we love web-->
 <style>
     h1{
