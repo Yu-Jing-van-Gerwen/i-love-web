@@ -72,4 +72,11 @@ apca and wc3cag
 basic css blend modus 
 
 </p>
+
+
+<h2>13-12</h2>
+<p>Ik heb mijn aniamtie laten zien aan de klass 
+
+
+</p>
 </section>
