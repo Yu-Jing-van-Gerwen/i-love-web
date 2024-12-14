@@ -1,8 +1,9 @@
+- [javascriptweekly]()
+- [smashing magazine]()
 - [CSS Weekly newsletter](https://css-weekly.com/)
 - [Frontend Focus newsletter](https://frontendfoc.us/issues)
 - [Daily.dev - chrome extensie](https://daily.dev/)
-- [javascriptweekly]()
-- [smashing magazine]()
+
 
 
 

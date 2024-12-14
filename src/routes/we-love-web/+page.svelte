@@ -193,6 +193,33 @@
     </ul>
     </section>
 
+
+<section class="general-styling-section">
+
+    <h2>Dion Pieters</h2>
+    <p>
+        Hij is creative developer en docent bij onze opleiding
+    </p>
+    <ul>
+        <li>
+            Hij heeft informatie gestudeerd en bij cmd ook heeft die dviser bedrijven gewerkt zoals spotify active collective build in amsterdam
+        </li>
+        <li>
+            in het gastcollege heeft hij vertelt over een portfolio en dat je diverse vragen moet stellen om rekening te houden met de eindgebruikers en potentiele odprachtgevers
+            vragen kunnen onder andere zijn wie kijkt naar je portfolio en wat wil je overbrengen met je portfolio en is het noodzakelijk om er een te hebben.
+
+        </li>
+        <li>
+            Tijdens het bouwen moet je de vanuit meerdere invallen bekijken want als je gaat designen meot je rekning houden met de gebruiker waardoor je dus ook niet volledig je creativiteit kan uiten odmat je ook weer denkt dat iet sniet kan
+
+        </li>
+
+        <li>
+            animaties is iets dat moet je erin hebben om de aandacht van de gebruiker te kunnen vasthouden en om je website er ebter uit te laten zien
+        </li>
+    </ul>
+
+</section>
 <!--https://annesportfolio.netlify.app/posts/22-11/  we love web-->
 <style>
     h1{
