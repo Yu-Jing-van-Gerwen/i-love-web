@@ -16,6 +16,21 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2>28 november</h2>
+nieuws 28 november <a href="https://css-weekly.com/issue-600/?utm_source=CSS-Weekly&utm_medium=newsletter&utm_campaign=issue-600-november-27-2024&_bhlid=e5f89bba28bdbe071cc6de87896bb40edce86697">css weekly nieuwsbrief</a>
+hierin las ik dat je <a href="https://webkit.org/blog/16214/background-clip-border-area/?utm_source=CSS-Weekly&utm_campaign=Issue-600&utm_medium=web">creative border kan maken</a> en ik las een artikel over <a href="https://www.joshwcomeau.com/css/browser-support/?utm_source=CSS-Weekly&utm_campaign=Issue-600&utm_medium=web">fallback</a> waarin het ging over browser suppert als je framework niet ondersteund word
+
+
+
+<h2>26 november</h2>
+
+nieuws 26 novmeber <a href="https://mailchi.mp/smashingmagazine/484-web-forms?e=e937b1d1f9">smash magazine</a> Ik las over form validaton hoe je dat live kan doen en de voor en nadelen hierover
+ook heb ik een arikel gelezen over <a href="https://adamsilver.io/blog/form-design-from-zero-to-hero-all-in-one-blog-post/">form design en daarin tips</a> 
+
+
+
+
+
 <h2>21 novmeber</h2>
 
 <p>
