@@ -16,6 +16,12 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2>3 december</h2>
+nieuws 3 december <a href="https://mailchi.mp/smashingmagazine/485-ux-research?e=e937b1d1f9">smashing newsletter</a>
+hierin las over  <a href="https://www.notably.ai/blog/how-to-choose-the-right-qualitative-research-methods">qualitative research methods</a> dus hoe je een goede qualitatieve researchmethod kiest en dat dit dus afhankelijk is van wat je onderzoek en welke gebruikers er zijn en hoeveel tijd ej gebrruikt voor je onderzoek
+
+<a href="https://www.joshwcomeau.com/css/browser-support/?utm_source=CSS-Weekly&utm_campaign=Issue-600&utm_medium=web">fallback</a> waarin het ging over browser suppert als je framework niet ondersteund word
+
 <h2>28 november</h2>
 nieuws 28 november <a href="https://css-weekly.com/issue-600/?utm_source=CSS-Weekly&utm_medium=newsletter&utm_campaign=issue-600-november-27-2024&_bhlid=e5f89bba28bdbe071cc6de87896bb40edce86697">css weekly nieuwsbrief</a>
 hierin las ik dat je <a href="https://webkit.org/blog/16214/background-clip-border-area/?utm_source=CSS-Weekly&utm_campaign=Issue-600&utm_medium=web">creative border kan maken</a> en ik las een artikel over <a href="https://www.joshwcomeau.com/css/browser-support/?utm_source=CSS-Weekly&utm_campaign=Issue-600&utm_medium=web">fallback</a> waarin het ging over browser suppert als je framework niet ondersteund word
