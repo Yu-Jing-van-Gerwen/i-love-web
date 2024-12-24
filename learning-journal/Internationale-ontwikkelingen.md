@@ -16,11 +16,23 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
-<h2>3 december</h2>
-nieuws 3 december <a href="https://mailchi.mp/smashingmagazine/485-ux-research?e=e937b1d1f9">smashing newsletter</a>
+<h2>4 december</h2>
+nieuws 4 december <a href="https://mailchi.mp/smashingmagazine/485-ux-research?e=e937b1d1f9">smashing newsletter</a>
 hierin las over  <a href="https://www.notably.ai/blog/how-to-choose-the-right-qualitative-research-methods">qualitative research methods</a> dus hoe je een goede qualitatieve researchmethod kiest en dat dit dus afhankelijk is van wat je onderzoek en welke gebruikers er zijn en hoeveel tijd ej gebrruikt voor je onderzoek
 
-<a href="https://www.joshwcomeau.com/css/browser-support/?utm_source=CSS-Weekly&utm_campaign=Issue-600&utm_medium=web">fallback</a> waarin het ging over browser suppert als je framework niet ondersteund word
+ook heb ik gelezen uit de nieuwsbrief van Josh Comeau over een <a href="https://www.joshwcomeau.com/css/backdrop-filter/">backdrop filter </a> hoe je dat kan gebruiken
+
+ook heb ik een artikel gelezen over <a href="https://zeroheight.com/blog/the-lowdown-on-dropdowns-in-html-css/">dropdowns </a> hoe je dat kan gebruiken
+hoe je dit kan gebruiken zonder javascript te gebruiken en hoe je dit met alleen html en css kan doen
+
+![image](https://github.com/user-attachments/assets/8c5f5d47-3560-4653-9f77-06046b73c9ca)
+
+
+<h2>3 december</h2>
+nieuws 3 december <a href="https://frontendfoc.us/issues/671">frontend focus</a>
+hierin las over  <a href="https://www.tyleo.com/html-glass.html">frosted glass  wat gebruikt kan worden in games en hoe je dit kan realiseren
+
+ook heb ik gelezen uit de nieuwsbrief van Josh Comeau over een <a href="https://www.joshwcomeau.com/css/backdrop-filter/">backdrop filter </a> hoe je dat kan gebruiken
 
 <h2>28 november</h2>
 nieuws 28 november <a href="https://css-weekly.com/issue-600/?utm_source=CSS-Weekly&utm_medium=newsletter&utm_campaign=issue-600-november-27-2024&_bhlid=e5f89bba28bdbe071cc6de87896bb40edce86697">css weekly nieuwsbrief</a>
