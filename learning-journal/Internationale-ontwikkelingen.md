@@ -16,6 +16,14 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2>17 december</h2>
+
+nieuws 17 december [smashing newsletter](https://mailchi.mp/smashingmagazine/487-useful-templates-and-canvases-for-designers?e=e937b1d1f9) en hierin las ik een [artikel over samenwerken](https://medium.com/design-bridges/handbook-of-me-eb3b8227c528) en de verschillen waarin het ene team zegt dit kan niet zou een ander team zeggen dit kan wel en dit artikel is een workshop waar teamleden hun voorkeuren opgeven van hoe ze zouden willen samenwerken
+
+ook las ik over een [user task canvas](https://www.creativejuiz.fr/blog/en/resources-tools/user-task-canvas-collect-users-activities-tasks-needs) en dit gaat over het inventariseren van de taken van de user en wat die nodig zal hebben en aan de hand van deze methoden kan je taken ook kleiner maken waardoor ze sneller opgelost kunnen worden ook helpt dit voor een manager om te inventiariseren waar iedereen staat 
+
+![image](https://github.com/user-attachments/assets/930adefa-499b-4d98-8021-32cf317d3c70)
+
 
 <h2>10,11,12  december</h2>
 nieuws 10,11,12 december <a href="https://mailchi.mp/smashingmagazine/486-advanced-design-systems?e=e937b1d1f9">smashing newsletter</a>
@@ -42,7 +50,7 @@ ook las ik over [moderne css features](https://ishadeed.com/article/modern-css-f
 ![image](https://github.com/user-attachments/assets/bd0afecf-934a-4266-a8f8-338d38b07bbe)
 <hr>
 
-[javascript weekly isse 716](https://javascriptweekly.com/issues/716) in javascript weekly las ik dat [react v19]([url](https://react.dev/blog/2024/12/05/react-19)) nu stabiel is en ik las ene handige [cheat sheet]([url](https://www.epicreact.dev/react-19-cheatsheet)) over react
+[javascript weekly isse 716](https://javascriptweekly.com/issues/716) in javascript weekly las ik dat [react v19](https://react.dev/blog/2024/12/05/react-19](https://react.dev/blog/2024/12/05/react-19)) nu stabiel is en ik las ene handige [cheat sheet](https://www.epicreact.dev/react-19-cheatsheet) over react
 
 
 
