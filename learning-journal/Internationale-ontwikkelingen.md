@@ -17,8 +17,8 @@
 <h2 id="gelezen">gelezen brieven</h2>
 
 
-<h2>10&11  december</h2>
-nieuws 10&11 december <a href="https://mailchi.mp/smashingmagazine/486-advanced-design-systems?e=e937b1d1f9">smashing newsletter</a>
+<h2>10,11,12  december</h2>
+nieuws 10,11,12 december <a href="https://mailchi.mp/smashingmagazine/486-advanced-design-systems?e=e937b1d1f9">smashing newsletter</a>
 hierin las over  <a href="https://bigmedium.com/ideas/design-system-governance-bugs-design-discrepancies.html">design systmens</a> waarom het soms niet altijd werkt en wat de oplossing daarvoor is en welke issues er mogelijk kunnen optreden en documentaite waarin je de keuzes uitlegt 
 
 
@@ -28,6 +28,21 @@ hierin las over  <a href="https://bigmedium.com/ideas/design-system-governance-b
 
 
  ![image](https://github.com/user-attachments/assets/fb996e03-dfbf-4088-aad1-9c6a407b80fe)
+
+
+<hr>
+
+[ css weekly issue 601](https://css-weekly.com/issue-601/?utm_source=CSS-Weekly&utm_medium=newsletter&utm_campaign=issue-601-december-11-2024&_bhlid=87afc242cb5c7a10ba0d749ec48e9a7ef1d666e7) hierin las ik over het[ oplossen van largest content paint](https://www.debugbear.com/blog/largest-contentful-paint-background-images?utm_source=CSS-Weekly&utm_medium=newsletter&utm_campaign=issue-601-december-11-2024&_bhlid=4e6d48ba793761390a661fb573b0da14aae82218) voor background images en dat je dit in de inspector kan zien en dat je dit met preload en fetchpriority kan oplossen 
+
+![image](https://github.com/user-attachments/assets/52417fe2-dd93-457b-a247-2d8fd1b505ce)
+
+ook las ik over [moderne css features](https://ishadeed.com/article/modern-css-feature-image/?utm_source=CSS-Weekly&utm_campaign=Issue-601&utm_medium=web) toepassssen met images waardoor het op ieder scherm werkt en ook met de container query en diverse voorbeelden van fluid tot een layout of om het als component te bouwen met  `:has`
+
+
+![image](https://github.com/user-attachments/assets/bd0afecf-934a-4266-a8f8-338d38b07bbe)
+<hr>
+
+[javascript weekly isse 716](https://javascriptweekly.com/issues/716) in javascript weekly las ik dat [react v19]([url](https://react.dev/blog/2024/12/05/react-19)) nu stabiel is en ik las ene handige [cheat sheet]([url](https://www.epicreact.dev/react-19-cheatsheet)) over react
 
 
 
