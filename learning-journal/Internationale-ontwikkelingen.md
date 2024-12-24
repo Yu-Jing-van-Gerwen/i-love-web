@@ -16,6 +16,21 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+
+<h2>10&11  december</h2>
+nieuws 10&11 december <a href="https://mailchi.mp/smashingmagazine/486-advanced-design-systems?e=e937b1d1f9">smashing newsletter</a>
+hierin las over  <a href="https://bigmedium.com/ideas/design-system-governance-bugs-design-discrepancies.html">design systmens</a> waarom het soms niet altijd werkt en wat de oplossing daarvoor is en welke issues er mogelijk kunnen optreden en documentaite waarin je de keuzes uitlegt 
+
+
+ <a href="https://frontendfoc.us/issues/672">frontend focus</a> waarin een artikel stond over [css wrapped 2024](https://chrome.dev/css-wrapped-2024/) en ik las een artikel over [multistate buttons ](https://frontendmasters.com/blog/multi-state-buttons/) 
+
+ ![image](https://github.com/user-attachments/assets/458752d2-48a1-4627-9f0e-33d0cb94508d)
+
+
+ ![image](https://github.com/user-attachments/assets/fb996e03-dfbf-4088-aad1-9c6a407b80fe)
+
+
+
 <h2>4 december</h2>
 nieuws 4 december <a href="https://mailchi.mp/smashingmagazine/485-ux-research?e=e937b1d1f9">smashing newsletter</a>
 hierin las over  <a href="https://www.notably.ai/blog/how-to-choose-the-right-qualitative-research-methods">qualitative research methods</a> dus hoe je een goede qualitatieve researchmethod kiest en dat dit dus afhankelijk is van wat je onderzoek en welke gebruikers er zijn en hoeveel tijd ej gebrruikt voor je onderzoek
