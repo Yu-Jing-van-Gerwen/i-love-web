@@ -24,7 +24,15 @@ ook las ik over een [user task canvas](https://www.creativejuiz.fr/blog/en/resou
 
 ![image](https://github.com/user-attachments/assets/930adefa-499b-4d98-8021-32cf317d3c70)
 
-[frontend focus issue 673](https://frontendfoc.us/issues/673) hierin las ik over [12 moderne one line upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/#progressive-enhancements) in je css dus stable upgrades hoe je met moderne css technieken oude css technieken kan vervangen zoals aspect ratio en er word vertelt over stable enhancement dat je de pagina stabiel kan houden 
+[frontend focus issue 673](https://frontendfoc.us/issues/673) hierin las ik over [12 moderne one line upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/) in je css dus stable upgrades hoe je met moderne css technieken oude css technieken kan vervangen zoals aspect ratio en er word vertelt over stable enhancement dat je de pagina stabiel kan houden 
+
+verder las ik een link naar de [front-end handbook-2024](https://frontendmasters.com/guides/front-end-handbook/2024/) waarin ik even het kort doorlas en ik las een artikel over [clippath](https://emilkowal.ski/ui/the-magic-of-clip-path) 
+
+
+![image](https://github.com/user-attachments/assets/92cf856d-62e9-4247-a9e4-eb7292e15b93)
+
+
+![image](https://github.com/user-attachments/assets/ab82f4e7-7090-4d84-8bc4-4536313d43cb)
 
 
 <h2>10,11,12  december</h2>
