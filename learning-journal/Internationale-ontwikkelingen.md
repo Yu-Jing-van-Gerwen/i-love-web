@@ -16,7 +16,7 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
-<h2>17,18  december</h2>
+<h2>17,18,19  december</h2>
 
 nieuws 17 december [smashing newsletter](https://mailchi.mp/smashingmagazine/487-useful-templates-and-canvases-for-designers?e=e937b1d1f9) en hierin las ik een [artikel over samenwerken](https://medium.com/design-bridges/handbook-of-me-eb3b8227c528) en de verschillen waarin het ene team zegt dit kan niet zou een ander team zeggen dit kan wel en dit artikel is een workshop waar teamleden hun voorkeuren opgeven van hoe ze zouden willen samenwerken
 
@@ -34,6 +34,11 @@ verder las ik een link naar de [front-end handbook-2024](https://frontendmasters
 
 ![image](https://github.com/user-attachments/assets/ab82f4e7-7090-4d84-8bc4-4536313d43cb)
 
+
+<hr>
+
+[javascript weekly issue 717](https://javascriptweekly.com/issues/717) hierin las ik een artikel over [javascript visualized 
+](https://www.lydiahallie.com/blog/promise-execution) en dit gaat over promises wat async is en over de .then en catch  en er stond een link naar een opensourche [tutorial](https://github.com/leonardomso/33-js-concepts?tab=readme-ov-file#-table-of-contents) met 33 concepts everry javascript developer should know
 
 <h2>10,11,12  december</h2>
 nieuws 10,11,12 december <a href="https://mailchi.mp/smashingmagazine/486-advanced-design-systems?e=e937b1d1f9">smashing newsletter</a>
