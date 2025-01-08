@@ -67,3 +67,11 @@ en dit kan je automatisch alles live zetten
 
 </p>
 
+
+
+<h2>8-1</h2>
+<p>
+gsap uitleg 
+
+
+</p>
