@@ -75,3 +75,12 @@ gsap uitleg
 
 
 </p>
+<h2>10-1</h2>
+het probleem moet beter beschreven worden met de code bovenaan en dan de foto zodat iemand buiten het project dit ook snap 
+
+https://github.com/lisagjh/voorhoede/pull/54
+
+de code van de pull request moet alleen de code bevatten van de issue dus de oude code en de oplossing en de code refacteren dat moet in een issue en in een nieuwe branch waardoor het niet bovenop de pull request komt 
+
+micro commits een branch maken voor de issue en als een feature af is de pull request zodat je ook volledige transparantie hebt
+dus 1 commit voor refacteren code en dit in een aparte branch 
