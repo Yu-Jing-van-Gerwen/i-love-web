@@ -71,16 +71,32 @@ en dit kan je automatisch alles live zetten
 
 <h2>8-1</h2>
 <p>
-gsap uitleg 
+ 
+gsap uitleg we hebben in codepen gewerkt met gsap om daar mee te oefenen 
+verder heb ik [pokerplanning](https://github.com/fdnd-agency/voorhoede/issues/106#issuecomment-2577761128) gedaan met mijn team en ik heb vertelt dat ik vastliep met de [line issue](https://github.com/fdnd-agency/voorhoede/issues/157) waarin de lijnen niet tegen elkaar gingne 
 
 
 </p>
 <h2>10-1</h2>
-het probleem moet beter beschreven worden met de code bovenaan en dan de foto zodat iemand buiten het project dit ook snap 
+het probleem moet beter beschreven worden met de code bovenaan en dan de foto zodat iemand buiten het project dit ook snap bij de pull request :https://github.com/lisagjh/voorhoede/pull/54 
 
-https://github.com/lisagjh/voorhoede/pull/54
+![image](https://github.com/user-attachments/assets/5755e2d8-a485-4e67-987a-55a25f0ef2c8)
+
+
 
 de code van de pull request moet alleen de code bevatten van de issue dus de oude code en de oplossing en de code refacteren dat moet in een issue en in een nieuwe branch waardoor het niet bovenop de pull request komt 
 
+dus dit had later opgelost moeten worden in een niuwe branch het refacteren van code :
+
+![image](https://github.com/user-attachments/assets/5ea05512-8856-4d26-bbd9-cfc90408ae3c)  
+
+
+en hier had een kleine uitleg moeten komen hoe ej dit precies test
+
+![image](https://github.com/user-attachments/assets/d8d223dc-9bb0-4744-ad3f-eafaf3b42b40)
+
+
+
+<h3>algemene tips pull request</h3>
 micro commits een branch maken voor de issue en als een feature af is de pull request zodat je ook volledige transparantie hebt
-dus 1 commit voor refacteren code en dit in een aparte branch 
+dus 1 commit voor refacteren code en dit in een aparte branch en andere features ook in aparte branches en een nieuwe branch aanmaken zodat je oude bugs niet meeneemt als je verder gaat
