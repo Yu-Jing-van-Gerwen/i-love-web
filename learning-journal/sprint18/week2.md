@@ -117,4 +117,48 @@ slide statemetns
 
 
 </p>
+
+
+<p>
+best practices en sveltekit codebase 
+
+helper scripts voor het aanroepen van een database
+
+static voor statische assets 
+en src voor de routes 
+
+je hebt 1 map met componenten en niet een component met daarin componenten 
+
+script en style in aparte bestanden en niet in het component 
+
+als het meer dan 200 regels hebt een aparte js of css file
+
+
+
+</p>
+
+<p>
+performance 
+code splitting 
+asset preloading
+file hasing
+request coalescing 
+parral loading
+pre-rendering
+link preloading
+
+in de dev mode is het anders dan de lokale versie dus npm run build en npm run preview kan je datgene testen wat je maakt
+het beste is in de browser en op vercel en netifly staat
+
+afbeeldingen 
+
+enhanced-img in svelte voor het optimaliseren van images 
+
+
+</p>
+
+<p>
+sitemaps kan je automatiseren
+
+</p>
 </section>
