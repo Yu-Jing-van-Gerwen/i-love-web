@@ -164,11 +164,15 @@ sitemaps kan je automatiseren
 </section>
 
 <section>
-<h2>
+<h2>14-1</h2>
+
 ik heb het form gemaakt om prop spreading toe te passen en te refactoren
 
 verder heb ik de memberspage getest op Responisve,Accesibility,performance,progressive enhancement
 
 ook heb ik gekeken naar images optimization in sveltekti 
-</h2>
+
 </section>
+
+
+vrijdag 4 rondes per team
