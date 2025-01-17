@@ -235,6 +235,31 @@
 
         </li>
         <li>
+</ul>
+
+<h2>dave bitter</h2>
+<p>
+
+presiparrot een website die hij gemaakt heeft
+
+een audiowebAPI ook wel speechregnotion
+
+het is sinds 1950 en het werd steeds verberterd in 2000 begon google en in 2010 begonnen de smartassisent 
+
+the magic ai black box en mensen gebruiken chatgot im te zoeken in plaats van alleen zoeken op google 
+
+
+
+
+
+
+
+</p>
+
+
+
+
+
 
 
 
