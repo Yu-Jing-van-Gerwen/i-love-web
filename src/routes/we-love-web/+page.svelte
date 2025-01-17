@@ -235,32 +235,6 @@
 
         </li>
         <li>
-</ul>
-
-<h2>dave bitter</h2>
-<p>
-
-presiparrot een website die hij gemaakt heeft
-
-een audiowebAPI ook wel speechregnotion
-
-het is sinds 1950 en het werd steeds verberterd in 2000 begon google en in 2010 begonnen de smartassisent 
-
-the magic ai black box en mensen gebruiken chatgot im te zoeken in plaats van alleen zoeken op google 
-
-
-
-
-
-
-
-</p>
-
-
-
-
-
-
 
 
         </li>
@@ -319,7 +293,73 @@ the magic ai black box en mensen gebruiken chatgot im te zoeken in plaats van al
 
 
 </section>
-<!--https://annesportfolio.netlify.app/posts/22-11/  we love web-->
+
+
+
+<h2>dave bitter</h2>
+<p>
+
+presiparrot een website die hij gemaakt heeft
+
+een audiowebAPI ook wel speechregnotion
+
+het is sinds 1950 en het werd steeds verberterd in 2000 begon google en in 2010 begonnen de smartassisent 
+
+the magic ai black box en mensen gebruiken chatgot im te zoeken in plaats van alleen zoeken op google 
+
+hij zegt iets en de ai die luistert en er zitten 4 hoofdelen in
+
+speechregonisiton chatgpt en daarna speechsynthethis 
+
+</p>
+
+<p>
+
+
+
+
+
+
+<p>
+
+using the speechregoniztion webapi
+
+using the speechsynthethis webap for our output
+
+https://www.davebitter.com/articles/interacting-with-chat-gpt-through-voice-ui-on-the-web hier staat de demo op
+
+
+
+</p>
+
+<p>
+the select role by the user
+
+the personality of ai
+
+
+</p>
+
+
+<p>
+
+
+elevenlabs is gratis om te gebruikten 
+
+en je haalt alle audio data af en je speelt de audio data 
+
+performance over anything and nothing breaks the illusion than the high latency
+
+ai is just another data sourche its the ux that makes the difference 
+
+hoe is het leuk en functioneel
+
+en don't forget about the older techniques 
+
+make cool stuff build,dont just discuss 
+
+</p>
+
 <style>
     h1{
 
