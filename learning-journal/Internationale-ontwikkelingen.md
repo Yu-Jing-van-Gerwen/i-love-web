@@ -196,7 +196,7 @@ dat je in je font ook goed moet
 </p>
 
 
-<h2 id="toegepast">gelezen brieven toegepast</h2>
+<h2 id="toepassen">gelezen brieven toegepast</h2>
 <h3>view transitions</h3>
 <a href="https://www.debugbear.com/blog/view-transitions-spa-without-framework?utm_source=CSS-Weekly&utm_campaign=Issue-599&utm_medium=web">view transitions gelezen </a>
 heb ik toegepast in sprint 17 <a href="https://github.com/yujing-student/user-needs/blob/bed4dce80f7c870e276fd9bafff5ac6df8e8d408/src/lib/Member.svelte#L7-L32">link naar code</a> toen we met view transitiies aan de slag gingen
