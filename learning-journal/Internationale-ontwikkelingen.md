@@ -12,7 +12,7 @@
 <a href="#gelezen"> gelezen niewusbrieven</a> 
 
 
-<a href="#toepassen">gelezen niewusbrieven toegepast in mijn werk </a>
+<a href="#gelezen-brieven-toegepast">gelezen niewusbrieven toegepast in mijn werk </a>
 
 <h2 id="gelezen">gelezen brieven</h2>
 
