@@ -1,17 +1,14 @@
-
-
 <!-- TODO scroll driven animaties toevoegen en als je klikt dat het scrollt -->
 
 <!-- de layout van de we love web pagina gaan stylen -->
 
 <section class="general-styling-section ">
 
-    <a href="../../../learning-journal/Internationale-ontwikkelingen.md">ga naar Readme met nieuwste ontiwkkelingen</a>
+    <a href="https://github.com/yujing-student/i-love-web/blob/main/learning-journal/Internationale-ontwikkelingen.md">ga
+        naar Readme met nieuwste ontiwkkelingen</a>
 </section>
 <!--<section class="general-styling-section ">-->
 <!--<h1 id="news">nieuwsbrieven gelezen</h1>-->
-
-
 
 
 <!--<p>-->
@@ -21,10 +18,6 @@
 <!--        waarin de foreach loop voor sequential operations is en promise.all voor parallel dus als je meerdere http requests hebt en p-map voor als je een module hebt en hiervoor meot je npm isntall doen p-map doen -->
 <!--       -->
 <!--</p>-->
-
-
-
-
 
 
 <!--<p>-->
@@ -85,8 +78,6 @@
 <!--     <a href="https://frontendmasters.com/blog/scroll-driven-sections/">scroll driven sections</a> hierin is er een feautre dat heet animation-timeline: view(); en daarin word er een animatie toegevoegd terwijl de gebruiker zit te lezen-->
 
 
-
-
 <!--</p>-->
 
 <!--<p>-->
@@ -103,49 +94,44 @@
 <!--</p>-->
 
 
-
-
-
-
 <!--    </section>-->
 
-    <section class="general-styling-section ">
-        <h1 id="i-love-web">we love web</h1>
+<section class="general-styling-section ">
+    <h1 id="i-love-web">we love web</h1>
 
-        <h2>
-            Vasilis van Gemert
-        </h2>
-        <p>
-            <a href="https://vasilis.nl/">
+    <h2>
+        Vasilis van Gemert
+    </h2>
+    <p>
+        <a href="https://vasilis.nl/">
 
-                Vasilis van Gemert</a> is een principal frontender en vakdocent CMD. Zijn LinkedIn-profiel vind je hier.
-            Vroeger was hij een kunstenaar. Het nut van onzin maken is dat je er inspiratie uit kunt halen. Voorbeelden
-            hiervan staan op zijn website vasilis.nl.
-        </p>
-        <p>
-            Voor zijn masteropdracht heeft hij een pagina gemaakt en ingeleverd,
-            die je kunt bekijken op <a href="https://vasilis.nl/flipping-things/
+            Vasilis van Gemert</a> is een principal frontender en vakdocent CMD. Zijn LinkedIn-profiel vind je hier.
+        Vroeger was hij een kunstenaar. Het nut van onzin maken is dat je er inspiratie uit kunt halen. Voorbeelden
+        hiervan staan op zijn website vasilis.nl.
+    </p>
+    <p>
+        Voor zijn masteropdracht heeft hij een pagina gemaakt en ingeleverd,
+        die je kunt bekijken op <a href="https://vasilis.nl/flipping-things/
 ">
-            deze link.
-        </a>
-            Gebruik je creativiteit en maak gekke dingen; daar kun je veel van leren.
-            Maak een website niet alleen toegankelijk in theorie, maar ook in de praktijk, zodat deze echt bruikbaar is
-            en je niet achteraf problemen ontdekt.
-            Screenreaders kunnen ingewikkeld zijn als je ze nog niet kent. Een gebruiker hoort bijvoorbeeld “heading 2”,
-            wat verwarrend kan zijn.
-            Test altijd zelf de website die je maakt met een screenreader, zodat je weet hoe het voor anderen is.
+        deze link.
+    </a>
+        Gebruik je creativiteit en maak gekke dingen; daar kun je veel van leren.
+        Maak een website niet alleen toegankelijk in theorie, maar ook in de praktijk, zodat deze echt bruikbaar is
+        en je niet achteraf problemen ontdekt.
+        Screenreaders kunnen ingewikkeld zijn als je ze nog niet kent. Een gebruiker hoort bijvoorbeeld “heading 2”,
+        wat verwarrend kan zijn.
+        Test altijd zelf de website die je maakt met een screenreader, zodat je weet hoe het voor anderen is.
 
-        </p>
+    </p>
 
-    </section>
+</section>
 
 
-
-    <section class="general-styling-section">
+<section class="general-styling-section">
 
     <h2>Nicolas Garnier</h2>
     <p>
-         is een onafhankelijk creatief developer die zich sinds 2012 focust op
+        is een onafhankelijk creatief developer die zich sinds 2012 focust op
         webontwikkeling met JavaScript, nadat Flash is verdwenen. Hij begon in 2018 met freelancen en werkte
         voor bureaus, productbedrijven en startups.
     </p>
@@ -191,7 +177,7 @@
         <li><a href="https://loerarchitecten.com/en">loerarchitecten</a></li>
         <li><a href="https://filaexplore.com/mountains">filla exploere</a></li>
     </ul>
-    </section>
+</section>
 
 
 <section class="general-styling-section">
@@ -202,25 +188,30 @@
     </p>
     <ul>
         <li>
-            Hij heeft informatie gestudeerd en bij cmd ook heeft die dviser bedrijven gewerkt zoals spotify active collective build in amsterdam
+            Hij heeft informatie gestudeerd en bij cmd ook heeft die dviser bedrijven gewerkt zoals spotify active
+            collective build in amsterdam
         </li>
         <li>
-            in het gastcollege heeft hij vertelt over een portfolio en dat je diverse vragen moet stellen om rekening te houden met de eindgebruikers en potentiele odprachtgevers
-            vragen kunnen onder andere zijn wie kijkt naar je portfolio en wat wil je overbrengen met je portfolio en is het noodzakelijk om er een te hebben.
+            in het gastcollege heeft hij vertelt over een portfolio en dat je diverse vragen moet stellen om rekening te
+            houden met de eindgebruikers en potentiele odprachtgevers
+            vragen kunnen onder andere zijn wie kijkt naar je portfolio en wat wil je overbrengen met je portfolio en is
+            het noodzakelijk om er een te hebben.
 
         </li>
         <li>
-            Tijdens het bouwen moet je de vanuit meerdere invallen bekijken want als je gaat designen meot je rekning houden met de gebruiker waardoor je dus ook niet volledig je creativiteit kan uiten odmat je ook weer denkt dat iet sniet kan
+            Tijdens het bouwen moet je de vanuit meerdere invallen bekijken want als je gaat designen meot je rekning
+            houden met de gebruiker waardoor je dus ook niet volledig je creativiteit kan uiten odmat je ook weer denkt
+            dat iet sniet kan
 
         </li>
 
         <li>
-            animaties is iets dat moet je erin hebben om de aandacht van de gebruiker te kunnen vasthouden en om je website er ebter uit te laten zien
+            animaties is iets dat moet je erin hebben om de aandacht van de gebruiker te kunnen vasthouden en om je
+            website er ebter uit te laten zien
         </li>
     </ul>
 
 </section>
-
 
 
 <section class="general-styling-section">
@@ -231,7 +222,8 @@
     </p>
     <ul>
         <li>
-            Hij komt uit kortrijk ook heeft die 8 jaar ervaring als developer en dit is zijn <a href="https://emielvanbetsbrugge.be/">website</a>
+            Hij komt uit kortrijk ook heeft die 8 jaar ervaring als developer en dit is zijn <a
+                href="https://emielvanbetsbrugge.be/">website</a>
 
         </li>
         <li>
@@ -245,17 +237,19 @@
         hij heeft vertelt over pitchen hoe je een presenatie geeft en hoe je jouw product naar productie kan omzetten
         en daarin komen deze stappen
     </p>
-        <ul>
+    <ul>
 
-    <li>
-        Pitch   </li>
-            <li>  Discovery   </li>
-            <li>  Design & Early dev   </li>
-            <li>  Development   </li>
-            <li>  QA   </li>
-            <li>  Go Live
-            <li> Retrospect   </li>ive
-</ul>
+        <li>
+            Pitch
+        </li>
+        <li> Discovery</li>
+        <li> Design & Early dev</li>
+        <li> Development</li>
+        <li> QA</li>
+        <li> Go Live
+        <li> Retrospect</li>
+        ive
+    </ul>
 
     <p>pitch dat is wie wat wanneer en hoe</p>
     <p>welke mensen zijn er en de details wat krijg je en wat is optioneel</p>
@@ -274,7 +268,8 @@
     </p>
 
     <p>
-        QA Quality Assuring de laatste fase van het testen waarin gechekt word of alles echt werkt en of er niet nog onverwachte bugs zijn
+        QA Quality Assuring de laatste fase van het testen waarin gechekt word of alles echt werkt en of er niet nog
+        onverwachte bugs zijn
 
     </p>
 
@@ -288,89 +283,89 @@
         retrospective het terugkijken is het goedgegaan en hoe gaan we verder
     </p>
 
-    <p>de belangrijkste aantekningen:kwaliteit bovne kwaniteit en maak plezier doe iets wat je echt leuk vind en de performance is ook van belang
+    <p>de belangrijkste aantekningen:kwaliteit bovne kwaniteit en maak plezier doe iets wat je echt leuk vind en de
+        performance is ook van belang
     </p>
 
 
 </section>
 
 
+<section class="general-styling-section ">
+    <h2>dave bitter</h2>
+    <p>
 
-<h2>dave bitter</h2>
+        persoonlijke website: <a href="https://www.davebitter.com/">zijn persoonlijke website
+    </a>
+
+        presiparrot een website die hij gemaakt heeft
+
+        een audiowebAPI ook wel speechregnotion
+
+        het is sinds 1950 en het werd steeds verberterd in 2000 begon google en in 2010 begonnen de smartassisent
+
+        the magic ai black box en mensen gebruiken chatgot im te zoeken in plaats van alleen zoeken op google
+
+        hij zegt iets en de ai die luistert en er zitten 4 hoofdelen in
+
+        speechregonisiton chatgpt en daarna speechsynthethis
+
+    </p>
+
+
+
 <p>
 
-presiparrot een website die hij gemaakt heeft
+    using the speechregoniztion webapi
 
-een audiowebAPI ook wel speechregnotion
+    using the speechsynthethis webap for our output
 
-het is sinds 1950 en het werd steeds verberterd in 2000 begon google en in 2010 begonnen de smartassisent 
+    https://www.davebitter.com/articles/interacting-with-chat-gpt-through-voice-ui-on-the-web hier staat de demo op
 
-the magic ai black box en mensen gebruiken chatgot im te zoeken in plaats van alleen zoeken op google 
-
-hij zegt iets en de ai die luistert en er zitten 4 hoofdelen in
-
-speechregonisiton chatgpt en daarna speechsynthethis 
 
 </p>
 
 <p>
+    the select role by the user
 
-
-
-
-
-
-<p>
-
-using the speechregoniztion webapi
-
-using the speechsynthethis webap for our output
-
-https://www.davebitter.com/articles/interacting-with-chat-gpt-through-voice-ui-on-the-web hier staat de demo op
-
-
-
-</p>
-
-<p>
-the select role by the user
-
-the personality of ai
+    the personality of ai
 
 
 </p>
 
 
 <p>
+    elevenlabs is gratis om te gebruikten
 
+    en je haalt alle audio data af en je speelt de audio data
 
-elevenlabs is gratis om te gebruikten 
+    performance over anything and nothing breaks the illusion than the high latency
 
-en je haalt alle audio data af en je speelt de audio data 
+    ai is just another data sourche its the ux that makes the difference
 
-performance over anything and nothing breaks the illusion than the high latency
+    hoe is het leuk en functioneel
 
-ai is just another data sourche its the ux that makes the difference 
+    en don't forget about the older techniques
 
-hoe is het leuk en functioneel
-
-en don't forget about the older techniques 
-
-make cool stuff build,dont just discuss 
+    make cool stuff build,dont just discuss
 
 </p>
+</section>
+
 
 <style>
-    h1{
+    h1 {
 
     }
-    h2{
+
+    h2 {
         /*border-bottom: solid 2px var(--purple);*/
     }
 
-    html{
+    html {
         scroll-behavior: smooth;
     }
+
     main {
         padding: 2em;
         display: grid;
@@ -378,9 +373,9 @@ make cool stuff build,dont just discuss
         font-family: Arial, Helvetica, sans-serif;
 
 
-
     }
-    .general-styling-section{
+
+    .general-styling-section {
         font-size: 20px;
     }
 
