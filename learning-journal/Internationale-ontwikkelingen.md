@@ -16,6 +16,20 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2>7,8 januari</h2>
+
+in [smash magazin](https://mailchi.mp/smashingmagazine/489-web-performance?e=e937b1d1f9)e zag ik een artikel over [brand new performance features in chrome](https://www.debugbear.com/blog/fix-web-performance-devtools) er is een performance panel en hier kan live tijdens het gebruiken van de website de performance meten ook kan je specifieke elementen gaan meten om daar de performance van te weten en er word diep ingegaan over wat de lcp betekent en alle andere performance teksten zodat je duidleijk begrijpt wat de issue is en hoe je het kan oplossen
+
+in [frontend focus](https://frontendfoc.us/issues/674) las ik een artikel over [balancing text](https://ishadeed.com/article/balancing-text-css/) hoe je dit goed kan toepassen en dat deze methoden en technieken goed helpen om de tekst er beter uit te laten zien op de pagina
+
+in [css weekly](https://css-weekly.com/issue-602/?utm_source=CSS-Weekly&utm_medium=newsletter&utm_campaign=issue-602-january-8-2025&_bhlid=56ccaf43e298c66fd58505d18da02e254129662a) ik las een artikel over [text-box-trim](https://piccalil.li/blog/why-im-excited-about-text-box-trim-as-a-designer/?utm_source=CSS-Weekly&utm_campaign=Issue-602&utm_medium=web) en dat je door dit te gebruiken meer controle kan krijgen over de uitlijning van de tekst in bijvoorbeeld een button component het nadeel van tekst is afhandelijk van het letterype en font heeft dit invloed op de browser
+en dit is vrij nieuw en dus ook niet op alle browsers beschikbaar
+
+![image](https://github.com/user-attachments/assets/009763fd-34c6-488c-a5f3-1f9ef0fc48a4)
+
+
+
+
 <h2>17,18,19  december</h2>
 
 nieuws 17 december [smashing newsletter](https://mailchi.mp/smashingmagazine/487-useful-templates-and-canvases-for-designers?e=e937b1d1f9) en hierin las ik een [artikel over samenwerken](https://medium.com/design-bridges/handbook-of-me-eb3b8227c528) en de verschillen waarin het ene team zegt dit kan niet zou een ander team zeggen dit kan wel en dit artikel is een workshop waar teamleden hun voorkeuren opgeven van hoe ze zouden willen samenwerken
