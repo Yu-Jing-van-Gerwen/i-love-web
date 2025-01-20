@@ -41,4 +41,30 @@ en het hangt af van je stage en je aantal dagen
 
 
 </p>
+
+
+<p>
+three.js is een js library dat het werken met 3de in de browser eenvoudig maakt
+
+three.js bestaat uit 3de ojecten zoals een screne, een camera, renderer en 
+een scene bevat vaak meshes,lights,camera's 
+
+https://threejs.org/docs/ 
+
+geometry zoals planegeometry of een bench en sphreregeometry 
+
+ligth is important in a scene zoals hue of ikea home of spotlights
+
+vertex shader is een stukje code dat draait op de gpu 
+de belangrsijkte shador is de fragment shader berent vervolgns zelf de kleur 
+
+webgl is nodig om gekke creaties te maken 
+
+https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API 
+
+https://tympanus.net/codrops/ is een site met tutorials 
+
+
+
+</p>
 </section>
