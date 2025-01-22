@@ -68,3 +68,92 @@ https://tympanus.net/codrops/ is een site met tutorials
 
 </p>
 </section>
+
+
+<h1>22-1-2025</h1>
+<section>
+
+<p>
+    een netwerk is van belang als je gaat freelancen en bij een 
+opdrachhtgever is het belang om goede vragen te stellen zoals
+briefing de verwachtingen is het realistisch en kan je het project aan
+
+
+</p>
+
+<p>
+offerte daar staat in wat je gaat doen
+
+een begroting is van belang
+
+de planning en de afspraken 
+
+en de algemene voorwaarden 
+
+een range is handig waarin je aangeeft hoe lang het ongeveer kan duren 
+en dat er ruimte is zodat je geen verlies draait 
+
+the goodlist rates report in verschillende branches met verschillende 
+
+
+
+</p>
+
+<p>
+een offerte kan grooot en klein zijn ook kan je feedback rondes doen
+en hou er rekning mee dat als je 40 euro per uur vraagt gaat de helft ervan af aan verzekrin belasting 
+
+
+
+</p>
+
+
+<p>
+fenit algemene voorwaarden 
+
+van schets naar ontwerp en dan daarna bouwen 
+
+de voorbereidingsfase is echt van belang en als je onderhoud
+moet doen word het echt vreselijk dus kies 1 framework
+en een cms is van belang dat de klant de content kan aanpassen 
+
+het is van belang om alles te testen 
+
+een acceptatie omgeving is een interne plek alleen voor de klant
+je maakt een board aan met features en dan naar de branch 
+
+
+
+je hebt een development omgeving die is voor jou
+
+een productieomgeving is als het live staat en iedereen het ziet 
+
+een testomgeving mag stuk gaan 
+
+een acceptatieomgeving mag niet stuk 
+
+
+
+
+
+</p>
+
+
+<p>
+je product is opgeleverd en het ontvangen is ook van belang zoals moneybird om facturen te versturen
+
+een aanbetaling is ook handig om je geld sowieso te ontvangen 
+
+het is handig om uren te tracken en in een offerte 
+
+</p>
+
+
+een sla service level agreement een pakket waarin staat 
+
+hoeveel updates en vaste uren 
+
+hostingkosten en updates 
+
+
+</section>
