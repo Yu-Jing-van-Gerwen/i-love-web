@@ -16,6 +16,23 @@
         </section>
 
             <SocialMedia/>
+        <p>Scan the qr code to see my Linkedin or github. </p>
+        <ul class="qr-code">
+            <li class="icons">
+                <a href="https://github.com/yujing-student">
+                    <picture>
+                        <img class="qr-images" src="/img/qr-code/github.png" alt="GitHub" />
+                    </picture>
+                </a>
+            </li>
+            <li class="icons">
+                <a href="https://www.linkedin.com/in/yu-jing-van-gerwen-a959431b7/">
+
+                    <img class="qr-images"  src="/img/qr-code/linkedn.png" alt="linkedin"/>
+                </a>
+            </li>
+        </ul>
+
 
 
     </article>
@@ -78,6 +95,18 @@
         display: grid;
         grid-template-columns: 268px;
         gap: 2em;
+    }
+
+    .qr-code{
+        display: grid;
+        grid-template-rows: auto;
+        grid-template-columns: 2em 8rem;
+        padding: 1em 1em 0 0;
+        gap: 2em;
+        margin-top: -1em;
+    }
+    img{
+        width: 70px;
     }
 
 
