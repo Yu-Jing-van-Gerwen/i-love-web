@@ -16,6 +16,25 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+
+<h2>14 januari</h2>
+
+ik heb op [smashing newsletter issue 490 ](https://mailchi.mp/smashingmagazine/490-interface-design?e=e937b1d1f9) gelezen over optical effects en hoe een designer aan de hand van dit effect een gebruiker kan sturen naar elementen die de gebruiker eerst moet zien. en hoe je dit kan perfecitoneren
+
+![image](https://github.com/user-attachments/assets/b827c17e-e3f2-49e1-835b-3e2c69c0c857)
+
+
+
+
+
+<h2>10 januari</h2>
+
+ik heb op [javascript weekly issue 718](https://javascriptweekly.com/issues/718) een artikel gelezen over [import attributen](https://2ality.com/2025/01/import-attributes.html) waarin vertelt werd wat het is en hoe je het gebruikt
+
+![image](https://github.com/user-attachments/assets/2988743a-5adf-4089-8872-385b29d64b00)
+
+
+
 <h2>7,8 januari</h2>
 
 in [smash magazin](https://mailchi.mp/smashingmagazine/489-web-performance?e=e937b1d1f9)e zag ik een artikel over [brand new performance features in chrome](https://www.debugbear.com/blog/fix-web-performance-devtools) er is een performance panel en hier kan live tijdens het gebruiken van de website de performance meten ook kan je specifieke elementen gaan meten om daar de performance van te weten en er word diep ingegaan over wat de lcp betekent en alle andere performance teksten zodat je duidleijk begrijpt wat de issue is en hoe je het kan oplossen
