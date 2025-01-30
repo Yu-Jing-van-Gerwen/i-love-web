@@ -16,6 +16,10 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2>21 januari</h2>
+
+in [smashing magazine issue 491](https://mailchi.mp/smashingmagazine/491-state-of-ai-2025?e=e937b1d1f9) las ik een artikel over hoe [large language models work](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f) en ik snap er niet zo veel van omdat het best ingewikkeld is 
+
 
 <h2>15 januari</h2>
 
