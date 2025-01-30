@@ -17,9 +17,17 @@
 <h2 id="gelezen">gelezen brieven</h2>
 
 
+<h2>15 januari</h2>
+
+in [frontend focus issue 675](https://frontendfoc.us/issues/675) las ik over [css text-box-trim](https://developer.chrome.com/blog/css-text-box-trim#feature_and_syntax_overview) en hiermee kan je de space van boven en onder de tekst aanpassen zodat de uitlijning goed is en het geeft je controle over de witruimte van de tekst
+
+![image](https://github.com/user-attachments/assets/2b7edc73-86ae-4aed-833f-8475548c3fb9)
+
+
+
 <h2>14 januari</h2>
 
-ik heb op [smashing newsletter issue 490 ](https://mailchi.mp/smashingmagazine/490-interface-design?e=e937b1d1f9) gelezen over optical effects en hoe een designer aan de hand van dit effect een gebruiker kan sturen naar elementen die de gebruiker eerst moet zien. en hoe je dit kan perfecitoneren
+ik heb op [smashing newsletter issue 490 ](https://mailchi.mp/smashingmagazine/490-interface-design?e=e937b1d1f9) gelezen over [optical effects ](https://medium.com/design-bridges/optical-effects-9fca82b4cd9a)en hoe een designer aan de hand van dit effect een gebruiker kan sturen naar elementen die de gebruiker eerst moet zien. en hoe je dit kan perfecitoneren
 
 ![image](https://github.com/user-attachments/assets/b827c17e-e3f2-49e1-835b-3e2c69c0c857)
 
