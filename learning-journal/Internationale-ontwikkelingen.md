@@ -16,6 +16,27 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2>31 januari</h2>
+
+in [javascript weekly issue 721](https://javascriptweekly.com/issues/721) las ik over the [modern way to write javascript servers](https://marvinh.dev/blog/modern-way-to-write-javascript-servers/) en daarin gebruik je fetch api waardoor je geen bind sockets meer nodig hebt en vanaf daar een nieuw object maak met een request naar je app 
+<h2>30 januari</h2>
+
+in [css weekly issue 604](https://css-weekly.com/issue-604/?utm_source=CSS-Weekly&utm_medium=newsletter&utm_campaign=issue-604-january-30-2025&_bhlid=24ea326bccc5e87cceb964532900076052371966) las ik over [transitionling top layer entires and the display proporty in css](https://www.smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/?utm_source=CSS-Weekly&utm_campaign=Issue-604&utm_medium=web)
+
+in de top layer kan je styling aanbrengen waardoor je op de top layer elements geen z index complexity hoeft te doen ook heb je een voorbeeld met uitleg en er word vertelt over een backdrop dat je die kan stylen om het meer smooth te maken als je een overgang hebt
+
+<h2>29 januari</h2>
+
+in [frontend focus isse 677](https://frontendfoc.us/issues/677) ik las hier over [considerations for making a three view component accessible
+](https://github.blog/engineering/user-experience/considerations-for-making-a-tree-view-component-accessible/) en dat het van belang is om dit goed toegankelijk te maken vanwege de accesibility
+
+<h2>28 januari</h2>
+
+in [smashing magazine issue 492](https://mailchi.mp/smashingmagazine/472-new-css-features-for-2025?e=e937b1d1f9) stond er een interssante [easing wizard](https://easingwizard.com/) waarin je een aniatimie kan maken en de css code kan kopieren. Ook las ik over [calc size](https://12daysofweb.dev/2024/calc-size-and-interpolate-size/) en dat je met de nieuwe interpolate-size een animatie kan doen en de div kan vergroten en dit is met alleen html en css waardoor het dus ook goed is voor progressive enhancement
+
+<h2>22 januari</h2>
+in [frontend focus issue 676 ](https://frontendfoc.us/issues/676) las ik over[ storgage api ](https://www.youtube.com/watch?v=X52kDDacvkw)met het idee om kleine informatie op te slaan zoals dat een gebruiker een item toeveogd aan het winkelwagentje. Ook heb je dat een gebruiker zijn privacy niet geschend word omdat er cross site data gebruikt word met directy sharing en een klein javascript programmma worklets zorgt ervoor dat het in een beveiligde omgeving gebeurt van de gebruiker 
+
 <h2>21 januari</h2>
 
 in [smashing magazine issue 491](https://mailchi.mp/smashingmagazine/491-state-of-ai-2025?e=e937b1d1f9) las ik een artikel over hoe [large language models work](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f) en ik snap er niet zo veel van omdat het best ingewikkeld is 
@@ -115,6 +136,7 @@ ook las ik over [moderne css features](https://ishadeed.com/article/modern-css-f
 
 
 <h2>4 december</h2>
+
 nieuws 4 december <a href="https://mailchi.mp/smashingmagazine/485-ux-research?e=e937b1d1f9">smashing newsletter</a>
 hierin las over  <a href="https://www.notably.ai/blog/how-to-choose-the-right-qualitative-research-methods">qualitative research methods</a> dus hoe je een goede qualitatieve researchmethod kiest en dat dit dus afhankelijk is van wat je onderzoek en welke gebruikers er zijn en hoeveel tijd ej gebrruikt voor je onderzoek
 
@@ -127,12 +149,14 @@ hoe je dit kan gebruiken zonder javascript te gebruiken en hoe je dit met alleen
 
 
 <h2>3 december</h2>
+
 nieuws 3 december <a href="https://frontendfoc.us/issues/671">frontend focus</a>
 hierin las over  <a href="https://www.tyleo.com/html-glass.html">frosted glass  wat gebruikt kan worden in games en hoe je dit kan realiseren
 
 ook heb ik gelezen uit de nieuwsbrief van Josh Comeau over een <a href="https://www.joshwcomeau.com/css/backdrop-filter/">backdrop filter </a> hoe je dat kan gebruiken
 
 <h2>28 november</h2>
+
 nieuws 28 november <a href="https://css-weekly.com/issue-600/?utm_source=CSS-Weekly&utm_medium=newsletter&utm_campaign=issue-600-november-27-2024&_bhlid=e5f89bba28bdbe071cc6de87896bb40edce86697">css weekly nieuwsbrief</a>
 hierin las ik dat je <a href="https://webkit.org/blog/16214/background-clip-border-area/?utm_source=CSS-Weekly&utm_campaign=Issue-600&utm_medium=web">creative border kan maken</a> en ik las een artikel over <a href="https://www.joshwcomeau.com/css/browser-support/?utm_source=CSS-Weekly&utm_campaign=Issue-600&utm_medium=web">fallback</a> waarin het ging over browser suppert als je framework niet ondersteund word
 
@@ -144,6 +168,19 @@ nieuws 26 novmeber <a href="https://mailchi.mp/smashingmagazine/484-web-forms?e=
 ook heb ik een arikel gelezen over <a href="https://adamsilver.io/blog/form-design-from-zero-to-hero-all-in-one-blog-post/">form design en daarin tips</a> 
 
 
+<h2>23 november</h2>
+<p>
+    nieuws 23 oktober <a href="https://css-weekly.com/issue-598/">css-weekly</a> ik las een artikel over <a href="https://www.a11y-collective.com/blog/accessible-fonts/?utm_source=CSS-Weekly&utm_campaign=Issue-598&utm_medium=web"> 
+        fonts </a>
+
+dat je in je font ook goed moet
+ opletten met accesibility en dat er fonts zijn voor mensen met dislexie en mensen die niet goed kunenn zien zodat het makkeljker te lezen is 
+
+ <br>
+
+ ook heb ik gelezen dat 
+ verder heb ik gelezen over dat je de <a href="https://www.letsbuildui.dev/articles/fun-with-custom-cursors/?utm_source=CSS-Weekly&utm_campaign=Issue-598&utm_medium=web">cursor </a> zelf kan aanpassen
+</p>
 
 
 
@@ -225,19 +262,6 @@ Rem is relatief  als het gaat om de font size waardoor het dus niet uitmaakt als
 
 
 
-</p>
-<h2>23 november</h2>
-<p>
-    nieuws 23 oktober <a href="https://css-weekly.com/issue-598/">css-weekly</a> ik las een artikel over <a href="https://www.a11y-collective.com/blog/accessible-fonts/?utm_source=CSS-Weekly&utm_campaign=Issue-598&utm_medium=web"> 
-        fonts </a>
-
-dat je in je font ook goed moet
- opletten met accesibility en dat er fonts zijn voor mensen met dislexie en mensen die niet goed kunenn zien zodat het makkeljker te lezen is 
-
- <br>
-
- ook heb ik gelezen dat 
- verder heb ik gelezen over dat je de <a href="https://www.letsbuildui.dev/articles/fun-with-custom-cursors/?utm_source=CSS-Weekly&utm_campaign=Issue-598&utm_medium=web">cursor </a> zelf kan aanpassen
 </p>
 
 
