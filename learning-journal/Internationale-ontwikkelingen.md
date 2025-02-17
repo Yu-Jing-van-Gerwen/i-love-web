@@ -26,6 +26,7 @@ in [javascript weekly issue 723](https://javascriptweekly.com/issues/723) las ik
 in [smashing magazine issue 494 ](https://mailchi.mp/smashingmagazine/494-ux-and-product-design?e=e937b1d1f9) las ik over designing for clarity en daarin werd vertelt waarom een design clear moet zijn en duidelijk. ook werden er voorbeelden gegven hoe het niet moet en hoe je zo'n restructering van je interface kan aanpakken
 
 <h2>7 februari</h2>
+
 in [javascript weekly issue 722](https://javascriptweekly.com/issues/722) las ik over een [tutorial hoe je vite met typescript](https://www.robinwieruch.de/vite-typescript/) kan gebruiken end at je daar een aantal aanpassingen voor moet doen
 
 
