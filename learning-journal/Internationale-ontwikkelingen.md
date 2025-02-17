@@ -16,6 +16,21 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+
+<h2>6 februari</h2>
+
+in [css weekly issue 605](https://css-weekly.com/issue-605/?utm_source=CSS-Weekly&utm_medium=newsletter&utm_campaign=issue-605-february-6-2025&_bhlid=202c987ac5f07e2680804931a5d6302b68abab62) las ik over [Optimizing The Critical Rendering Path ](https://www.debugbear.com/blog/optimizing-the-critical-rendering-path?utm_source=CSS-Weekly&utm_campaign=Issue-605&utm_medium=web) . Daarin werd vertelt dat eerst de html word ingeladen dan de css en dat die files invloed hebben op de cpr. en de fonts en images hebben ook een grote invloed.
+
+![image](https://github.com/user-attachments/assets/55b2330b-8654-4020-9f57-e7c70266a35c)
+
+
+ook heb ik gelezen over het [framework blend](https://blendy.tahazsh.com/?utm_source=CSS-Weekly&utm_campaign=Issue-605&utm_medium=web)y voor smoothly transitions 
+
+
+<h2>5 februari</h2>
+
+In [frontend focus issue 678](https://frontendfoc.us/issues/678) las ik over de voordelen van een [klein team](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams) waarin vertelt werd dat zulke teams flxible zijn en snel omdat je niet met heel veel andere mensen te maken hebt. ook heb je meestal 1 techlead die de taken verdeelt.
+
 <h2>31 januari</h2>
 
 in [javascript weekly issue 721](https://javascriptweekly.com/issues/721) las ik over the [modern way to write javascript servers](https://marvinh.dev/blog/modern-way-to-write-javascript-servers/) en daarin gebruik je fetch api waardoor je geen bind sockets meer nodig hebt en vanaf daar een nieuw object maak met een request naar je app 
