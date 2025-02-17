@@ -16,6 +16,18 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2>14 februari</h2>
+
+in [javascript weekly issue 723](https://javascriptweekly.com/issues/723) las ik over how to start a react project in 2025 en daarin werd vertelt over de voor en nadelen met het gebruik van vite . en ook of next.js handiger is om te gebruiken. ook werd vertelt over ssg, ssr,csr,spas. als allerlaatste hebben ze gekeken naar react with astro. en als je nieuw bent is het het beste om vite met react te nemen 
+
+
+<h2>11 februari</h2>
+
+in [smashing magazine issue 494 ](https://mailchi.mp/smashingmagazine/494-ux-and-product-design?e=e937b1d1f9) las ik over designing for clarity en daarin werd vertelt waarom een design clear moet zijn en duidelijk. ook werden er voorbeelden gegven hoe het niet moet en hoe je zo'n restructering van je interface kan aanpakken
+
+<h2>7 februari</h2>
+in [javascript weekly issue 722](https://javascriptweekly.com/issues/722) las ik over een [tutorial hoe je vite met typescript](https://www.robinwieruch.de/vite-typescript/) kan gebruiken end at je daar een aantal aanpassingen voor moet doen
+
 
 <h2>6 februari</h2>
 
