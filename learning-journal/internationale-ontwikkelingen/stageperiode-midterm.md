@@ -1,5 +1,4 @@
-- [javascriptweekly]()
-- [smashing magazine]()
+ - [javascriptweekly]()
 - [CSS Weekly newsletter](https://css-weekly.com/)
 - [Frontend Focus newsletter](https://frontendfoc.us/issues)
 - [Daily.dev - chrome extensie](https://daily.dev/)
@@ -15,6 +14,40 @@
 <a href="#gelezen-brieven-toegepast">gelezen niewusbrieven toegepast in mijn werk </a>
 
 <h2 id="gelezen">gelezen brieven</h2>
+
+
+<h2>21 februari</h2>
+
+in [javascript weekly issue 724](https://javascriptweekly.com/issues/724) las ik een artikel over [interrop](https://webkit.org/blog/16458/announcing-interop-2025/) en dat gaat over hoe verschillende css functies die je gebruikt bij de ene browser wel werkt en bij de andere stuk gaat 
+
+![image](https://github.com/user-attachments/assets/3511016a-9126-4ee0-afc1-d26400bd2a25)
+
+
+<h2>20 februari</h2>
+
+ik las in [css weekly issue 606](https://css-weekly.com/issue-606/?utm_source=CSS-Weekly&utm_medium=newsletter&utm_campaign=issue-606-february-19-2025&_bhlid=db407701352427b879574efd4a0caa6a17eab163) stond een artikel over hoe je de [inspector](https://www.debugbear.com/blog/use-chrome-devtools?utm_source=CSS-Weekly&utm_campaign=Issue-606&utm_medium=web) kan gebruiken waarin alle stappen doorlopen en ook de debugger
+
+![image](https://github.com/user-attachments/assets/67157c0c-e239-4fd7-aac8-41f8fe54ba7f)
+
+Verder werd er ook verteld over back en forwarch chache en network requests en daar heb ik nu meer over geleerd
+
+ook las ik over[ Reimagining Fluid Typography](https://www.oddbird.net/2025/02/12/fluid-type/?utm_source=CSS-Weekly&utm_campaign=Issue-606&utm_medium=web) en daarin gaat het over hoe je de de font sizes kan aanpassen met onder andere 'clamp' of 'vw' en dat dit beter is dan media querys omdat je  
+
+
+<h2>19 fenruari</h2>
+
+in [frontend focus issue 680](https://github.com/yujing-student/i-love-web.git) las ik over de [style observer
+](https://lea.verou.me/blog/2025/style-observer/) en dit is een library die je kan gebruiken om je css changes te checken
+
+er stond ook een link naar hoe je dit met npm kan gebruiken
+
+![image](https://github.com/user-attachments/assets/198861c3-447f-498d-a425-6cc725ad4ddf)
+
+in [thisreact](https://thisweekinreact.com/newsletter/222) nieuwsletter issue 22 las ik een voorbeeld hoe je met react een [checkbox animatie](https://reactiive.io/articles/checkbox-interactions) kan maken 
+
+![image](https://github.com/user-attachments/assets/dcae5412-4143-454d-a14a-dcc492c24ad1)
+
+verder las ik ook dat[ React Native 0.78 - React 19](https://reactnative.dev/blog/2025/02/19/react-native-0.78) uit is 
 
 
 
