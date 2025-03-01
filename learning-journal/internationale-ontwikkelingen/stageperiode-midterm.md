@@ -15,6 +15,26 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2> 28 februari</h2>
+
+in [javascript weekly issue 725](https://javascriptweekly.com/issues/725) las ik over [typescript vs javascript](https://2ality.com/2025/02/what-is-typescript.html) en daarin worden de verschillen uitgelegd 
+
+<h2>25 februari</h2>
+
+in [frontend focus 681](https://frontendfoc.us/issues/681) las ik over [Better Anchor Positioning with position-area](https://www.oddbird.net/2025/02/25/anchor-position-area/) en ik vond deze tool [anchor position tool](https://anchor-tool.com/) over hoe je een element aan een ander element kan positioneren dit kan onder ander gebruikt worden voor reclame buttons of in een hamburgermenu
+
+
+[in react nieuwsletter 223 ](https://thisweekinreact.com/newsletter/223) las ik tips over [functional programming in react](https://www.56kode.com/posts/level-up-react-functional-programming-in-react/) en daarin werd vertelt over varianten die er zijn qua programming en welke voordelen er zijn aan functional programming
+
+![image](https://github.com/user-attachments/assets/9bb316ea-d25e-45eb-bfd9-0c0d7b175613)
+
+verder is ook vertelt over de verschillen tussen object oreintatted programming en functional en dat je met functional geen verandering hebt in de state
+
+en nog veel meer zoals pure functions, higher order class 
+
+
+
+
 <h2>24 februari </h2>
 
 in [smash magazine issue 496](https://mailchi.mp/smashingmagazine/496-psychology-and-ux?e=e937b1d1f9) las ik een artikel over  Deceptive Patterns ook wel dark patterns in user interface (UI) en user experience (UX) design. en dat houd in hoe bepaalde trucjes worden gebruikt om je te verleiden om meer te verkopen of dat je toch het product koopt zonder dat je dit nodig hebt en op deze [website](https://www.deceptive.design/) staan alle tips en dit is een [voorbeeld ](https://www.deceptive.design/types/nagging) over de melding van notificaties
