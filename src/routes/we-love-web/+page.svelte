@@ -352,6 +352,50 @@
 </p>
 </section>
 
+<section>
+<h2>cassie evans</h2>
+
+<p>
+cassie evans 
+
+different ways such as vanilla 
+
+ui animations
+
+the gsap library is big
+
+it is extensive 
+
+and it uses method and targets and also vars 
+
+
+no position direction sequences 
+
+they use scroll positions 
+
+gsap is something like a toolbox of everything that you need 
+
+quicksetter is a utility 
+
+cursor followers codepen
+
+gsap utils 
+
+utils.random 
+
+
+utils.maprange
+utils.wrap 
+utils.pipe() voor animations
+
+the ease do the work it is very important 
+
+
+
+
+</p>
+</section>
+
 
 
 
