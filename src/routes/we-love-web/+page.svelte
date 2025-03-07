@@ -352,7 +352,8 @@
 </p>
 </section>
 
-<section>
+<section class="general-styling-section ">
+
 <h2>cassie evans</h2>
 
 <p>
@@ -389,6 +390,15 @@ utils.wrap
 utils.pipe() voor animations
 
 the ease do the work it is very important 
+
+you can use a glitcy animation 
+with the ease visualizer you can see the code that you need 
+
+with matchmedia you can change the animation when it has a specific screen 
+
+for example pointer events or hovers
+
+with user preferences reduce motion you can change the animation for people who turn off the animation
 
 
 
