@@ -389,6 +389,10 @@ utils.maprange
 utils.wrap 
 utils.pipe() voor animations
 
+</p>
+
+<p>
+
 the ease do the work it is very important 
 
 you can use a glitcy animation 
@@ -399,11 +403,39 @@ with matchmedia you can change the animation when it has a specific screen
 for example pointer events or hovers
 
 with user preferences reduce motion you can change the animation for people who turn off the animation
+</p>
+
+<p>
+
+control methods
+
+skipp to a certain point 
+
+you can animate the timeline with a ease when you click on something 
+
+helper functions in gsap
+
+
 
 
 
 
 </p>
+container animation 
+
+it moves the contianer so it is a animation in a other animation
+
+motionpath 
+
+intern en exit animations 
+
+in gap you use timelines 
+
+
+
+<p>
+
+
 </section>
 
 
