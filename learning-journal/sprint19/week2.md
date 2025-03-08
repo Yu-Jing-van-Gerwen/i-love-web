@@ -17,7 +17,7 @@ merge conflict opgelost
 Ik heb de frontend met een setuproxy.js geconenct met de docker database.
 
 <hr>
-11 februari ik heb feedbakc verwerkt van het logo issue dat de footer nog geen 100px is
+11 februari ik heb feedback verwerkt van het logo issue dat de footer nog geen 100px is
 <hr>
 
 12 februari toetsdag niet geprogrammeerd
