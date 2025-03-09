@@ -15,6 +15,30 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2>5 maart</h2>
+
+in [thisweekinreact issue 224](https://thisweekinreact.com/newsletter/224) las ik een [tutorial](https://sergiodxa.com/tutorials/create-show-a-404-in-react-router) hoe ik een 404 router kan laten tonen 
+
+
+
+<h2>3 maart</h2>
+
+in [frontend focus issue ](https://frontendfoc.us/issues/682) las ik over [css functions](https://css-tricks.com/functions-in-css/) en dat ze vooral gebruikt worden zodat je meer flexibiliteit hebt en code kan herbruiken en dit is nog niet voleldig werkend in alle browsers
+
+ook is het vergelijkbaar met custom proporties maar dan in een functie
+
+````
+@function --dashed-border(--color: red) {
+   result: 2px dashed var(--color);
+}
+
+div {
+  border: --dashed-border(); /* 2px dashed red */
+}
+````
+
+verder kan je in een funcite list argumetns hebben en een media query gebruiken 
+
 <h2> 28 februari</h2>
 
 in [javascript weekly issue 725](https://javascriptweekly.com/issues/725) las ik over [typescript vs javascript](https://2ality.com/2025/02/what-is-typescript.html) en daarin worden de verschillen uitgelegd 
