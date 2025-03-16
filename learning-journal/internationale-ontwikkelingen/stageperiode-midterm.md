@@ -15,6 +15,51 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2>11 maart</h2>
+
+in [smashing mazagine issue 498 ](https://mailchi.mp/smashingmagazine/498-usability-ux?e=e937b1d1f9) las ik over [good design practises](https://goodpractices.design/) 
+
+hier is een voorbeeld hoe het niet moet en wel
+
+![image](https://github.com/user-attachments/assets/609650a1-465d-4d52-893d-b24da1ceedff)
+
+
+
+
+
+het is belangrijk om de naamgeving duidelijk te hebben 
+
+<img width="483" alt="image" src="https://github.com/user-attachments/assets/c43086fc-26f4-4cca-a81e-b1d551f274cc" />
+
+<hr>
+
+
+en dit is een voorbeeld ervan 
+
+![image](https://github.com/user-attachments/assets/c3dd6888-fdba-4f48-9ab8-418b71fc6f5c) en de naamgeving van je kleuren is ook handig voor je css custom proporties dat je de verschillen weet
+
+<img width="413" alt="image" src="https://github.com/user-attachments/assets/efd3df8a-08ae-47f9-916f-1a74a5f793b7" />
+
+
+
+<h2>7 maart</h2>
+
+in [javascript weekly issue 726](https://css-weekly.com/issue-607/?utm_source=CSS-Weekly&utm_medium=newsletter&utm_campaign=issue-607-march-6-2025&_bhlid=0cb5b83b11e2dd3ff80ebea08261cdbcf8ca85d6) las ik een artikel over [React data tale responsive dynamic table component](https://css-weekly.com/issue-607/?utm_source=CSS-Weekly&utm_medium=newsletter&utm_campaign=issue-607-march-6-2025&_bhlid=0cb5b83b11e2dd3ff80ebea08261cdbcf8ca85d6) en dit ging over een react library over hoe je data in een tabel kan zetten en dat er door de library een tabel gemaakt word 
+
+<h2>6 maart</h2>
+
+in [css weekly issue 607](https://css-weekly.com/issue-607/?utm_source=CSS-Weekly&utm_medium=newsletter&utm_campaign=issue-607-march-6-2025&_bhlid=0cb5b83b11e2dd3ff80ebea08261cdbcf8ca85d6) las ik over [favorite devtools features of 2025](https://css-weekly.com/issue-607/?utm_source=CSS-Weekly&utm_medium=newsletter&utm_campaign=issue-607-march-6-2025&_bhlid=0cb5b83b11e2dd3ff80ebea08261cdbcf8ca85d6) hierin stond ook over hoe je de dom size kan optimaliseren 
+
+en er werd vertelt dat je third party scripts kan kan filteren met techcrunch
+
+met privacy en security kan je je jouw website testen zonder third party cookies omdat de cookies ook invloed hebben op de performance van je website
+
+ook kan je scrollable areas ontdekken 
+
+
+
+
+
 <h2>5 maart</h2>
 
 in [thisweekinreact issue 224](https://thisweekinreact.com/newsletter/224) las ik een [tutorial](https://sergiodxa.com/tutorials/create-show-a-404-in-react-router) hoe ik een 404 router kan laten tonen 
