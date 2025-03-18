@@ -15,6 +15,13 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2>14 maart</h2>
+
+in [javascript weekly issue 727](https://javascriptweekly.com/issues/727) las ik over [Introducing command and commandfor](https://developer.chrome.com/blog/command-and-commandfor) en hierin word vertelt dat er 2 nieuwe html attributen zijn waardoor er minder snel javasctipt nodig is en dat is 'command' en 'commandfor' dit word gebruikt voor popovers en dialogen
+
+
+'command' en 'commandfor' zijn ontworpen ter vervanging van de oudere popovertargetaction en popovertarget attributen en dit is ook beter voor toegankelijkheid omdat aria en focusbeheer gebruikt word
+
 <h2>13 maart</h2>
 
 In [css weekly issue 608](https://css-weekly.com/issue-608/?utm_source=CSS-Weekly&utm_medium=newsletter&utm_campaign=issue-608-march-13-2025&_bhlid=b0a87c60715b4c17d25ad0fc674c149110dd9910) las ik een artikel over [View Transitions Applied: Smoothly animating a border-radius with a View Transition ](https://www.bram.us/2025/03/11/view-transitions-border-radius/?utm_source=CSS-Weekly&utm_campaign=Issue-608&utm_medium=web)en daarin werd vertelt hoe je view transitions kan gebruiken in combinatie met een border en er staan een aantal voorbeelden in met code hoe de border radius word aangepast 
