@@ -15,6 +15,19 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+
+
+<h2>12 maart</h2>
+
+in [frontend focus issue 683](https://frontendfoc.us/issues/683) las ik een [tutorial](https://css-tricks.com/grouping-selection-list-items-together-with-css-grid/) hoe je list items kan grouperen in css met grid 
+
+in [thisweekreact issue 225](https://thisweekinreact.com/newsletter/225) heb ik een uitleg gelezen hoe je middleware in react gebruikt 
+
+Met react middleware heb je dat er een extra autencitatie laag is voor als je als nieuwe gebruiker bijvoorbeeld wilt inloggen 
+ook word middelware gebruikt om de credentials te checken of je als gebruiker rechten hebt om een specifieke pagina te zien
+
+als je van de ene naar de andere pagina wilt gaat dan word er ook middelware gebruikt aan de hand van de react router
+
 <h2>11 maart</h2>
 
 in [smashing mazagine issue 498 ](https://mailchi.mp/smashingmagazine/498-usability-ux?e=e937b1d1f9) las ik over [good design practises](https://goodpractices.design/) 
