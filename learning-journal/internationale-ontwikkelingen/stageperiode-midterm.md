@@ -15,7 +15,11 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2>13 maart</h2>
 
+In [css weekly issue 608](https://css-weekly.com/issue-608/?utm_source=CSS-Weekly&utm_medium=newsletter&utm_campaign=issue-608-march-13-2025&_bhlid=b0a87c60715b4c17d25ad0fc674c149110dd9910) las ik een artikel over [View Transitions Applied: Smoothly animating a border-radius with a View Transition ](https://www.bram.us/2025/03/11/view-transitions-border-radius/?utm_source=CSS-Weekly&utm_campaign=Issue-608&utm_medium=web)en daarin werd vertelt hoe je view transitions kan gebruiken in combinatie met een border en er staan een aantal voorbeelden in met code hoe de border radius word aangepast 
+
+ook staat erin welke methoden en technieken er gebruikt worden en dat je met view transitions een vloeiende overgang hebt
 
 <h2>12 maart</h2>
 
