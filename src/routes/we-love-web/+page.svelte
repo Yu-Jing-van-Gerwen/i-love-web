@@ -438,6 +438,36 @@ in gap you use timelines
 
 </section>
 
+<section class="general-styling-section ">
+<h2>ischa gast over toegankelijkheid</h2>
+
+<p>
+de website van de hema is een voorbeeld van niet toegankelijk 
+
+er zijn diverse beperkingen: visueel,motorisch,auditief,cognitief
+
+
+
+
+</p>
+
+<p>
+koppen structuur, semantische html, web developer, focus styles, kleur contrast
+
+
+
+
+
+
+</p>
+
+<p>albtert heijn oranje tekst en witte tekst is ook geen goede combine</p>
+
+het beste is om toegankelijkheid te testen met iemand die dit ook gebruitk 
+
+
+</section
+
 
 
 
