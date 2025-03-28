@@ -467,6 +467,13 @@ het beste is om toegankelijkheid te testen met iemand die dit ook gebruikt
 
 een voorbeeld is een persoon die een rolstoel nodig had en dit stond onderaan in de website en dit had in de navigatie beter kunnen staan
 
+
+<p>
+de website van de hema is een goed voorbeeld van hoe het niet moet
+
+en page speed insight is handig om te testen 
+
+</p>
 </section
 
 
