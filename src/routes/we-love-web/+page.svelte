@@ -463,8 +463,9 @@ koppen structuur, semantische html, web developer, focus styles, kleur contrast
 
 <p>albtert heijn oranje tekst en witte tekst is ook geen goede combine</p>
 
-het beste is om toegankelijkheid te testen met iemand die dit ook gebruitk 
+het beste is om toegankelijkheid te testen met iemand die dit ook gebruikt 
 
+een voorbeeld is een persoon die een rolstoel nodig had en dit stond onderaan in de website en dit had in de navigatie beter kunnen staan
 
 </section
 
