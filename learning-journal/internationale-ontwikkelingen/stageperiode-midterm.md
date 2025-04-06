@@ -15,6 +15,22 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+
+<h2>20 maart</h2>
+
+in [css weekly issue ](https://css-weekly.com/issue-609/)609 las ik een artikel van jermey keith over het probleem waar er een voorstel lag om de developer meer controle te geven over de styling van form controls 
+
+dit is wat ze voorstellen: The proposal suggests that authors can opt-in to the new styling possibilities by declaring:
+appearance: base;
+
+Het idee is dat zodra de developer de apperance base gebruik kan je de pseudo-elementen stylen 
+
+Dit voorstel zou van toepassing zijn op vrijwel alle formulierbesturingselementen die u kunt bedenken: input progress meter buttons select 
+
+ook wil jeremy dat het legend element makkelijk te stylen en dat dit net zo is als een span of een div 
+
+
+
 <h2>14 maart</h2>
 
 in [javascript weekly issue 727](https://javascriptweekly.com/issues/727) las ik over [Introducing command and commandfor](https://developer.chrome.com/blog/command-and-commandfor) en hierin word vertelt dat er 2 nieuwe html attributen zijn waardoor er minder snel javasctipt nodig is en dat is 'command' en 'commandfor' dit word gebruikt voor popovers en dialogen
