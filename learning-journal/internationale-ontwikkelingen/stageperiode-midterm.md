@@ -18,7 +18,7 @@
 
 <h2>20 maart</h2>
 
-in [css weekly issue ](https://css-weekly.com/issue-609/)609 las ik een artikel van jermey keith over het probleem waar er een voorstel lag om de developer meer controle te geven over de styling van form controls 
+in [css weekly issue ](https://css-weekly.com/issue-609/)609 las ik een artikel van [jermey keith](https://adactio.com/journal/21797?utm_source=CSS-Weekly&utm_campaign=Issue-609&utm_medium=web) over het probleem waar er een voorstel lag om de developer meer controle te geven over de styling van form controls 
 
 dit is wat ze voorstellen: The proposal suggests that authors can opt-in to the new styling possibilities by declaring:
 appearance: base;
