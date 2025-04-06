@@ -10,4 +10,12 @@ ik liep tegen de error required is not defined en de oplossing had ik niet gevon
 
 <hr>
 
-19 maart
+19 maart tot en mt 21 maart ziek
+
+<hr>
+
+22 maart uncinc tickets een container heb ik van 12 colum naar 8 colum gezte met bootstrap
+
+
+
+
