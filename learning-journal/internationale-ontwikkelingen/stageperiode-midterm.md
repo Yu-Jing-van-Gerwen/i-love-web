@@ -219,3 +219,5 @@ In [frontend focus issue 678](https://frontendfoc.us/issues/678) las ik over de 
 <h2 id="#gelezen-brieven-toegepast">gelezen werk toegepast</h2>
 
 Ik kreeg het verzoek om use reff te gebruiken in plaats van use state en dit [artikel]([url](https://dzone.com/articles/usestate-vs-useref-understand-the-technical-differ#:~:text=The%20main%20difference%20between%20useState,not%20trigger%20a%20re%2Drender.)) had ik gelezen om het op te lossen 
+
+artikel: https://dzone.com/articles/usestate-vs-useref-understand-the-technical-differ#:~:text=The%20main%20difference%20between%20useState,not%20trigger%20a%20re%2Drender.
