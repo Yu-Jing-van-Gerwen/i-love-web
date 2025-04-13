@@ -57,6 +57,8 @@ ik las dit artikel [The <select> element can now be customized with CSS]([url](h
 
 en hier staat het [codevoorbeeld]([url](https://codepen.io/web-dot-dev/pen/zxYaXzZ)) op codepen
 
+<hr>
+
 <h2>20 maart</h2>
 
 in [css weekly issue ](https://css-weekly.com/issue-609/)609 las ik een artikel van [jermey keith](https://adactio.com/journal/21797?utm_source=CSS-Weekly&utm_campaign=Issue-609&utm_medium=web) over het probleem waar er een voorstel lag om de developer meer controle te geven over de styling van form controls 
