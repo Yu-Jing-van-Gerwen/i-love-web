@@ -54,14 +54,17 @@ de frameworks svelte en vue js is handiger omdat het beter geintrigreerd zit
 
 ik las dit artikel [The <select> element can now be customized with CSS]([url](https://developer.chrome.com/blog/a-customizable-select?hl=en)) in chrome developers blog waarin je het select element kan aanpassen en dat kan met deze code
 
-```
+```css
 
 .custom-select {
   &, &::picker(select) {
     appearance: base-select;    
   }
 }
+
+
 ```
+
 
 en hier staat het [codevoorbeeld]([url](https://codepen.io/web-dot-dev/pen/zxYaXzZ)) op codepen
 
