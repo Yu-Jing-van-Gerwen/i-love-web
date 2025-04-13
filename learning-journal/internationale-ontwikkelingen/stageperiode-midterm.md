@@ -15,6 +15,23 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2> 9 april</h2>
+
+in [frontend focus issue 687]([url](https://frontendfoc.us/issues/687)) las ik over de [Top 5 CSS Navigation Menu Mistakes](https://blog.css-weekly.com/top-5-css-navigation-menu-mistakes) en daarin word vertelt welke fouten er zijn 
+
+fout nummer 1 is small target areas daardoor is de ancher link heel erg klein
+
+fout nummer 2 is het gebruik van margin in plaats van gap met flexbox waardoor je onnodig code schrijft
+
+fout nummer 3 een dropdown met submenus zorgt ervoor dat er soms ook een stuk lege ruimte blijft en als de gebruiker erop kikt kan dit ervoor zorgen dat het menu sluit en dit kan je oplossen met een after
+
+fout nummer 4 is geen delay op het menu items waardoor er geen smooth transition is om de submenus te laten zien en dit kan je met css oplossen
+
+fout nummer 5 geen animaite op anker links waarin de gebruiker drukt op een link en er in 1 keer is terwijl je met smooth scrolling een mooie onvergang eraan kan geven
+
+
+
+
 
 <h2>20 maart</h2>
 
