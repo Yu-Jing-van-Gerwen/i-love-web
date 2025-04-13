@@ -50,6 +50,19 @@ ook is tailwind een betere oplossing om css te gebruiken in combinaite met react
 
 de frameworks svelte en vue js is handiger omdat het beter geintrigreerd zit 
 
+<h2>24 maart</h2>
+
+ik las dit artikel [The <select> element can now be customized with CSS]([url](https://developer.chrome.com/blog/a-customizable-select?hl=en)) in chrome developers blog waarin je het select element kan aanpassen en dat kan met deze code
+
+```.custom-select {
+  &, &::picker(select) {
+    appearance: base-select;    
+  }
+}
+```
+
+en hier staat het [codevoorbeeld]([url](https://codepen.io/web-dot-dev/pen/zxYaXzZ)) op codepen
+
 <h2>20 maart</h2>
 
 in [css weekly issue ](https://css-weekly.com/issue-609/)609 las ik een artikel van [jermey keith](https://adactio.com/journal/21797?utm_source=CSS-Weekly&utm_campaign=Issue-609&utm_medium=web) over het probleem waar er een voorstel lag om de developer meer controle te geven over de styling van form controls 
