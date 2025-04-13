@@ -50,14 +50,7 @@ ook is tailwind een betere oplossing om css te gebruiken in combinaite met react
 
 de frameworks svelte en vue js is handiger omdat het beter geintrigreerd zit 
 
-<h2>24 maart</h2>
 
-ik las dit artikel [The <select> element can now be customized with CSS]([url](https://developer.chrome.com/blog/a-customizable-select?hl=en)) in chrome developers blog waarin je het select element kan aanpassen 
-
-
-en hier staat het [codevoorbeeld]([url](https://codepen.io/web-dot-dev/pen/zxYaXzZ)) op codepen
-
-<hr>
 
 <h2>20 maart</h2>
 
