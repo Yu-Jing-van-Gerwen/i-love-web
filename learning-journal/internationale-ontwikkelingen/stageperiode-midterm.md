@@ -30,8 +30,25 @@ fout nummer 4 is geen delay op het menu items waardoor er geen smooth transition
 fout nummer 5 geen animaite op anker links waarin de gebruiker drukt op een link en er in 1 keer is terwijl je met smooth scrolling een mooie onvergang eraan kan geven
 
 
+<h2> 2 arpil </h2>
+in [thisweekreact]([url](https://thisweekinreact.com/newsletter/228)) heb ik gelezen dat react 19.1 uit is met deze features:
 
+```
+React 19.1 has been released this week, the most notable changes are:
 
+A new captureOwnerStack() API that will be used by frameworks to provide better error information in dev. It’s different from the existing component stacks in how it handles children and DOM nodes.
+The “React side” of Server Components support in Parcel, that works hand-in-hand with the new features in Parcel 2.14.
+An experimental unstable_prerender() for prerendering React Server Components on the server.
+This release also includes a slew of minor changes and fixes, most of them related to Server Components or Suspense boundaries.
+```
+
+ook las ik dit [artikel]([url](https://fullystacked.net/css-in-js-still-a-thing/)) of css in javascript nog steeds een issue is.
+
+er word in dit artikel vertelt dat ze hebben gekeken of css in javascript kan met component libraries maar dat gaat niet altijd goed vanwege de de performence in de browser 
+
+ook is tailwind een betere oplossing om css te gebruiken in combinaite met react te gebruiken  
+
+de frameworks svelte en vue js is handiger omdat het beter geintrigreerd zit 
 
 <h2>20 maart</h2>
 
@@ -252,4 +269,5 @@ ik heb dit gelezen van de wcag over [Focus Not Obscured (Minimum) (Level AA)](ht
 dit [artikel]([url](https://dequeuniversity.com/rules/axe/4.10/button-name?application=AxeChrome)) over een beschrijvende naam voor de buttons heb ik gelezen
 
 
+Ik heb dit [artikel]([url](https://localazy.com/blog/setting-up-i18n-in-your-react-app-from-day-one?srsltid=AfmBOoruKafWiIUWF4Kys7G1yknaA7Jzv94YwHG9zfWllh5NGP7OifEm)) gelezen om te begrijpen wat react-i18next is. en hoe dit gebruikt word 
 
