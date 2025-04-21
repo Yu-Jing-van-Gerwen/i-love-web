@@ -15,6 +15,63 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2>15 april</h2>
+
+Ik las in [smashing magazine issue 503 ](https://mailchi.mp/smashingmagazine/503-eaa-and-accessibility-personas?e=e937b1d1f9)
+over de the European Accessibility Act en in dat artikel deelde Léonie Watson een [samenvatting](https://martijnhols.nl/blog/the-european-accessibility-act-for-websites-and-apps)
+
+In de samenvatting stond dat er 28 juni een wet in gaat waarin websites toegankelijk moeten zijn
+
+dit kunnen gebruikers zijn die niet goed kunnen zien
+gebruikers met dyslexie
+gebruikers die kleurenblind zijn
+gebruikers met motorieke problemen
+gebruikers die gevoelig zijn voor animaties 
+
+deze regels die gelden alleen voor specifieke diensten
+
+The EAA only applies to specific types of services. The list of covered services currently includes:
+
+```
+Electronic communications services, except those used only for machine-to-machine communication.
+Audiovisual media service platforms, such as video streaming services.
+Passenger transport services (air, bus, rail, and waterborne transport), except for urban and suburban public transport.
+Banking and financial services, including payment services, consumer credit, investment services, and insurance-related financial products.
+E-books and dedicated reading software.
+E-commerce services (i.e. webshops).
+Some content is exempt from the EAA:
+
+Pre-recorded media (videos, audio) published before June 28, 2025.
+Office documents (PDFs, Word files, etc.) published before June 28, 2025.
+Online maps unless used for navigation.
+Third-party content that isn't funded, developed, or controlled by the business operating the website or app.
+Archived content, meaning pages that are no longer updated or edited after June 28, 2025.
+```
+
+De minimale requirementas zijn accessible uit and content
+en ook accesibile statement
+
+de wcag2.1 zijn samengevat een paar duidelijke regels
+
+percievable dus alt texten semenatic hmlt en color contrast
+operable keyboard accesbility 
+
+visible focus dus dat je een focus lijn ziet
+
+logical navigation en dat de screeenreader linkjes goed opleest en dat de links een goede beschrijving hebben
+
+langauge declaratopm dus dat duidelijk is welke taal de pagina heeft.
+
+consisten navigation met duidelijke menus en makkelijk om te navigeren.
+
+error messages als een pragina niet gevonden word.
+
+valide html dus netjes gestructureerd en error free.
+
+aria roles voor specifieke delen van de website.
+
+
+
 <h2> 9 april</h2>
 
 in [frontend focus issue 687]([url](https://frontendfoc.us/issues/687)) las ik over de [Top 5 CSS Navigation Menu Mistakes](https://blog.css-weekly.com/top-5-css-navigation-menu-mistakes) en daarin word vertelt welke fouten er zijn 
@@ -284,8 +341,11 @@ ik heb dit artikel gelezen over een [toegankelijke naam voor een link in een log
 
 ik heb dit gelezen van de wcag over [Focus Not Obscured (Minimum) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimum) dit heb ik gebruikt voor een ticket zodat ik kan checken of ik de acceptcrteria haal
 
-dit [artikel]([url](https://dequeuniversity.com/rules/axe/4.10/button-name?application=AxeChrome)) over een beschrijvende naam voor de buttons heb ik gelezen
+dit artikel over [Buttons must have discernible text](https://dequeuniversity.com/rules/axe/4.10/button-name?application=AxeChrome) gelezen over een beschrijvende naam voor de buttons heb ik gelezen
 
 
-Ik heb dit [artikel]([url](https://localazy.com/blog/setting-up-i18n-in-your-react-app-from-day-one?srsltid=AfmBOoruKafWiIUWF4Kys7G1yknaA7Jzv94YwHG9zfWllh5NGP7OifEm)) gelezen om te begrijpen wat react-i18next is. en hoe dit gebruikt word 
+Ik heb dit ariktel [Setting up i18n in your React app from day one](https://localazy.com/blog/setting-up-i18n-in-your-react-app-from-day-one?srsltid=AfmBOoruKafWiIUWF4Kys7G1yknaA7Jzv94YwHG9zfWllh5NGP7OifEm)gelezen om te begrijpen wat react-i18next is. en hoe dit gebruikt word 
+zodat ik snap hoe het werkt en dit ook zelf kan toepassen
+
+Ik heb dit artikel [Accessibility essentials every front-end developer should know](https://martijnhols.nl/blog/accessibility-essentials-every-front-end-developer-should-know) gelezen zodat ik beter begrijp wat accesibility is en waarom het belangrijk is 
 
