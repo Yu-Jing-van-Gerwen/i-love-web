@@ -15,6 +15,9 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2>23 april</h2>
+ik las in f[rontend focus issue 689]([url](https://frontendfoc.us/issues/689)) dit artikel S[o, You Want to Give Up CSS Pre- and Post-Processors…]([url](https://css-tricks.com/so-you-want-to-give-up-css-pre-and-post-processors/))
+
 <h2>15 april</h2>
 
 Ik las in [smashing magazine issue 503 ](https://mailchi.mp/smashingmagazine/503-eaa-and-accessibility-personas?e=e937b1d1f9)
