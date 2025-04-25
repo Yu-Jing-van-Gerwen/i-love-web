@@ -453,6 +453,10 @@ de treebuilder krijgt de tokens van de tokenizer en dit klinkt eenvoudig maar is
 
 de tokenijzer zal hier 3 onderelen in zien en daar word dan de tree mee gebuild
 
+als de treebuilder html tegenkomt die niet op de juiste manier genest is gaat dat ook opelost worden
+
+de html validator gaat terug naar html 2.0 
+
 
 
 </section>
