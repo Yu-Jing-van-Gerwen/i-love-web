@@ -438,6 +438,23 @@ de treebuilder maakt de dom vanuit jouw html document
 
 analyseer html teken voor teken
 
+dus de tag name en de attribute name en attribute value 
+
+doormiddel van een token naar de treebuilder 
+
+als je parse errors tegenkomt stopt die niet met het bestand analyseren 
+
+zolang de eerste letter `<` dit is mag het want dan word het nog steeds gelezen en er komt een parserror uit 
+Dit geeft aan hoe fout en ongevoelig de browser is.
+
+de browser heeft voor alle mogelijke dingen een oplossign zoals unicode en emoticons
+
+de treebuilder krijgt de tokens van de tokenizer en dit klinkt eenvoudig maar is toch lastiger
+
+de tokenijzer zal hier 3 onderelen in zien en daar word dan de tree mee gebuild
+
+
+
 </section>
 
 
