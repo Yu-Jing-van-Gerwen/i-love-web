@@ -388,6 +388,59 @@ en page speed insight is handig om te testen
 </p>
 </section>
 
+<section class="general-styling-section ">
+<h2>lezing 25 april</h2>
+
+node script en kan je dit erin zetten 
+
+in html gebeurd er niks als je een fout maakt in html resilence 
+
+iedereen kan een website maken 
+
+broncode van een website lezen 
+
+een webmaster 
+
+tim webdeveloper
+
+hij zocht een moeilijke oplossing voor een simpel probleem
+
+tim maakte een browser en dit was een editor tegelijkertijd
+
+het mogen maken van fouten kon toen al
+
+
+browsers die html elementen gebruiken en niet kennen word geneerd door de browser
+
+als een browser een tag tegenkomt die hij niet kent word dit genegeerd er zijn geen foutmeldingen
+
+als je browser geen scripting ondersteund krijg je gewoon tekst te zien
+
+als je browser wel scripting onderstuend laat die niks zien 
+
+met een framework heb je ook backwards compatibility alleen stopt dat wel op een moment
+
+polyfills voor onbekende tags 
+
+de blink tag en dit was in de jaren 90 een big deal en een nieuwe feature mag 
+
+gemaakt worden alleen mag het geen invloed hebben op oude elementen
+
+met css kan je een bink tag stylen 
+
+er zijn meer van dit soort tags zoals `marquee`
+
+dit zijn een van de weinige tags die nog onderstuend worden
+
+tussen je html en de dom word er een tokenizer en tree builder gebruikt om de code in te dom te laten weergeven 
+
+de treebuilder maakt de dom vanuit jouw html document 
+
+analyseer html teken voor teken
+
+</section>
+
+
 
 <style>
     h1 {
