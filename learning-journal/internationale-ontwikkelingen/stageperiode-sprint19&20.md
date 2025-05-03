@@ -16,7 +16,26 @@
 <h2 id="gelezen">gelezen brieven</h2>
 
 <h2>23 april</h2>
-ik las in f[rontend focus issue 689]([url](https://frontendfoc.us/issues/689)) dit artikel S[o, You Want to Give Up CSS Pre- and Post-Processors…]([url](https://css-tricks.com/so-you-want-to-give-up-css-pre-and-post-processors/))
+
+
+ik las in [frontend focus issue 689]([https://frontendfoc.us/issues/689]) dit artikel 
+[So, You Want to Give Up CSS Pre- and Post-Processors…](https://css-tricks.com/so-you-want-to-give-up-css-pre-and-post-processors/)
+Dit artikel gaat over native css en heeft support voor 2 features css variables en nesing
+
+ook word er vertelt over posstcss ````PostCSS also contains plugins that can help you create conditionals, mixins, and functions should you need them.````
+
+in tailword word de support for pre-processors weggehaald en tailwind is een css post-precessor called lightning css
+
+````markdown
+Lightning CSS is a post-processor can do many things that a modern developer needs — so it replaces most of the PostCSS tool chain including:
+
+postcss-import
+postcss-preset-env
+autoprefixer
+
+````
+
+Dit is sneller dan javascript based tools en je kan dit direct gebruiken met de vite plugin
 
 <h2>15 april</h2>
 
