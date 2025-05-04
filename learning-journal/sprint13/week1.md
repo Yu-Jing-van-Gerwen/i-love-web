@@ -153,7 +153,7 @@ op de +page.svelte
 
 <h3>5-9</h3> ik heb mijn profilecard in code uitgewerkt en het button component gemaakt voor de squad page en dit is gelukt met behulp van de tutorial
 
-![img.png](../../img.png)
+![img.png](../../static/img/img.png)
 
 
 <h3>6-9</h3> ik heb geleerd hoe ik netjes issues kan inschieten en feedback kan
