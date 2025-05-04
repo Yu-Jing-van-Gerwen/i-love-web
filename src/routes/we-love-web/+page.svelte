@@ -388,7 +388,7 @@ en page speed insight is handig om te testen
 </p>
 </section>
 
-<section class="general-styling-section ">
+<section class="general-styling-section">
 <h2>lezing 25 april</h2>
 
 node script en kan je dit erin zetten 
@@ -444,7 +444,7 @@ doormiddel van een token naar de treebuilder
 
 als je parse errors tegenkomt stopt die niet met het bestand analyseren 
 
-zolang de eerste letter `<` dit is mag het want dan word het nog steeds gelezen en er komt een parserror uit 
+zolang de eerste letter het  less than symbol dit is mag het want dan word het nog steeds gelezen en er komt een parserror uit
 Dit geeft aan hoe fout en ongevoelig de browser is.
 
 de browser heeft voor alle mogelijke dingen een oplossign zoals unicode en emoticons

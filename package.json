@@ -13,6 +13,7 @@
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^3.0.0",
+		"@sveltejs/adapter-vercel": "^5.7.1",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
 		"@tsconfig/svelte": "^5.0.4",
@@ -27,7 +28,6 @@
 	"type": "module",
 	"dependencies": {
 		"@skeletonlabs/skeleton": "^2.10.2",
-		"@sveltejs/adapter-vercel": "^5.4.3",
 		"esm": "^3.2.25",
 		"rehype-document": "^7.0.3",
 		"rehype-format": "^5.0.1",
