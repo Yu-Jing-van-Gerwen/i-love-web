@@ -17,6 +17,7 @@
 
 
 <h2>1 mei</h2>
+
 in [css weekly issue 611](https://css-weekly.com/issue-611/) las ik een artikel over[ good versus great animations](https://emilkowal.ski/ui/good-vs-great-animations?utm_source=CSS-Weekly&utm_campaign=Issue-611&utm_medium=web) en daarin werd vertelt wat de verschillen zijn tussen goede en fantastiche animaties en waarom dit uitmaakt
 
 view transities is onder andere een css feature die ervoor zorgt dat je een soepele overgang hebt 
@@ -121,6 +122,7 @@ fout nummer 5 geen animaite op anker links waarin de gebruiker drukt op een link
 
 
 <h2> 2 arpil </h2>
+
 in [thisweekreact]([url](https://thisweekinreact.com/newsletter/228)) heb ik gelezen dat react 19.1 uit is met deze features:
 
 ```
@@ -132,7 +134,7 @@ An experimental unstable_prerender() for prerendering React Server Components on
 This release also includes a slew of minor changes and fixes, most of them related to Server Components or Suspense boundaries.
 ```
 
-ook las ik dit [artikel]([url](https://fullystacked.net/css-in-js-still-a-thing/)) of css in javascript nog steeds een issue is.
+ook las ik dit [artikel]([https://fullystacked.net/css-in-js-still-a-thing/]) of css in javascript nog steeds een issue is.
 
 er word in dit artikel vertelt dat ze hebben gekeken of css in javascript kan met component libraries maar dat gaat niet altijd goed vanwege de de performence in de browser 
 
@@ -154,7 +156,7 @@ met deze code
 }
 ```
 
-en hier staat het [codevoorbeeld]([url](https://codepen.io/web-dot-dev/pen/zxYaXzZ)) op codepen
+en hier staat het [codevoorbeeld]([https://codepen.io/web-dot-dev/pen/zxYaXzZ]) op codepen
 
 
 
