@@ -389,7 +389,7 @@ en page speed insight is handig om te testen
 </section>
 
 <section class="general-styling-section">
-<h2>lezing 25 april</h2>
+<h2>lezing  Niels Leenheer</h2>
 
 node script en kan je dit erin zetten 
 
@@ -461,7 +461,58 @@ de html validator gaat terug naar html 2.0
 
 </section>
 
+<section class="general-styling-section">
+<h2>Webinar van marie bij uncinc</h2>
 
+human centered design is van belang 
+
+en daarin word gekeken naar de leefwereld van de eindgebruiker 
+
+Digitale toegankelijkheid &wcag
+
+problemen die een gebruiker kan ervaring is dat je niet een afspraak kan inplannen bij een gezonheidsapp omdat dit niet toegankelijk is gemaakt voor screenreaders 
+
+een beperking kan zijn 
+
+dat iemand 1 arm heeft of blind is of doof
+
+heel veel mensen hebben een beperking zonder dat dit zichtbaar is 
+
+wcag staat voor web content accesinility guidelines
+
+een website moet hieraan voldoen waarin er 4 basisprincipes zijn dus waarneembaar
+bedienbaar 
+begrijpelijk
+robuust
+
+
+EAA: european accesibility act wet komt eraan 
+
+
+A is het minimale
+AA is medium dus wel hetminimale en een paar extra dingen 
+AAA is optimaal toegankelijk en daarin is je website heel toegankelijk
+
+de wet geld voor bedrijfen zoals b2c bedrijven met meer dan 10 medewerkers
+de wet geldt voor bedrijven die online producten of diensten aanbieden om 
+
+Voldoe je niet dan kan het zijn dat je een slecte reputatie hebt en je sluit mensen uit
+
+Ook zijn er sancties van autoriteit consumenten markt
+
+En dan kunnen bedrijven een boete krijgne als hun product niet toegankelijk is 
+
+De voordelen van een toegankelijke website is onder andere een hogere vindbaarheid
+en meer gebruiksgemak voor de gebruiker
+
+als je website toegankelijk is dan is je website ook toekomstbestendig staat 
+
+voor je website kan je testen op kleurcontrast en leesbaarheid
+toetsenbordnavigatie en interactie
+gebruik van knoppen en semantisch html
+
+
+</section
 
 <style>
     h1 {
