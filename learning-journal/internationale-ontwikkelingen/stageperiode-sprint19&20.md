@@ -371,3 +371,51 @@ zodat ik snap hoe het werkt en dit ook zelf kan toepassen
 
 Ik heb dit artikel [Accessibility essentials every front-end developer should know](https://martijnhols.nl/blog/accessibility-essentials-every-front-end-developer-should-know) gelezen zodat ik beter begrijp wat accesibility is en waarom het belangrijk is 
 
+<h3>prop spreading</h3>
+
+Ik heb dit [artikel](https://medium.com/@matthudson1509/explicit-prop-spreading-in-react-explicitly-spread-the-%EF%B8%8F-ec061609ac69) gelzen over prop spreading en dat houd in dat je code de code in een constant als prop neerzet en de prop aanroept
+
+voorbeeld
+
+```react
+const defaultLinklist: Props = {
+  title: 'title tekst',
+  link: '/',
+};
+```
+
+```react
+ <componentitem.Item {...defaultLinklist} label="label van de listitem" />
+```
+
+<h3>prop drilling</h3>
+
+Ik heb dit [artikel](https://www.freecodecamp.org/news/prop-drilling-in-react-explained-with-examples/) gelezen over prop drilling
+
+Propdrilling is dat je 1 hoofdcomponent hebt en daarin childcomponenten het nadeel hiervan is dat het best ingewikkeld in elkaar zit
+
+Mijn opdracht was om de knop meer informatie te verbergen en die moest weg als de gebruiker al op de detailpage was van de school
+dus heb ik moeten begrijpen wat propdrilling is zodat ik ook snap hoe de data opgehaald word en wat de code doet want de code zelf heb ik niet geschreven 
+
+https://www.swvadam.nl/onze-scholen/berlage-lyceum 
+
+![image](https://github.com/user-attachments/assets/8743312a-0944-458c-97d1-0f9e6e76c803)
+
+<h4>oplossing</h4>
+
+Ik heb een boolean variable die heb ik op de button meer informatie gezet
+
+De boolean-variabele die aan de knop is gekoppeld, bepaalt of de knop zichtbaar is of niet, op basis van de paginanummers. De logica is als volgt:
+
+De boolean wordt true (waar) als het paginanummer van de huidige data overeenkomt met een specifiek paginanummer. In dit geval wordt de knop getoond.
+
+De boolean wordt false (onwaar) als het paginanummer van de huidige data niet overeenkomt met een specifiek paginanummer. In dit geval wordt de knop verborgen."
+
+
+https://www.swvadam.nl/onze-scholen/berlage-lyceum
+
+![image](https://github.com/user-attachments/assets/be6aa789-a818-45b2-9e13-34d6e0f949e8)
+
+
+
+
