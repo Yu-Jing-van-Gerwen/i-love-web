@@ -15,6 +15,17 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+
+<h2>1 mei</h2>
+in [css weekly issue 611](https://css-weekly.com/issue-611/) las ik een artikel over[ good versus great animations](https://emilkowal.ski/ui/good-vs-great-animations?utm_source=CSS-Weekly&utm_campaign=Issue-611&utm_medium=web) en daarin werd vertelt wat de verschillen zijn tussen goede en fantastiche animaties en waarom dit uitmaakt
+
+view transities is onder andere een css feature die ervoor zorgt dat je een soepele overgang hebt 
+
+ook is custom easing curves handig waarin je helemaal zelf kan bepalen wat de snelheid is
+
+Ook is een overgang handiger tussen de elementen in de navigatie 
+
+
 <h2>23 april</h2>
 
 
