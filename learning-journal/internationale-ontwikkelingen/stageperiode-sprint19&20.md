@@ -24,7 +24,7 @@ view transities is onder andere een css feature die ervoor zorgt dat je een soep
 
 ook is custom easing curves handig waarin je helemaal zelf kan bepalen wat de snelheid is
 
-Ook is een overgang handiger tussen de elementen in de navigatie 
+Ook is een overgang handiger tussen de elementen in de navigatie dat je een focus zet op het huidige element
 
 
 <h2>23 april</h2>
