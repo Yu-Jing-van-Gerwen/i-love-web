@@ -15,6 +15,11 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2>7 mei</h2>
+
+in [frontend focus issue 691](https://frontendfoc.us/issues/691) las ik over [margin-trim](https://webkit.org/blog/16854/margin-trim/) en margin trim is dat de children van een container daar worden de margins vanaf gehaald door dit te doen kan je makkelijker de styling aanpassen en je geen lastige selecterors hoeft aan te roepen met nht child 
+
+Dit is een relative nieuw element en hier is alleen in safari sinds 2 jaar support voor
 
 <h2>1 mei</h2>
 
