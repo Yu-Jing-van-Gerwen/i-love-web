@@ -15,6 +15,46 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2>14 mei</h2>
+
+in [thisweekreact issue 234](https://thisweekinreact.com/newsletter/234) las ik dit artikel [React hook factory](https://tylur.blog/react-hook-factory/) en dit gaat over custom hooks in react waarin je eigen hooks kunt maken zodat je die kan hergebruiken in je react component als voorbeeld hadden ze een counterhook en dat is een optelhook die de functie heeft waarin er bij idere klik getelt word en dat dit nu in ieder component te gebruiken is
+
+Je moet alleen wel opassen dat je dit niet te vaak gaat gebruiken omdat je code anders onoverzichtelijk gaat worden want je weet niet meer in welk component je welke custom hook gebruikt hebt
+
+Dit is een voorbeeld hoe je het kan gebruiken en `changefn` dat is de argument met daarin de `usecounter ` en `useplustwocounter` om de teller op te horen en die maakt gebruik van de `makecounter`
+
+```React
+import { useState } from "react";
+
+const makeCounterHook = (changeFn: (current: number) => number) => {
+  return (initialVal: number) => {
+    const [count, setCount] = useState(initialVal);
+
+    const increment = () => setCount((current) => changeFn(current));
+    const decrement = () => setCount((current) => -changeFn(-current));
+    const reset = () => setCount(initialVal);
+
+    return { count, increment, decrement, reset };
+  };
+};
+
+const useCounter = makeCounterHook((current) => current + 1);
+const usePlusTwoCounter = makeCounterHook((current) => current + 2);
+
+const Counter = () => {
+  const { count, increment, decrement, reset } = usePlusTwoCounter();
+
+  return (
+    <div>
+      <p>Count: {count}</p>
+      <button onClick={increment}>+</button>
+      <button onClick={decrement}>-</button>
+      <button onClick={reset}>Reset</button>
+    </div>
+  );
+};
+```
+
 <h2>7 mei</h2>
 
 in [frontend focus issue 691](https://frontendfoc.us/issues/691) las ik over [margin-trim](https://webkit.org/blog/16854/margin-trim/) en margin trim is dat de children van een container daar worden de margins vanaf gehaald door dit te doen kan je makkelijker de styling aanpassen en je geen lastige selecterors hoeft aan te roepen met nht child 
