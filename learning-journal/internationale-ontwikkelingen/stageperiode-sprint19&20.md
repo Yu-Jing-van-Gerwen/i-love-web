@@ -522,3 +522,9 @@ export default function App() {
 }
 ```
 
+
+<h3>Redux in devtools</h3>
+
+ik las deze uitleg over [redux essentials ](https://redux.js.org/tutorials/essentials/part-1-overview-concepts) om de belangrijkste functies van Redux te begrijpen. Dit was belangrijk om met de Redux DevTools te kunnen zien of er data werd opgehaald voor de pagina waar ik aan werkte. Met de Redux DevTools kun je ook de geschiedenis van de dispatched actions en de verandering in de state bekijken, waardoor je de datastroom kunt volgen zonder steeds naar een JSON te hoeven kijken."
+een voorbeeld is dat als je een nieuwe paragraph in het cms toevoegd met data dan word dit dus ook meteen zichtbaar in je redux devtools 
+Ook is er een kopje waar je een tree ziet met daarin de structuur van de opgehaalde data
