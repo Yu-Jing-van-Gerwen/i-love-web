@@ -451,6 +451,7 @@ const defaultLinklist: Props = {
 
 Ik heb dit [artikel](https://www.freecodecamp.org/news/prop-drilling-in-react-explained-with-examples/) gelezen over prop drilling
 
+![image](https://github.com/user-attachments/assets/be6aa789-a818-45b2-9e13-34d6e0f949e8)
 Propdrilling is dat je 1 hoofdcomponent hebt en daarin childcomponenten het nadeel hiervan is dat het best ingewikkeld in elkaar zit
 
 Mijn opdracht was om de knop meer informatie te verbergen en die moest weg als de gebruiker al op de detailpage was van de school
@@ -460,21 +461,64 @@ https://www.swvadam.nl/onze-scholen/berlage-lyceum
 
 ![image](https://github.com/user-attachments/assets/8743312a-0944-458c-97d1-0f9e6e76c803)
 
+
+
+
 <h4>oplossing</h4>
 
-Ik heb een boolean variable die heb ik op de button meer informatie gezet
+Ik heb een boolean variable die heb ik op de button meer informatie gezet de data per school heeft een specifiek pagina nummer 
 
-De boolean-variabele die aan de knop is gekoppeld, bepaalt of de knop zichtbaar is of niet, op basis van de paginanummers. De logica is als volgt:
+De boolean-variabele die aan de knop is gekoppeld, bepaalt of de knop zichtbaar is of niet, op basis van de default marker. De logica is als volgt:
 
-De boolean wordt true (waar) als het paginanummer van de huidige data overeenkomt met een specifiek paginanummer. In dit geval wordt de knop getoond.
+De boolean wordt true (waar) als het school id van de huidige data overeenkomt met een default paginanummer. In dit geval wordt de knop getoond.
 
-De boolean wordt false (onwaar) als het paginanummer van de huidige data niet overeenkomt met een specifiek paginanummer. In dit geval wordt de knop verborgen."
+De boolean wordt false (onwaar) als het school id nummer van de huidige data niet overeenkomt met een default paginanummer. In dit geval wordt de knop verborgen."
+
+Er zijn meerdere scholen en als je op de detailpage bent van een specieiek school moet je bij die specifieke school niet nog een meer info button zien. Dit moet wel bij de andere scholen op de kaart zodat de gebruiker weet dat die daar naar toe kan gaan.
 
 
 https://www.swvadam.nl/onze-scholen/berlage-lyceum
 
-![image](https://github.com/user-attachments/assets/be6aa789-a818-45b2-9e13-34d6e0f949e8)
 
 
+![image](https://github.com/user-attachments/assets/09b7887f-c058-4af7-af8f-9f730123ae87)
 
+
+<h3>component composition</h3>
+
+ik heb dit [artikel](https://felixgerschau.com/react-component-composition/) gelezen om te snappen wat het is en hoe dit gebruikt word in ons project
+
+Voor het storybook project had ik het card component waar ik een story voor moest maken en deze story heb ik gemaakt met react component composition omdat de card zelf subcomponenten hebben en die moesten ook mee voor de stories in storybook
+De children waren images, title, tag, link en dat worden dan de children props die je meegeeft zodat je ook de subcomponentne gebruikt en daar verschillende variaties mee kan maken.
+
+<h3>react compound components</h3>
+
+ik las dit artikel over [react compount components](https://www.smashingmagazine.com/2021/08/compound-components-react/) en dat houd in dat je het component kan aanpassen naar hoe jij dit wilt gaan gebruiken
+Ik moest een Quicklink component maken waarin je een title hebt en een pijltje ernaast en dit is een soort van lijst 
+
+de code is als volgt quicklinks is het hoofdcomponent met daarin de children die je kan gebruiken en de hoeveelheid children kan je zelf bepalen
+
+
+in smash magazine gebruiken ze dit voorbeeld waarin according het hoofdcomponent is met daarin children
+
+```
+import React from "react";
+import Accordion from "./components/Accordion";
+import faqData from "./data";
+export default function App() {
+  return (
+    <Accordion>
+      <Accordion.Title>Frequently Asked Questions</Accordion.Title>
+      <Accordion.Frame>
+        {faqData.map((item) => (
+          <Accordion.Item key={item.id}>
+            <Accordion.Header>{item.header}</Accordion.Header>
+            <Accordion.Body>{item.body}</Accordion.Body>
+          </Accordion.Item>
+        ))}
+      </Accordion.Frame>
+    </Accordion>
+  );
+}
+```
 
