@@ -15,6 +15,22 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2>20 mei</h2>
+
+ik las via de nieuwsbrief van TLDR dit artikel [The principles of database design, or, the Truth is out there](https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/?utm_source=tldrnewsletter) en dat gaat over het design in je database systeem 
+als je niet goed bedenkt hoe je jouw database design gaat vormgeven ga je fouten krijgen die irritant zijn
+
+ook word er een lisjt met designprincpes genoemd voor in je database
+
+```
+Principle of Orthogonal Design (POOD): Base relations are independent;
+Principle of Representational Parsimony (PORP): There are no superfluous base relations;
+Principle of Expressive Completeness (POEC): All meaningful relations are derivable from the base relations.
+Principle of Full Normalization (POFN) : Every base relation should be in its highest normal form (3, 5 or 6th normal form).​ Thus eliminating redundancy and preventing anomalies by ensuring that each relation is free from undesirable characteristics like partial, transitive, or join dependencies.
+The Information Principle (TIP) : All information in the database is represented explicitly and in exactly one way — by attribute values drawn from domains in relations.
+Principle of Logical Independence (PLI) : Application programs and terminal activities remain logically unimpaired when information preserving changes of any kind that theoretically permit unimpairment are made to the base relations.
+```
+
 <h2>14 mei</h2>
 
 in [thisweekreact issue 234](https://thisweekinreact.com/newsletter/234) las ik dit artikel [React hook factory](https://tylur.blog/react-hook-factory/) en dit gaat over custom hooks in react waarin je eigen hooks kunt maken zodat je die kan hergebruiken in je react component als voorbeeld hadden ze een counterhook en dat is een optelhook die de functie heeft waarin er bij idere klik getelt word en dat dit nu in ieder component te gebruiken is
