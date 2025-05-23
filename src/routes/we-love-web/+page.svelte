@@ -512,6 +512,42 @@ toetsenbordnavigatie en interactie
 gebruik van knoppen en semantisch html
 
 
+</section>
+
+<section class="general-styling-section">
+<h2>emotional interface</h2>
+
+digitale oxitocine is een geluksgehormoon 
+
+soft ui is een design wat rustig is en waarin je ronde hoeken hebt of afgeronde hoeken hebt
+en witruimte zie je veel terug
+
+kleine interacties zie je terug 
+
+Motion is van belang in het kader van pleasuirable ui design
+
+kleine css intreacties
+elementen hergebruiken waardoor het een fluide webexperience is 
+
+een intro animatie is leuk op een website 
+
+geluid is een belangrijk onderdeel op je website zolang je het goed gebruikt
+
+Scroll animaties met geluidjes kan ook helpen om de gebruiker langer op je website te zetten
+
+generated design
+
+content is van belang dat je kleine tekstjes hebt en niet heeel erg veel tekst
+
+queries schrijven is een andere manier van visualiseren
+
+
+
+
+
+
+
+
 </section
 
 <style>
