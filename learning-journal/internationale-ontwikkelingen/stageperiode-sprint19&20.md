@@ -21,14 +21,14 @@ in [Frontend focus issue 694](https://frontendfoc.us/issues/694) las ik over [Re
 
 op dev to to las ik dit artikel [HTML5 Elements You Didn't Know You Need](https://dev.to/maxprilutskiy/html5-elements-you-didnt-know-you-need-gan) en dit ging over verschillende html elementen zoals 
 
-<dialog> for native modal windows
-<details> and <summary> for collapsible content
-<datalist> for native autocomplete
-<meter> for semantic measurement display
-<output> for dynamic calculation results
-<mark> for semantic highlighting
-<time> for semantic dates and times
-<figure> and <figcaption> for semantic image captions
+`<dialog>` for native modal windows
+`<details>` and `<summary>` for collapsible content
+`<datalist>` for native autocomplete
+`<meter>` for semantic measurement display
+`<output>` for dynamic calculation results
+`<mark>` for semantic highlighting
+`<time>` for semantic dates and times
+`<figure>` and `<figcaption>` for semantic image captions
 
 per element word uitgelegd waarvoor het bedoelt is.
 
