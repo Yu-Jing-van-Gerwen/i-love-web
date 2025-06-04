@@ -15,6 +15,24 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2>28 mei</h2>
+
+in [Frontend focus issue 694](https://frontendfoc.us/issues/694) las ik over [React, Visualized: A Visual Exploration of React Concepts ](https://react.gg/visualized) En daarin worden react principes uitgelegd en er word visueel getoond wat de code doet zodat je als beginner een beter beeld krijgt wat er gebeurd
+
+op dev to to las ik dit artikel [HTML5 Elements You Didn't Know You Need](https://dev.to/maxprilutskiy/html5-elements-you-didnt-know-you-need-gan) en dit ging over verschillende html elementen zoals 
+
+<dialog> for native modal windows
+<details> and <summary> for collapsible content
+<datalist> for native autocomplete
+<meter> for semantic measurement display
+<output> for dynamic calculation results
+<mark> for semantic highlighting
+<time> for semantic dates and times
+<figure> and <figcaption> for semantic image captions
+
+per element word uitgelegd waarvoor het bedoelt is.
+
+
 <h2>20 mei</h2>
 
 ik las via de nieuwsbrief van TLDR dit artikel [The principles of database design, or, the Truth is out there](https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/?utm_source=tldrnewsletter) en dat gaat over het design in je database systeem 
