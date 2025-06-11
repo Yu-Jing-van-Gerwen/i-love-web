@@ -291,6 +291,72 @@
     <p>Queries schrijven is een andere manier van visualiseren.</p>
 </section>
 
+<section class="general-styling-section">
+    <h2>css day before</h2>
+
+<h3>Carmen ansio</h3>
+
+Een box shadow kan je gebruiken om een mooi effect te geven aan je animatie 
+
+:has  is een fantastische selector 
+
+De truc is dat je animatie mooi en simpel moet zijn en animation delay helpt om een kleine delay erin te zetten 
+
+Het mooist is als je eerst een hover hebt en dan direct het effect 
+
+ Scrolltriggers helpen om te zien of er meer content is of niet bij een artikel 
+
+<h3>vadim makeev</h3>
+
+Ai engineer
+
+Hij werkt bij mdn webdocs 
+
+Hij documenteert math ml 
+
+Math ml word gebruikt in browser 
+
+Het is een mml file
+
+Math ml zijn er 30 elementen en in versie 4.0 zijn er 180 en dit is nog in progress omdat niet alle elementen werken 
+
+https://pepelsbey.dev/ 
+
+Math ml is lastig te stylen zoals text level style en animaties is onmogelijk om erin te krijgen 
+
+
+<h3>pim van die</h3>
+
+Creative coding
+
+Perlin noise
+
+Je hoeft de fools niet te begrijpen
+
+Je hoeft het niet te onderhouden
+
+The nature of coding Daniel voren
+
+CSS cosinus
+
+Css timeline animation 
+
+
+<h3>Manual Sanchez</h3>
+
+Beyond borders and outlines
+
+Debug accessibility tickets 
+
+Tabellen moeten een caption hebben 
+
+Een img moet een alt tag hebben 
+
+Inputs zonder een for of een label 
+
+Met een simpel css script kan je ervoor zorgen dat je steeds een melding in beeld krijgt
+
+</section>
 
 
 <style>
