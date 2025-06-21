@@ -15,6 +15,48 @@
 
 <h2 id="gelezen">gelezen brieven</h2>
 
+<h2>4 juni</h2>
+
+In this week in [react issue 237](https://thisweekinreact.com/newsletter/237) las ik dat storybook 9 uit was zelf heb ik met storybook gewerkt en was ik benieuwd naar wat er anders is
+
+Er word mee meer gelet op accesibility dus je krijgt in storybook ook een melding dat het component niet toegankelijk
+Er zijn nu 3 manieren van testen 
+<br>
+
+Interaction tests – Does it work?
+Accessibility tests – Can everyone use it?
+Visual tests – Does it look right?
+
+nu kan je met 1 klik all je stories testen waarin je eerder naar je story moest gaan en het dan pas kon testen
+
+met visual tests worden al je wijzigen getoond dus ook de kleinste pixel wijzigen
+
+verder is er ook een support voor svelte 5
+
+in storybook kan je nu filteren op tags waardoor je op die manier ook snel je story kan vinden met de bijbehorende tag
+
+storybook is ook kleine waardoor je nu 48% sneller bent met installeren en de package ook automatisch kleiner is.
+
+
+
+<h2>28 mei</h2>
+
+in [Frontend focus issue 694](https://frontendfoc.us/issues/694) las ik over [React, Visualized: A Visual Exploration of React Concepts ](https://react.gg/visualized) En daarin worden react principes uitgelegd en er word visueel getoond wat de code doet zodat je als beginner een beter beeld krijgt wat er gebeurd
+
+op dev to to las ik dit artikel [HTML5 Elements You Didn't Know You Need](https://dev.to/maxprilutskiy/html5-elements-you-didnt-know-you-need-gan) en dit ging over verschillende html elementen zoals 
+
+`<dialog>` for native modal windows
+`<details>` and `<summary>` for collapsible content
+`<datalist>` for native autocomplete
+`<meter>` for semantic measurement display
+`<output>` for dynamic calculation results
+`<mark>` for semantic highlighting
+`<time>` for semantic dates and times
+`<figure>` and `<figcaption>` for semantic image captions
+
+per element word uitgelegd waarvoor het bedoelt is.
+
+
 <h2>20 mei</h2>
 
 ik las via de nieuwsbrief van TLDR dit artikel [The principles of database design, or, the Truth is out there](https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/?utm_source=tldrnewsletter) en dat gaat over het design in je database systeem 
@@ -424,12 +466,9 @@ In [frontend focus issue 678](https://frontendfoc.us/issues/678) las ik over de 
 <h2 id="gelezen-brieven-toegepast">gelezen werk toegepast</h2>
 
 
-<h3>use state en use reffc</h3>
+<h3>use state en use reff</h3>
 
-Ik kreeg het verzoek om use reff te gebruiken in plaats van use state en dit [https://dzone.com/articles/usestate-vs-useref-understand-the-technical-differ#:~:text=The%20main%20difference%20between%20useState,not%20trigger%20a%20re%2Drender.]([https://dzone.com/articles/usestate-vs-useref-understand-the-technical-differ#:~:text=The%20main%20difference%20between%20useState,not%20trigger%20a%20re%2Drender.]) had ik gelezen om het op te lossen 
-
-artikel: https://dzone.com/articles/usestate-vs-useref-understand-the-technical-differ#:~:text=The%20main%20difference%20between%20useState,not%20trigger%20a%20re%2Drender.
-
+Ik kreeg het verzoek om use reff te gebruiken in plaats van use state en dit artikel useState() vs. useRef(): [Understand the Technical Difference](https://dzone.com/articles/usestate-vs-useref-understand-the-technical-differ#:~:text=The%20main%20difference%20between%20useState,not%20trigger%20a%20re%2Drender.) had ik gelezen om te snappen wat de verschillen zijn tussen die 2 zodat ik ook een voorbeeld heb hoe ik dit voor mijn eigen probleem kan oplossen
 
 <h3>accesibility</h3>
 
