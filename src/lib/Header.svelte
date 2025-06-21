@@ -9,24 +9,24 @@
             <a href="/">
                 Yu Jing van Gerwen </a>
         </li>
-        <li class="flex-items">
-            <a href="/learning-journal">
+<!--        <li class="flex-items">-->
+<!--            <a href="/learning-journal">-->
 
-                Learning journal </a>
+<!--                Learning journal </a>-->
 
-        </li>
+<!--        </li>-->
         <li class="flex-items">
-            <a href="/digital-garden">
+            <a href="/Portfolio">
 
             Digital garden / portfolio
             </a>
         </li>
 
-        <li class="flex-items">
-            <a href="/we-love-web">
-           We-love-web
-            </a>
-        </li>
+<!--        <li class="flex-items">-->
+<!--            <a href="/we-love-web">-->
+<!--           We-love-web-->
+<!--            </a>-->
+<!--        </li>-->
 
     </ul>
 </nav>

@@ -76,7 +76,6 @@
             agency:"Unc Inc",
         }
     ]
-
     let projects_year2_semester1 = [
 
         {
@@ -232,7 +231,6 @@
 
 
     ];
-
     let projects_year1_semester1 = [
         {
             title: "Your profile card",
@@ -330,13 +328,11 @@
 
     ];
 
-
-
 </script>
 
 
 <section class="general-styling-section  ">
-    <h1>Digital garden / portfolio</h1>
+    <h1>Portfolio</h1>
     <p>
         Here you can see all my schoolwork, including my best projects. Click on the title to view the GitHub project.
         There is also a short description about the project that I made
@@ -422,13 +418,16 @@
                 <article class="card">
                     <a href="https://your-tribe-for-life-profile-card-gold.vercel.app/">
 
+                            <picture>
+                                <source srcset="{member.img}?format=avif" type="image/avif">
+                                <source srcset="{member.img}?format=webp" type="image/webp">
+                                <img src="{member.img}" alt="image of project {member.title}">
 
-                        <picture>
-                            <source srcset="{member.img}?format=avif" type="image/avif">
-                            <source srcset="{member.img}?format=webp" type="image/webp">
-                            <img src="{member.img}" alt="image of project {member.title}">
+                            </picture>
 
-                        </picture>
+
+
+
                     </a>
                     <h3 aria-label="project {member.title}"><a href="{member.link_project}" class="titel-project">
                         {member.title}
@@ -638,6 +637,7 @@
         display: grid;
         grid-row-gap: 1rem;
         grid-column-gap: 2rem;
+        margin-top: 2rem;
 
 
     }
@@ -689,8 +689,9 @@
         color: blue;
     }
 
+
     img {
-        object-fit: cover;
+        object-fit: contain;
     }
 
     .list-programming-languages {

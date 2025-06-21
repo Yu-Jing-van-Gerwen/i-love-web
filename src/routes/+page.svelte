@@ -39,28 +39,28 @@
     <section class="general-styling-section ">
         <h2 class="hide">About me</h2>
         <ul class="buttons">
-            <li class="text-buttons">
-                You can see what I learn each week in my learning journal.
-            </li>
-            <li class="item-button">
-                <a href="/learning-journal" class="moreinfo pulse">
-                    Learning journal
-                </a>
-            </li>
-            <li class="text-buttons">
-                I keep all my guest lecture notes on the 'We Love Web' page.
+<!--            <li class="text-buttons">-->
+<!--                You can see what I learn each week in my learning journal.-->
+<!--            </li>-->
+<!--        li    <li class="item-button">-->
+<!--                <a href="/learning-journal" class="moreinfo pulse">-->
+<!--                    Learning journal-->
+<!--                </a>-->
+<!--            </li>-->
+<!--            <li class="text-buttons">-->
+<!--                I keep all my guest lecture notes on the 'We Love Web' page.-->
 
-            </li>
-            <li class="item-button">
-                <a href="/we-love-web" class="moreinfo pulse">
-                    We love web
-                </a>
-            </li>
+<!--            </li>-->
+<!--            <li class="item-button">-->
+<!--                <a href="/we-love-web" class="moreinfo pulse">-->
+<!--                    We love web-->
+<!--                </a>-->
+<!--            </li>-->
             <li class="text-buttons">
-                My digital garden is my portfolio with all my work.
+                In my portfolio you can see all my projects and what I have done so far.
             </li>
             <li class="item-button">
-                <a href="/digital-garden" class="moreinfo pulse">
+                <a href="/Portfolio" class="moreinfo pulse">
                     Digital garden / portfolio
                 </a></li>
         </ul>
