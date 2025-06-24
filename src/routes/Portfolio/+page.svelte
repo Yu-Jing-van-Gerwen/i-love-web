@@ -7,10 +7,10 @@
             programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS","Directus CMS"],
             semester: 'semester2',
             img: '/img/semester2/bnr.png',
-            link_project: 'https://github.com/yujing-student/proof-of-concept',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/proof-of-concept',
             live_url: 'https://proof-of-concept-bnr.vercel.app/',
             agency:"BNR",
-            agency_github:"https://github.com/yujing-student/proof-of-concept/wiki/1%E2%80%90Analyseren",
+            agency_github:"https://github.com/Yu-Jing-van-Gerwen/proof-of-concept/wiki/1%E2%80%90Analyseren",
             sprint: "Sprint 12"
         },
         {
@@ -30,7 +30,7 @@
             year: "jaar 1",
             programming_languages: ["SvelteKit","Directus CMS","Web components "],
             semester: 'semester 1',
-            link_project: 'https://github.com/yujing-student/your-tribe-for-life-profile-card',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/your-tribe-for-life-profile-card',
             img: '/img/semester3/profile-card.png',
             live_url: 'https://your-tribe-for-life-profile-card-gold.vercel.app/',
             agency_github:"Not applicable",
@@ -58,7 +58,7 @@
             title: "Angular profile card",
 
             programming_languages: ["Angular"],
-            link_project: 'https://github.com/yujing-student/angular-profile-card',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/angular-profile-card',
             img: '/img/free-time/profile.png',
             live_url: 'https://angular-profile-card.vercel.app/',
             agency_github:"Not applicable",
@@ -69,10 +69,10 @@
             title: "Unc Inc assesment",
 
             programming_languages: ["React"],
-            link_project: 'https://github.com/yujing-student/React-unc-inc',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/React-unc-inc',
             img: '/img/free-time/unc-inc.png',
             live_url: 'https://react-unc-inc.vercel.app/',
-            agency_github:"https://github.com/yujing-student/React-unc-inc/wiki#unc-inc-assessment---react-routing",
+            agency_github:"https://github.com/Yu-Jing-van-Gerwen/React-unc-inc/wiki#unc-inc-assessment---react-routing",
             agency:"Unc Inc",
         }
     ]
@@ -96,7 +96,7 @@
             year: "jaar 1",
             programming_languages: ["SvelteKit","Directus CMS","Web components "],
             semester: 'semester 1',
-            link_project: 'https://github.com/yujing-student/your-tribe-for-life-profile-card',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/your-tribe-for-life-profile-card',
             img: '/img/semester3/profile-card.png',
             live_url: 'https://your-tribe-for-life-profile-card-gold.vercel.app/',
             cms:"Directus CMS",
@@ -124,7 +124,7 @@
             programming_languages: ["SvelteKit","Directus CMS","Web components "],
             semester: 'semester 1',
             img: '/img/dda.png',
-            link_project: 'https://github.com/yujing-student/choices-choices-the-tech-stack',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/choices-choices-the-tech-stack',
             live_url: 'https://choices-choices-the-tech-stack-cyan.vercel.app/member',
             cms:"Directus CMS" ,
             agency:"De voorhoede",
@@ -141,7 +141,7 @@
             programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS","Directus CMS"],
             semester: 'semester2',
             img: '/img/squad-.png',
-            link_project: 'https://github.com/yujing-student/connect-your-tribe-squad-page',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/connect-your-tribe-squad-page',
             live_url: 'https://connect-your-tribe-squad-page-axqp.onrender.com/',
             agency:"Not applicable",
             sprint: "Sprint 7"
@@ -152,7 +152,7 @@
             programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS","Directus CMS"],
             semester: 'semester2',
             img: '/img/semester2/profile-card-sprint-7.png',
-            link_project: 'https://github.com/yujing-student/connect-your-tribe-profile-card',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/connect-your-tribe-profile-card',
             live_url: 'https://connect-your-tribe-profile-card-6snt.onrender.com/',
         cms:"Directus CMS",
             agency:"Not applicable",
@@ -166,7 +166,7 @@
             programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS","Directus CMS"],
             semester: 'semester2',
             img: '/img/semester2/serverside.png',
-            link_project: 'https://github.com/yujing-student/server-side-rendering-server-side-website',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/server-side-rendering-server-side-website',
             live_url: 'https://server-side-rendering-server-side-website-e9cr.onrender.com/',
             cms:"Directus CMS" ,
             agency:"Funda",
@@ -180,7 +180,7 @@
             programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS","Directus CMS"],
             semester: 'semester2',
             img: '/img/semester2/the-web-is-for-everyone.png',
-            link_project: 'https://github.com/yujing-student/the-web-is-for-everyone-interactive-functionality',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/the-web-is-for-everyone-interactive-functionality',
             live_url: 'https://the-web-is-for-everyone-interactive-q19o.onrender.com/',
             cms:"Directus CMS",
             agency:"Funda",
@@ -194,7 +194,7 @@
             programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS","Directus CMS"],
             semester: 'semester2',
             img: '/img/semester2/user-experience.png',
-            link_project: 'https://github.com/yujing-student/user-experience-enhanced-website',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/user-experience-enhanced-website',
             live_url: 'https://user-experience-enhanced-website-b0jz.onrender.com/',  cms:"Directus CMS",
             agency:"Funda",
             agency_github:"https://github.com/fdnd-agency/funda",
@@ -222,10 +222,10 @@
             programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS","Directus CMS"],
             semester: 'semester2',
             img: '/img/semester2/bnr.png',
-            link_project: 'https://github.com/yujing-student/proof-of-concept',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/proof-of-concept',
             live_url: 'https://proof-of-concept-bnr.vercel.app/',  cms:"Directus CMS",
             agency:"BNR",
-            agency_github:"https://github.com/yujing-student/proof-of-concept/wiki/1%E2%80%90Analyseren",
+            agency_github:"https://github.com/Yu-Jing-van-Gerwen/proof-of-concept/wiki/1%E2%80%90Analyseren",
             sprint: "Sprint 12"
         },
 
@@ -238,8 +238,8 @@
             year: "jaar 1",
             programming_languages: ["HTML", "CSS"],
             semester: 'semester 1',
-            link_project: 'https://github.com/yujing-student/your-tribe-profile-card',
-            live_url: 'https://yujing-student.github.io/your-tribe-profile-card/',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/your-tribe-profile-card',
+            live_url: 'https://Yu-Jing-van-Gerwen.github.io/your-tribe-profile-card/',
             img: '/img/semester1/profile-card.png',
             sprint:"Sprint 1",
             agency:"Not applicable",
@@ -250,8 +250,8 @@
             year: "jaar 1",
             programming_languages: ["HTML", "CSS"],
             semester: 'semester 1',
-            link_project: 'https://github.com/yujing-student/your-tribe-squad-page',
-            live_url: 'https://yujing-student.github.io/your-tribe-squad-page/',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/your-tribe-squad-page',
+            live_url: 'https://Yu-Jing-van-Gerwen.github.io/your-tribe-squad-page/',
             img: '/img/semester1/squadpage.png',
         sprint:"Sprint 1",
             agency:"Not applicable",
@@ -263,8 +263,8 @@
             year: "jaar 1",
             programming_languages: ["HTML", "CSS"],
             semester: 'semester 1',
-            link_project: 'https://github.com/yujing-student/the-client-website',
-            live_url: 'https://yujing-student.github.io/the-client-website/',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/the-client-website',
+            live_url: 'https://Yu-Jing-van-Gerwen.github.io/the-client-website/',
             img: '/img/semester1/the-client.png',
             agency:"Openbare bibliotheek van Amsterdam",
             agency_github:"https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
@@ -276,8 +276,8 @@
             year: "jaar 1",
             programming_languages: ["HTML", "CSS", "JavaScript"],
             semester: 'semester 1',
-            link_project: 'https://github.com/yujing-student/all-human-accessible-website',
-            live_url: 'https://yujing-student.github.io/all-human-accessible-website/',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/all-human-accessible-website',
+            live_url: 'https://Yu-Jing-van-Gerwen.github.io/all-human-accessible-website/',
             img: '/img/semester1/all-the.png',
             agency:"Openbare bibliotheek van Amsterdam",
             agency_github:"https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
@@ -290,8 +290,8 @@
             year: "jaar 1",
             programming_languages: ["HTML", "CSS", "JavaScript"],
             semester: 'semester 1',
-            link_project: 'https://github.com/yujing-student/look-and-feel-corporate-identity',
-            live_url: 'https://yujing-student.github.io/look-and-feel-corporate-identity/',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/look-and-feel-corporate-identity',
+            live_url: 'https://Yu-Jing-van-Gerwen.github.io/look-and-feel-corporate-identity/',
             img: '/img/semester1/look-and-feel.png',
         agency:"Openbare bibliotheek van Amsterdam",
             agency_github:"https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
@@ -305,8 +305,8 @@
             programming_languages: ["HTML", "CSS", "JavaScript"],
             semester: 'semester 1',
             img: '/img/semester1/fix-the-flow.png',
-            link_project: 'https://github.com/yujing-student/fix-the-flow-interactive-website',
-            live_url: 'https://yujing-student.github.io/fix-the-flow-interactive-website/',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/fix-the-flow-interactive-website',
+            live_url: 'https://Yu-Jing-van-Gerwen.github.io/fix-the-flow-interactive-website/',
             agency:"Openbare bibliotheek van Amsterdam",
             agency_github:"https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
             sprint: "Sprint 5"
@@ -318,8 +318,8 @@
             programming_languages: ["HTML", "CSS", "JavaScript"],
             img: '/img/semester1/funda-projects.png',
             semester: 'semester 1',
-            link_project: 'https://github.com/yujing-student/the-startup-responsive-interactieve-website',
-            live_url: 'https://yujing-student.github.io/the-startup-responsive-interactieve-website/',
+            link_project: 'https://github.com/Yu-Jing-van-Gerwen/the-startup-responsive-interactieve-website',
+            live_url: 'https://Yu-Jing-van-Gerwen.github.io/the-startup-responsive-interactieve-website/',
             agency:"Openbare bibliotheek van Amsterdam",
             agency_github:"https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
             sprint: "Sprint 6"
@@ -337,18 +337,6 @@
         Here you can see all my schoolwork, including my best projects. Click on the title to view the GitHub project.
         There is also a short description about the project that I made
     </p>
-
-    <p>The <a href="https://niveaumatrix.fdnd.nl/">competency matrix</a> defines
-        the skills and abilities that are expected of me. To assess my performance,
-        I need to provide evidence of my capabilities.
-        The projects I've worked on during the course will
-        be used to demonstrate my proficiency in these areas.
-
-    </p>
-    <a href="https://niveaumatrix.fdnd.nl" class="button-website">
-        competency matrix
-    </a>
-
 
     <h2>Best projects</h2>
     <p class="summary-projects">
@@ -479,7 +467,7 @@
         <p class="summary-projects">
             <span>Choices-choices-the-tech-stack</span>:
             For this project, I chose The framework Eleventy to try out and the goal was to make a small part of the dda website and to figure out what the pros and cons are of this framework eleventy
-            <a href="https://github.com/yujing-student/justify-your-tech-stack/wiki/User-eXperience">here
+            <a href="https://github.com/Yu-Jing-van-Gerwen/justify-your-tech-stack/wiki/User-eXperience">here
             </a>you can view my documentation about my tech stack research this is in dutch written
 
         </p>

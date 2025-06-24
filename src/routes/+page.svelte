@@ -1,6 +1,8 @@
 <script>
     import SocialMedia from '$lib/Socialmedia.svelte';
 </script>
+<div class="home-main">
+
 
     <article class="general-styling-section">
 
@@ -14,59 +16,86 @@
 
 
         </section>
-
-            <SocialMedia/>
-        <p>Scan the qr code to see my Linkedin or github. </p>
-        <ul class="qr-code">
-            <li class="icons">
-                <a href="https://github.com/yujing-student">
-                    <picture>
-                        <img class="qr-images" src="/img/qr-code/github.png" alt="GitHub" />
-                    </picture>
-                </a>
-            </li>
-            <li class="icons">
-                <a href="https://www.linkedin.com/in/yu-jing-van-gerwen-a959431b7/">
-
-                    <img class="qr-images"  src="/img/qr-code/linkedn.png" alt="linkedin"/>
-                </a>
-            </li>
-        </ul>
-
-
-
     </article>
-    <section class="general-styling-section ">
-        <h2 class="hide">About me</h2>
-        <ul class="buttons">
-<!--            <li class="text-buttons">-->
-<!--                You can see what I learn each week in my learning journal.-->
-<!--            </li>-->
-<!--        li    <li class="item-button">-->
-<!--                <a href="/learning-journal" class="moreinfo pulse">-->
-<!--                    Learning journal-->
-<!--                </a>-->
-<!--            </li>-->
-<!--            <li class="text-buttons">-->
-<!--                I keep all my guest lecture notes on the 'We Love Web' page.-->
+<article class="general-styling-section">
 
-<!--            </li>-->
-<!--            <li class="item-button">-->
-<!--                <a href="/we-love-web" class="moreinfo pulse">-->
-<!--                    We love web-->
-<!--                </a>-->
-<!--            </li>-->
-            <li class="text-buttons">
-                In my portfolio you can see all my projects and what I have done so far.
-            </li>
-            <li class="item-button">
-                <a href="/Portfolio" class="moreinfo pulse">
-                    Digital garden / portfolio
-                </a></li>
-        </ul>
 
-    </section>
+    <SocialMedia/>
+    <p>Scan the qr code to see my Linkedin or github. </p>
+    <ul class="qr-code">
+        <li class="icons">
+            <a href="https://github.com/Yu-Jing-van-Gerwen">
+                <picture>
+                    <img class="qr-images" src="/img/qr-code/github.png" alt="GitHub" />
+                </picture>
+            </a>
+        </li>
+        <li class="icons">
+            <a href="https://www.linkedin.com/in/yu-jing-van-gerwen-a959431b7/">
+
+                <img class="qr-images"  src="/img/qr-code/linkedn.png" alt="linkedin"/>
+            </a>
+        </li>
+    </ul>
+</article>
+
+<article class="general-styling-section">
+    <ul class="buttons">
+        <li class="text-buttons">
+            In my portfolio you can see all my projects and what I have done so far.
+        </li>
+        <li class="item-button">
+            <a href="/Portfolio" class="moreinfo pulse">
+                Portfolio
+            </a></li>
+    </ul>
+</article>
+</div>
 <style>
+
+    @media (min-width: 800px) {
+        .home-main{
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            /*background-color: #ed2d2d;*/
+            gap: 2rem;
+        }
+
+        .general-styling-section:nth-child(1) {
+            grid-column-start: 1;
+            grid-column-end: 3;
+            grid-row: 1;
+        }
+        .general-styling-section:nth-child(2) {
+            grid-column-start: 1;
+            grid-row: 2;
+        }
+        .general-styling-section:nth-child(3) {
+            grid-column-start: 2;
+            grid-row: 2;
+        }
+    }
+
+    @media (min-width: 1000px) {
+        .home-main{
+            max-width: 700px;
+        }
+        .general-styling-section:nth-child(2) {
+            width: 400px;
+        }
+
+        .general-styling-section:nth-child(3) {
+            width: 400px;
+        }
+    }
+
+    @media (min-width: 1200px) {
+        .home-main{
+            max-width: 700px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
     li{
         font-size: 20px;
     }
@@ -133,16 +162,6 @@
         }
     }
 
-    /*@media (min-width: 1200px) {*/
-    /*    .buttons{*/
-
-    /*        grid-template-columns: 20em 20em 20em;*/
-
-    /*    }*/
-    /*    .text-buttons{*/
-    /*        grid-row: 1;*/
-    /*    }*/
-    /*}*/
     .moreinfo {
         display: grid;
         border-radius: 4px;

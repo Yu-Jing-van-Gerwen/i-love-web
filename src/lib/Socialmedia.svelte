@@ -6,7 +6,7 @@
     <h2>Social media</h2>
     <ul>
         <li class="icons">
-            <a href="https://github.com/yujing-student">
+            <a href="https://github.com/Yu-Jing-van-Gerwen">
                 <picture>
 
                     <img src="/img/github-logo.png" alt="GitHub"/>

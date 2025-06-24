@@ -2,12 +2,7 @@
 
 <!-- de layout van de we love web pagina gaan stylen -->
 
-<section class="general-styling-section">
-    <a
-            href="https://github.com/yujing-student/i-love-web/blob/main/learning-journal/Internationale-ontwikkelingen.md"
-    >Ga naar Readme met nieuwste ontwikkelingen</a
-    >
-</section>
+
 
 <section class="general-styling-section">
     <h1 id="we-love-web">we love web</h1>
