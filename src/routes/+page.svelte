@@ -13,7 +13,10 @@
             <p>
                 I am currently a student at the Amsterdam University of Applied Sciences.</p>
             <p>I am studying Frontend Design & Development and I would like to become a frontend developer.</p>
+            <a href="https://www.linkedin.com/in/yu-jing-van-gerwen-a959431b7/">
 
+                <img class="profile-image"  src="img/profile-image/profielfoto.jpg" alt="profilefoto van mij"/>
+            </a>
 
         </section>
     </article>
@@ -136,6 +139,10 @@
     }
     img{
         width: 70px;
+    }
+
+    .profile-image{
+        width: 100%;
     }
 
 
