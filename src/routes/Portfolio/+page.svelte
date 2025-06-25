@@ -363,7 +363,7 @@
     <div class="grid-container">
         {#each uitgelichte_projecten as member}
             <article class="card">
-                <a href="https://your-tribe-for-life-profile-card-gold.vercel.app/">
+                <a href="{member.link_project}">
                     <picture>
                         <source srcset="{member.img}?format=avif" type="image/avif">
                         <source srcset="{member.img}?format=webp" type="image/webp">
@@ -373,7 +373,8 @@
                 </a>
                 <h3 aria-label="project {member.title}"><a href="{member.link_project}" class="titel-project">
                     {member.title}
-                </a></h3>
+                </a>
+                </h3>
                 <ul>
                     <li>
                         {#each member.programming_languages as language}
@@ -404,7 +405,7 @@
         <div class="grid-container">
             {#each freeprojects as member}
                 <article class="card">
-                    <a href="https://your-tribe-for-life-profile-card-gold.vercel.app/">
+                    <a href="{member.link_project}">
 
                             <picture>
                                 <source srcset="{member.img}?format=avif" type="image/avif">
@@ -479,7 +480,7 @@
         <div class="grid-container">
             {#each projects_year2_semester1 as member}
                 <article class="card">
-                    <a href="https://your-tribe-for-life-profile-card-gold.vercel.app/">
+                    <a href="{member.link_project}">
 
 
                         <picture>
@@ -536,13 +537,16 @@
             semester 2</a>
         <div class="grid-container">
             {#each projects_year1_semester2 as member}
+
                 <article class="card">
+                    <a href="{member.link_project}">
                     <picture>
                         <source srcset="{member.img}?format=avif" type="image/avif">
                         <source srcset="{member.img}?format=webp" type="image/webp">
                         <img src="{member.img}" alt="image of project {member.title}">
 
                     </picture>
+                    </a>
                     <h3 aria-label="project {member.title}"><a href="{member.link_project}" class="titel-project">
                         {member.title}
                     </a></h3>
@@ -581,12 +585,14 @@
         <div class="grid-container">
             {#each projects_year1_semester1 as member}
                 <article class="card">
+                    <a href="{member.link_project}">
                     <picture>
                         <source srcset="{member.img}?format=avif" type="image/avif">
                         <source srcset="{member.img}?format=webp" type="image/webp">
                         <img src="{member.img}" alt="image of project {member.title}">
 
                     </picture>
+                    </a>
                     <h3 aria-label="project {member.title}"><a href="{member.link_project}" class="titel-project">
                         {member.title}
                     </a></h3>

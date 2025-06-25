@@ -42,17 +42,40 @@
     </ul>
 </article>
 
-<article class="general-styling-section">
-    <ul class="buttons">
-        <li class="text-buttons">
-            In my portfolio you can see all my projects and what I have done so far.
-        </li>
-        <li class="item-button">
-            <a href="/Portfolio" class="moreinfo pulse">
-                Portfolio
-            </a></li>
-    </ul>
+
+
+</div>
+<div class="portfolio-projects">
+
+
+<article class="portfolio-cards">
+    <h4 class="title-cards">Redesign van de dda website</h4>
+    <img src="img/semester3/dda.png" alt="all the things" class="project-images">
 </article>
+    <article class="portfolio-cards">
+        <h4 class="title-cards">mijn profielkaartje</h4>
+<!--        todo deze foto van het profielkaartje moet opniew waarin je alleen het kaartje hebt-->
+        <img src="img/semester3/profile-card.png" alt="all the things" class="project-images">
+    </article>
+    <article class="portfolio-cards">
+        <h4 class="title-cards">Squad page</h4>
+        <img src="img/semester3/squad.png" alt="all the things" class="project-images">
+    </article>
+    <article class="portfolio-cards">
+        <h4 class="title-cards">Homepagina BNR</h4>
+        <img src="img/semester2/bnr.png" alt="all the things" class="project-images">
+    </article>
+    <article class="portfolio-cards">
+        <ul class="buttons">
+            <li class="text-buttons">
+                In my portfolio you can see all my projects and what I have done so far.
+            </li>
+            <li class="item-button">
+                <a href="/Portfolio" class="moreinfo pulse">
+                    Portfolio
+                </a></li>
+        </ul>
+    </article>
 </div>
 <style>
 
@@ -137,7 +160,10 @@
         gap: 2em;
         margin-top: -1em;
     }
-    img{
+    /*img{*/
+    /*    width: 70px;*/
+    /*}*/
+    .qr-images{
         width: 70px;
     }
 
@@ -145,6 +171,28 @@
         width: 100%;
     }
 
+    .portfolio-cards {
+        background: #ffdbea;
+        font-weight: normal;
+        border-radius: 0.25rem;
+        margin-top: 1.5em;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center; /* Add this */
+    }
+
+    .project-images {
+        width: auto; /* Change from 100% to auto */
+        max-width: 100%; /* Prevent overflow */
+        height: auto;
+        display: block;
+        margin: 0 auto; /* Center image */
+    }
+    .title-cards{
+        font-size: 2em;
+    }
 
     @media (min-width: 1000px) {
         .buttons{
