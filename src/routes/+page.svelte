@@ -41,40 +41,49 @@
         </li>
     </ul>
 </article>
-
-
-
 </div>
+<div class="portfolio-projects-background">
+<h2 class="title-projects">projects</h2>
 <div class="portfolio-projects">
-
-
 <article class="portfolio-cards">
     <h4 class="title-cards">Redesign van de dda website</h4>
     <img src="img/semester3/dda.png" alt="all the things" class="project-images">
+    <ul>
+        <li><a href="">live website</a></li>
+        <li><a href="">code</a></li>
+    </ul>
 </article>
     <article class="portfolio-cards">
         <h4 class="title-cards">mijn profielkaartje</h4>
 <!--        todo deze foto van het profielkaartje moet opniew waarin je alleen het kaartje hebt-->
-        <img src="img/semester3/profile-card.png" alt="all the things" class="project-images">
+        <img src="img/semester3/profielkaartje.png" alt="all the things" class="project-images">
     </article>
     <article class="portfolio-cards">
         <h4 class="title-cards">Squad page</h4>
         <img src="img/semester3/squad.png" alt="all the things" class="project-images">
+        <ul>
+            <li><a href="">live website</a></li>
+            <li><a href="">code</a></li>
+        </ul>
     </article>
     <article class="portfolio-cards">
         <h4 class="title-cards">Homepagina BNR</h4>
         <img src="img/semester2/bnr.png" alt="all the things" class="project-images">
-    </article>
-    <article class="portfolio-cards">
-        <ul class="buttons">
-            <li class="text-buttons">
-                In my portfolio you can see all my projects and what I have done so far.
-            </li>
-            <li class="item-button">
-                <a href="/Portfolio" class="moreinfo pulse">
-                    Portfolio
-                </a></li>
+        <ul>
+            <li><a href="">live website</a></li>
+            <li><a href="">code</a></li>
         </ul>
+    </article>
+
+</div>
+    <article class="more-info-button">
+        <h4 class="text-buttons">
+            In my portfolio you can see all my projects and what I have done so far.
+        </h4>
+        <p class="item-button">
+            <a href="/Portfolio" class="moreinfo pulse">
+                Portfolio
+            </a></p>
     </article>
 </div>
 <style>
@@ -160,9 +169,7 @@
         gap: 2em;
         margin-top: -1em;
     }
-    /*img{*/
-    /*    width: 70px;*/
-    /*}*/
+
     .qr-images{
         width: 70px;
     }
@@ -171,27 +178,76 @@
         width: 100%;
     }
 
+
+
     .portfolio-cards {
-        background: #ffdbea;
+        background: #dff5db;
         font-weight: normal;
         border-radius: 0.25rem;
         margin-top: 1.5em;
         display: flex;
         flex-direction: column;
         align-items: center;
-        justify-content: center;
         text-align: center; /* Add this */
+        margin-bottom: 3rem;
     }
 
     .project-images {
         width: auto; /* Change from 100% to auto */
-        max-width: 100%; /* Prevent overflow */
+        max-width: 90%; /* Prevent overflow */
         height: auto;
         display: block;
-        margin: 0 auto; /* Center image */
+        margin-bottom: 2rem;
+    }
+
+    .portfolio-projects{
+        /*background-color: #ffffff;*/
+        padding: 2rem;
+    }
+
+    .more-info-button{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        align-items: center;
+    }
+
+    .portfolio-projects-background{
+        background-color: #ffffff;
+    }
+
+    @media (min-width: 500px) {
+        .profile-image {
+            width: 300px;
+            height: 300px;
+            border-radius: 50%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .portfolio-projects{
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            justify-content: center;
+        }
+
+        /*.project-images {*/
+        /*    width: 100%;*/
+        /*}*/
+    }
+    .title-projects{
+        text-align: center;
+        font-size: 2em;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+        padding-top: 2rem;
     }
     .title-cards{
         font-size: 2em;
+        padding: 1rem;
     }
 
     @media (min-width: 1000px) {
