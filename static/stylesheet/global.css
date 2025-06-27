@@ -104,3 +104,57 @@ h2{
         box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
     }
 }
+
+
+
+/*dit zijn de blauwe buttons*/
+
+.button-website {
+    display: grid;
+    border-radius: 4px;
+    padding: 16px;
+    margin: 1em 0 0;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #120000;
+    cursor: pointer;
+    letter-spacing: 2px;
+    text-align: center;
+    position: relative;
+    transition: all .35s;
+    background-color: #cdffff;
+    font-weight: normal;
+    width: 130px;
+    box-shadow: 13px 9px 0 0;
+}
+
+.button-website:hover {
+    background-color: #40783a;
+    color: white;
+}
+
+.button-schoolopdrachten:hover {
+    background-color: #40783a;
+    color: white;
+}
+
+.button-schoolopdrachten {
+    display: grid;
+    border-radius: 4px;
+    padding: 16px;
+    margin: 1em 0 0;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #120000;
+    /*76c54b5e*/
+    cursor: pointer;
+    /*color: var(--white);*/
+    letter-spacing: 2px;
+    text-align: center;
+    position: relative;
+    transition: all .35s;
+    background-color: #cdffff;
+    font-weight: normal;
+    width: 180px;
+    box-shadow: 13px 9px 0 0;
+}

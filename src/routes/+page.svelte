@@ -45,33 +45,38 @@
 <div class="portfolio-projects-background">
 <h2 class="title-projects">projects</h2>
 <div class="portfolio-projects">
+<!--    portfolio-cards-->
 <article class="portfolio-cards">
     <h4 class="title-cards">Redesign van de dda website</h4>
     <img src="img/semester3/dda.png" alt="all the things" class="project-images">
-    <ul>
-        <li><a href="">live website</a></li>
-        <li><a href="">code</a></li>
+    <ul class="buttons-ul-list">
+        <li><a href="" class="button-website">live website</a></li>
+        <li><a href="" class="button-website">code</a></li>
     </ul>
 </article>
     <article class="portfolio-cards">
         <h4 class="title-cards">mijn profielkaartje</h4>
 <!--        todo deze foto van het profielkaartje moet opniew waarin je alleen het kaartje hebt-->
         <img src="img/semester3/profielkaartje.png" alt="all the things" class="project-images">
+        <ul class="buttons-ul-list">
+            <li><a href="" class="button-website">live website</a></li>
+            <li><a href="" class="button-website">code</a></li>
+        </ul>
     </article>
     <article class="portfolio-cards">
         <h4 class="title-cards">Squad page</h4>
         <img src="img/semester3/squad.png" alt="all the things" class="project-images">
-        <ul>
-            <li><a href="">live website</a></li>
-            <li><a href="">code</a></li>
+        <ul class="buttons-ul-list">
+            <li><a href="" class="button-website">live website</a></li>
+            <li><a href="" class="button-website">code</a></li>
         </ul>
     </article>
     <article class="portfolio-cards">
         <h4 class="title-cards">Homepagina BNR</h4>
         <img src="img/semester2/bnr.png" alt="all the things" class="project-images">
-        <ul>
-            <li><a href="">live website</a></li>
-            <li><a href="">code</a></li>
+        <ul class="buttons-ul-list">
+            <li><a href="" class="button-website">live website</a></li>
+            <li><a href="" class="button-website">code</a></li>
         </ul>
     </article>
 
@@ -192,6 +197,36 @@
         margin-bottom: 3rem;
     }
 
+    @media (min-width: 1200px) {
+        .portfolio-cards {
+            display: grid;
+            /*gap: 15rem;*/
+            grid-template-rows: auto auto auto auto;
+        }
+
+        .project-images {
+            max-width: 100%;
+            max-height: 15em;
+            width: auto;
+            height: auto;
+            object-fit: contain; /* or use cover for cropping */
+            display: block;
+            margin: 0 auto;
+        }
+
+
+
+    }
+
+
+
+    .buttons-ul-list{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 0.5rem;
+        padding-bottom: 1rem;
+    }
     .project-images {
         width: auto; /* Change from 100% to auto */
         max-width: 90%; /* Prevent overflow */

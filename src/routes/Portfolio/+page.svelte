@@ -377,11 +377,15 @@
                 </h3>
                 <ul>
                     <li>
+                        <div class="languages-list">
                         {#each member.programming_languages as language}
                             <p class="list-programming-languages">{language}</p>
                         {/each}
+                        </div>
                     </li>
-                    <li>{member.sprint}</li>
+                    </ul>
+                <p>{member.sprint}</p>
+                <ul>
                     <li>
                         <a href="{member.live_url}" class="button-website">Live website</a>
                     </li>
@@ -404,7 +408,7 @@
         <p>This are projects that i make in my free time.</p>
         <div class="grid-container">
             {#each freeprojects as member}
-                <article class="card">
+                <article class="card-freeprojects">
                     <a href="{member.link_project}">
 
                             <picture>
@@ -428,6 +432,8 @@
                                 <p class="list-programming-languages">{language}</p>
                             {/each}
                         </li>
+                        </ul>
+                    <ul>
                         <li>
                             <a href="{member.live_url}" class="button-website">Live website</a>
                         </li>
@@ -481,12 +487,10 @@
             {#each projects_year2_semester1 as member}
                 <article class="card">
                     <a href="{member.link_project}">
-
-
                         <picture>
                             <source srcset="{member.img}?format=avif" type="image/avif">
                             <source srcset="{member.img}?format=webp" type="image/webp">
-                            <img src="{member.img}" alt="image of project {member.title}">
+                            <img class="" src="{member.img}" alt="image of project {member.title}">
 
                         </picture>
                     </a>
@@ -494,18 +498,23 @@
                         {member.title}
                     </a>
                     </h3>
-                    <ul class=" ">
+                    <ul>
                         <li>
-                            {#each member.programming_languages as language}
-                                <p class="list-programming-languages">{language}</p>
-                            {/each}
+                            <div class="languages-list">
+                                {#each member.programming_languages as language}
+                                    <p class="list-programming-languages">{language}</p>
+                                {/each}
+                            </div>
                         </li>
-                        <li>{member.sprint}</li>
+                    </ul>
+                    <p>{member.sprint}</p>
+                    <ul>
                         <li>
                             <a href="{member.live_url}" class="button-website">Live website</a>
                         </li>
                         <li>
                             <a href="{member.link_project}" class="button-website">GitHub Code</a>
+
                         </li>
                         <li>
                             <a href="{member.agency_github}" class="button-website">client: {member.agency}</a>
@@ -540,34 +549,40 @@
 
                 <article class="card">
                     <a href="{member.link_project}">
-                    <picture>
-                        <source srcset="{member.img}?format=avif" type="image/avif">
-                        <source srcset="{member.img}?format=webp" type="image/webp">
-                        <img src="{member.img}" alt="image of project {member.title}">
+                        <picture>
+                            <source srcset="{member.img}?format=avif" type="image/avif">
+                            <source srcset="{member.img}?format=webp" type="image/webp">
+                            <img class="" src="{member.img}" alt="image of project {member.title}">
 
-                    </picture>
+                        </picture>
                     </a>
                     <h3 aria-label="project {member.title}"><a href="{member.link_project}" class="titel-project">
                         {member.title}
-                    </a></h3>
+                    </a>
+                    </h3>
                     <ul>
-
                         <li>
-                            {#each member.programming_languages as language}
-                                <p class="list-programming-languages">{language}</p>
-                            {/each}
+                            <div class="languages-list">
+                                {#each member.programming_languages as language}
+                                    <p class="list-programming-languages">{language}</p>
+                                {/each}
+                            </div>
                         </li>
-                        <li>{member.sprint}</li>
+                    </ul>
+                    <p>{member.sprint}</p>
+                    <ul>
                         <li>
                             <a href="{member.live_url}" class="button-website">Live website</a>
                         </li>
                         <li>
                             <a href="{member.link_project}" class="button-website">GitHub Code</a>
+
                         </li>
                         <li>
                             <a href="{member.agency_github}" class="button-website">client: {member.agency}</a>
                         </li>
                     </ul>
+
                 </article>
             {/each}
         </div>
@@ -586,34 +601,40 @@
             {#each projects_year1_semester1 as member}
                 <article class="card">
                     <a href="{member.link_project}">
-                    <picture>
-                        <source srcset="{member.img}?format=avif" type="image/avif">
-                        <source srcset="{member.img}?format=webp" type="image/webp">
-                        <img src="{member.img}" alt="image of project {member.title}">
+                        <picture>
+                            <source srcset="{member.img}?format=avif" type="image/avif">
+                            <source srcset="{member.img}?format=webp" type="image/webp">
+                            <img class="" src="{member.img}" alt="image of project {member.title}">
 
-                    </picture>
+                        </picture>
                     </a>
                     <h3 aria-label="project {member.title}"><a href="{member.link_project}" class="titel-project">
                         {member.title}
-                    </a></h3>
+                    </a>
+                    </h3>
                     <ul>
-
                         <li>
-                            {#each member.programming_languages as language}
-                                <p class="list-programming-languages">{language}</p>
-                            {/each}
+                            <div class="languages-list">
+                                {#each member.programming_languages as language}
+                                    <p class="list-programming-languages">{language}</p>
+                                {/each}
+                            </div>
                         </li>
-                        <li>{member.sprint}</li>
+                    </ul>
+                    <p>{member.sprint}</p>
+                    <ul>
                         <li>
-                            <a href="{member.live_url}" class="button-website">Live Website</a>
+                            <a href="{member.live_url}" class="button-website">Live website</a>
                         </li>
                         <li>
                             <a href="{member.link_project}" class="button-website">GitHub Code</a>
+
                         </li>
                         <li>
                             <a href="{member.agency_github}" class="button-website">client: {member.agency}</a>
                         </li>
                     </ul>
+
                 </article>
             {/each}
         </div>
@@ -622,21 +643,23 @@
 </section>
 
 <style>
-    div {
-        border-bottom: 2px solid var(--purple);
-        padding-bottom: 2rem;
-    }
+    /*div {*/
+    /*    border-bottom: 2px solid var(--purple);*/
+    /*    padding-bottom: 2rem;*/
+    /*}*/
 
     .grid-container {
         display: grid;
         grid-row-gap: 1rem;
         grid-column-gap: 2rem;
         margin-top: 2rem;
+        border-bottom: 2px solid var(--purple);
+        padding-bottom: 2rem;
 
 
     }
 
-    .card {
+    .card,.card-freeprojects {
         overflow: hidden;
         padding: 2rem;
         display: grid;
@@ -664,18 +687,14 @@
     }
 
     /*dit zit in het groene kaartje*/
-
     .titel-project {
         text-decoration: none;
         color: #120000;
     }
 
     .titel-project:active {
-        /*transform: scale(1.2);*/
         transform: translateY(5px);
-        /* Scaling button to 0.98 to its original size */
         box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
-        /* Lowering the shadow */
     }
 
     .titel-project:hover {
@@ -692,96 +711,21 @@
         border: solid 1px #120000;
         width: max-content;
         padding: 0.5rem;
+        margin: 0;
+    }
+
+    .languages-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        margin: 0;
+        /*max-width: 350px; !* adjust as needed *!*/
     }
 
     .note-render{
         color: red;
     }
 
-    /*dit zijn de blauwe buttons*/
-
-    .button-website {
-        display: grid;
-        border-radius: 4px;
-        padding: 16px;
-        margin: 1em 0 0;
-        font-family: sans-serif;
-        text-decoration: none;
-        color: #120000;
-        /*76c54b5e*/
-        cursor: pointer;
-        /*color: var(--white);*/
-        letter-spacing: 2px;
-        text-align: center;
-        position: relative;
-        transition: all .35s;
-        background-color: #cdffff;
-        font-weight: normal;
-        width: 130px;
-        box-shadow: 13px 9px 0 0;
-    }
-
-    .button-website:hover {
-        background-color: #40783a;
-        color: white;
-    }
-
-    .button-schoolopdrachten:hover {
-        background-color: #40783a;
-        color: white;
-    }
-
-    .button-schoolopdrachten {
-        display: grid;
-        border-radius: 4px;
-        padding: 16px;
-        margin: 1em 0 0;
-        font-family: sans-serif;
-        text-decoration: none;
-        color: #120000;
-        /*76c54b5e*/
-        cursor: pointer;
-        /*color: var(--white);*/
-        letter-spacing: 2px;
-        text-align: center;
-        position: relative;
-        transition: all .35s;
-        background-color: #cdffff;
-        font-weight: normal;
-        width: 180px;
-        box-shadow: 13px 9px 0 0;
-    }
-
-    /*.text-without-shadow{*/
-    /*    text-decoration: none;*/
-    /*    color: #120000;*/
-    /*    font-size: 1.5rem;*/
-    /*    display: grid;*/
-    /*    border-radius: 4px;*/
-    /*    padding: 16px;*/
-    /*    margin: 1em 0 0;*/
-    /*    font-family: sans-serif;*/
-    /*    text-decoration: none;*/
-    /*    color: #120000;*/
-    /*    !*76c54b5e*!*/
-    /*    cursor: pointer;*/
-    /*    !*color: var(--white);*!*/
-    /*    letter-spacing: 2px;*/
-    /*    text-align: center;*/
-    /*    position: relative;*/
-    /*    transition: all .35s;*/
-    /*  background-color: #b852ff80;*/
-    /*    font-weight: normal;*/
-    /*    width:233px;*/
-    /*}*/
-
-    h1 {
-
-    }
-
-    h2 {
-        /*border-bottom: solid 2px var(--purple);*/
-    }
 
     @media (max-width: 500px) {
 
@@ -812,44 +756,29 @@
 
         .card {
 
-            grid-template-rows: 308px  3rem auto;
+            grid-template-rows: 308px 4rem auto 3rem auto;
 
         }
 
-        img {
+        .card-freeprojects{
+            grid-template-rows: 308px 4rem auto auto;
+        }
 
+        img {
             max-width: 100%;
-            /*width: 15em;*/
-            height: 15em;
-            /*width: 100%;*/
-            /*height: 10rem;*/
+            max-height: 15em;
+            width: auto;
+            height: auto;
+            object-fit: contain; /* or use cover for cropping */
+            display: block;
+            margin: 0 auto;
         }
 
 
         .titel-project {
             text-decoration: none;
             color: #120000;
-
-
             font-size: 1.5rem;
-            /*display: grid;*/
-            /*border-radius: 4px;*/
-            /*padding: 16px;*/
-            /*margin: 1em 0 0;*/
-            /*font-family: sans-serif;*/
-
-            /*!*76c54b5e*!*/
-            /*cursor: pointer;*/
-            /*!*color: var(--white);*!*/
-            /*letter-spacing: 2px;*/
-            /*text-align: center;*/
-            /*position: relative;*/
-            /*transition: all .35s;*/
-            /*background-color: #25ffff80;*/
-            /*font-weight: normal;*/
-            /*width:233px;*/
-
-            /*box-shadow: 13px 9px 0 0;*/
         }
 
     }
