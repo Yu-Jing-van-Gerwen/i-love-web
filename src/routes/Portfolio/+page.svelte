@@ -4,51 +4,51 @@
             title: "Proof of concept",
             period: "2024",
 
-            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS","Directus CMS"],
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS", "Directus CMS"],
             semester: 'semester2',
             img: '/img/semester2/bnr.png',
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/proof-of-concept',
             live_url: 'https://proof-of-concept-bnr.vercel.app/',
-            agency:"BNR",
-            agency_github:"https://github.com/Yu-Jing-van-Gerwen/proof-of-concept/wiki/1%E2%80%90Analyseren",
+            agency: "BNR",
+            agency_github: "https://github.com/Yu-Jing-van-Gerwen/proof-of-concept/wiki/1%E2%80%90Analyseren",
             sprint: "Sprint 12"
         },
         {
             title: "Your tribe for life squad page",
-            programming_languages: ["SvelteKit","Directus CMS","Web components "],
+            programming_languages: ["SvelteKit", "Directus CMS", "Web components "],
             semester: 'semester 1',
             link_project: 'https://github.com/KaanKalmi/your-tribe-for-life-squad-page',
             img: '/img/semester3/squad.png',
             live_url: 'https://your-tribe-for-life-squad-page-five.vercel.app/',
-            agency_github:"Not applicable",
-            agency:"Not applicable",
+            agency_github: "Not applicable",
+            agency: "Not applicable",
             sprint: "Sprint 13"
         },
         {
             title: "Your tribe for life profile card",
             period: "2023",
             year: "jaar 1",
-            programming_languages: ["SvelteKit","Directus CMS","Web components "],
+            programming_languages: ["SvelteKit", "Directus CMS", "Web components "],
             semester: 'semester 1',
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/your-tribe-for-life-profile-card',
             img: '/img/semester3/profile-card.png',
             live_url: 'https://your-tribe-for-life-profile-card-gold.vercel.app/',
-            agency_github:"Not applicable",
-            agency:"Not applicable",
+            agency_github: "Not applicable",
+            agency: "Not applicable",
             sprint: "Sprint 13"
         },
         {
             title: "Lose-your-head",
 
-            programming_languages: ["SvelteKit","Directus CMS","Web components "],
+            programming_languages: ["SvelteKit", "Directus CMS", "Web components "],
             semester: 'semester 3',
             link_project: 'https://github.com/lisagjh/voorhoede',
             img: '/img/semester3/dda.png',
             live_url: 'https://dda-liard.vercel.app/members'
             ,
-            agency:"De voorhoede",
-            agency_github:"https://github.com/fdnd-agency/voorhoede",
-              sprint: "Sprint 14, 15, 16, 17, 18"
+            agency: "De voorhoede",
+            agency_github: "https://github.com/fdnd-agency/voorhoede",
+            sprint: "Sprint 14, 15, 16, 17, 18"
         },
 
 
@@ -61,8 +61,8 @@
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/angular-profile-card',
             img: '/img/free-time/profile.png',
             live_url: 'https://angular-profile-card.vercel.app/',
-            agency_github:"Not applicable",
-            agency:"Not applicable",
+            agency_github: "Not applicable",
+            agency: "Not applicable",
 
         },
         {
@@ -72,21 +72,21 @@
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/React-unc-inc',
             img: '/img/free-time/unc-inc.png',
             live_url: 'https://react-unc-inc.vercel.app/',
-            agency_github:"https://github.com/Yu-Jing-van-Gerwen/React-unc-inc/wiki#unc-inc-assessment---react-routing",
-            agency:"Unc Inc",
+            agency_github: "https://github.com/Yu-Jing-van-Gerwen/React-unc-inc/wiki#unc-inc-assessment---react-routing",
+            agency: "Unc Inc",
         }
     ]
     let projects_year2_semester1 = [
 
         {
             title: "Your tribe squad page",
-            programming_languages: ["SvelteKit","Directus CMS","Web components "],
+            programming_languages: ["SvelteKit", "Directus CMS", "Web components "],
             semester: 'semester 1',
             link_project: 'https://github.com/KaanKalmi/your-tribe-for-life-squad-page',
             img: '/img/semester3/squad.png',
             live_url: 'https://effortless-choux-a35df0.netlify.app/',
-            cms:"Directus CMS",
-            agency:"Not applicable",
+            cms: "Directus CMS",
+            agency: "Not applicable",
             sprint: "Sprint 13"
 
         },
@@ -94,26 +94,26 @@
             title: "Your tribe for life profile card",
             period: "2023",
             year: "jaar 1",
-            programming_languages: ["SvelteKit","Directus CMS","Web components "],
+            programming_languages: ["SvelteKit", "Directus CMS", "Web components "],
             semester: 'semester 1',
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/your-tribe-for-life-profile-card',
             img: '/img/semester3/profile-card.png',
             live_url: 'https://your-tribe-for-life-profile-card-gold.vercel.app/',
-            cms:"Directus CMS",
-            agency:"Not applicable",
+            cms: "Directus CMS",
+            agency: "Not applicable",
             sprint: "Sprint 13"
         },
 
         {
             title: "Lose-your-head",
-            programming_languages: ["SvelteKit","Directus CMS","Web components "],
+            programming_languages: ["SvelteKit", "Directus CMS", "Web components "],
             semester: 'semester 1',
             link_project: 'https://github.com/lisagjh/voorhoede',
             img: '/img/semester3/dda.png',
             live_url: 'https://dda-liard.vercel.app/members',
-            cms:"Directus CMS" ,
-            agency:"De voorhoede",
-            agency_github:"https://github.com/fdnd-agency/voorhoede",
+            cms: "Directus CMS",
+            agency: "De voorhoede",
+            agency_github: "https://github.com/fdnd-agency/voorhoede",
             sprint: "Sprint 14, 15, 16, 17, 18"
         },
 
@@ -121,14 +121,14 @@
         {
             title: "Choices-choices-the-tech-stack",
 
-            programming_languages: ["SvelteKit","Directus CMS","Web components "],
+            programming_languages: ["SvelteKit", "Directus CMS", "Web components "],
             semester: 'semester 1',
             img: '/img/dda.png',
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/choices-choices-the-tech-stack',
             live_url: 'https://choices-choices-the-tech-stack-cyan.vercel.app/member',
-            cms:"Directus CMS" ,
-            agency:"De voorhoede",
-            agency_github:"https://github.com/fdnd-agency/voorhoede",
+            cms: "Directus CMS",
+            agency: "De voorhoede",
+            agency_github: "https://github.com/fdnd-agency/voorhoede",
             sprint: "Sprint 15"
         },
 
@@ -138,24 +138,24 @@
         {
             title: "Connect your tribe",
             period: "2024",
-            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS","Directus CMS"],
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS", "Directus CMS"],
             semester: 'semester2',
             img: '/img/squad-.png',
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/connect-your-tribe-squad-page',
             live_url: 'https://connect-your-tribe-squad-page-axqp.onrender.com/',
-            agency:"Not applicable",
+            agency: "Not applicable",
             sprint: "Sprint 7"
         },
         {
             title: "Connect your tribe profile card",
             period: "2024",
-            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS","Directus CMS"],
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS", "Directus CMS"],
             semester: 'semester2',
             img: '/img/semester2/profile-card-sprint-7.png',
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/connect-your-tribe-profile-card',
             live_url: 'https://connect-your-tribe-profile-card-6snt.onrender.com/',
-        cms:"Directus CMS",
-            agency:"Not applicable",
+            cms: "Directus CMS",
+            agency: "Not applicable",
             sprint: "Sprint 7"
         },
 
@@ -163,41 +163,41 @@
             title: "Serverside side rendering",
             period: "2024",
 
-            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS","Directus CMS"],
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS", "Directus CMS"],
             semester: 'semester2',
             img: '/img/semester2/serverside.png',
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/server-side-rendering-server-side-website',
             live_url: 'https://server-side-rendering-server-side-website-e9cr.onrender.com/',
-            cms:"Directus CMS" ,
-            agency:"Funda",
-            agency_github:"https://github.com/fdnd-agency/funda",
+            cms: "Directus CMS",
+            agency: "Funda",
+            agency_github: "https://github.com/fdnd-agency/funda",
             sprint: "Sprint 8"
         },
         {
             title: "The web is for everyone",
             period: "2024",
 
-            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS","Directus CMS"],
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS", "Directus CMS"],
             semester: 'semester2',
             img: '/img/semester2/the-web-is-for-everyone.png',
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/the-web-is-for-everyone-interactive-functionality',
             live_url: 'https://the-web-is-for-everyone-interactive-q19o.onrender.com/',
-            cms:"Directus CMS",
-            agency:"Funda",
-            agency_github:"https://github.com/fdnd-agency/funda",
+            cms: "Directus CMS",
+            agency: "Funda",
+            agency_github: "https://github.com/fdnd-agency/funda",
             sprint: "Sprint 9"
         },
         {
             title: "User experience",
             period: "2024",
 
-            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS","Directus CMS"],
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS", "Directus CMS"],
             semester: 'semester2',
             img: '/img/semester2/user-experience.png',
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/user-experience-enhanced-website',
-            live_url: 'https://user-experience-enhanced-website-b0jz.onrender.com/',  cms:"Directus CMS",
-            agency:"Funda",
-            agency_github:"https://github.com/fdnd-agency/funda",
+            live_url: 'https://user-experience-enhanced-website-b0jz.onrender.com/', cms: "Directus CMS",
+            agency: "Funda",
+            agency_github: "https://github.com/fdnd-agency/funda",
             sprint: "Sprint 10"
 
         },
@@ -205,13 +205,13 @@
             title: "Pleasurable ui",
             period: "2024",
 
-            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS","Directus CMS"],
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS", "Directus CMS"],
             semester: 'semester2',
             img: '/img/semester2/pleasurable-ui.png',
             link_project: 'https://github.com/OniWithTheHoodie/pleasurable-ui',
-            live_url: 'https://pleasurable-ui.onrender.com/',  cms:"Directus CMS",
-            agency:"Funda",
-            agency_github:"https://github.com/fdnd-agency/funda",
+            live_url: 'https://pleasurable-ui.onrender.com/', cms: "Directus CMS",
+            agency: "Funda",
+            agency_github: "https://github.com/fdnd-agency/funda",
             sprint: "Sprint 11"
         },
 
@@ -219,13 +219,13 @@
             title: "Proof of concept",
             period: "2024",
 
-            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS","Directus CMS"],
+            programming_languages: ["HTML", "CSS", "JavaScript", "Node.js", "Express", "EJS", "Directus CMS"],
             semester: 'semester2',
             img: '/img/semester2/bnr.png',
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/proof-of-concept',
-            live_url: 'https://proof-of-concept-bnr.vercel.app/',  cms:"Directus CMS",
-            agency:"BNR",
-            agency_github:"https://github.com/Yu-Jing-van-Gerwen/proof-of-concept/wiki/1%E2%80%90Analyseren",
+            live_url: 'https://proof-of-concept-bnr.vercel.app/', cms: "Directus CMS",
+            agency: "BNR",
+            agency_github: "https://github.com/Yu-Jing-van-Gerwen/proof-of-concept/wiki/1%E2%80%90Analyseren",
             sprint: "Sprint 12"
         },
 
@@ -241,8 +241,8 @@
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/your-tribe-profile-card',
             live_url: 'https://Yu-Jing-van-Gerwen.github.io/your-tribe-profile-card/',
             img: '/img/semester1/profile-card.png',
-            sprint:"Sprint 1",
-            agency:"Not applicable",
+            sprint: "Sprint 1",
+            agency: "Not applicable",
         },
         {
             title: "Your tribe squad page",
@@ -253,8 +253,8 @@
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/your-tribe-squad-page',
             live_url: 'https://Yu-Jing-van-Gerwen.github.io/your-tribe-squad-page/',
             img: '/img/semester1/squadpage.png',
-        sprint:"Sprint 1",
-            agency:"Not applicable",
+            sprint: "Sprint 1",
+            agency: "Not applicable",
         },
 
         {
@@ -266,11 +266,11 @@
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/the-client-website',
             live_url: 'https://Yu-Jing-van-Gerwen.github.io/the-client-website/',
             img: '/img/semester1/the-client.png',
-            agency:"Openbare bibliotheek van Amsterdam",
-            agency_github:"https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
+            agency: "Openbare bibliotheek van Amsterdam",
+            agency_github: "https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
             sprint: "Sprint 2"
 
-        },   {
+        }, {
             title: "all-human-accessible-website",
             period: "2023",
             year: "jaar 1",
@@ -279,8 +279,8 @@
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/all-human-accessible-website',
             live_url: 'https://Yu-Jing-van-Gerwen.github.io/all-human-accessible-website/',
             img: '/img/semester1/all-the.png',
-            agency:"Openbare bibliotheek van Amsterdam",
-            agency_github:"https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
+            agency: "Openbare bibliotheek van Amsterdam",
+            agency_github: "https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
             sprint: "Sprint 3"
         },
 
@@ -293,8 +293,8 @@
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/look-and-feel-corporate-identity',
             live_url: 'https://Yu-Jing-van-Gerwen.github.io/look-and-feel-corporate-identity/',
             img: '/img/semester1/look-and-feel.png',
-        agency:"Openbare bibliotheek van Amsterdam",
-            agency_github:"https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
+            agency: "Openbare bibliotheek van Amsterdam",
+            agency_github: "https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
             sprint: "Sprint 4"
         },
 
@@ -307,8 +307,8 @@
             img: '/img/semester1/fix-the-flow.png',
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/fix-the-flow-interactive-website',
             live_url: 'https://Yu-Jing-van-Gerwen.github.io/fix-the-flow-interactive-website/',
-            agency:"Openbare bibliotheek van Amsterdam",
-            agency_github:"https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
+            agency: "Openbare bibliotheek van Amsterdam",
+            agency_github: "https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
             sprint: "Sprint 5"
         },
         {
@@ -320,8 +320,8 @@
             semester: 'semester 1',
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/the-startup-responsive-interactieve-website',
             live_url: 'https://Yu-Jing-van-Gerwen.github.io/the-startup-responsive-interactieve-website/',
-            agency:"Openbare bibliotheek van Amsterdam",
-            agency_github:"https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
+            agency: "Openbare bibliotheek van Amsterdam",
+            agency_github: "https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
             sprint: "Sprint 6"
         },
 
@@ -358,7 +358,8 @@
     </p>
     <p class="summary-projects">
         <span> Lose your head</span>:
-        For this project, I chose De Voorhoede as the company. As part of a team, I developed the members page, while my teammates worked on the homepage and vacancy page. This project started in Sprint 14 and will end in Sprint 18
+        For this project, I chose De Voorhoede as the company. As part of a team, I developed the members page, while my
+        teammates worked on the homepage and vacancy page. This project started in Sprint 14 and will end in Sprint 18
     </p>
     <div class="grid-container">
         {#each uitgelichte_projecten as member}
@@ -378,12 +379,12 @@
                 <ul>
                     <li>
                         <div class="languages-list">
-                        {#each member.programming_languages as language}
-                            <p class="list-programming-languages">{language}</p>
-                        {/each}
+                            {#each member.programming_languages as language}
+                                <p class="list-programming-languages">{language}</p>
+                            {/each}
                         </div>
                     </li>
-                    </ul>
+                </ul>
                 <p>{member.sprint}</p>
                 <ul>
                     <li>
@@ -411,14 +412,12 @@
                 <article class="card-freeprojects">
                     <a href="{member.link_project}">
 
-                            <picture>
-                                <source srcset="{member.img}?format=avif" type="image/avif">
-                                <source srcset="{member.img}?format=webp" type="image/webp">
-                                <img src="{member.img}" alt="image of project {member.title}">
+                        <picture>
+                            <source srcset="{member.img}?format=avif" type="image/avif">
+                            <source srcset="{member.img}?format=webp" type="image/webp">
+                            <img src="{member.img}" alt="image of project {member.title}">
 
-                            </picture>
-
-
+                        </picture>
 
 
                     </a>
@@ -432,7 +431,7 @@
                                 <p class="list-programming-languages">{language}</p>
                             {/each}
                         </li>
-                        </ul>
+                    </ul>
                     <ul>
                         <li>
                             <a href="{member.live_url}" class="button-website">Live website</a>
@@ -454,7 +453,8 @@
     <section class="">
         <h2>School Projects 2024 September or Later</h2>
         <h3>Semester 3</h3>
-        <p>This year I'm in my graduation year and I'm working on learning Frameworks.   You can view all sprints in the School Assignments section.</p>
+        <p>This year I'm in my graduation year and I'm working on learning Frameworks. You can view all sprints in the
+            School Assignments section.</p>
 
         <p class="summary-projects">
             <span> Your tribe for life squad page</span>: This was a team project where I worked in branches and
@@ -469,11 +469,14 @@
         </p>
         <p class="summary-projects">
             <span> Lose your head</span>:
-            For this project, I chose De Voorhoede as the company. As part of a team, I developed the members page, while my teammates worked on the homepage and vacancy page. This project started in Sprint 14 and will end in Sprint 18
+            For this project, I chose De Voorhoede as the company. As part of a team, I developed the members page,
+            while my teammates worked on the homepage and vacancy page. This project started in Sprint 14 and will end
+            in Sprint 18
         </p>
         <p class="summary-projects">
             <span>Choices-choices-the-tech-stack</span>:
-            For this project, I chose The framework Eleventy to try out and the goal was to make a small part of the dda website and to figure out what the pros and cons are of this framework eleventy
+            For this project, I chose The framework Eleventy to try out and the goal was to make a small part of the dda
+            website and to figure out what the pros and cons are of this framework eleventy
             <a href="https://github.com/Yu-Jing-van-Gerwen/justify-your-tech-stack/wiki/User-eXperience">here
             </a>you can view my documentation about my tech stack research this is in dutch written
 
@@ -538,7 +541,8 @@
             is slow. I've tried deploying it on Vercel but encountered ongoing issues.</p>
         <p class="summary-projects">
             <span>Connect your tribe</span>:
-           I worked in a team to make a squadpage which shows all the names of our squad we needed to make this with node.js and EJS.
+            I worked in a team to make a squadpage which shows all the names of our squad we needed to make this with
+            node.js and EJS.
             My task was to make a searchfunction and a filter function
 
         </p>
@@ -643,23 +647,16 @@
 </section>
 
 <style>
-    /*div {*/
-    /*    border-bottom: 2px solid var(--purple);*/
-    /*    padding-bottom: 2rem;*/
-    /*}*/
-
     .grid-container {
         display: grid;
-        grid-row-gap: 1rem;
+        grid-row-gap: 4rem;
         grid-column-gap: 2rem;
         margin-top: 2rem;
         border-bottom: 2px solid var(--purple);
         padding-bottom: 2rem;
-
-
     }
 
-    .card,.card-freeprojects {
+    .card, .card-freeprojects {
         overflow: hidden;
         padding: 2rem;
         display: grid;
@@ -705,6 +702,8 @@
 
     img {
         object-fit: contain;
+
+        margin: 0 ;
     }
 
     .list-programming-languages {
@@ -719,35 +718,51 @@
         flex-wrap: wrap;
         gap: 0.5rem;
         margin: 0;
-        /*max-width: 350px; !* adjust as needed *!*/
     }
 
-    .note-render{
+    .note-render {
         color: red;
     }
 
 
     @media (max-width: 500px) {
-
         .card {
-
             grid-template-rows: 200px  2rem auto;
-
         }
 
         img {
-
             height: 12em;
             max-width: 100%;
         }
     }
 
+    @media (min-width: 500px) {
+        img {
+            max-width: 100%;
+            max-height: 15em;
+            width: auto;
+            height: auto;
+            object-fit: contain; /* or use cover for cropping */
+            display: block;
+        }
+
+    }
+
 
     @media (min-width: 500px) {
+      /*.grid-container{*/
+      /*    grid-template-columns: repeat(auto-fill, minmax(413px, 1fr));*/
+      /*}*/
+        .card{
+            max-width: 424px;
+        }
 
+    }
+
+
+    @media (min-width: 800px) {
         .grid-container {
-            grid-template-columns: repeat(auto-fill, minmax(376px, 1fr));
-
+            grid-template-columns: repeat(auto-fill, minmax(513px, 1fr));
         }
 
         .general-styling-section {
@@ -755,12 +770,10 @@
         }
 
         .card {
-
             grid-template-rows: 308px 4rem auto 3rem auto;
-
         }
 
-        .card-freeprojects{
+        .card-freeprojects {
             grid-template-rows: 308px 4rem auto auto;
         }
 
@@ -771,7 +784,6 @@
             height: auto;
             object-fit: contain; /* or use cover for cropping */
             display: block;
-            margin: 0 auto;
         }
 
 

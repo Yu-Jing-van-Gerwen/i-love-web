@@ -2,11 +2,7 @@
     import SocialMedia from '$lib/Socialmedia.svelte';
 </script>
 <div class="home-main">
-
-
     <article class="general-styling-section">
-
-
         <h1>Yu Jing van Gerwen</h1>
         <section class="more-over-me">
             <h2 class="about-me">About me</h2>
@@ -14,87 +10,84 @@
                 I am currently a student at the Amsterdam University of Applied Sciences.</p>
             <p>I am studying Frontend Design & Development and I would like to become a frontend developer.</p>
             <a href="https://www.linkedin.com/in/yu-jing-van-gerwen-a959431b7/">
-
-                <img class="profile-image"  src="img/profile-image/profielfoto.jpg" alt="profilefoto van mij"/>
+                <img alt="profilefoto van mij" class="profile-image" src="img/profile-image/profielfoto.jpg"/>
             </a>
-
         </section>
     </article>
-<article class="general-styling-section">
+    <article class="general-styling-section">
+        <SocialMedia/>
+        <p>Scan the qr code to see my Linkedin or github. </p>
+        <ul class="qr-code">
+            <li class="icons">
+                <a href="https://github.com/Yu-Jing-van-Gerwen">
+                    <picture>
+                        <img alt="GitHub" class="qr-images" src="/img/qr-code/github.png"/>
+                    </picture>
+                </a>
+            </li>
+            <li class="icons">
+                <a href="https://www.linkedin.com/in/yu-jing-van-gerwen-a959431b7/">
 
-
-    <SocialMedia/>
-    <p>Scan the qr code to see my Linkedin or github. </p>
-    <ul class="qr-code">
-        <li class="icons">
-            <a href="https://github.com/Yu-Jing-van-Gerwen">
-                <picture>
-                    <img class="qr-images" src="/img/qr-code/github.png" alt="GitHub" />
-                </picture>
-            </a>
-        </li>
-        <li class="icons">
-            <a href="https://www.linkedin.com/in/yu-jing-van-gerwen-a959431b7/">
-
-                <img class="qr-images"  src="/img/qr-code/linkedn.png" alt="linkedin"/>
-            </a>
-        </li>
-    </ul>
-</article>
-</div>
-<div class="portfolio-projects-background">
-<h2 class="title-projects">projects</h2>
-<div class="portfolio-projects">
-<!--    portfolio-cards-->
-<article class="portfolio-cards">
-    <h4 class="title-cards">Redesign van de dda website</h4>
-    <img src="img/semester3/dda.png" alt="all the things" class="project-images">
-    <ul class="buttons-ul-list">
-        <li><a href="" class="button-website">live website</a></li>
-        <li><a href="" class="button-website">code</a></li>
-    </ul>
-</article>
-    <article class="portfolio-cards">
-        <h4 class="title-cards">mijn profielkaartje</h4>
-<!--        todo deze foto van het profielkaartje moet opniew waarin je alleen het kaartje hebt-->
-        <img src="img/semester3/profielkaartje.png" alt="all the things" class="project-images">
-        <ul class="buttons-ul-list">
-            <li><a href="" class="button-website">live website</a></li>
-            <li><a href="" class="button-website">code</a></li>
+                    <img alt="linkedin" class="qr-images" src="/img/qr-code/linkedn.png"/>
+                </a>
+            </li>
         </ul>
     </article>
-    <article class="portfolio-cards">
-        <h4 class="title-cards">Squad page</h4>
-        <img src="img/semester3/squad.png" alt="all the things" class="project-images">
-        <ul class="buttons-ul-list">
-            <li><a href="" class="button-website">live website</a></li>
-            <li><a href="" class="button-website">code</a></li>
-        </ul>
-    </article>
-    <article class="portfolio-cards">
-        <h4 class="title-cards">Homepagina BNR</h4>
-        <img src="img/semester2/bnr.png" alt="all the things" class="project-images">
-        <ul class="buttons-ul-list">
-            <li><a href="" class="button-website">live website</a></li>
-            <li><a href="" class="button-website">code</a></li>
-        </ul>
-    </article>
-
-</div>
-    <article class="more-info-button">
+    <article class="general-styling-section">
         <h4 class="text-buttons">
             In my portfolio you can see all my projects and what I have done so far.
         </h4>
         <p class="item-button">
-            <a href="/Portfolio" class="moreinfo pulse">
+            <a class="moreinfo pulse" href="/Portfolio">
                 Portfolio
             </a></p>
     </article>
 </div>
+<div class="portfolio-projects-background">
+    <h2 class="title-projects">projects</h2>
+    <div class="portfolio-projects">
+        <!--    portfolio-cards-->
+        <article class="portfolio-cards">
+            <h4 class="title-cards">Redesign van de dda website</h4>
+            <img alt="all the things" class="project-images" src="img/semester3/dda.png">
+            <ul class="buttons-ul-list">
+                <li><a class="button-website" href="">live website</a></li>
+                <li><a class="button-website" href="">code</a></li>
+            </ul>
+        </article>
+        <article class="portfolio-cards">
+            <h4 class="title-cards">mijn profielkaartje</h4>
+            <!--        todo deze foto van het profielkaartje moet opniew waarin je alleen het kaartje hebt-->
+            <img alt="all the things" class="project-images" src="img/semester3/profielkaartje.png">
+            <ul class="buttons-ul-list">
+                <li><a class="button-website" href="">live website</a></li>
+                <li><a class="button-website" href="">code</a></li>
+            </ul>
+        </article>
+        <article class="portfolio-cards">
+            <h4 class="title-cards">Squad page</h4>
+            <img alt="all the things" class="project-images" src="img/semester3/squad.png">
+            <ul class="buttons-ul-list">
+                <li><a class="button-website" href="">live website</a></li>
+                <li><a class="button-website" href="">code</a></li>
+            </ul>
+        </article>
+        <article class="portfolio-cards">
+            <h4 class="title-cards">Homepagina BNR</h4>
+            <img alt="all the things" class="project-images" src="img/semester2/bnr.png">
+            <ul class="buttons-ul-list">
+                <li><a class="button-website" href="">live website</a></li>
+                <li><a class="button-website" href="">code</a></li>
+            </ul>
+        </article>
+
+    </div>
+
+</div>
 <style>
 
     @media (min-width: 800px) {
-        .home-main{
+        .home-main {
             display: grid;
             grid-template-columns: 1fr 1fr;
             /*background-color: #ed2d2d;*/
@@ -106,10 +99,12 @@
             grid-column-end: 3;
             grid-row: 1;
         }
+
         .general-styling-section:nth-child(2) {
             grid-column-start: 1;
             grid-row: 2;
         }
+
         .general-styling-section:nth-child(3) {
             grid-column-start: 2;
             grid-row: 2;
@@ -117,9 +112,10 @@
     }
 
     @media (min-width: 1000px) {
-        .home-main{
+        .home-main {
             max-width: 700px;
         }
+
         .general-styling-section:nth-child(2) {
             width: 400px;
         }
@@ -130,43 +126,34 @@
     }
 
     @media (min-width: 1200px) {
-        .home-main{
+        .home-main {
             max-width: 700px;
             margin-left: auto;
             margin-right: auto;
         }
     }
-    li{
+
+    li {
         font-size: 20px;
     }
-    .hide{
-        display: none;
-    }
 
-
-    h2{
-        /*border-bottom: solid 2px var(--purple);*/
-    }
-    .more-over-me{
+    .more-over-me {
         font-size: 20px;
 
     }
-    li{
+
+    li {
         list-style: none;
         margin: 0 auto;
         padding: 0;
     }
-    ul{
+
+    ul {
         padding: 0;
 
     }
-    .buttons{
-        display: grid;
-        grid-template-columns: 268px;
-        gap: 2em;
-    }
 
-    .qr-code{
+    .qr-code {
         display: grid;
         grid-template-rows: auto;
         grid-template-columns: 2em 8rem;
@@ -175,14 +162,13 @@
         margin-top: -1em;
     }
 
-    .qr-images{
+    .qr-images {
         width: 70px;
     }
 
-    .profile-image{
+    .profile-image {
         width: 100%;
     }
-
 
 
     .portfolio-cards {
@@ -215,18 +201,17 @@
         }
 
 
-
     }
 
 
-
-    .buttons-ul-list{
+    .buttons-ul-list {
         display: flex;
         justify-content: center;
         flex-direction: column;
         gap: 0.5rem;
         padding-bottom: 1rem;
     }
+
     .project-images {
         width: auto; /* Change from 100% to auto */
         max-width: 90%; /* Prevent overflow */
@@ -235,21 +220,12 @@
         margin-bottom: 2rem;
     }
 
-    .portfolio-projects{
+    .portfolio-projects {
         /*background-color: #ffffff;*/
         padding: 2rem;
     }
 
-    .more-info-button{
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
-        text-align: center;
-        align-items: center;
-        align-items: center;
-    }
-
-    .portfolio-projects-background{
+    .portfolio-projects-background {
         background-color: #ffffff;
     }
 
@@ -262,7 +238,7 @@
             margin-right: auto;
         }
 
-        .portfolio-projects{
+        .portfolio-projects {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             gap: 2rem;
@@ -273,35 +249,29 @@
         /*    width: 100%;*/
         /*}*/
     }
-    .title-projects{
+
+    .title-projects {
         text-align: center;
         font-size: 2em;
         margin-top: 2rem;
         margin-bottom: 1rem;
         padding-top: 2rem;
     }
-    .title-cards{
+
+    .title-cards {
         font-size: 2em;
         padding: 1rem;
     }
 
     @media (min-width: 1000px) {
-        .buttons{
-            display: grid;
-            /*grid-template-columns: 1fr 1fr 1fr;*/
-            grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
-            grid-template-rows: auto auto;
-            /*grid-template-columns: 20em 20em 20em;*/
-            row-gap: 2rem;
-            column-gap: 2rem;
-            /*justify-self: start;*/
-        }
-        .text-buttons{
+
+        .text-buttons {
             grid-row: 1;
             /*text-align: left;*/
 
         }
-        .item-button{
+
+        .item-button {
             grid-row: 2;
             justify-self: start;
             align-items: start;
@@ -324,16 +294,18 @@
         transition: all .35s;
         background-color: #76c54b5e;
         font-weight: normal;
-        width:130px;
+        width: 130px;
     }
-    .moreinfo:hover{
+
+    .moreinfo:hover {
         background-color: #00EFEF;
     }
 
-    .pulse{
+    .pulse {
         animation: pulse 2s infinite;
         box-shadow: 14px 13px 0 0;
     }
+
     @keyframes pulse {
         0% {
             transform: scale(0.95);

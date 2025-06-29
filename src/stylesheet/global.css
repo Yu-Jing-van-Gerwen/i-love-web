@@ -131,11 +131,13 @@ h2{
 .button-website:hover {
     background-color: #40783a;
     color: white;
+    box-shadow: none;
 }
 
 .button-schoolopdrachten:hover {
     background-color: #40783a;
     color: white;
+    box-shadow: none;
 }
 
 .button-schoolopdrachten {
