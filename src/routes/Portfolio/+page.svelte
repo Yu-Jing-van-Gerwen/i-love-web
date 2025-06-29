@@ -386,7 +386,7 @@
                     </li>
                 </ul>
                 <p>{member.sprint}</p>
-                <ul>
+                <ul class="buttons-ul-list">
                     <li>
                         <a href="{member.live_url}" class="button-website">Live website</a>
                     </li>
@@ -432,7 +432,7 @@
                             {/each}
                         </li>
                     </ul>
-                    <ul>
+                    <ul class="buttons-ul-list">
                         <li>
                             <a href="{member.live_url}" class="button-website">Live website</a>
                         </li>
@@ -511,7 +511,7 @@
                         </li>
                     </ul>
                     <p>{member.sprint}</p>
-                    <ul>
+                    <ul class="buttons-ul-list">
                         <li>
                             <a href="{member.live_url}" class="button-website">Live website</a>
                         </li>
@@ -574,7 +574,7 @@
                         </li>
                     </ul>
                     <p>{member.sprint}</p>
-                    <ul>
+                    <ul class="buttons-ul-list">
                         <li>
                             <a href="{member.live_url}" class="button-website">Live website</a>
                         </li>
@@ -626,7 +626,7 @@
                         </li>
                     </ul>
                     <p>{member.sprint}</p>
-                    <ul>
+                    <ul class="buttons-ul-list">
                         <li>
                             <a href="{member.live_url}" class="button-website">Live website</a>
                         </li>
@@ -713,11 +713,17 @@
         margin: 0;
     }
 
-    .languages-list {
+
+
+    .languages-list, .buttons-ul-list {
         display: flex;
         flex-wrap: wrap;
         gap: 0.5rem;
         margin: 0;
+    }
+
+    .buttons-ul-list{
+        gap: 2rem;
     }
 
     .note-render {
@@ -727,7 +733,7 @@
 
     @media (max-width: 500px) {
         .card {
-            grid-template-rows: 200px  2rem auto;
+            grid-template-rows: 200px  3rem auto;
         }
 
         img {
@@ -748,17 +754,11 @@
 
     }
 
-
     @media (min-width: 500px) {
-      /*.grid-container{*/
-      /*    grid-template-columns: repeat(auto-fill, minmax(413px, 1fr));*/
-      /*}*/
-        .card{
-            max-width: 424px;
+        .grid-container {
+            grid-template-columns: repeat(auto-fill, minmax(413px, 1fr));
         }
-
     }
-
 
     @media (min-width: 800px) {
         .grid-container {
