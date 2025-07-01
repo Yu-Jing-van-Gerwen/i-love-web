@@ -86,6 +86,27 @@
 </div>
 <style>
 
+    @keyframes reveal {
+        0% {
+            opacity: 0;
+            background-position: 0% 50%;
+        }
+        25% {
+            opacity: 20%;
+            background-position: 0% 50%;
+        }
+
+        50% {
+            opacity: 100%;
+            background-position: 50% 50%;
+        }
+    }
+
+    .portfolio-projects-background {
+        animation: reveal 1s linear both;
+        animation-timeline: view();
+    }
+
     @media (min-width: 800px) {
         .home-main {
             display: grid;

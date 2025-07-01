@@ -361,7 +361,7 @@
         For this project, I chose De Voorhoede as the company. As part of a team, I developed the members page, while my
         teammates worked on the homepage and vacancy page. This project started in Sprint 14 and will end in Sprint 18
     </p>
-    <div class="grid-container">
+    <div class="grid-container best-projects">
         {#each uitgelichte_projecten as member}
             <article class="card">
                 <a href="{member.link_project}">
@@ -647,6 +647,34 @@
 </section>
 
 <style>
+    @keyframes reveal {
+        0% {
+            opacity: 0;
+            /*background-position: 0% 50%;*/
+        }
+        25% {
+            opacity: 20%;
+            /*background-position: 0% 50%;*/
+        }
+
+        50% {
+            opacity: 100%;
+        }
+
+        75% {
+            opacity: 75%;
+        }
+
+        100% {
+            opacity: 50%;
+        }
+    }
+
+    .grid-container{
+        animation: reveal 1s linear both;
+        animation-timeline: view();
+    }
+
     .grid-container {
         display: grid;
         grid-row-gap: 4rem;
