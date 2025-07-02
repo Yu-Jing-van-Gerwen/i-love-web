@@ -7,9 +7,9 @@
         <section class="more-over-me">
             <h2 class="about-me">About me</h2>
             <p>
-                My name is Yu Jing van Gerwen and I graduated from the associate degree program in Frontend design & development at the HvA.</p>
-            <p>In my first year, I learned best practices in HTML, CSS, and JavaScript. I also gained experience with EJS, Node.js, Express, and Directus to initialize a connection to the Directus CMS database.
-                In my second year, I am currently learning frameworks, such as SvelteKit and Eleventy..</p>
+                My name is Yu Jing van Gerwen, and I graduated from the associate degree program in Frontend Design & Development at the HvA.</p>
+            <p>In my first year, I learned best practices in HTML, CSS, and JavaScript. I also gained experience with EJS, Node.js, Express, and Directus to initialize a connection to the Directus CMS database. In my second year, I've been learning frameworks such as SvelteKit and Eleventy.</p>
+            <p>After my internship, I'll be open for job opportunities, so if you'd like to know more about me, please take a look at my portfolio!</p>
             <a href="https://www.linkedin.com/in/yu-jing-van-gerwen-a959431b7/">
                 <img alt="profilefoto van mij" class="profile-image" src="img/profile-image/profielfoto.jpg"/>
             </a>
@@ -36,8 +36,8 @@
             <h4 class="title-cards">Redesign van de dda website</h4>
             <img alt="all the things" class="project-images" src="img/semester3/dda.png">
             <ul class="buttons-ul-list">
-                <li><a class="button-website" href="">live website</a></li>
-                <li><a class="button-website" href="">code</a></li>
+                <li><a class="button-website" href="https://dda.agency.fdnd.nl/">live website</a></li>
+                <li><a class="button-website" href="https://github.com/lisagjh/voorhoede">code</a></li>
             </ul>
         </article>
         <article class="portfolio-cards">
@@ -45,24 +45,24 @@
             <!--        todo deze foto van het profielkaartje moet opniew waarin je alleen het kaartje hebt-->
             <img alt="all the things" class="project-images" src="img/semester3/profielkaartje.png">
             <ul class="buttons-ul-list">
-                <li><a class="button-website" href="">live website</a></li>
-                <li><a class="button-website" href="">code</a></li>
+                <li><a class="button-website" href="https://your-tribe-for-life-profile-card-gold.vercel.app/">live website</a></li>
+                <li><a class="button-website" href="https://github.com/Yu-Jing-van-Gerwen/your-tribe-for-life-profile-card">code</a></li>
             </ul>
         </article>
         <article class="portfolio-cards">
             <h4 class="title-cards">Squad page</h4>
             <img alt="all the things" class="project-images" src="img/semester3/squad.png">
             <ul class="buttons-ul-list">
-                <li><a class="button-website" href="">live website</a></li>
-                <li><a class="button-website" href="">code</a></li>
+                <li><a class="button-website" href="https://your-tribe-for-life-squad-page-five.vercel.app/">live website</a></li>
+                <li><a class="button-website" href="https://github.com/KaanKalmi/your-tribe-for-life-squad-page">code</a></li>
             </ul>
         </article>
         <article class="portfolio-cards">
             <h4 class="title-cards">Homepagina BNR</h4>
             <img alt="all the things" class="project-images" src="img/semester2/bnr.png">
             <ul class="buttons-ul-list">
-                <li><a class="button-website" href="">live website</a></li>
-                <li><a class="button-website" href="">code</a></li>
+                <li><a class="button-website" href="https://proof-of-concept-bnr.vercel.app/">live website</a></li>
+                <li><a class="button-website" href="https://github.com/Yu-Jing-van-Gerwen/proof-of-concept">code</a></li>
             </ul>
         </article>
 

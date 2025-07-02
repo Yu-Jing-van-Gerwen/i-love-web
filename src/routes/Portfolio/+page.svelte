@@ -44,7 +44,7 @@
             semester: 'semester 3',
             link_project: 'https://github.com/lisagjh/voorhoede',
             img: '/img/semester3/dda.png',
-            live_url: 'https://dda-liard.vercel.app/members'
+            live_url: 'https://dda.agency.fdnd.nl/'
             ,
             agency: "De voorhoede",
             agency_github: "https://github.com/fdnd-agency/voorhoede",
@@ -110,7 +110,7 @@
             semester: 'semester 1',
             link_project: 'https://github.com/lisagjh/voorhoede',
             img: '/img/semester3/dda.png',
-            live_url: 'https://dda-liard.vercel.app/members',
+            live_url: 'https://dda.agency.fdnd.nl/',
             cms: "Directus CMS",
             agency: "De voorhoede",
             agency_github: "https://github.com/fdnd-agency/voorhoede",
