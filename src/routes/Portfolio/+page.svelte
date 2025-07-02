@@ -409,7 +409,7 @@
         <p>This are projects that i make in my free time.</p>
         <div class="grid-container">
             {#each freeprojects as member}
-                <article class="card-freeprojects">
+                <article class="card-freeprojects card">
                     <a href="{member.link_project}">
 
                         <picture>
@@ -529,7 +529,7 @@
         </div>
     </section>
 
-    <section class="">
+    <section class="animation-projects-part2">
         <h2>School Projects 2023 februari until juli </h2>
         <h3>Semester 2</h3>
         <p>This semester, I have learned about JavaScript, Node.js, and Express, and I've also worked with EJS.
@@ -548,7 +548,7 @@
         </p>
         <a class="button-schoolopdrachten" href="https://programma.fdnd.nl/data-driven-web">School assignments
             semester 2</a>
-        <div class="grid-container">
+        <div class="grid-container animation-projects-part2" >
             {#each projects_year1_semester2 as member}
 
                 <article class="card">
@@ -601,7 +601,7 @@
                 1</a>
         </p>
 
-        <div class="grid-container">
+        <div class="grid-container animation-projects-part2">
             {#each projects_year1_semester1 as member}
                 <article class="card">
                     <a href="{member.link_project}">
@@ -650,27 +650,68 @@
     @keyframes reveal {
         0% {
             opacity: 0;
-            /*background-position: 0% 50%;*/
-        }
-        25% {
-            opacity: 20%;
-            /*background-position: 0% 50%;*/
         }
 
-        50% {
+        10% {
+            opacity: 10%;
+        }
+
+        20% {
+            opacity: 20%;
+        }
+
+        30% {
+            opacity: 30%;
+        }
+
+        40% {
             opacity: 100%;
         }
 
-        75% {
-            opacity: 75%;
-        }
 
-        100% {
-            opacity: 50%;
-        }
     }
 
-    .grid-container{
+
+    @keyframes revealsemester2 {
+        0% {
+            opacity: 0;
+        }
+
+        10% {
+            opacity: 100%;
+        }
+
+        20% {
+            opacity: 100%;
+        }
+
+        25% {
+            opacity: 100%;
+        }
+
+        30% {
+            opacity: 100%;
+        }
+
+        35% {
+            opacity: 100%;
+        }
+
+
+    }
+
+    /*.animation-projects-part2{*/
+    /*    animation-timeline: view();*/
+    /*    animation: revealsemester2 3s linear both;*/
+
+    /*}*/
+    /*!*voor mesters 2 en 1 moet moet die anders waarin je eerder ziet dat de tekst zichtbaar is*!*/
+    /*.grid-container{*/
+    /*    animation: reveal 1s linear both;*/
+    /*    animation-timeline: view();*/
+    /*}*/
+
+    .card{
         animation: reveal 1s linear both;
         animation-timeline: view();
     }

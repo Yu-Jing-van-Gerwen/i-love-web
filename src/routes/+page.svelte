@@ -2,36 +2,21 @@
     import SocialMedia from '$lib/Socialmedia.svelte';
 </script>
 <div class="home-main">
-    <article class="general-styling-section">
+    <article class="general-styling-section intro">
         <h1>Yu Jing van Gerwen</h1>
         <section class="more-over-me">
             <h2 class="about-me">About me</h2>
             <p>
-                I am currently a student at the Amsterdam University of Applied Sciences.</p>
-            <p>I am studying Frontend Design & Development and I would like to become a frontend developer.</p>
+                My name is Yu Jing van Gerwen and I graduated from the associate degree program in Frontend design & development at the HvA.</p>
+            <p>In my first year, I learned best practices in HTML, CSS, and JavaScript. I also gained experience with EJS, Node.js, Express, and Directus to initialize a connection to the Directus CMS database.
+                In my second year, I am currently learning frameworks, such as SvelteKit and Eleventy..</p>
             <a href="https://www.linkedin.com/in/yu-jing-van-gerwen-a959431b7/">
                 <img alt="profilefoto van mij" class="profile-image" src="img/profile-image/profielfoto.jpg"/>
             </a>
         </section>
     </article>
-    <article class="general-styling-section">
+    <article class="general-styling-section intro">
         <SocialMedia/>
-        <p>Scan the qr code to see my Linkedin or github. </p>
-        <ul class="qr-code">
-            <li class="icons">
-                <a href="https://github.com/Yu-Jing-van-Gerwen">
-                    <picture>
-                        <img alt="GitHub" class="qr-images" src="/img/qr-code/github.png"/>
-                    </picture>
-                </a>
-            </li>
-            <li class="icons">
-                <a href="https://www.linkedin.com/in/yu-jing-van-gerwen-a959431b7/">
-
-                    <img alt="linkedin" class="qr-images" src="/img/qr-code/linkedn.png"/>
-                </a>
-            </li>
-        </ul>
     </article>
     <article class="general-styling-section">
         <h4 class="text-buttons">
@@ -89,20 +74,28 @@
     @keyframes reveal {
         0% {
             opacity: 0;
-            background-position: 0% 50%;
-        }
-        25% {
-            opacity: 20%;
-            background-position: 0% 50%;
         }
 
-        50% {
-            opacity: 100%;
-            background-position: 50% 50%;
+        10% {
+            opacity: 10%;
         }
+
+        20% {
+            opacity: 20%;
+        }
+
+        30% {
+            opacity: 30%;
+        }
+
+        40% {
+            opacity: 100%;
+        }
+
+
     }
 
-    .portfolio-projects-background {
+    .portfolio-cards, .intro {
         animation: reveal 1s linear both;
         animation-timeline: view();
     }
