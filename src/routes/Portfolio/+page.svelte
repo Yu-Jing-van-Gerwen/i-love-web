@@ -22,7 +22,7 @@
             live_url: 'https://your-tribe-for-life-squad-page-five.vercel.app/',
             agency_github: "Not applicable",
             agency: "Not applicable",
-            sprint: "Sprint 13"
+
         },
         {
             title: "Your tribe for life profile card",
@@ -35,7 +35,7 @@
             live_url: 'https://your-tribe-for-life-profile-card-gold.vercel.app/',
             agency_github: "Not applicable",
             agency: "Not applicable",
-            sprint: "Sprint 13"
+
         },
         {
             title: "Lose-your-head",
@@ -48,7 +48,7 @@
             ,
             agency: "De voorhoede",
             agency_github: "https://github.com/fdnd-agency/voorhoede",
-            sprint: "Sprint 14, 15, 16, 17, 18"
+
         },
 
 
@@ -87,7 +87,7 @@
             live_url: 'https://effortless-choux-a35df0.netlify.app/',
             cms: "Directus CMS",
             agency: "Not applicable",
-            sprint: "Sprint 13"
+
 
         },
         {
@@ -101,7 +101,6 @@
             live_url: 'https://your-tribe-for-life-profile-card-gold.vercel.app/',
             cms: "Directus CMS",
             agency: "Not applicable",
-            sprint: "Sprint 13"
         },
 
         {
@@ -114,7 +113,6 @@
             cms: "Directus CMS",
             agency: "De voorhoede",
             agency_github: "https://github.com/fdnd-agency/voorhoede",
-            sprint: "Sprint 14, 15, 16, 17, 18"
         },
 
 
@@ -129,7 +127,6 @@
             cms: "Directus CMS",
             agency: "De voorhoede",
             agency_github: "https://github.com/fdnd-agency/voorhoede",
-            sprint: "Sprint 15"
         },
 
     ];
@@ -144,7 +141,6 @@
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/connect-your-tribe-squad-page',
             live_url: 'https://connect-your-tribe-squad-page-axqp.onrender.com/',
             agency: "Not applicable",
-            sprint: "Sprint 7"
         },
         {
             title: "Connect your tribe profile card",
@@ -156,7 +152,6 @@
             live_url: 'https://connect-your-tribe-profile-card-6snt.onrender.com/',
             cms: "Directus CMS",
             agency: "Not applicable",
-            sprint: "Sprint 7"
         },
 
         {
@@ -171,7 +166,6 @@
             cms: "Directus CMS",
             agency: "Funda",
             agency_github: "https://github.com/fdnd-agency/funda",
-            sprint: "Sprint 8"
         },
         {
             title: "The web is for everyone",
@@ -185,7 +179,6 @@
             cms: "Directus CMS",
             agency: "Funda",
             agency_github: "https://github.com/fdnd-agency/funda",
-            sprint: "Sprint 9"
         },
         {
             title: "User experience",
@@ -198,7 +191,6 @@
             live_url: 'https://user-experience-enhanced-website-b0jz.onrender.com/', cms: "Directus CMS",
             agency: "Funda",
             agency_github: "https://github.com/fdnd-agency/funda",
-            sprint: "Sprint 10"
 
         },
         {
@@ -212,7 +204,6 @@
             live_url: 'https://pleasurable-ui.onrender.com/', cms: "Directus CMS",
             agency: "Funda",
             agency_github: "https://github.com/fdnd-agency/funda",
-            sprint: "Sprint 11"
         },
 
         {
@@ -226,7 +217,6 @@
             live_url: 'https://proof-of-concept-bnr.vercel.app/', cms: "Directus CMS",
             agency: "BNR",
             agency_github: "https://github.com/Yu-Jing-van-Gerwen/proof-of-concept/wiki/1%E2%80%90Analyseren",
-            sprint: "Sprint 12"
         },
 
 
@@ -241,7 +231,6 @@
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/your-tribe-profile-card',
             live_url: 'https://Yu-Jing-van-Gerwen.github.io/your-tribe-profile-card/',
             img: '/img/semester1/profile-card.png',
-            sprint: "Sprint 1",
             agency: "Not applicable",
         },
         {
@@ -253,7 +242,6 @@
             link_project: 'https://github.com/Yu-Jing-van-Gerwen/your-tribe-squad-page',
             live_url: 'https://Yu-Jing-van-Gerwen.github.io/your-tribe-squad-page/',
             img: '/img/semester1/squadpage.png',
-            sprint: "Sprint 1",
             agency: "Not applicable",
         },
 
@@ -268,7 +256,6 @@
             img: '/img/semester1/the-client.png',
             agency: "Openbare bibliotheek van Amsterdam",
             agency_github: "https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
-            sprint: "Sprint 2"
 
         }, {
             title: "all-human-accessible-website",
@@ -281,7 +268,6 @@
             img: '/img/semester1/all-the.png',
             agency: "Openbare bibliotheek van Amsterdam",
             agency_github: "https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
-            sprint: "Sprint 3"
         },
 
         {
@@ -295,7 +281,6 @@
             img: '/img/semester1/look-and-feel.png',
             agency: "Openbare bibliotheek van Amsterdam",
             agency_github: "https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
-            sprint: "Sprint 4"
         },
 
         {
@@ -309,7 +294,6 @@
             live_url: 'https://Yu-Jing-van-Gerwen.github.io/fix-the-flow-interactive-website/',
             agency: "Openbare bibliotheek van Amsterdam",
             agency_github: "https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
-            sprint: "Sprint 5"
         },
         {
             title: "The startup",
@@ -322,7 +306,6 @@
             live_url: 'https://Yu-Jing-van-Gerwen.github.io/the-startup-responsive-interactieve-website/',
             agency: "Openbare bibliotheek van Amsterdam",
             agency_github: "https://github.com/fdnd-agency/oba/blob/main/PROJECT_FAMILIEOVERZICHT_ABONNEMENTEN.md",
-            sprint: "Sprint 6"
         },
 
 
@@ -335,32 +318,9 @@
     <h1>Portfolio</h1>
     <p>
         Here you can see all my schoolwork, including my best projects. Click on the title to view the GitHub project.
-        There is also a short description about the project that I made
     </p>
 
     <h2>Best projects</h2>
-    <p class="summary-projects">
-
-        <span>proof of concept</span>: This was my final project of year 1 I made for BNR a playlist page where the user
-        can listen to music and read some articles. In this projects I have fetch data from the database
-        and show the data with Node.js and EJS.
-    </p>
-    <p class="summary-projects">
-        <span> Your tribe for life squad page</span>: This was a team project where I worked in branches and implemented
-        components to create a squad page displaying our class members names.
-        I retrieve data from the database and the framework that I used is SvelteKit
-
-    </p>
-    <p class="summary-projects">
-        <span> Your tribe for life profile card</span>: I made my profile card in SvelteKit and I made use of components
-        to use dry code
-
-    </p>
-    <p class="summary-projects">
-        <span> Lose your head</span>:
-        For this project, I chose De Voorhoede as the company. As part of a team, I developed the members page, while my
-        teammates worked on the homepage and vacancy page. This project started in Sprint 14 and will end in Sprint 18
-    </p>
     <div class="grid-container best-projects">
         {#each uitgelichte_projecten as member}
             <article class="card">
@@ -385,7 +345,6 @@
                         </div>
                     </li>
                 </ul>
-                <p>{member.sprint}</p>
                 <ul class="buttons-ul-list">
                     <li>
                         <a href="{member.live_url}" class="button-website">Live website</a>
@@ -451,41 +410,7 @@
 
     </section>
     <section class="">
-        <h2>School Projects 2024 September or Later</h2>
-        <h3>Semester 3</h3>
-        <p>This year I'm in my graduation year and I'm working on learning Frameworks. You can view all sprints in the
-            School Assignments section.</p>
-
-        <p class="summary-projects">
-            <span> Your tribe for life squad page</span>: This was a team project where I worked in branches and
-            implemented components to create a squad page displaying our class members names.
-            I retrieve data from the database and the framework that I used is SvelteKit
-
-        </p>
-        <p class="summary-projects">
-            <span> Your tribe for life profile card</span>: I made my profile card in SvelteKit and I made use of
-            components to use dry code
-
-        </p>
-        <p class="summary-projects">
-            <span> Lose your head</span>:
-            For this project, I chose De Voorhoede as the company. As part of a team, I developed the members page,
-            while my teammates worked on the homepage and vacancy page. This project started in Sprint 14 and will end
-            in Sprint 18
-        </p>
-        <p class="summary-projects">
-            <span>Choices-choices-the-tech-stack</span>:
-            For this project, I chose The framework Eleventy to try out and the goal was to make a small part of the dda
-            website and to figure out what the pros and cons are of this framework eleventy
-            <a href="https://github.com/Yu-Jing-van-Gerwen/justify-your-tech-stack/wiki/User-eXperience">here
-            </a>you can view my documentation about my tech stack research this is in dutch written
-
-        </p>
-
-        <a class="button-schoolopdrachten" href="https://programma.fdnd.nl/workflow-tooling-Frameworks"> School
-            Assignments for Semester 3</a>
-
-
+        <h2>Projects 2024 September or Later</h2>
         <div class="grid-container">
             {#each projects_year2_semester1 as member}
                 <article class="card">
@@ -510,7 +435,6 @@
                             </div>
                         </li>
                     </ul>
-                    <p>{member.sprint}</p>
                     <ul class="buttons-ul-list">
                         <li>
                             <a href="{member.live_url}" class="button-website">Live website</a>
@@ -530,24 +454,9 @@
     </section>
 
     <section class="animation-projects-part2">
-        <h2>School Projects 2023 februari until juli </h2>
-        <h3>Semester 2</h3>
-        <p>This semester, I have learned about JavaScript, Node.js, and Express, and I've also worked with EJS.
-            You can view all sprints in the School Assignments section.
-
-
-        </p>
+        <h2>Projects 2023 februari until july </h2>
         <p class="note-render">Please be aware that the live website hosted on <a href="https://render.com/">Render</a>
             is slow. I've tried deploying it on Vercel but encountered ongoing issues.</p>
-        <p class="summary-projects">
-            <span>Connect your tribe</span>:
-            I worked in a team to make a squadpage which shows all the names of our squad we needed to make this with
-            node.js and EJS.
-            My task was to make a searchfunction and a filter function
-
-        </p>
-        <a class="button-schoolopdrachten" href="https://programma.fdnd.nl/data-driven-web">School assignments
-            semester 2</a>
         <div class="grid-container animation-projects-part2" >
             {#each projects_year1_semester2 as member}
 
@@ -573,7 +482,6 @@
                             </div>
                         </li>
                     </ul>
-                    <p>{member.sprint}</p>
                     <ul class="buttons-ul-list">
                         <li>
                             <a href="{member.live_url}" class="button-website">Live website</a>
@@ -593,14 +501,7 @@
     </section>
 
     <section class="">
-        <h2>School Projects 2023 september until januari </h2>
-        <h3>Semester 1</h3>
-        <p>This year I started studying and I have learned the basics of HTML, CSS, and JavaScript.
-            You can view all sprints in the School Assignments section.
-            <a class="button-schoolopdrachten" href="https://programma.fdnd.nl/static-web">School assignments semester
-                1</a>
-        </p>
-
+        <h2>Projects 2023 september until januari </h2>
         <div class="grid-container animation-projects-part2">
             {#each projects_year1_semester1 as member}
                 <article class="card">
@@ -625,7 +526,6 @@
                             </div>
                         </li>
                     </ul>
-                    <p>{member.sprint}</p>
                     <ul class="buttons-ul-list">
                         <li>
                             <a href="{member.live_url}" class="button-website">Live website</a>
@@ -839,7 +739,7 @@
         }
 
         .card {
-            grid-template-rows: 308px 4rem auto 3rem auto;
+            grid-template-rows: 308px 4rem auto auto auto;
         }
 
         .card-freeprojects {

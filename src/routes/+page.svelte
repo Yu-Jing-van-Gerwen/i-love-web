@@ -8,8 +8,7 @@
             <h2 class="about-me">About me</h2>
             <p>
                 My name is Yu Jing van Gerwen, and I graduated from the associate degree program in Frontend Design & Development at the HvA.</p>
-            <p>In my first year, I learned best practices in HTML, CSS, and JavaScript. I also gained experience with EJS, Node.js, Express, and Directus to initialize a connection to the Directus CMS database. In my second year, I've been learning frameworks such as SvelteKit and Eleventy.</p>
-            <p>After my internship, I'll be open for job opportunities, so if you'd like to know more about me, please take a look at my portfolio!</p>
+           <p>At the moment, I'm looking for a job, so if you'd like to know more about me, please take a look at my portfolio and see all the projects I've made</p>
             <a href="https://www.linkedin.com/in/yu-jing-van-gerwen-a959431b7/">
                 <img alt="profilefoto van mij" class="profile-image" src="img/profile-image/profielfoto.jpg"/>
             </a>
